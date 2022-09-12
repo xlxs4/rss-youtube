@@ -4,8 +4,12 @@
 #########################
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  # IMPORANT: this template only supports youtube channel RSS. Other types of sources will result in undefined behavior.
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw
