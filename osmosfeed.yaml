@@ -7,9 +7,19 @@
 cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
 sources:
   # IMPORANT: this template only supports youtube channel RSS. Other types of sources will result in undefined behavior.
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw
+  # You can get the channel ID from https://commentpicker.com/youtube-channel-id.php
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCTpmmkp1E4nmZqWPS-dl5bg # Quanta Magazine
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ # Primer
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCK8XIGR5kRidIw2fWqwyHRA # Reducible
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw # 3blue1brown
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg # Mathemaniac
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCR4GZ9B3uhyLbYRdZEr7oKg # JuliaDynamics
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg # Alexander Gustafsson
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ # Nils Berglund
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw # Association for Mathematical Research
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q # Kurzgesagt
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw # Steve Brunton
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCtJPeNYnAXhB1-_h8xbIX_Q # Nemean
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg # Faculty of Khan
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ # Pioneer Works
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A # World Science Festival
