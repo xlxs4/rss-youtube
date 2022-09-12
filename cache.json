@@ -1,564 +1,804 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "Honeypot",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA",
+      "siteUrl": "https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=372952",
-          "author": "Temani Afif",
-          "description": "I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …\nHow I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/",
-          "publishedOn": "2022-09-09T13:21:29.000Z",
-          "wordCount": 3431,
-          "title": "How I Made a Pure CSS Puzzle Game",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372952"
+          "id": "https://www.youtube.com/watch?v=ADKuGSg3oEo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ADKuGSg3oEo",
+          "publishedOn": "2022-09-08T14:00:03.000Z",
+          "wordCount": null,
+          "title": "A Day with a Barcelona Developer | DevCities (From photographer to dev, importance of communities)",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=372979",
-          "author": "Ollie Williams",
-          "description": "Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…\nrequestSubmit()\nSafari 16 will be the final browser to add support for requestSubmit.\nBefore we …\nWhat’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-new-with-forms-in-2022/",
-          "publishedOn": "2022-09-08T13:12:51.000Z",
-          "wordCount": 1661,
-          "title": "What’s New With Forms in 2022?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372979"
+          "id": "https://www.youtube.com/watch?v=_GDpoiPkdsw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_GDpoiPkdsw",
+          "publishedOn": "2022-08-25T14:07:39.000Z",
+          "wordCount": null,
+          "title": "GitHub CEO talks about Copilot, available to developers since June ‘22. What do you think? #tech",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=372968",
-          "author": "Saleh Mubashar",
-          "description": "As the name suggests, overlapping charts visualize two different sets of data in a single diagram. The idea is that the overlapping bars allow us to compare data, say, year-over-year. They are also useful for things like tracking progress for …\nOverlapping Bar Charts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/overlapping-bar-charts/",
-          "publishedOn": "2022-09-07T13:46:58.000Z",
-          "wordCount": 2285,
-          "title": "Overlapping Bar Charts",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372968"
+          "id": "https://www.youtube.com/watch?v=bbda-9ZgiIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bbda-9ZgiIY",
+          "publishedOn": "2022-08-10T15:09:46.000Z",
+          "wordCount": null,
+          "title": "A Day with a Zürich Developer | DevCities (Work-life, Startups, and Life in Nature)",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=372850",
-          "author": "Lu Wang",
-          "description": "CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.\nInspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …\nHacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/hacking-css-animation-state-and-playback-time/",
-          "publishedOn": "2022-09-06T18:00:28.000Z",
-          "wordCount": 2412,
-          "title": "Hacking CSS Animation State and Playback Time",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372850"
+          "id": "https://www.youtube.com/watch?v=uR-f4b0G9lo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uR-f4b0G9lo",
+          "publishedOn": "2022-07-28T13:00:09.000Z",
+          "wordCount": null,
+          "title": "How To Pronounce JSON by Douglas Crockford 💅",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=372853",
-          "author": "Obumuneme Nwabude",
-          "description": "I started as a front-end web developer and then became a Flutter developer. I think there were some concepts that helped me adopt Flutter easier. There were also some new concepts that were different.\nIn this article, I want to …\nFlutter For Front-End Web Developers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/flutter-for-front-end-web-developers/",
-          "publishedOn": "2022-09-05T20:10:24.000Z",
-          "wordCount": 2316,
-          "title": "Flutter For Front-End Web Developers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372853"
+          "id": "https://www.youtube.com/watch?v=TZfDWiwlRlE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TZfDWiwlRlE",
+          "publishedOn": "2022-07-14T13:59:57.000Z",
+          "wordCount": null,
+          "title": "The Creator of CSS Reacts to Creative Coding 🎨",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=373126",
-          "author": "Haley Mills",
-          "description": "Those of you who have been reading CSS-Tricks for a while may remember that we used to publish a little thing we called CSS-Tricks Chronicles. Our friend Chris Coyier would write up a reflection from the past couple of …\nBehind the CSScenes, September 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/behind-the-csscenes-sept2022/",
-          "publishedOn": "2022-09-01T20:06:56.000Z",
-          "wordCount": 2448,
-          "title": "Behind the CSScenes, September 2022",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373126"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372855",
-          "author": "Ilknur Eren",
-          "description": "A screen reader is an important accessibility tool for people with no or limited vision. People who are blind or those with low vision can use a screen reader to navigate the computer. Screen readers will read contents on the …\nA Brief Introduction to JAWS, NVDA, and VoiceOver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/comparing-jaws-nvda-and-voiceover/",
-          "publishedOn": "2022-09-01T17:47:16.000Z",
-          "wordCount": 3904,
-          "title": "A Brief Introduction to JAWS, NVDA, and VoiceOver",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372855"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373087",
-          "author": "Geoff Graham",
-          "description": "Ahmad Shadeed got an early jump on container queries and has a growing collection of examples based on everyday patterns.\nAnd, if you missed it, his latest post on container queries does a wonderful job covering how they work since …\niShadeed’s Container Queries Lab originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/ishadeeds-container-queries-lab/",
-          "publishedOn": "2022-09-01T14:29:27.000Z",
-          "wordCount": 849,
-          "title": "iShadeed’s Container Queries Lab",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373087"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372839",
-          "author": "Geoff Graham",
-          "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(var(--scale));\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/interpolating-numeric-css-variables/",
-          "publishedOn": "2022-08-30T13:17:25.000Z",
-          "wordCount": 1877,
-          "title": "Interpolating Numeric CSS Variables",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372839"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372634",
-          "author": "Preethi Selvam",
-          "description": "Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …\nUsing Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/",
-          "publishedOn": "2022-08-26T13:44:49.000Z",
-          "wordCount": 4232,
-          "title": "Using Grid Named Areas to Visualize (and Reference) Your Layout",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372634"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372616",
-          "author": "Geoff Graham",
-          "description": "Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …\nNot Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/not-sure-how-to-wordpress-anymore/",
-          "publishedOn": "2022-08-25T14:34:06.000Z",
-          "wordCount": 3550,
-          "title": "Not Sure How to WordPress Anymore?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372616"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372576",
-          "author": "Ollie Williams",
-          "description": "If a utility class only does one thing, chances are you don’t want it to be overridden by any styles coming from elsewhere. One approach is to use !important to be 100% certain the style will be applied, regardless of …\nUsing CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/",
-          "publishedOn": "2022-08-24T13:11:47.000Z",
-          "wordCount": 1808,
-          "title": "Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372576"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372485",
-          "author": "Bradley Kouchi",
-          "description": "The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …\nRemoving jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/removing-jquery-from-gov-uk/",
-          "publishedOn": "2022-08-23T13:04:31.000Z",
-          "wordCount": 1286,
-          "title": "Removing jQuery from GOV.UK",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372485"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372396",
-          "author": "Temani Afif",
-          "description": "Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.\nHere’s just one of the fantastic grids we made together:\nCodePen…\nCSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-2/",
-          "publishedOn": "2022-08-22T14:08:39.000Z",
-          "wordCount": 4751,
-          "title": "CSS Grid and Custom Shapes, Part 2",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372396"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372539",
-          "author": "Geoff Graham",
-          "description": "That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.\nThe answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …\nWhen Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/when-do-you-use-css-columns/",
-          "publishedOn": "2022-08-18T13:24:48.000Z",
-          "wordCount": 1614,
-          "title": "When Do You Use CSS Columns?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372539"
+          "id": "https://www.youtube.com/watch?v=AfsZwBrCMlE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AfsZwBrCMlE",
+          "publishedOn": "2022-06-23T14:01:24.000Z",
+          "wordCount": null,
+          "title": "How to Go From 0% to Employed Developer with Anna McDougall",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "Computerphile",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+      "siteUrl": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2022/09/formula-roi-design-system/",
-          "author": "hello@smashingmagazine.com (Maximilian Speicher & Guido Baena Wehrmann)",
-          "description": "Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.",
-          "link": "https://smashingmagazine.com/2022/09/formula-roi-design-system/",
-          "publishedOn": "2022-09-09T08:30:00.000Z",
-          "wordCount": 5345,
-          "title": "One Formula To Rule Them All: The ROI Of A Design System",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee3c9ea-d8c4-494f-bcb1-ed3530dafbab/formula-roi-design-system.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee3c9ea-d8c4-494f-bcb1-ed3530dafbab/formula-roi-design-system.jpg"
+          "id": "https://www.youtube.com/watch?v=PZBm7M0HGzw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PZBm7M0HGzw",
+          "publishedOn": "2022-09-07T13:58:14.000Z",
+          "wordCount": null,
+          "title": "Knowledge Graphs - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.",
-          "link": "https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/",
-          "publishedOn": "2022-09-08T13:00:00.000Z",
-          "wordCount": 3336,
-          "title": "UX Checklists For Interface Designers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6588f0b2-af1a-4e0a-adb9-45dd2feaffa1/checklist-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6588f0b2-af1a-4e0a-adb9-45dd2feaffa1/checklist-design.jpg"
+          "id": "https://www.youtube.com/watch?v=-XU54IsG8Vo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-XU54IsG8Vo",
+          "publishedOn": "2022-08-31T12:37:13.000Z",
+          "wordCount": null,
+          "title": "SLAM Robot Mapping - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
-          "author": "hello@smashingmagazine.com (Andrew Somers)",
-          "description": "In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.",
-          "link": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
-          "publishedOn": "2022-09-06T19:00:00.000Z",
-          "wordCount": 7456,
-          "title": "The Realities And Myths Of Contrast And Color",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg"
+          "id": "https://www.youtube.com/watch?v=GNyQxXw_oMQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GNyQxXw_oMQ",
+          "publishedOn": "2022-08-16T16:08:29.000Z",
+          "wordCount": null,
+          "title": "Coffee with Brian Kernighan - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.",
-          "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
-          "publishedOn": "2022-09-06T10:00:00.000Z",
-          "wordCount": 10059,
-          "title": "Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png"
+          "id": "https://www.youtube.com/watch?v=prYaTrZUces",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=prYaTrZUces",
+          "publishedOn": "2022-08-09T18:12:34.000Z",
+          "wordCount": null,
+          "title": "Automated Mathematical Proofs - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.",
-          "link": "https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/",
-          "publishedOn": "2022-09-05T14:00:00.000Z",
-          "wordCount": 3267,
-          "title": "Meet Understanding Privacy, A New Smashing Book By Heather Burns",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cff889cf-602a-4685-a43c-e313647cac56/understanding-privacy.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cff889cf-602a-4685-a43c-e313647cac56/understanding-privacy.png"
+          "id": "https://www.youtube.com/watch?v=h8LTEFNLZ6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h8LTEFNLZ6M",
+          "publishedOn": "2022-08-02T14:00:19.000Z",
+          "wordCount": null,
+          "title": "Scratch? Python? C? Kernighan on Languages for Kids Coding - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
-          "author": "hello@smashingmagazine.com (Mike Herchel)",
-          "description": "In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.",
-          "link": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
-          "publishedOn": "2022-09-02T10:30:00.000Z",
-          "wordCount": 3979,
-          "title": "The Accessibility And Usability Journey Of Drupal’s Primary Navigation",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg"
+          "id": "https://www.youtube.com/watch?v=gGIiechWEFs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gGIiechWEFs",
+          "publishedOn": "2022-07-27T14:07:09.000Z",
+          "wordCount": null,
+          "title": "Tricking AI Image Recognition - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
-          "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
-          "publishedOn": "2022-09-01T11:00:00.000Z",
-          "wordCount": 4127,
-          "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg"
+          "id": "https://www.youtube.com/watch?v=6eP7_iDJk4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6eP7_iDJk4k",
+          "publishedOn": "2022-07-21T14:27:35.000Z",
+          "wordCount": null,
+          "title": "Computing with Soft Robots - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.",
-          "link": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
-          "publishedOn": "2022-09-01T08:00:00.000Z",
-          "wordCount": 4291,
-          "title": "Useful JavaScript Data Grid Libraries",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg"
+          "id": "https://www.youtube.com/watch?v=ONloZfZEbUE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ONloZfZEbUE",
+          "publishedOn": "2022-07-18T11:44:22.000Z",
+          "wordCount": null,
+          "title": "LaMDA Logic - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
-          "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
-          "publishedOn": "2022-08-31T08:45:00.000Z",
-          "wordCount": 4579,
-          "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png"
+          "id": "https://www.youtube.com/watch?v=9tZmSFjoOm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9tZmSFjoOm4",
+          "publishedOn": "2022-07-08T13:53:06.000Z",
+          "wordCount": null,
+          "title": "Reverse Engineering - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
-          "author": "hello@smashingmagazine.com (Shane Hudson)",
-          "description": "Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.",
-          "link": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
-          "publishedOn": "2022-08-30T09:00:00.000Z",
-          "wordCount": 4517,
-          "title": "How To Improve And Measure Your Progress Learning Web Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
-          "author": "hello@smashingmagazine.com (Eduard Kuric)",
-          "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
-          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
-          "publishedOn": "2022-08-29T14:00:00.000Z",
-          "wordCount": 6045,
-          "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
-          "link": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
-          "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 5904,
-          "title": "Designing Better Error Messages UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/",
-          "author": "hello@smashingmagazine.com (Doug Sillars)",
-          "description": "If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.",
-          "link": "https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/",
-          "publishedOn": "2022-08-25T08:00:00.000Z",
-          "wordCount": 3484,
-          "title": "Better Video Streaming With imgix",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/746fe02f-c535-4bb9-bb61-f30467af2a58/better-video-streaming-with-imgix.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/746fe02f-c535-4bb9-bb61-f30467af2a58/better-video-streaming-with-imgix.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.",
-          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
-          "publishedOn": "2022-08-23T12:00:00.000Z",
-          "wordCount": 10151,
-          "title": "Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
-          "author": "hello@smashingmagazine.com (Eduard Kuric)",
-          "description": "In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.",
-          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
-          "publishedOn": "2022-08-22T09:30:00.000Z",
-          "wordCount": 5999,
-          "title": "What Makes A Great Toggle Button? (Case Study, Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
-          "author": "hello@smashingmagazine.com (Caleb Olojo)",
-          "description": "Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.",
-          "link": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
-          "publishedOn": "2022-08-19T10:00:00.000Z",
-          "wordCount": 5192,
-          "title": "Implementing A Reset Password Feature With Next.js Dynamic Routes",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
-          "author": "hello@smashingmagazine.com (Evyatar Alush)",
-          "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
-          "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
-          "publishedOn": "2022-08-18T09:00:00.000Z",
-          "wordCount": 4636,
-          "title": "An Introduction To Context Propagation In JavaScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
-          "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
-          "publishedOn": "2022-08-16T09:00:00.000Z",
-          "wordCount": 4374,
-          "title": "Designing A Better Back Button UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
-          "author": "hello@smashingmagazine.com (Christine Vallaure)",
-          "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
-          "link": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
-          "publishedOn": "2022-08-15T11:30:00.000Z",
-          "wordCount": 6098,
-          "title": "Everything Developers Must Know About Figma",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg"
+          "id": "https://www.youtube.com/watch?v=iBouACLc-hw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iBouACLc-hw",
+          "publishedOn": "2022-06-17T21:11:25.000Z",
+          "wordCount": null,
+          "title": "No, it's not Sentient - Computerphile",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news/",
+      "title": "DistroTube",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+      "siteUrl": "https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg",
       "articles": [
         {
-          "id": "https://www.freecodecamp.org/news/new-online-courses/",
-          "author": "Dhawal Shah",
-          "description": "If you haven’t heard, universities around the world are offering their courses online for free (or at least, partially free). These courses are collectively called MOOCs or Massive Open Online Courses. [https://www.classcentral.com/help/moocs] In the past ten years, ~1000 universities have created around tens of thousands of MOOCs. I’ve been keeping",
-          "link": "https://www.freecodecamp.org/news/new-online-courses/",
-          "publishedOn": "2022-09-10T10:33:00.000Z",
-          "wordCount": 9117,
-          "title": "200 Universities Just Launched 850+ Free Online Courses. Here’s the Full List.",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/08/banner-new-courses.png"
+          "id": "https://www.youtube.com/watch?v=Wtnm7VFXWzI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Wtnm7VFXWzI",
+          "publishedOn": "2022-09-10T12:58:30.000Z",
+          "wordCount": null,
+          "title": "This Tool Converts Arch Linux Packages To AppImage",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/intro-to-deno/",
-          "author": "Brian Barrow",
-          "description": "What is Deno? Deno is a new JavaScript runtime. It was built by Ryan Dahl, the creator of Node.js.  Dahl had a few things that he regretted doing with Node and wanted to build a runtime that could solve those issues. Deno, like Node, is built on the V8",
-          "link": "https://www.freecodecamp.org/news/intro-to-deno/",
-          "publishedOn": "2022-09-09T22:50:17.000Z",
-          "wordCount": 1603,
-          "title": "Intro to Deno – Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screen-Shot-2022-09-07-at-4.09.00-PM.png"
+          "id": "https://www.youtube.com/watch?v=DEQMDh544q4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DEQMDh544q4",
+          "publishedOn": "2022-09-08T12:56:53.000Z",
+          "wordCount": null,
+          "title": "\"Hey, DT! Will Linux Die Without Linus Torvalds?\" (And Other Questions)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/",
-          "author": "Kolade Chris",
-          "description": "Git branches let you add new features without tampering with the live version of your projects. And if you work in a team, different developers might have unique branches they work on. In the long run, you'll have to push those independent branches to a remote server. For example, GitHub,",
-          "link": "https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/",
-          "publishedOn": "2022-09-09T20:36:25.000Z",
-          "wordCount": 1210,
-          "title": "Git Push Local Branch to Remote – How to Publish a New Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/code-5290465_1920.jpg"
+          "id": "https://www.youtube.com/watch?v=XUCLnXIFnjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XUCLnXIFnjc",
+          "publishedOn": "2022-09-06T17:00:17.000Z",
+          "wordCount": null,
+          "title": "XMonad Can Force Your Terminal To Swallow",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/",
-          "author": "Dillion Megida",
-          "description": "In this article, I'll explain how you can install NVM, or Node Version Manager, on Windows, Linux, and Mac. What is NVM? Node Version Manager (NVM), as the name implies, is a tool for managing Node versions on your device. Different projects on your device may be using different versions",
-          "link": "https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/",
-          "publishedOn": "2022-09-09T18:23:56.000Z",
-          "wordCount": 1473,
-          "title": "Node Version Manager – nvm Install Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/install-nvm.png"
+          "id": "https://www.youtube.com/watch?v=eQ_3L702n7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eQ_3L702n7w",
+          "publishedOn": "2022-09-05T12:56:39.000Z",
+          "wordCount": null,
+          "title": "Learn the Basics of the Dired File Manager (Doom Emacs)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/",
-          "author": "Shachee Swadia",
-          "description": "Data visualization is a vast field with so many different types of charts [https://datavizcatalogue.com/] to learn and create.  But there are several basic, evergreen graphs that every data designer and web developer dealing with analytics should know how to build.  One of them is a Line Chart (or",
-          "link": "https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/",
-          "publishedOn": "2022-09-08T19:58:03.000Z",
-          "wordCount": 3011,
-          "title": "Line Charts Tutorial – How to Create a Line Graph in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/line-chart.png"
+          "id": "https://www.youtube.com/watch?v=JbfKFRhn7uM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JbfKFRhn7uM",
+          "publishedOn": "2022-09-03T21:46:26.000Z",
+          "wordCount": null,
+          "title": "YouTube Burnout Is Real (And How To Prevent It!)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-split-a-string-in-python/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn how to split a string in Python. Firstly, I'll introduce you to the syntax of the .split() method. After that, you will see how to use the .split() method with and without arguments, using code examples along the way. Here is what we will",
-          "link": "https://www.freecodecamp.org/news/how-to-split-a-string-in-python/",
-          "publishedOn": "2022-09-08T17:22:47.000Z",
-          "wordCount": 1680,
-          "title": "Python .split() – Splitting a String in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-lukas-952354.jpg"
+          "id": "https://www.youtube.com/watch?v=xkdTMIp3PTg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xkdTMIp3PTg",
+          "publishedOn": "2022-09-02T12:58:06.000Z",
+          "wordCount": null,
+          "title": "Install Third Party DEB Packages With 'deb get' (Reduces Need For Snaps!)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/machine-learning-pipeline/",
-          "author": "Yannawut Kimnaruk",
-          "description": "When you're working on a machine learning project, the most tedious steps are often data cleaning and preprocessing. Especially when you're working in a Jupyter Notebook, running code in many cells can be confusing. The Scikit-learn library has tools called Pipeline and ColumnTransformer that can really make your life easier.",
-          "link": "https://www.freecodecamp.org/news/machine-learning-pipeline/",
-          "publishedOn": "2022-09-08T16:31:20.000Z",
-          "wordCount": 3777,
-          "title": "How to Improve Machine Learning Code Quality with Scikit-learn Pipeline and ColumnTransformer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Python-Power-BI-1.png"
+          "id": "https://www.youtube.com/watch?v=fPO60RVGtOw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fPO60RVGtOw",
+          "publishedOn": "2022-08-31T17:00:21.000Z",
+          "wordCount": null,
+          "title": "Odysee Is Still The Best YouTube Alternative (And It's Getting Better!)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/",
-          "author": "Victor Yakubu",
-          "description": "The modern browser has given us a number of options when it comes to storing data on the client-side. Aside from storing data, browser databases allow us to retrieve that data.  Based on your application's needs, you can choose from the different browser storage options out there to enhance",
-          "link": "https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/",
-          "publishedOn": "2022-09-08T16:23:00.000Z",
-          "wordCount": 2820,
-          "title": "How to Use IndexedDB – Database Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Colorful-Minimalist-Shapes-Internal-Pitch-Deck-Talking-Presentation-1.png"
+          "id": "https://www.youtube.com/watch?v=KarYADRAoTU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KarYADRAoTU",
+          "publishedOn": "2022-08-30T12:57:13.000Z",
+          "wordCount": null,
+          "title": "How Linux Respects Your Privacy (And How Windows Does NOT!)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/",
-          "author": "Haseeb Ahmed",
-          "description": "I recently switched to VS Code for development of a dockerized .NET core app. But I then realized that there weren't many up-to-date articles about debugging dockerized .NET core applications in VS Code. Source: GIPHYSo, here I am, writing this article. I hope that it'll help others like myself in",
-          "link": "https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/",
-          "publishedOn": "2022-09-08T15:34:10.000Z",
-          "wordCount": 1862,
-          "title": "How to Debug Dockerized .NET Core Apps in VS Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/debug_dockerized_dotnet_core_apps-1.png"
+          "id": "https://www.youtube.com/watch?v=Z_gRUuUTRRA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z_gRUuUTRRA",
+          "publishedOn": "2022-08-28T17:17:59.000Z",
+          "wordCount": null,
+          "title": "Chat With Patrons (Aug 28, 2022)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/",
-          "author": "Benny Ifeanyi Iheagwara",
-          "description": "Spreadsheets aren't merely for arranging data into rows and columns. Most of the time, you use them for data analysis as well.  Microsoft Excel is one of the most widely used spreadsheet applications, especially in finance and accounting. This is partly because of its easy UI and unmatched depth",
-          "link": "https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/",
-          "publishedOn": "2022-09-08T15:17:10.000Z",
-          "wordCount": 3283,
-          "title": "Microsoft Excel Tutorial – How to Create Formulas and Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Green-Orange-and-Brown-Collage-Math-Quiz-Presentation.png"
+          "id": "https://www.youtube.com/watch?v=TBEDeY6tx7c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TBEDeY6tx7c",
+          "publishedOn": "2022-08-27T12:58:39.000Z",
+          "wordCount": null,
+          "title": "An Installation And First Look At Mabox Linux 22.08",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1DF58wDDfBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1DF58wDDfBE",
+          "publishedOn": "2022-08-25T12:56:28.000Z",
+          "wordCount": null,
+          "title": "Xdotool Simulates Key Presses and Mouse Clicks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8GN9D-OnG-A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8GN9D-OnG-A",
+          "publishedOn": "2022-08-23T12:55:41.000Z",
+          "wordCount": null,
+          "title": "Fish Shell Tips and Tricks (Can Your Shell Do This?)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p5FU5m_THGU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p5FU5m_THGU",
+          "publishedOn": "2022-08-21T13:50:57.000Z",
+          "wordCount": null,
+          "title": "Manjaro and EndeavourOS are like Ding Dongs and Zingers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EpLF8GacgiA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EpLF8GacgiA",
+          "publishedOn": "2022-08-20T12:58:15.000Z",
+          "wordCount": null,
+          "title": "Sparky Linux Is Debian With Non-GNOME Desktops",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MB7QYyz-hc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MB7QYyz-hc0",
+          "publishedOn": "2022-08-18T12:57:36.000Z",
+          "wordCount": null,
+          "title": "Cool Retro Term Is A Blast From The Past",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Traversy Media",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA",
+      "siteUrl": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MusIvEKjqsc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MusIvEKjqsc",
+          "publishedOn": "2022-09-08T13:30:07.000Z",
+          "wordCount": null,
+          "title": "3 Alternatives for Heroku's Free Tier - Full Stack & API Hosting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Oi9z5gfIHJs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Oi9z5gfIHJs",
+          "publishedOn": "2022-08-29T14:28:44.000Z",
+          "wordCount": null,
+          "title": "Astro Crash Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=b_4ZchFAYRs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b_4ZchFAYRs",
+          "publishedOn": "2022-08-25T13:07:07.000Z",
+          "wordCount": null,
+          "title": "Do You Need To Learn Data Structures & Algorithms As A Developer?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qNiUlml9MDk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qNiUlml9MDk",
+          "publishedOn": "2022-08-16T13:17:27.000Z",
+          "wordCount": null,
+          "title": "Create A Simple JavaScript App to Generate QR Codes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=clwpf3VwCZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=clwpf3VwCZQ",
+          "publishedOn": "2022-08-11T14:00:30.000Z",
+          "wordCount": null,
+          "title": "Build A Digital Resume & Host For Free",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wryPX7KSwSc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wryPX7KSwSc",
+          "publishedOn": "2022-08-09T13:00:01.000Z",
+          "wordCount": null,
+          "title": "SpaceX Website Clone - HTML, CSS & JavaScript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MMxbP8ME2Ag",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MMxbP8ME2Ag",
+          "publishedOn": "2022-08-01T13:35:01.000Z",
+          "wordCount": null,
+          "title": "Carbon Lang First Look & Crash Course | Google's C++ Successor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HtunPQtr-Xw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HtunPQtr-Xw",
+          "publishedOn": "2022-07-27T13:27:54.000Z",
+          "wordCount": null,
+          "title": "5 HTML, CSS & JS Mini Projects - Scroll Animation, Rotating Navigation, Drag Events, etc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=t3w7OCDbmnc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t3w7OCDbmnc",
+          "publishedOn": "2022-07-19T13:30:21.000Z",
+          "wordCount": null,
+          "title": "Improve The Developer Hiring Process",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oc6faXVc54E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oc6faXVc54E",
+          "publishedOn": "2022-07-12T15:39:48.000Z",
+          "wordCount": null,
+          "title": "JavaScript Under The Hood [5] - JavaScript Engine Overview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Hci9Bb4_fkA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Hci9Bb4_fkA",
+          "publishedOn": "2022-07-12T15:29:46.000Z",
+          "wordCount": null,
+          "title": "JavaScript Under The Hood [4] - Memory Storage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=28AXSTCpsyU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=28AXSTCpsyU",
+          "publishedOn": "2022-07-07T13:00:02.000Z",
+          "wordCount": null,
+          "title": "JavaScript Under The Hood [3} - Asynchronous JavaScript, Task Queue & Event Loop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Fd9VaW0M7K4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fd9VaW0M7K4",
+          "publishedOn": "2022-06-30T15:13:30.000Z",
+          "wordCount": null,
+          "title": "JavaScript Under The Hood [2] - Execution Context",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-G9c4CMMUKc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-G9c4CMMUKc",
+          "publishedOn": "2022-06-30T15:01:38.000Z",
+          "wordCount": null,
+          "title": "JavaScript Under The Hood [1] - Thread & Call Stack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7aRjGIhwyQM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7aRjGIhwyQM",
+          "publishedOn": "2022-06-20T13:00:37.000Z",
+          "wordCount": null,
+          "title": "Linux Server Setup & MERN Deployment",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Linus Tech Tips",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zcchDu7KoYs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zcchDu7KoYs",
+          "publishedOn": "2022-09-11T17:02:59.000Z",
+          "wordCount": null,
+          "title": "You Want This.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XbA6S0kdu2o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XbA6S0kdu2o",
+          "publishedOn": "2022-09-10T16:58:33.000Z",
+          "wordCount": null,
+          "title": "I DESPERATELY Wanted to Love This...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1ctXiZsN6ac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1ctXiZsN6ac",
+          "publishedOn": "2022-09-10T03:46:49.000Z",
+          "wordCount": null,
+          "title": "The Reviewer Got Reviewed  - WAN Show September 9, 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CY3OQh-7wIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CY3OQh-7wIk",
+          "publishedOn": "2022-09-08T23:21:46.000Z",
+          "wordCount": null,
+          "title": "The Computer I Would Actually BUY",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vh-jmvepDwA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vh-jmvepDwA",
+          "publishedOn": "2022-09-08T06:27:52.000Z",
+          "wordCount": null,
+          "title": "Get an iPhone 14 or literally die.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qim2Y6v_4EI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qim2Y6v_4EI",
+          "publishedOn": "2022-09-08T05:00:12.000Z",
+          "wordCount": null,
+          "title": "No Thermal Paste? No Problem! #SHORTS #pcgaming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zy2a47e-Qao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zy2a47e-Qao",
+          "publishedOn": "2022-09-06T17:00:06.000Z",
+          "wordCount": null,
+          "title": "The Only Computer I Need",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HCXQzLbDrgs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HCXQzLbDrgs",
+          "publishedOn": "2022-09-05T17:00:47.000Z",
+          "wordCount": null,
+          "title": "Why do I have 80 Staff?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=t03rmc-prJo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t03rmc-prJo",
+          "publishedOn": "2022-09-04T17:00:26.000Z",
+          "wordCount": null,
+          "title": "This PC took 600 HOURS to Build!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9XozhdsYHDc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9XozhdsYHDc",
+          "publishedOn": "2022-09-03T17:01:49.000Z",
+          "wordCount": null,
+          "title": "How I Keep My House In Order",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EUu0bnDNC-A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EUu0bnDNC-A",
+          "publishedOn": "2022-09-03T03:32:11.000Z",
+          "wordCount": null,
+          "title": "I've never been so angry...  - WAN Show September 2, 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1CX8xXwYTl4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1CX8xXwYTl4",
+          "publishedOn": "2022-09-02T17:01:26.000Z",
+          "wordCount": null,
+          "title": "Justify Your Existence. I'll Wait.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NypT2CZdeiI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NypT2CZdeiI",
+          "publishedOn": "2022-09-01T17:31:20.000Z",
+          "wordCount": null,
+          "title": "I didn’t break this but I REALLY want to",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2K5Gqp1cEcM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2K5Gqp1cEcM",
+          "publishedOn": "2022-08-31T17:19:22.000Z",
+          "wordCount": null,
+          "title": "Why our Screwdriver took 3 YEARS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=c0hv8h2a4Tk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c0hv8h2a4Tk",
+          "publishedOn": "2022-08-30T15:23:14.000Z",
+          "wordCount": null,
+          "title": "Ryzen 7000 is NOT what I Expected!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Google Chrome Developers",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw",
+      "siteUrl": "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=K-T3Zz6qv7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K-T3Zz6qv7w",
+          "publishedOn": "2022-09-07T23:00:15.000Z",
+          "wordCount": null,
+          "title": "What are Chrome flags?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=no1YV6xgIv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=no1YV6xgIv8",
+          "publishedOn": "2022-09-07T17:03:19.000Z",
+          "wordCount": null,
+          "title": "CSS background-attachment #Shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=teSgavrweWI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=teSgavrweWI",
+          "publishedOn": "2022-08-31T17:03:19.000Z",
+          "wordCount": null,
+          "title": "What are Chrome Variations?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qwdN1fJA_d8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qwdN1fJA_d8",
+          "publishedOn": "2022-08-30T19:01:25.000Z",
+          "wordCount": null,
+          "title": "New in Chrome 105: Container Queries, :has, the Sanitizer API, and more!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LLRig4s1_yA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LLRig4s1_yA",
+          "publishedOn": "2022-08-30T15:06:10.000Z",
+          "wordCount": null,
+          "title": "Magic tricks with the HTML parser | HTTP 203",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bHw_56RiVsg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bHw_56RiVsg",
+          "publishedOn": "2022-08-25T23:00:13.000Z",
+          "wordCount": null,
+          "title": "Chrome 105 - What’s New in DevTools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hdRDTj6ObiE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hdRDTj6ObiE",
+          "publishedOn": "2022-08-25T17:00:21.000Z",
+          "wordCount": null,
+          "title": "How to speed up your workflow with Console shortcuts | DevTools Tips",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=71jpjr7syc4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=71jpjr7syc4",
+          "publishedOn": "2022-08-24T17:00:03.000Z",
+          "wordCount": null,
+          "title": "Thinking on ways to solve CAFE WALL ILLUSION",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=v_gI8wcsPUA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v_gI8wcsPUA",
+          "publishedOn": "2022-08-17T20:00:23.000Z",
+          "wordCount": null,
+          "title": "What are Chrome's origin trials?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lVLzkleL_CE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lVLzkleL_CE",
+          "publishedOn": "2022-08-11T17:07:45.000Z",
+          "wordCount": null,
+          "title": "How to inspect animations | DevTools Tips",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oe_n0OHMz6o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oe_n0OHMz6o",
+          "publishedOn": "2022-08-10T17:00:38.000Z",
+          "wordCount": null,
+          "title": "Explode a node #Shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WL1guL5n9PU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WL1guL5n9PU",
+          "publishedOn": "2022-08-03T17:34:58.000Z",
+          "wordCount": null,
+          "title": "What are Chrome release channels?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GIt-g0nkt8w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GIt-g0nkt8w",
+          "publishedOn": "2022-08-02T17:00:21.000Z",
+          "wordCount": null,
+          "title": "New in Chrome 104: Region Capture, Media Queries, Shared Element Transitions, and more!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=76U0gtuV9AY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=76U0gtuV9AY",
+          "publishedOn": "2022-07-28T23:00:02.000Z",
+          "wordCount": null,
+          "title": "How to log messages in the Console | DevTools Tips",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4RXWfw7Xg_Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4RXWfw7Xg_Y",
+          "publishedOn": "2022-07-28T17:08:37.000Z",
+          "wordCount": null,
+          "title": "Chrome 104 - What’s New in DevTools",
+          "imageUrl": null
         }
       ]
     }

@@ -1,480 +1,692 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T11:50:27.901Z</id>
+    <id>urn:2022-09-12T11:57:24.900Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-12T11:50:27.901Z</updated>
+    <updated>2022-09-12T11:57:24.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[200 Universities Just Launched 850+ Free Online Courses. Here’s the Full List.]]></title>
-        <id>https://www.freecodecamp.org/news/new-online-courses/</id>
-        <link href="https://www.freecodecamp.org/news/new-online-courses/"/>
-        <updated>2022-09-10T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[If you haven’t heard, universities around the world are offering their courses online for free (or at least, partially free). These courses are collectively called MOOCs or Massive Open Online Courses. [https://www.classcentral.com/help/moocs] In the past ten years, ~1000 universities have created around tens of thousands of MOOCs. I’ve been keeping]]></summary>
+        <title type="html"><![CDATA[You Want This.]]></title>
+        <id>https://www.youtube.com/watch?v=zcchDu7KoYs</id>
+        <link href="https://www.youtube.com/watch?v=zcchDu7KoYs"/>
+        <updated>2022-09-11T17:02:59.000Z</updated>
         <author>
-            <name>Dhawal Shah</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intro to Deno – Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/intro-to-deno/</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-deno/"/>
-        <updated>2022-09-09T22:50:17.000Z</updated>
-        <summary type="html"><![CDATA[What is Deno? Deno is a new JavaScript runtime. It was built by Ryan Dahl, the creator of Node.js.  Dahl had a few things that he regretted doing with Node and wanted to build a runtime that could solve those issues. Deno, like Node, is built on the V8]]></summary>
+        <title type="html"><![CDATA[I DESPERATELY Wanted to Love This...]]></title>
+        <id>https://www.youtube.com/watch?v=XbA6S0kdu2o</id>
+        <link href="https://www.youtube.com/watch?v=XbA6S0kdu2o"/>
+        <updated>2022-09-10T16:58:33.000Z</updated>
         <author>
-            <name>Brian Barrow</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git Push Local Branch to Remote – How to Publish a New Branch in Git]]></title>
-        <id>https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/"/>
-        <updated>2022-09-09T20:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Git branches let you add new features without tampering with the live version of your projects. And if you work in a team, different developers might have unique branches they work on. In the long run, you'll have to push those independent branches to a remote server. For example, GitHub,]]></summary>
+        <title type="html"><![CDATA[This Tool Converts Arch Linux Packages To AppImage]]></title>
+        <id>https://www.youtube.com/watch?v=Wtnm7VFXWzI</id>
+        <link href="https://www.youtube.com/watch?v=Wtnm7VFXWzI"/>
+        <updated>2022-09-10T12:58:30.000Z</updated>
         <author>
-            <name>Kolade Chris</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node Version Manager – nvm Install Guide]]></title>
-        <id>https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/</id>
-        <link href="https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/"/>
-        <updated>2022-09-09T18:23:56.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll explain how you can install NVM, or Node Version Manager, on Windows, Linux, and Mac. What is NVM? Node Version Manager (NVM), as the name implies, is a tool for managing Node versions on your device. Different projects on your device may be using different versions]]></summary>
+        <title type="html"><![CDATA[The Reviewer Got Reviewed  - WAN Show September 9, 2022]]></title>
+        <id>https://www.youtube.com/watch?v=1ctXiZsN6ac</id>
+        <link href="https://www.youtube.com/watch?v=1ctXiZsN6ac"/>
+        <updated>2022-09-10T03:46:49.000Z</updated>
         <author>
-            <name>Dillion Megida</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made a Pure CSS Puzzle Game]]></title>
-        <id>https://css-tricks.com/?p=372952</id>
-        <link href="https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/"/>
-        <updated>2022-09-09T13:21:29.000Z</updated>
-        <summary type="html"><![CDATA[I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …
-How I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[The Computer I Would Actually BUY]]></title>
+        <id>https://www.youtube.com/watch?v=CY3OQh-7wIk</id>
+        <link href="https://www.youtube.com/watch?v=CY3OQh-7wIk"/>
+        <updated>2022-09-08T23:21:46.000Z</updated>
         <author>
-            <name>Temani Afif</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Formula To Rule Them All: The ROI Of A Design System]]></title>
-        <id>https://smashingmagazine.com/2022/09/formula-roi-design-system/</id>
-        <link href="https://smashingmagazine.com/2022/09/formula-roi-design-system/"/>
-        <updated>2022-09-09T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.]]></summary>
+        <title type="html"><![CDATA[A Day with a Barcelona Developer | DevCities (From photographer to dev, importance of communities)]]></title>
+        <id>https://www.youtube.com/watch?v=ADKuGSg3oEo</id>
+        <link href="https://www.youtube.com/watch?v=ADKuGSg3oEo"/>
+        <updated>2022-09-08T14:00:03.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Maximilian Speicher &amp; Guido Baena Wehrmann)</name>
+            <name>Honeypot</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Line Charts Tutorial – How to Create a Line Graph in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/"/>
-        <updated>2022-09-08T19:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Data visualization is a vast field with so many different types of charts [https://datavizcatalogue.com/] to learn and create.  But there are several basic, evergreen graphs that every data designer and web developer dealing with analytics should know how to build.  One of them is a Line Chart (or]]></summary>
+        <title type="html"><![CDATA[3 Alternatives for Heroku's Free Tier - Full Stack & API Hosting]]></title>
+        <id>https://www.youtube.com/watch?v=MusIvEKjqsc</id>
+        <link href="https://www.youtube.com/watch?v=MusIvEKjqsc"/>
+        <updated>2022-09-08T13:30:07.000Z</updated>
         <author>
-            <name>Shachee Swadia</name>
+            <name>Traversy Media</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python .split() – Splitting a String in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-split-a-string-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-split-a-string-in-python/"/>
-        <updated>2022-09-08T17:22:47.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to split a string in Python. Firstly, I'll introduce you to the syntax of the .split() method. After that, you will see how to use the .split() method with and without arguments, using code examples along the way. Here is what we will]]></summary>
+        <title type="html"><![CDATA["Hey, DT! Will Linux Die Without Linus Torvalds?" (And Other Questions)]]></title>
+        <id>https://www.youtube.com/watch?v=DEQMDh544q4</id>
+        <link href="https://www.youtube.com/watch?v=DEQMDh544q4"/>
+        <updated>2022-09-08T12:56:53.000Z</updated>
         <author>
-            <name>Dionysia Lemonaki</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Improve Machine Learning Code Quality with Scikit-learn Pipeline and ColumnTransformer]]></title>
-        <id>https://www.freecodecamp.org/news/machine-learning-pipeline/</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-pipeline/"/>
-        <updated>2022-09-08T16:31:20.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on a machine learning project, the most tedious steps are often data cleaning and preprocessing. Especially when you're working in a Jupyter Notebook, running code in many cells can be confusing. The Scikit-learn library has tools called Pipeline and ColumnTransformer that can really make your life easier.]]></summary>
+        <title type="html"><![CDATA[Get an iPhone 14 or literally die.]]></title>
+        <id>https://www.youtube.com/watch?v=vh-jmvepDwA</id>
+        <link href="https://www.youtube.com/watch?v=vh-jmvepDwA"/>
+        <updated>2022-09-08T06:27:52.000Z</updated>
         <author>
-            <name>Yannawut Kimnaruk</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use IndexedDB – Database Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/"/>
-        <updated>2022-09-08T16:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The modern browser has given us a number of options when it comes to storing data on the client-side. Aside from storing data, browser databases allow us to retrieve that data.  Based on your application's needs, you can choose from the different browser storage options out there to enhance]]></summary>
+        <title type="html"><![CDATA[No Thermal Paste? No Problem! #SHORTS #pcgaming]]></title>
+        <id>https://www.youtube.com/watch?v=qim2Y6v_4EI</id>
+        <link href="https://www.youtube.com/watch?v=qim2Y6v_4EI"/>
+        <updated>2022-09-08T05:00:12.000Z</updated>
         <author>
-            <name>Victor Yakubu</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Debug Dockerized .NET Core Apps in VS Code]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/"/>
-        <updated>2022-09-08T15:34:10.000Z</updated>
-        <summary type="html"><![CDATA[I recently switched to VS Code for development of a dockerized .NET core app. But I then realized that there weren't many up-to-date articles about debugging dockerized .NET core applications in VS Code. Source: GIPHYSo, here I am, writing this article. I hope that it'll help others like myself in]]></summary>
+        <title type="html"><![CDATA[What are Chrome flags?]]></title>
+        <id>https://www.youtube.com/watch?v=K-T3Zz6qv7w</id>
+        <link href="https://www.youtube.com/watch?v=K-T3Zz6qv7w"/>
+        <updated>2022-09-07T23:00:15.000Z</updated>
         <author>
-            <name>Haseeb Ahmed</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Excel Tutorial – How to Create Formulas and Functions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/"/>
-        <updated>2022-09-08T15:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets aren't merely for arranging data into rows and columns. Most of the time, you use them for data analysis as well.  Microsoft Excel is one of the most widely used spreadsheet applications, especially in finance and accounting. This is partly because of its easy UI and unmatched depth]]></summary>
+        <title type="html"><![CDATA[CSS background-attachment #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=no1YV6xgIv8</id>
+        <link href="https://www.youtube.com/watch?v=no1YV6xgIv8"/>
+        <updated>2022-09-07T17:03:19.000Z</updated>
         <author>
-            <name>Benny Ifeanyi Iheagwara</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s New With Forms in 2022?]]></title>
-        <id>https://css-tricks.com/?p=372979</id>
-        <link href="https://css-tricks.com/whats-new-with-forms-in-2022/"/>
-        <updated>2022-09-08T13:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…
-requestSubmit()
-Safari 16 will be the final browser to add support for requestSubmit.
-Before we …
-What’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Knowledge Graphs - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=PZBm7M0HGzw</id>
+        <link href="https://www.youtube.com/watch?v=PZBm7M0HGzw"/>
+        <updated>2022-09-07T13:58:14.000Z</updated>
         <author>
-            <name>Ollie Williams</name>
+            <name>Computerphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UX Checklists For Interface Designers]]></title>
-        <id>https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/</id>
-        <link href="https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/"/>
-        <updated>2022-09-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.]]></summary>
+        <title type="html"><![CDATA[XMonad Can Force Your Terminal To Swallow]]></title>
+        <id>https://www.youtube.com/watch?v=XUCLnXIFnjc</id>
+        <link href="https://www.youtube.com/watch?v=XUCLnXIFnjc"/>
+        <updated>2022-09-06T17:00:17.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overlapping Bar Charts]]></title>
-        <id>https://css-tricks.com/?p=372968</id>
-        <link href="https://css-tricks.com/overlapping-bar-charts/"/>
-        <updated>2022-09-07T13:46:58.000Z</updated>
-        <summary type="html"><![CDATA[As the name suggests, overlapping charts visualize two different sets of data in a single diagram. The idea is that the overlapping bars allow us to compare data, say, year-over-year. They are also useful for things like tracking progress for …
-Overlapping Bar Charts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[The Only Computer I Need]]></title>
+        <id>https://www.youtube.com/watch?v=zy2a47e-Qao</id>
+        <link href="https://www.youtube.com/watch?v=zy2a47e-Qao"/>
+        <updated>2022-09-06T17:00:06.000Z</updated>
         <author>
-            <name>Saleh Mubashar</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Realities And Myths Of Contrast And Color]]></title>
-        <id>https://smashingmagazine.com/2022/09/realities-myths-contrast-color/</id>
-        <link href="https://smashingmagazine.com/2022/09/realities-myths-contrast-color/"/>
-        <updated>2022-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
+        <title type="html"><![CDATA[Why do I have 80 Staff?]]></title>
+        <id>https://www.youtube.com/watch?v=HCXQzLbDrgs</id>
+        <link href="https://www.youtube.com/watch?v=HCXQzLbDrgs"/>
+        <updated>2022-09-05T17:00:47.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Andrew Somers)</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hacking CSS Animation State and Playback Time]]></title>
-        <id>https://css-tricks.com/?p=372850</id>
-        <link href="https://css-tricks.com/hacking-css-animation-state-and-playback-time/"/>
-        <updated>2022-09-06T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.
-Inspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …
-Hacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Learn the Basics of the Dired File Manager (Doom Emacs)]]></title>
+        <id>https://www.youtube.com/watch?v=eQ_3L702n7w</id>
+        <link href="https://www.youtube.com/watch?v=eQ_3L702n7w"/>
+        <updated>2022-09-05T12:56:39.000Z</updated>
         <author>
-            <name>Lu Wang</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?]]></title>
-        <id>https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/</id>
-        <link href="https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/"/>
-        <updated>2022-09-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.]]></summary>
+        <title type="html"><![CDATA[This PC took 600 HOURS to Build!]]></title>
+        <id>https://www.youtube.com/watch?v=t03rmc-prJo</id>
+        <link href="https://www.youtube.com/watch?v=t03rmc-prJo"/>
+        <updated>2022-09-04T17:00:26.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flutter For Front-End Web Developers]]></title>
-        <id>https://css-tricks.com/?p=372853</id>
-        <link href="https://css-tricks.com/flutter-for-front-end-web-developers/"/>
-        <updated>2022-09-05T20:10:24.000Z</updated>
-        <summary type="html"><![CDATA[I started as a front-end web developer and then became a Flutter developer. I think there were some concepts that helped me adopt Flutter easier. There were also some new concepts that were different.
-In this article, I want to …
-Flutter For Front-End Web Developers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[YouTube Burnout Is Real (And How To Prevent It!)]]></title>
+        <id>https://www.youtube.com/watch?v=JbfKFRhn7uM</id>
+        <link href="https://www.youtube.com/watch?v=JbfKFRhn7uM"/>
+        <updated>2022-09-03T21:46:26.000Z</updated>
         <author>
-            <name>Obumuneme Nwabude</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Understanding Privacy, A New Smashing Book By Heather Burns]]></title>
-        <id>https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/"/>
-        <updated>2022-09-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.]]></summary>
+        <title type="html"><![CDATA[How I Keep My House In Order]]></title>
+        <id>https://www.youtube.com/watch?v=9XozhdsYHDc</id>
+        <link href="https://www.youtube.com/watch?v=9XozhdsYHDc"/>
+        <updated>2022-09-03T17:01:49.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Accessibility And Usability Journey Of Drupal’s Primary Navigation]]></title>
-        <id>https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/</id>
-        <link href="https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/"/>
-        <updated>2022-09-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.]]></summary>
+        <title type="html"><![CDATA[I've never been so angry...  - WAN Show September 2, 2022]]></title>
+        <id>https://www.youtube.com/watch?v=EUu0bnDNC-A</id>
+        <link href="https://www.youtube.com/watch?v=EUu0bnDNC-A"/>
+        <updated>2022-09-03T03:32:11.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Mike Herchel)</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, September 2022]]></title>
-        <id>https://css-tricks.com/?p=373126</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-sept2022/"/>
-        <updated>2022-09-01T20:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Those of you who have been reading CSS-Tricks for a while may remember that we used to publish a little thing we called CSS-Tricks Chronicles. Our friend Chris Coyier would write up a reflection from the past couple of …
-Behind the CSScenes, September 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Justify Your Existence. I'll Wait.]]></title>
+        <id>https://www.youtube.com/watch?v=1CX8xXwYTl4</id>
+        <link href="https://www.youtube.com/watch?v=1CX8xXwYTl4"/>
+        <updated>2022-09-02T17:01:26.000Z</updated>
         <author>
-            <name>Haley Mills</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Brief Introduction to JAWS, NVDA, and VoiceOver]]></title>
-        <id>https://css-tricks.com/?p=372855</id>
-        <link href="https://css-tricks.com/comparing-jaws-nvda-and-voiceover/"/>
-        <updated>2022-09-01T17:47:16.000Z</updated>
-        <summary type="html"><![CDATA[A screen reader is an important accessibility tool for people with no or limited vision. People who are blind or those with low vision can use a screen reader to navigate the computer. Screen readers will read contents on the …
-A Brief Introduction to JAWS, NVDA, and VoiceOver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Install Third Party DEB Packages With 'deb get' (Reduces Need For Snaps!)]]></title>
+        <id>https://www.youtube.com/watch?v=xkdTMIp3PTg</id>
+        <link href="https://www.youtube.com/watch?v=xkdTMIp3PTg"/>
+        <updated>2022-09-02T12:58:06.000Z</updated>
         <author>
-            <name>Ilknur Eren</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iShadeed’s Container Queries Lab]]></title>
-        <id>https://css-tricks.com/?p=373087</id>
-        <link href="https://css-tricks.com/ishadeeds-container-queries-lab/"/>
-        <updated>2022-09-01T14:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed got an early jump on container queries and has a growing collection of examples based on everyday patterns.
-And, if you missed it, his latest post on container queries does a wonderful job covering how they work since …
-iShadeed’s Container Queries Lab originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[I didn’t break this but I REALLY want to]]></title>
+        <id>https://www.youtube.com/watch?v=NypT2CZdeiI</id>
+        <link href="https://www.youtube.com/watch?v=NypT2CZdeiI"/>
+        <updated>2022-09-01T17:31:20.000Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Databases For Front-End Developers: The Concepts Under The Hood (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/</id>
-        <link href="https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/"/>
-        <updated>2022-09-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.]]></summary>
+        <title type="html"><![CDATA[Why our Screwdriver took 3 YEARS]]></title>
+        <id>https://www.youtube.com/watch?v=2K5Gqp1cEcM</id>
+        <link href="https://www.youtube.com/watch?v=2K5Gqp1cEcM"/>
+        <updated>2022-08-31T17:19:22.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useful JavaScript Data Grid Libraries]]></title>
-        <id>https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/</id>
-        <link href="https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/"/>
-        <updated>2022-09-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.]]></summary>
+        <title type="html"><![CDATA[What are Chrome Variations?]]></title>
+        <id>https://www.youtube.com/watch?v=teSgavrweWI</id>
+        <link href="https://www.youtube.com/watch?v=teSgavrweWI"/>
+        <updated>2022-08-31T17:03:19.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finding The Balance (September 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/</id>
-        <link href="https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/"/>
-        <updated>2022-08-31T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!]]></summary>
+        <title type="html"><![CDATA[Odysee Is Still The Best YouTube Alternative (And It's Getting Better!)]]></title>
+        <id>https://www.youtube.com/watch?v=fPO60RVGtOw</id>
+        <link href="https://www.youtube.com/watch?v=fPO60RVGtOw"/>
+        <updated>2022-08-31T17:00:21.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interpolating Numeric CSS Variables]]></title>
-        <id>https://css-tricks.com/?p=372839</id>
-        <link href="https://css-tricks.com/interpolating-numeric-css-variables/"/>
-        <updated>2022-08-30T13:17:25.000Z</updated>
-        <summary type="html"><![CDATA[We can make variables in CSS pretty easily:
-:root {
-  --scale: 1;
-}
-And we can declare them on any element:
-.thing {
-  transform: scale(var(--scale));
-}
-Even better for an example like this is applying the variable on a user …
-Interpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[SLAM Robot Mapping - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=-XU54IsG8Vo</id>
+        <link href="https://www.youtube.com/watch?v=-XU54IsG8Vo"/>
+        <updated>2022-08-31T12:37:13.000Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Computerphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Improve And Measure Your Progress Learning Web Design]]></title>
-        <id>https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/"/>
-        <updated>2022-08-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.]]></summary>
+        <title type="html"><![CDATA[New in Chrome 105: Container Queries, :has, the Sanitizer API, and more!]]></title>
+        <id>https://www.youtube.com/watch?v=qwdN1fJA_d8</id>
+        <link href="https://www.youtube.com/watch?v=qwdN1fJA_d8"/>
+        <updated>2022-08-30T19:01:25.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Shane Hudson)</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/</id>
-        <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/"/>
-        <updated>2022-08-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.]]></summary>
+        <title type="html"><![CDATA[Ryzen 7000 is NOT what I Expected!]]></title>
+        <id>https://www.youtube.com/watch?v=c0hv8h2a4Tk</id>
+        <link href="https://www.youtube.com/watch?v=c0hv8h2a4Tk"/>
+        <updated>2022-08-30T15:23:14.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Grid Named Areas to Visualize (and Reference) Your Layout]]></title>
-        <id>https://css-tricks.com/?p=372634</id>
-        <link href="https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/"/>
-        <updated>2022-08-26T13:44:49.000Z</updated>
-        <summary type="html"><![CDATA[Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …
-Using Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Magic tricks with the HTML parser | HTTP 203]]></title>
+        <id>https://www.youtube.com/watch?v=LLRig4s1_yA</id>
+        <link href="https://www.youtube.com/watch?v=LLRig4s1_yA"/>
+        <updated>2022-08-30T15:06:10.000Z</updated>
         <author>
-            <name>Preethi Selvam</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing Better Error Messages UX]]></title>
-        <id>https://smashingmagazine.com/2022/08/error-messages-ux-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/error-messages-ux-design/"/>
-        <updated>2022-08-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.]]></summary>
+        <title type="html"><![CDATA[How Linux Respects Your Privacy (And How Windows Does NOT!)]]></title>
+        <id>https://www.youtube.com/watch?v=KarYADRAoTU</id>
+        <link href="https://www.youtube.com/watch?v=KarYADRAoTU"/>
+        <updated>2022-08-30T12:57:13.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Not Sure How to WordPress Anymore?]]></title>
-        <id>https://css-tricks.com/?p=372616</id>
-        <link href="https://css-tricks.com/not-sure-how-to-wordpress-anymore/"/>
-        <updated>2022-08-25T14:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …
-Not Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Astro Crash Course]]></title>
+        <id>https://www.youtube.com/watch?v=Oi9z5gfIHJs</id>
+        <link href="https://www.youtube.com/watch?v=Oi9z5gfIHJs"/>
+        <updated>2022-08-29T14:28:44.000Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Traversy Media</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Better Video Streaming With imgix]]></title>
-        <id>https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/</id>
-        <link href="https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/"/>
-        <updated>2022-08-25T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.]]></summary>
+        <title type="html"><![CDATA[Chat With Patrons (Aug 28, 2022)]]></title>
+        <id>https://www.youtube.com/watch?v=Z_gRUuUTRRA</id>
+        <link href="https://www.youtube.com/watch?v=Z_gRUuUTRRA"/>
+        <updated>2022-08-28T17:17:59.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Doug Sillars)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project]]></title>
-        <id>https://css-tricks.com/?p=372576</id>
-        <link href="https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/"/>
-        <updated>2022-08-24T13:11:47.000Z</updated>
-        <summary type="html"><![CDATA[If a utility class only does one thing, chances are you don’t want it to be overridden by any styles coming from elsewhere. One approach is to use !important to be 100% certain the style will be applied, regardless of …
-Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[An Installation And First Look At Mabox Linux 22.08]]></title>
+        <id>https://www.youtube.com/watch?v=TBEDeY6tx7c</id>
+        <link href="https://www.youtube.com/watch?v=TBEDeY6tx7c"/>
+        <updated>2022-08-27T12:58:39.000Z</updated>
         <author>
-            <name>Ollie Williams</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Removing jQuery from GOV.UK]]></title>
-        <id>https://css-tricks.com/?p=372485</id>
-        <link href="https://css-tricks.com/removing-jquery-from-gov-uk/"/>
-        <updated>2022-08-23T13:04:31.000Z</updated>
-        <summary type="html"><![CDATA[The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …
-Removing jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Chrome 105 - What’s New in DevTools]]></title>
+        <id>https://www.youtube.com/watch?v=bHw_56RiVsg</id>
+        <link href="https://www.youtube.com/watch?v=bHw_56RiVsg"/>
+        <updated>2022-08-25T23:00:13.000Z</updated>
         <author>
-            <name>Bradley Kouchi</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?]]></title>
-        <id>https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/</id>
-        <link href="https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/"/>
-        <updated>2022-08-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.]]></summary>
+        <title type="html"><![CDATA[How to speed up your workflow with Console shortcuts | DevTools Tips]]></title>
+        <id>https://www.youtube.com/watch?v=hdRDTj6ObiE</id>
+        <link href="https://www.youtube.com/watch?v=hdRDTj6ObiE"/>
+        <updated>2022-08-25T17:00:21.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 2]]></title>
-        <id>https://css-tricks.com/?p=372396</id>
-        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-2/"/>
-        <updated>2022-08-22T14:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.
-Here’s just one of the fantastic grids we made together:
-CodePen…
-CSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[GitHub CEO talks about Copilot, available to developers since June ‘22. What do you think? #tech]]></title>
+        <id>https://www.youtube.com/watch?v=_GDpoiPkdsw</id>
+        <link href="https://www.youtube.com/watch?v=_GDpoiPkdsw"/>
+        <updated>2022-08-25T14:07:39.000Z</updated>
         <author>
-            <name>Temani Afif</name>
+            <name>Honeypot</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/</id>
-        <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/"/>
-        <updated>2022-08-22T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.]]></summary>
+        <title type="html"><![CDATA[Do You Need To Learn Data Structures & Algorithms As A Developer?]]></title>
+        <id>https://www.youtube.com/watch?v=b_4ZchFAYRs</id>
+        <link href="https://www.youtube.com/watch?v=b_4ZchFAYRs"/>
+        <updated>2022-08-25T13:07:07.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+            <name>Traversy Media</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implementing A Reset Password Feature With Next.js Dynamic Routes]]></title>
-        <id>https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/</id>
-        <link href="https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/"/>
-        <updated>2022-08-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.]]></summary>
+        <title type="html"><![CDATA[Xdotool Simulates Key Presses and Mouse Clicks]]></title>
+        <id>https://www.youtube.com/watch?v=1DF58wDDfBE</id>
+        <link href="https://www.youtube.com/watch?v=1DF58wDDfBE"/>
+        <updated>2022-08-25T12:56:28.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Do You Use CSS Columns?]]></title>
-        <id>https://css-tricks.com/?p=372539</id>
-        <link href="https://css-tricks.com/when-do-you-use-css-columns/"/>
-        <updated>2022-08-18T13:24:48.000Z</updated>
-        <summary type="html"><![CDATA[That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.
-The answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …
-When Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Thinking on ways to solve CAFE WALL ILLUSION]]></title>
+        <id>https://www.youtube.com/watch?v=71jpjr7syc4</id>
+        <link href="https://www.youtube.com/watch?v=71jpjr7syc4"/>
+        <updated>2022-08-24T17:00:03.000Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Google Chrome Developers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Introduction To Context Propagation In JavaScript]]></title>
-        <id>https://smashingmagazine.com/2022/08/react-context-propagation-javascript/</id>
-        <link href="https://smashingmagazine.com/2022/08/react-context-propagation-javascript/"/>
-        <updated>2022-08-18T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.]]></summary>
+        <title type="html"><![CDATA[Fish Shell Tips and Tricks (Can Your Shell Do This?)]]></title>
+        <id>https://www.youtube.com/watch?v=8GN9D-OnG-A</id>
+        <link href="https://www.youtube.com/watch?v=8GN9D-OnG-A"/>
+        <updated>2022-08-23T12:55:41.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Evyatar Alush)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing A Better Back Button UX]]></title>
-        <id>https://smashingmagazine.com/2022/08/back-button-ux-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/back-button-ux-design/"/>
-        <updated>2022-08-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.]]></summary>
+        <title type="html"><![CDATA[Manjaro and EndeavourOS are like Ding Dongs and Zingers]]></title>
+        <id>https://www.youtube.com/watch?v=p5FU5m_THGU</id>
+        <link href="https://www.youtube.com/watch?v=p5FU5m_THGU"/>
+        <updated>2022-08-21T13:50:57.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>DistroTube</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything Developers Must Know About Figma]]></title>
-        <id>https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/</id>
-        <link href="https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/"/>
-        <updated>2022-08-15T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.]]></summary>
+        <title type="html"><![CDATA[Sparky Linux Is Debian With Non-GNOME Desktops]]></title>
+        <id>https://www.youtube.com/watch?v=EpLF8GacgiA</id>
+        <link href="https://www.youtube.com/watch?v=EpLF8GacgiA"/>
+        <updated>2022-08-20T12:58:15.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Christine Vallaure)</name>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Retro Term Is A Blast From The Past]]></title>
+        <id>https://www.youtube.com/watch?v=MB7QYyz-hc0</id>
+        <link href="https://www.youtube.com/watch?v=MB7QYyz-hc0"/>
+        <updated>2022-08-18T12:57:36.000Z</updated>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Chrome's origin trials?]]></title>
+        <id>https://www.youtube.com/watch?v=v_gI8wcsPUA</id>
+        <link href="https://www.youtube.com/watch?v=v_gI8wcsPUA"/>
+        <updated>2022-08-17T20:00:23.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coffee with Brian Kernighan - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=GNyQxXw_oMQ</id>
+        <link href="https://www.youtube.com/watch?v=GNyQxXw_oMQ"/>
+        <updated>2022-08-16T16:08:29.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create A Simple JavaScript App to Generate QR Codes]]></title>
+        <id>https://www.youtube.com/watch?v=qNiUlml9MDk</id>
+        <link href="https://www.youtube.com/watch?v=qNiUlml9MDk"/>
+        <updated>2022-08-16T13:17:27.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to inspect animations | DevTools Tips]]></title>
+        <id>https://www.youtube.com/watch?v=lVLzkleL_CE</id>
+        <link href="https://www.youtube.com/watch?v=lVLzkleL_CE"/>
+        <updated>2022-08-11T17:07:45.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build A Digital Resume & Host For Free]]></title>
+        <id>https://www.youtube.com/watch?v=clwpf3VwCZQ</id>
+        <link href="https://www.youtube.com/watch?v=clwpf3VwCZQ"/>
+        <updated>2022-08-11T14:00:30.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explode a node #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=oe_n0OHMz6o</id>
+        <link href="https://www.youtube.com/watch?v=oe_n0OHMz6o"/>
+        <updated>2022-08-10T17:00:38.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Day with a Zürich Developer | DevCities (Work-life, Startups, and Life in Nature)]]></title>
+        <id>https://www.youtube.com/watch?v=bbda-9ZgiIY</id>
+        <link href="https://www.youtube.com/watch?v=bbda-9ZgiIY"/>
+        <updated>2022-08-10T15:09:46.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Mathematical Proofs - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=prYaTrZUces</id>
+        <link href="https://www.youtube.com/watch?v=prYaTrZUces"/>
+        <updated>2022-08-09T18:12:34.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX Website Clone - HTML, CSS & JavaScript]]></title>
+        <id>https://www.youtube.com/watch?v=wryPX7KSwSc</id>
+        <link href="https://www.youtube.com/watch?v=wryPX7KSwSc"/>
+        <updated>2022-08-09T13:00:01.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Chrome release channels?]]></title>
+        <id>https://www.youtube.com/watch?v=WL1guL5n9PU</id>
+        <link href="https://www.youtube.com/watch?v=WL1guL5n9PU"/>
+        <updated>2022-08-03T17:34:58.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New in Chrome 104: Region Capture, Media Queries, Shared Element Transitions, and more!]]></title>
+        <id>https://www.youtube.com/watch?v=GIt-g0nkt8w</id>
+        <link href="https://www.youtube.com/watch?v=GIt-g0nkt8w"/>
+        <updated>2022-08-02T17:00:21.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scratch? Python? C? Kernighan on Languages for Kids Coding - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=h8LTEFNLZ6M</id>
+        <link href="https://www.youtube.com/watch?v=h8LTEFNLZ6M"/>
+        <updated>2022-08-02T14:00:19.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbon Lang First Look & Crash Course | Google's C++ Successor]]></title>
+        <id>https://www.youtube.com/watch?v=MMxbP8ME2Ag</id>
+        <link href="https://www.youtube.com/watch?v=MMxbP8ME2Ag"/>
+        <updated>2022-08-01T13:35:01.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to log messages in the Console | DevTools Tips]]></title>
+        <id>https://www.youtube.com/watch?v=76U0gtuV9AY</id>
+        <link href="https://www.youtube.com/watch?v=76U0gtuV9AY"/>
+        <updated>2022-07-28T23:00:02.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 104 - What’s New in DevTools]]></title>
+        <id>https://www.youtube.com/watch?v=4RXWfw7Xg_Y</id>
+        <link href="https://www.youtube.com/watch?v=4RXWfw7Xg_Y"/>
+        <updated>2022-07-28T17:08:37.000Z</updated>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Pronounce JSON by Douglas Crockford 💅]]></title>
+        <id>https://www.youtube.com/watch?v=uR-f4b0G9lo</id>
+        <link href="https://www.youtube.com/watch?v=uR-f4b0G9lo"/>
+        <updated>2022-07-28T13:00:09.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tricking AI Image Recognition - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=gGIiechWEFs</id>
+        <link href="https://www.youtube.com/watch?v=gGIiechWEFs"/>
+        <updated>2022-07-27T14:07:09.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 HTML, CSS & JS Mini Projects - Scroll Animation, Rotating Navigation, Drag Events, etc]]></title>
+        <id>https://www.youtube.com/watch?v=HtunPQtr-Xw</id>
+        <link href="https://www.youtube.com/watch?v=HtunPQtr-Xw"/>
+        <updated>2022-07-27T13:27:54.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing with Soft Robots - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=6eP7_iDJk4k</id>
+        <link href="https://www.youtube.com/watch?v=6eP7_iDJk4k"/>
+        <updated>2022-07-21T14:27:35.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve The Developer Hiring Process]]></title>
+        <id>https://www.youtube.com/watch?v=t3w7OCDbmnc</id>
+        <link href="https://www.youtube.com/watch?v=t3w7OCDbmnc"/>
+        <updated>2022-07-19T13:30:21.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LaMDA Logic - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=ONloZfZEbUE</id>
+        <link href="https://www.youtube.com/watch?v=ONloZfZEbUE"/>
+        <updated>2022-07-18T11:44:22.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Creator of CSS Reacts to Creative Coding 🎨]]></title>
+        <id>https://www.youtube.com/watch?v=TZfDWiwlRlE</id>
+        <link href="https://www.youtube.com/watch?v=TZfDWiwlRlE"/>
+        <updated>2022-07-14T13:59:57.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Under The Hood [5] - JavaScript Engine Overview]]></title>
+        <id>https://www.youtube.com/watch?v=oc6faXVc54E</id>
+        <link href="https://www.youtube.com/watch?v=oc6faXVc54E"/>
+        <updated>2022-07-12T15:39:48.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Under The Hood [4] - Memory Storage]]></title>
+        <id>https://www.youtube.com/watch?v=Hci9Bb4_fkA</id>
+        <link href="https://www.youtube.com/watch?v=Hci9Bb4_fkA"/>
+        <updated>2022-07-12T15:29:46.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse Engineering - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=9tZmSFjoOm4</id>
+        <link href="https://www.youtube.com/watch?v=9tZmSFjoOm4"/>
+        <updated>2022-07-08T13:53:06.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Under The Hood [3} - Asynchronous JavaScript, Task Queue & Event Loop]]></title>
+        <id>https://www.youtube.com/watch?v=28AXSTCpsyU</id>
+        <link href="https://www.youtube.com/watch?v=28AXSTCpsyU"/>
+        <updated>2022-07-07T13:00:02.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Under The Hood [2] - Execution Context]]></title>
+        <id>https://www.youtube.com/watch?v=Fd9VaW0M7K4</id>
+        <link href="https://www.youtube.com/watch?v=Fd9VaW0M7K4"/>
+        <updated>2022-06-30T15:13:30.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Under The Hood [1] - Thread & Call Stack]]></title>
+        <id>https://www.youtube.com/watch?v=-G9c4CMMUKc</id>
+        <link href="https://www.youtube.com/watch?v=-G9c4CMMUKc"/>
+        <updated>2022-06-30T15:01:38.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Go From 0% to Employed Developer with Anna McDougall]]></title>
+        <id>https://www.youtube.com/watch?v=AfsZwBrCMlE</id>
+        <link href="https://www.youtube.com/watch?v=AfsZwBrCMlE"/>
+        <updated>2022-06-23T14:01:24.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Server Setup & MERN Deployment]]></title>
+        <id>https://www.youtube.com/watch?v=7aRjGIhwyQM</id>
+        <link href="https://www.youtube.com/watch?v=7aRjGIhwyQM"/>
+        <updated>2022-06-20T13:00:37.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, it's not Sentient - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=iBouACLc-hw</id>
+        <link href="https://www.youtube.com/watch?v=iBouACLc-hw"/>
+        <updated>2022-06-17T21:11:25.000Z</updated>
+        <author>
+            <name>Computerphile</name>
         </author>
     </entry>
 </feed>
