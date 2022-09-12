@@ -1,803 +1,716 @@
 {
   "sources": [
     {
-      "title": "Honeypot",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA",
-      "siteUrl": "https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA",
+      "title": "Quanta Magazine",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTpmmkp1E4nmZqWPS-dl5bg",
+      "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=ADKuGSg3oEo",
+          "id": "https://www.youtube.com/watch?v=kpsu9_ql0-M",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=ADKuGSg3oEo",
-          "publishedOn": "2022-09-08T14:00:03.000Z",
+          "link": "https://www.youtube.com/watch?v=kpsu9_ql0-M",
+          "publishedOn": "2022-08-16T15:45:19.000Z",
           "wordCount": null,
-          "title": "A Day with a Barcelona Developer | DevCities (From photographer to dev, importance of communities)",
+          "title": "How Two Physicists Unlocked the Secrets of Two Dimensions",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=_GDpoiPkdsw",
+          "id": "https://www.youtube.com/watch?v=ATubwpnVLAY",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=_GDpoiPkdsw",
-          "publishedOn": "2022-08-25T14:07:39.000Z",
+          "link": "https://www.youtube.com/watch?v=ATubwpnVLAY",
+          "publishedOn": "2022-08-08T15:31:36.000Z",
           "wordCount": null,
-          "title": "GitHub CEO talks about Copilot, available to developers since June ‘22. What do you think? #tech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bbda-9ZgiIY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bbda-9ZgiIY",
-          "publishedOn": "2022-08-10T15:09:46.000Z",
-          "wordCount": null,
-          "title": "A Day with a Zürich Developer | DevCities (Work-life, Startups, and Life in Nature)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uR-f4b0G9lo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uR-f4b0G9lo",
-          "publishedOn": "2022-07-28T13:00:09.000Z",
-          "wordCount": null,
-          "title": "How To Pronounce JSON by Douglas Crockford 💅",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TZfDWiwlRlE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TZfDWiwlRlE",
-          "publishedOn": "2022-07-14T13:59:57.000Z",
-          "wordCount": null,
-          "title": "The Creator of CSS Reacts to Creative Coding 🎨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AfsZwBrCMlE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AfsZwBrCMlE",
-          "publishedOn": "2022-06-23T14:01:24.000Z",
-          "wordCount": null,
-          "title": "How to Go From 0% to Employed Developer with Anna McDougall",
+          "title": "Exploring the Deep Mystery of Life's Origins",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "Computerphile",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
-      "siteUrl": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "title": "Primer",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
+      "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=PZBm7M0HGzw",
+          "id": "https://www.youtube.com/watch?v=r6sa_fWQB_4",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=PZBm7M0HGzw",
-          "publishedOn": "2022-09-07T13:58:14.000Z",
+          "link": "https://www.youtube.com/watch?v=r6sa_fWQB_4",
+          "publishedOn": "2022-08-16T15:50:00.000Z",
           "wordCount": null,
-          "title": "Knowledge Graphs - Computerphile",
+          "title": "How many people might ever exist, calculated",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=-XU54IsG8Vo",
+          "id": "https://www.youtube.com/watch?v=XTcP4oo4JI4",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=-XU54IsG8Vo",
-          "publishedOn": "2022-08-31T12:37:13.000Z",
+          "link": "https://www.youtube.com/watch?v=XTcP4oo4JI4",
+          "publishedOn": "2022-06-25T16:45:31.000Z",
           "wordCount": null,
-          "title": "SLAM Robot Mapping - Computerphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GNyQxXw_oMQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GNyQxXw_oMQ",
-          "publishedOn": "2022-08-16T16:08:29.000Z",
-          "wordCount": null,
-          "title": "Coffee with Brian Kernighan - Computerphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=prYaTrZUces",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=prYaTrZUces",
-          "publishedOn": "2022-08-09T18:12:34.000Z",
-          "wordCount": null,
-          "title": "Automated Mathematical Proofs - Computerphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h8LTEFNLZ6M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h8LTEFNLZ6M",
-          "publishedOn": "2022-08-02T14:00:19.000Z",
-          "wordCount": null,
-          "title": "Scratch? Python? C? Kernighan on Languages for Kids Coding - Computerphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gGIiechWEFs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gGIiechWEFs",
-          "publishedOn": "2022-07-27T14:07:09.000Z",
-          "wordCount": null,
-          "title": "Tricking AI Image Recognition - Computerphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6eP7_iDJk4k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6eP7_iDJk4k",
-          "publishedOn": "2022-07-21T14:27:35.000Z",
-          "wordCount": null,
-          "title": "Computing with Soft Robots - Computerphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ONloZfZEbUE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ONloZfZEbUE",
-          "publishedOn": "2022-07-18T11:44:22.000Z",
-          "wordCount": null,
-          "title": "LaMDA Logic - Computerphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9tZmSFjoOm4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9tZmSFjoOm4",
-          "publishedOn": "2022-07-08T13:53:06.000Z",
-          "wordCount": null,
-          "title": "Reverse Engineering - Computerphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iBouACLc-hw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iBouACLc-hw",
-          "publishedOn": "2022-06-17T21:11:25.000Z",
-          "wordCount": null,
-          "title": "No, it's not Sentient - Computerphile",
+          "title": "How To Catch A Cheater With Math",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "DistroTube",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
-      "siteUrl": "https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg",
+      "title": "Reducible",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8XIGR5kRidIw2fWqwyHRA",
+      "siteUrl": "https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Wtnm7VFXWzI",
+          "id": "https://www.youtube.com/watch?v=GiDsjIBOVoA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Wtnm7VFXWzI",
-          "publishedOn": "2022-09-10T12:58:30.000Z",
+          "link": "https://www.youtube.com/watch?v=GiDsjIBOVoA",
+          "publishedOn": "2022-07-26T16:57:05.000Z",
           "wordCount": null,
-          "title": "This Tool Converts Arch Linux Packages To AppImage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DEQMDh544q4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DEQMDh544q4",
-          "publishedOn": "2022-09-08T12:56:53.000Z",
-          "wordCount": null,
-          "title": "\"Hey, DT! Will Linux Die Without Linus Torvalds?\" (And Other Questions)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XUCLnXIFnjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XUCLnXIFnjc",
-          "publishedOn": "2022-09-06T17:00:17.000Z",
-          "wordCount": null,
-          "title": "XMonad Can Force Your Terminal To Swallow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eQ_3L702n7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eQ_3L702n7w",
-          "publishedOn": "2022-09-05T12:56:39.000Z",
-          "wordCount": null,
-          "title": "Learn the Basics of the Dired File Manager (Doom Emacs)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JbfKFRhn7uM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JbfKFRhn7uM",
-          "publishedOn": "2022-09-03T21:46:26.000Z",
-          "wordCount": null,
-          "title": "YouTube Burnout Is Real (And How To Prevent It!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xkdTMIp3PTg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xkdTMIp3PTg",
-          "publishedOn": "2022-09-02T12:58:06.000Z",
-          "wordCount": null,
-          "title": "Install Third Party DEB Packages With 'deb get' (Reduces Need For Snaps!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fPO60RVGtOw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fPO60RVGtOw",
-          "publishedOn": "2022-08-31T17:00:21.000Z",
-          "wordCount": null,
-          "title": "Odysee Is Still The Best YouTube Alternative (And It's Getting Better!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KarYADRAoTU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KarYADRAoTU",
-          "publishedOn": "2022-08-30T12:57:13.000Z",
-          "wordCount": null,
-          "title": "How Linux Respects Your Privacy (And How Windows Does NOT!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z_gRUuUTRRA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z_gRUuUTRRA",
-          "publishedOn": "2022-08-28T17:17:59.000Z",
-          "wordCount": null,
-          "title": "Chat With Patrons (Aug 28, 2022)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TBEDeY6tx7c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TBEDeY6tx7c",
-          "publishedOn": "2022-08-27T12:58:39.000Z",
-          "wordCount": null,
-          "title": "An Installation And First Look At Mabox Linux 22.08",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1DF58wDDfBE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1DF58wDDfBE",
-          "publishedOn": "2022-08-25T12:56:28.000Z",
-          "wordCount": null,
-          "title": "Xdotool Simulates Key Presses and Mouse Clicks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8GN9D-OnG-A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8GN9D-OnG-A",
-          "publishedOn": "2022-08-23T12:55:41.000Z",
-          "wordCount": null,
-          "title": "Fish Shell Tips and Tricks (Can Your Shell Do This?)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p5FU5m_THGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p5FU5m_THGU",
-          "publishedOn": "2022-08-21T13:50:57.000Z",
-          "wordCount": null,
-          "title": "Manjaro and EndeavourOS are like Ding Dongs and Zingers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EpLF8GacgiA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EpLF8GacgiA",
-          "publishedOn": "2022-08-20T12:58:15.000Z",
-          "wordCount": null,
-          "title": "Sparky Linux Is Debian With Non-GNOME Desktops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MB7QYyz-hc0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MB7QYyz-hc0",
-          "publishedOn": "2022-08-18T12:57:36.000Z",
-          "wordCount": null,
-          "title": "Cool Retro Term Is A Blast From The Past",
+          "title": "The Traveling Salesman Problem: When Good Enough Beats Perfect",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "Traversy Media",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA",
-      "siteUrl": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
+      "title": "3Blue1Brown",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
+      "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=MusIvEKjqsc",
+          "id": "https://www.youtube.com/watch?v=VYQVlVoWoPY",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=MusIvEKjqsc",
-          "publishedOn": "2022-09-08T13:30:07.000Z",
+          "link": "https://www.youtube.com/watch?v=VYQVlVoWoPY",
+          "publishedOn": "2022-07-03T15:03:56.000Z",
           "wordCount": null,
-          "title": "3 Alternatives for Heroku's Free Tier - Full Stack & API Hosting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oi9z5gfIHJs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Oi9z5gfIHJs",
-          "publishedOn": "2022-08-29T14:28:44.000Z",
-          "wordCount": null,
-          "title": "Astro Crash Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b_4ZchFAYRs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b_4ZchFAYRs",
-          "publishedOn": "2022-08-25T13:07:07.000Z",
-          "wordCount": null,
-          "title": "Do You Need To Learn Data Structures & Algorithms As A Developer?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qNiUlml9MDk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qNiUlml9MDk",
-          "publishedOn": "2022-08-16T13:17:27.000Z",
-          "wordCount": null,
-          "title": "Create A Simple JavaScript App to Generate QR Codes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=clwpf3VwCZQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=clwpf3VwCZQ",
-          "publishedOn": "2022-08-11T14:00:30.000Z",
-          "wordCount": null,
-          "title": "Build A Digital Resume & Host For Free",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wryPX7KSwSc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wryPX7KSwSc",
-          "publishedOn": "2022-08-09T13:00:01.000Z",
-          "wordCount": null,
-          "title": "SpaceX Website Clone - HTML, CSS & JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MMxbP8ME2Ag",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MMxbP8ME2Ag",
-          "publishedOn": "2022-08-01T13:35:01.000Z",
-          "wordCount": null,
-          "title": "Carbon Lang First Look & Crash Course | Google's C++ Successor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HtunPQtr-Xw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HtunPQtr-Xw",
-          "publishedOn": "2022-07-27T13:27:54.000Z",
-          "wordCount": null,
-          "title": "5 HTML, CSS & JS Mini Projects - Scroll Animation, Rotating Navigation, Drag Events, etc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t3w7OCDbmnc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t3w7OCDbmnc",
-          "publishedOn": "2022-07-19T13:30:21.000Z",
-          "wordCount": null,
-          "title": "Improve The Developer Hiring Process",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oc6faXVc54E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oc6faXVc54E",
-          "publishedOn": "2022-07-12T15:39:48.000Z",
-          "wordCount": null,
-          "title": "JavaScript Under The Hood [5] - JavaScript Engine Overview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Hci9Bb4_fkA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Hci9Bb4_fkA",
-          "publishedOn": "2022-07-12T15:29:46.000Z",
-          "wordCount": null,
-          "title": "JavaScript Under The Hood [4] - Memory Storage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=28AXSTCpsyU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=28AXSTCpsyU",
-          "publishedOn": "2022-07-07T13:00:02.000Z",
-          "wordCount": null,
-          "title": "JavaScript Under The Hood [3} - Asynchronous JavaScript, Task Queue & Event Loop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fd9VaW0M7K4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Fd9VaW0M7K4",
-          "publishedOn": "2022-06-30T15:13:30.000Z",
-          "wordCount": null,
-          "title": "JavaScript Under The Hood [2] - Execution Context",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-G9c4CMMUKc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-G9c4CMMUKc",
-          "publishedOn": "2022-06-30T15:01:38.000Z",
-          "wordCount": null,
-          "title": "JavaScript Under The Hood [1] - Thread & Call Stack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7aRjGIhwyQM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7aRjGIhwyQM",
-          "publishedOn": "2022-06-20T13:00:37.000Z",
-          "wordCount": null,
-          "title": "Linux Server Setup & MERN Deployment",
+          "title": "How to lie using visual proofs",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "Linus Tech Tips",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
-      "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "title": "Mathemaniac",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
+      "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=zcchDu7KoYs",
+          "id": "https://www.youtube.com/watch?v=cUqoHQDinCM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=zcchDu7KoYs",
-          "publishedOn": "2022-09-11T17:02:59.000Z",
+          "link": "https://www.youtube.com/watch?v=cUqoHQDinCM",
+          "publishedOn": "2022-08-30T14:00:18.000Z",
           "wordCount": null,
-          "title": "You Want This.",
+          "title": "The weirdest paradox in statistics (and machine learning)",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=XbA6S0kdu2o",
+          "id": "https://www.youtube.com/watch?v=zCU9tZ2VkWc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=XbA6S0kdu2o",
-          "publishedOn": "2022-09-10T16:58:33.000Z",
+          "link": "https://www.youtube.com/watch?v=zCU9tZ2VkWc",
+          "publishedOn": "2022-07-03T14:00:23.000Z",
           "wordCount": null,
-          "title": "I DESPERATELY Wanted to Love This...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1ctXiZsN6ac",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1ctXiZsN6ac",
-          "publishedOn": "2022-09-10T03:46:49.000Z",
-          "wordCount": null,
-          "title": "The Reviewer Got Reviewed  - WAN Show September 9, 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CY3OQh-7wIk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CY3OQh-7wIk",
-          "publishedOn": "2022-09-08T23:21:46.000Z",
-          "wordCount": null,
-          "title": "The Computer I Would Actually BUY",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vh-jmvepDwA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vh-jmvepDwA",
-          "publishedOn": "2022-09-08T06:27:52.000Z",
-          "wordCount": null,
-          "title": "Get an iPhone 14 or literally die.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qim2Y6v_4EI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qim2Y6v_4EI",
-          "publishedOn": "2022-09-08T05:00:12.000Z",
-          "wordCount": null,
-          "title": "No Thermal Paste? No Problem! #SHORTS #pcgaming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zy2a47e-Qao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zy2a47e-Qao",
-          "publishedOn": "2022-09-06T17:00:06.000Z",
-          "wordCount": null,
-          "title": "The Only Computer I Need",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HCXQzLbDrgs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HCXQzLbDrgs",
-          "publishedOn": "2022-09-05T17:00:47.000Z",
-          "wordCount": null,
-          "title": "Why do I have 80 Staff?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t03rmc-prJo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t03rmc-prJo",
-          "publishedOn": "2022-09-04T17:00:26.000Z",
-          "wordCount": null,
-          "title": "This PC took 600 HOURS to Build!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9XozhdsYHDc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9XozhdsYHDc",
-          "publishedOn": "2022-09-03T17:01:49.000Z",
-          "wordCount": null,
-          "title": "How I Keep My House In Order",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EUu0bnDNC-A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EUu0bnDNC-A",
-          "publishedOn": "2022-09-03T03:32:11.000Z",
-          "wordCount": null,
-          "title": "I've never been so angry...  - WAN Show September 2, 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1CX8xXwYTl4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1CX8xXwYTl4",
-          "publishedOn": "2022-09-02T17:01:26.000Z",
-          "wordCount": null,
-          "title": "Justify Your Existence. I'll Wait.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NypT2CZdeiI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NypT2CZdeiI",
-          "publishedOn": "2022-09-01T17:31:20.000Z",
-          "wordCount": null,
-          "title": "I didn’t break this but I REALLY want to",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2K5Gqp1cEcM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2K5Gqp1cEcM",
-          "publishedOn": "2022-08-31T17:19:22.000Z",
-          "wordCount": null,
-          "title": "Why our Screwdriver took 3 YEARS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=c0hv8h2a4Tk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=c0hv8h2a4Tk",
-          "publishedOn": "2022-08-30T15:23:14.000Z",
-          "wordCount": null,
-          "title": "Ryzen 7000 is NOT what I Expected!",
+          "title": "Why you can't solve quintic equations (Galois theory approach) #SoME2",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "Google Chrome Developers",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw",
-      "siteUrl": "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
+      "title": "JuliaDynamics",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR4GZ9B3uhyLbYRdZEr7oKg",
+      "siteUrl": "https://www.youtube.com/channel/UCR4GZ9B3uhyLbYRdZEr7oKg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=K-T3Zz6qv7w",
+          "id": "https://www.youtube.com/watch?v=x3swaMSCcYk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=K-T3Zz6qv7w",
-          "publishedOn": "2022-09-07T23:00:15.000Z",
+          "link": "https://www.youtube.com/watch?v=x3swaMSCcYk",
+          "publishedOn": "2022-07-24T07:45:35.000Z",
           "wordCount": null,
-          "title": "What are Chrome flags?",
+          "title": "Good Scientific Code Workshop",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Alexander Gustafsson",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
+      "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mcmHLtVkvRo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mcmHLtVkvRo",
+          "publishedOn": "2022-08-24T18:39:02.000Z",
+          "wordCount": null,
+          "title": "Circle billiard with 10 000 balls",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=no1YV6xgIv8",
+          "id": "https://www.youtube.com/watch?v=M70sUauxrdc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=no1YV6xgIv8",
-          "publishedOn": "2022-09-07T17:03:19.000Z",
+          "link": "https://www.youtube.com/watch?v=M70sUauxrdc",
+          "publishedOn": "2022-08-14T10:14:18.000Z",
           "wordCount": null,
-          "title": "CSS background-attachment #Shorts",
+          "title": "Black hole passing in front of the Andromeda galaxy",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=teSgavrweWI",
+          "id": "https://www.youtube.com/watch?v=HbwCrVyqS4I",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=teSgavrweWI",
-          "publishedOn": "2022-08-31T17:03:19.000Z",
+          "link": "https://www.youtube.com/watch?v=HbwCrVyqS4I",
+          "publishedOn": "2022-08-12T21:16:17.000Z",
           "wordCount": null,
-          "title": "What are Chrome Variations?",
+          "title": "Annoying maze billiard",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=qwdN1fJA_d8",
+          "id": "https://www.youtube.com/watch?v=kpakKNfkwoM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=qwdN1fJA_d8",
-          "publishedOn": "2022-08-30T19:01:25.000Z",
+          "link": "https://www.youtube.com/watch?v=kpakKNfkwoM",
+          "publishedOn": "2022-08-03T17:39:26.000Z",
           "wordCount": null,
-          "title": "New in Chrome 105: Container Queries, :has, the Sanitizer API, and more!",
+          "title": "Black hole passing by",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=LLRig4s1_yA",
+          "id": "https://www.youtube.com/watch?v=TZHrOXLLf7Q",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=LLRig4s1_yA",
-          "publishedOn": "2022-08-30T15:06:10.000Z",
+          "link": "https://www.youtube.com/watch?v=TZHrOXLLf7Q",
+          "publishedOn": "2022-07-29T21:25:44.000Z",
           "wordCount": null,
-          "title": "Magic tricks with the HTML parser | HTTP 203",
+          "title": "Highly schematic figure skating pirouette",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nils Berglund",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
+      "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RrP4lOEpNwE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RrP4lOEpNwE",
+          "publishedOn": "2022-09-12T09:00:13.000Z",
+          "wordCount": null,
+          "title": "A Rayleigh-Taylor instability under horizontal gravity with a 4:1 mass ratio",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=bHw_56RiVsg",
+          "id": "https://www.youtube.com/watch?v=B7GsV9HvYBw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=bHw_56RiVsg",
-          "publishedOn": "2022-08-25T23:00:13.000Z",
+          "link": "https://www.youtube.com/watch?v=B7GsV9HvYBw",
+          "publishedOn": "2022-09-11T09:00:05.000Z",
           "wordCount": null,
-          "title": "Chrome 105 - What’s New in DevTools",
+          "title": "A circular wave escaping a hexagon-bestagon (long version)",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=hdRDTj6ObiE",
+          "id": "https://www.youtube.com/watch?v=jKARG3cqZU8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=hdRDTj6ObiE",
-          "publishedOn": "2022-08-25T17:00:21.000Z",
+          "link": "https://www.youtube.com/watch?v=jKARG3cqZU8",
+          "publishedOn": "2022-09-10T09:00:32.000Z",
           "wordCount": null,
-          "title": "How to speed up your workflow with Console shortcuts | DevTools Tips",
+          "title": "Phase space representation of the billiard in an ellipse",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=71jpjr7syc4",
+          "id": "https://www.youtube.com/watch?v=h4SPn2TqoJk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=71jpjr7syc4",
-          "publishedOn": "2022-08-24T17:00:03.000Z",
+          "link": "https://www.youtube.com/watch?v=h4SPn2TqoJk",
+          "publishedOn": "2022-09-09T09:00:33.000Z",
           "wordCount": null,
-          "title": "Thinking on ways to solve CAFE WALL ILLUSION",
+          "title": "A circular wave escaping a hexagon-bestagon (short version)",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=v_gI8wcsPUA",
+          "id": "https://www.youtube.com/watch?v=mwjHeJp5XMI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=v_gI8wcsPUA",
-          "publishedOn": "2022-08-17T20:00:23.000Z",
+          "link": "https://www.youtube.com/watch?v=mwjHeJp5XMI",
+          "publishedOn": "2022-09-08T09:00:21.000Z",
           "wordCount": null,
-          "title": "What are Chrome's origin trials?",
+          "title": "Rocket comparison 7: Round chamber vs rectangular chamber",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=lVLzkleL_CE",
+          "id": "https://www.youtube.com/watch?v=rjOtPdZMsqM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=lVLzkleL_CE",
-          "publishedOn": "2022-08-11T17:07:45.000Z",
+          "link": "https://www.youtube.com/watch?v=rjOtPdZMsqM",
+          "publishedOn": "2022-09-07T09:00:34.000Z",
           "wordCount": null,
-          "title": "How to inspect animations | DevTools Tips",
+          "title": "The Aharonov-Bohm effect with a stronger magnetic field",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=oe_n0OHMz6o",
+          "id": "https://www.youtube.com/watch?v=vOM-O2gXoWM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=oe_n0OHMz6o",
-          "publishedOn": "2022-08-10T17:00:38.000Z",
+          "link": "https://www.youtube.com/watch?v=vOM-O2gXoWM",
+          "publishedOn": "2022-09-06T09:00:32.000Z",
           "wordCount": null,
-          "title": "Explode a node #Shorts",
+          "title": "A circular wave escaping a pentagon",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=WL1guL5n9PU",
+          "id": "https://www.youtube.com/watch?v=lVbop_jBm7I",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=WL1guL5n9PU",
-          "publishedOn": "2022-08-03T17:34:58.000Z",
+          "link": "https://www.youtube.com/watch?v=lVbop_jBm7I",
+          "publishedOn": "2022-09-05T09:00:31.000Z",
           "wordCount": null,
-          "title": "What are Chrome release channels?",
+          "title": "Zooming out of Bernoulli site percolation configurations on a lattice of triangles",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=GIt-g0nkt8w",
+          "id": "https://www.youtube.com/watch?v=eLlV3lgruMQ",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=GIt-g0nkt8w",
-          "publishedOn": "2022-08-02T17:00:21.000Z",
+          "link": "https://www.youtube.com/watch?v=eLlV3lgruMQ",
+          "publishedOn": "2022-09-04T09:00:25.000Z",
           "wordCount": null,
-          "title": "New in Chrome 104: Region Capture, Media Queries, Shared Element Transitions, and more!",
+          "title": "An attempt at illustrating the Aharonov-Bohm effect",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=76U0gtuV9AY",
+          "id": "https://www.youtube.com/watch?v=JSpM6F5mm7M",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=76U0gtuV9AY",
-          "publishedOn": "2022-07-28T23:00:02.000Z",
+          "link": "https://www.youtube.com/watch?v=JSpM6F5mm7M",
+          "publishedOn": "2022-09-03T09:00:09.000Z",
           "wordCount": null,
-          "title": "How to log messages in the Console | DevTools Tips",
+          "title": "Opening a release valve in a dam, with a more regular initial state",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=4RXWfw7Xg_Y",
+          "id": "https://www.youtube.com/watch?v=cW8B4Ci2zNc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=4RXWfw7Xg_Y",
-          "publishedOn": "2022-07-28T17:08:37.000Z",
+          "link": "https://www.youtube.com/watch?v=cW8B4Ci2zNc",
+          "publishedOn": "2022-09-02T09:00:32.000Z",
           "wordCount": null,
-          "title": "Chrome 104 - What’s New in DevTools",
+          "title": "All you feel: A circular wave escaping a  prism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pU7R9MGoLtA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pU7R9MGoLtA",
+          "publishedOn": "2022-09-01T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Zooming out of a fractal percolation configuration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AiITAG8Kr_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AiITAG8Kr_8",
+          "publishedOn": "2022-08-31T09:00:10.000Z",
+          "wordCount": null,
+          "title": "3D rendering of 2D seismic waves",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rd0B8tZ_iY8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rd0B8tZ_iY8",
+          "publishedOn": "2022-08-30T09:00:22.000Z",
+          "wordCount": null,
+          "title": "A Rayleigh-Taylor instability under horizontal gravity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ItpWHgB2H_Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ItpWHgB2H_Q",
+          "publishedOn": "2022-08-29T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Zooming out of Bernoulli site percolation configurations on a honeycomb lattice",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Association for Mathematical Research",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
+      "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=afRzpih8MZY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=afRzpih8MZY",
+          "publishedOn": "2022-06-16T13:55:39.000Z",
+          "wordCount": null,
+          "title": "The Triple Bubble Theorem",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Kurzgesagt – In a Nutshell",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
+      "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=I9hJ_Rux9y0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I9hJ_Rux9y0",
+          "publishedOn": "2022-09-06T13:59:36.000Z",
+          "wordCount": null,
+          "title": "Why You Are Lonely and How to Make Friends",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=W93XyXHI8Nw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W93XyXHI8Nw",
+          "publishedOn": "2022-08-16T13:59:34.000Z",
+          "wordCount": null,
+          "title": "Is Civilization on the Brink of Collapse?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4u5I8GYB79Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4u5I8GYB79Y",
+          "publishedOn": "2022-07-26T13:58:55.000Z",
+          "wordCount": null,
+          "title": "The Deadliest Virus on Earth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LEENEFaVUzU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LEENEFaVUzU",
+          "publishedOn": "2022-06-28T14:00:23.000Z",
+          "wordCount": null,
+          "title": "The Last Human – A Glimpse Into The Far Future",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Steve Brunton",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
+      "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VjWtMl6vQ3Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VjWtMl6vQ3Q",
+          "publishedOn": "2022-09-02T10:00:15.000Z",
+          "wordCount": null,
+          "title": "PDE 101: Separation of Variables! ...or how I learned to stop worrying and solve Laplace's equation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lx-msllg1kU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lx-msllg1kU",
+          "publishedOn": "2022-08-26T16:00:28.000Z",
+          "wordCount": null,
+          "title": "Physics-Informed Dynamic Mode Decomposition (PI-DMD)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=i-_1RY6EBI0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i-_1RY6EBI0",
+          "publishedOn": "2022-08-19T10:00:24.000Z",
+          "wordCount": null,
+          "title": "Enhancing Computational Fluid Dynamics with Machine Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OkEsTLeIP98",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OkEsTLeIP98",
+          "publishedOn": "2022-08-12T10:00:15.000Z",
+          "wordCount": null,
+          "title": "The Experimental Double Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7n7xaviepKM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7n7xaviepKM",
+          "publishedOn": "2022-08-05T10:00:05.000Z",
+          "wordCount": null,
+          "title": "Discrepancy Modeling with Physics Informed Machine Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lBZIxv1bZDo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lBZIxv1bZDo",
+          "publishedOn": "2022-07-29T10:00:37.000Z",
+          "wordCount": null,
+          "title": "Deriving the Heat Equation in 2D & 3D (& in N Dimensions!) with Control Volumes and Vector Calculus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OoRwXVIXpL0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OoRwXVIXpL0",
+          "publishedOn": "2022-07-22T10:00:24.000Z",
+          "wordCount": null,
+          "title": "The Heat Equation and the Steady State Heat Distribution via Laplace's Equation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9d8PwnKVA-U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9d8PwnKVA-U",
+          "publishedOn": "2022-07-15T10:00:06.000Z",
+          "wordCount": null,
+          "title": "Deriving the Heat Equation: A Parabolic Partial Differential Equation for Heat Energy Conservation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nmvs0vrBT18",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nmvs0vrBT18",
+          "publishedOn": "2022-07-08T10:00:36.000Z",
+          "wordCount": null,
+          "title": "Laplace's Equation and Poisson's Equation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pvrIagjEk4c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pvrIagjEk4c",
+          "publishedOn": "2022-07-01T10:00:37.000Z",
+          "wordCount": null,
+          "title": "Partial Differential Equations Overview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Xfjs31WcY04",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xfjs31WcY04",
+          "publishedOn": "2022-06-17T10:00:25.000Z",
+          "wordCount": null,
+          "title": "Potential Flow Part 2: Details and Examples",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nemean",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtJPeNYnAXhB1-_h8xbIX_Q",
+      "siteUrl": "https://www.youtube.com/channel/UCtJPeNYnAXhB1-_h8xbIX_Q",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KufsL2VgELo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KufsL2VgELo",
+          "publishedOn": "2022-08-06T20:00:03.000Z",
+          "wordCount": null,
+          "title": "Researchers Use Group Theory to Speed Up Algorithms — Introduction to Groups",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Faculty of Khan",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
+      "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mPkZ_VVNFfo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mPkZ_VVNFfo",
+          "publishedOn": "2022-09-12T12:00:27.000Z",
+          "wordCount": null,
+          "title": "Solving the Heat Equation with Convection | Partial Differential Equations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Lxq7AgGhabk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Lxq7AgGhabk",
+          "publishedOn": "2022-09-07T01:00:05.000Z",
+          "wordCount": null,
+          "title": "Fourier Transforms in Partial Differential Equations",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Pioneer Works",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
+      "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pCRwJdwFvmI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pCRwJdwFvmI",
+          "publishedOn": "2022-08-18T15:00:35.000Z",
+          "wordCount": null,
+          "title": "Scientific Controversies: James Webb Space Telescope",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M6Nz9dasR3k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M6Nz9dasR3k",
+          "publishedOn": "2022-08-18T13:00:07.000Z",
+          "wordCount": null,
+          "title": "Medicine Singers Live at Greenwood Cemetery - Sunrise (Rumble) ft. Yonatan Gat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gacdGogOnVM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gacdGogOnVM",
+          "publishedOn": "2022-08-11T13:55:54.000Z",
+          "wordCount": null,
+          "title": "Mill Creek Marsh, Atlantic White Cedar Remnants",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zjIOSSiJXcQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zjIOSSiJXcQ",
+          "publishedOn": "2022-08-11T13:55:38.000Z",
+          "wordCount": null,
+          "title": "Phragmites 3D Render",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=suEVPAcq1b0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=suEVPAcq1b0",
+          "publishedOn": "2022-08-11T13:55:31.000Z",
+          "wordCount": null,
+          "title": "MillCreekMarsh VR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T_jzGbeYkCw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T_jzGbeYkCw",
+          "publishedOn": "2022-07-20T14:12:16.000Z",
+          "wordCount": null,
+          "title": "Science vs. Fiction: Jennifer Egan on \"The Candy House\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Wx0I4Zv4Y8s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Wx0I4Zv4Y8s",
+          "publishedOn": "2022-07-08T00:30:02.000Z",
+          "wordCount": null,
+          "title": "BREYER P-ORRIDGE | We Are But One",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-Ztp2w_vi3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-Ztp2w_vi3o",
+          "publishedOn": "2022-07-06T12:40:04.000Z",
+          "wordCount": null,
+          "title": "Extra Credit: Introduction to Motion Capture and Web VR with LaJuné McMillian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=re7LrVtTPQ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=re7LrVtTPQ4",
+          "publishedOn": "2022-06-28T14:29:57.000Z",
+          "wordCount": null,
+          "title": "Scientific Controversies: Genetic Manipulation",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "World Science Festival",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
+      "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kxFTWk9lLDU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kxFTWk9lLDU",
+          "publishedOn": "2022-09-08T19:00:09.000Z",
+          "wordCount": null,
+          "title": "Psychedelics: Chemicals, Consciousness, and Creativity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5sMZw_DM5eA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5sMZw_DM5eA",
+          "publishedOn": "2022-07-12T20:33:56.000Z",
+          "wordCount": null,
+          "title": "First Images: James Webb Space Telescope’s New View of the Cosmos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bHKbIhSWpl4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bHKbIhSWpl4",
+          "publishedOn": "2022-06-30T20:21:02.000Z",
+          "wordCount": null,
+          "title": "School’s Out, but Science Never Stops: Live Discussion with Brian Greene",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UtcBFlWSqGM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UtcBFlWSqGM",
+          "publishedOn": "2022-06-17T19:00:09.000Z",
+          "wordCount": null,
+          "title": "Black Holes: Seeing the Unseeable",
           "imageUrl": null
         }
       ]

@@ -1,692 +1,557 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T11:57:24.900Z</id>
+    <id>urn:2022-09-12T13:04:10.431Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-12T11:57:24.900Z</updated>
+    <updated>2022-09-12T13:04:10.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[You Want This.]]></title>
-        <id>https://www.youtube.com/watch?v=zcchDu7KoYs</id>
-        <link href="https://www.youtube.com/watch?v=zcchDu7KoYs"/>
-        <updated>2022-09-11T17:02:59.000Z</updated>
+        <title type="html"><![CDATA[Solving the Heat Equation with Convection | Partial Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=mPkZ_VVNFfo</id>
+        <link href="https://www.youtube.com/watch?v=mPkZ_VVNFfo"/>
+        <updated>2022-09-12T12:00:27.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Faculty of Khan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I DESPERATELY Wanted to Love This...]]></title>
-        <id>https://www.youtube.com/watch?v=XbA6S0kdu2o</id>
-        <link href="https://www.youtube.com/watch?v=XbA6S0kdu2o"/>
-        <updated>2022-09-10T16:58:33.000Z</updated>
+        <title type="html"><![CDATA[A Rayleigh-Taylor instability under horizontal gravity with a 4:1 mass ratio]]></title>
+        <id>https://www.youtube.com/watch?v=RrP4lOEpNwE</id>
+        <link href="https://www.youtube.com/watch?v=RrP4lOEpNwE"/>
+        <updated>2022-09-12T09:00:13.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Tool Converts Arch Linux Packages To AppImage]]></title>
-        <id>https://www.youtube.com/watch?v=Wtnm7VFXWzI</id>
-        <link href="https://www.youtube.com/watch?v=Wtnm7VFXWzI"/>
-        <updated>2022-09-10T12:58:30.000Z</updated>
+        <title type="html"><![CDATA[A circular wave escaping a hexagon-bestagon (long version)]]></title>
+        <id>https://www.youtube.com/watch?v=B7GsV9HvYBw</id>
+        <link href="https://www.youtube.com/watch?v=B7GsV9HvYBw"/>
+        <updated>2022-09-11T09:00:05.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Reviewer Got Reviewed  - WAN Show September 9, 2022]]></title>
-        <id>https://www.youtube.com/watch?v=1ctXiZsN6ac</id>
-        <link href="https://www.youtube.com/watch?v=1ctXiZsN6ac"/>
-        <updated>2022-09-10T03:46:49.000Z</updated>
+        <title type="html"><![CDATA[Phase space representation of the billiard in an ellipse]]></title>
+        <id>https://www.youtube.com/watch?v=jKARG3cqZU8</id>
+        <link href="https://www.youtube.com/watch?v=jKARG3cqZU8"/>
+        <updated>2022-09-10T09:00:32.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Computer I Would Actually BUY]]></title>
-        <id>https://www.youtube.com/watch?v=CY3OQh-7wIk</id>
-        <link href="https://www.youtube.com/watch?v=CY3OQh-7wIk"/>
-        <updated>2022-09-08T23:21:46.000Z</updated>
+        <title type="html"><![CDATA[A circular wave escaping a hexagon-bestagon (short version)]]></title>
+        <id>https://www.youtube.com/watch?v=h4SPn2TqoJk</id>
+        <link href="https://www.youtube.com/watch?v=h4SPn2TqoJk"/>
+        <updated>2022-09-09T09:00:33.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Day with a Barcelona Developer | DevCities (From photographer to dev, importance of communities)]]></title>
-        <id>https://www.youtube.com/watch?v=ADKuGSg3oEo</id>
-        <link href="https://www.youtube.com/watch?v=ADKuGSg3oEo"/>
-        <updated>2022-09-08T14:00:03.000Z</updated>
+        <title type="html"><![CDATA[Psychedelics: Chemicals, Consciousness, and Creativity]]></title>
+        <id>https://www.youtube.com/watch?v=kxFTWk9lLDU</id>
+        <link href="https://www.youtube.com/watch?v=kxFTWk9lLDU"/>
+        <updated>2022-09-08T19:00:09.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3 Alternatives for Heroku's Free Tier - Full Stack & API Hosting]]></title>
-        <id>https://www.youtube.com/watch?v=MusIvEKjqsc</id>
-        <link href="https://www.youtube.com/watch?v=MusIvEKjqsc"/>
-        <updated>2022-09-08T13:30:07.000Z</updated>
+        <title type="html"><![CDATA[Rocket comparison 7: Round chamber vs rectangular chamber]]></title>
+        <id>https://www.youtube.com/watch?v=mwjHeJp5XMI</id>
+        <link href="https://www.youtube.com/watch?v=mwjHeJp5XMI"/>
+        <updated>2022-09-08T09:00:21.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Hey, DT! Will Linux Die Without Linus Torvalds?" (And Other Questions)]]></title>
-        <id>https://www.youtube.com/watch?v=DEQMDh544q4</id>
-        <link href="https://www.youtube.com/watch?v=DEQMDh544q4"/>
-        <updated>2022-09-08T12:56:53.000Z</updated>
+        <title type="html"><![CDATA[The Aharonov-Bohm effect with a stronger magnetic field]]></title>
+        <id>https://www.youtube.com/watch?v=rjOtPdZMsqM</id>
+        <link href="https://www.youtube.com/watch?v=rjOtPdZMsqM"/>
+        <updated>2022-09-07T09:00:34.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get an iPhone 14 or literally die.]]></title>
-        <id>https://www.youtube.com/watch?v=vh-jmvepDwA</id>
-        <link href="https://www.youtube.com/watch?v=vh-jmvepDwA"/>
-        <updated>2022-09-08T06:27:52.000Z</updated>
+        <title type="html"><![CDATA[Fourier Transforms in Partial Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=Lxq7AgGhabk</id>
+        <link href="https://www.youtube.com/watch?v=Lxq7AgGhabk"/>
+        <updated>2022-09-07T01:00:05.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Faculty of Khan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Thermal Paste? No Problem! #SHORTS #pcgaming]]></title>
-        <id>https://www.youtube.com/watch?v=qim2Y6v_4EI</id>
-        <link href="https://www.youtube.com/watch?v=qim2Y6v_4EI"/>
-        <updated>2022-09-08T05:00:12.000Z</updated>
+        <title type="html"><![CDATA[Why You Are Lonely and How to Make Friends]]></title>
+        <id>https://www.youtube.com/watch?v=I9hJ_Rux9y0</id>
+        <link href="https://www.youtube.com/watch?v=I9hJ_Rux9y0"/>
+        <updated>2022-09-06T13:59:36.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What are Chrome flags?]]></title>
-        <id>https://www.youtube.com/watch?v=K-T3Zz6qv7w</id>
-        <link href="https://www.youtube.com/watch?v=K-T3Zz6qv7w"/>
-        <updated>2022-09-07T23:00:15.000Z</updated>
+        <title type="html"><![CDATA[A circular wave escaping a pentagon]]></title>
+        <id>https://www.youtube.com/watch?v=vOM-O2gXoWM</id>
+        <link href="https://www.youtube.com/watch?v=vOM-O2gXoWM"/>
+        <updated>2022-09-06T09:00:32.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS background-attachment #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=no1YV6xgIv8</id>
-        <link href="https://www.youtube.com/watch?v=no1YV6xgIv8"/>
-        <updated>2022-09-07T17:03:19.000Z</updated>
+        <title type="html"><![CDATA[Zooming out of Bernoulli site percolation configurations on a lattice of triangles]]></title>
+        <id>https://www.youtube.com/watch?v=lVbop_jBm7I</id>
+        <link href="https://www.youtube.com/watch?v=lVbop_jBm7I"/>
+        <updated>2022-09-05T09:00:31.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Knowledge Graphs - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=PZBm7M0HGzw</id>
-        <link href="https://www.youtube.com/watch?v=PZBm7M0HGzw"/>
-        <updated>2022-09-07T13:58:14.000Z</updated>
+        <title type="html"><![CDATA[An attempt at illustrating the Aharonov-Bohm effect]]></title>
+        <id>https://www.youtube.com/watch?v=eLlV3lgruMQ</id>
+        <link href="https://www.youtube.com/watch?v=eLlV3lgruMQ"/>
+        <updated>2022-09-04T09:00:25.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XMonad Can Force Your Terminal To Swallow]]></title>
-        <id>https://www.youtube.com/watch?v=XUCLnXIFnjc</id>
-        <link href="https://www.youtube.com/watch?v=XUCLnXIFnjc"/>
-        <updated>2022-09-06T17:00:17.000Z</updated>
+        <title type="html"><![CDATA[Opening a release valve in a dam, with a more regular initial state]]></title>
+        <id>https://www.youtube.com/watch?v=JSpM6F5mm7M</id>
+        <link href="https://www.youtube.com/watch?v=JSpM6F5mm7M"/>
+        <updated>2022-09-03T09:00:09.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Only Computer I Need]]></title>
-        <id>https://www.youtube.com/watch?v=zy2a47e-Qao</id>
-        <link href="https://www.youtube.com/watch?v=zy2a47e-Qao"/>
-        <updated>2022-09-06T17:00:06.000Z</updated>
+        <title type="html"><![CDATA[PDE 101: Separation of Variables! ...or how I learned to stop worrying and solve Laplace's equation]]></title>
+        <id>https://www.youtube.com/watch?v=VjWtMl6vQ3Q</id>
+        <link href="https://www.youtube.com/watch?v=VjWtMl6vQ3Q"/>
+        <updated>2022-09-02T10:00:15.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why do I have 80 Staff?]]></title>
-        <id>https://www.youtube.com/watch?v=HCXQzLbDrgs</id>
-        <link href="https://www.youtube.com/watch?v=HCXQzLbDrgs"/>
-        <updated>2022-09-05T17:00:47.000Z</updated>
+        <title type="html"><![CDATA[All you feel: A circular wave escaping a  prism]]></title>
+        <id>https://www.youtube.com/watch?v=cW8B4Ci2zNc</id>
+        <link href="https://www.youtube.com/watch?v=cW8B4Ci2zNc"/>
+        <updated>2022-09-02T09:00:32.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn the Basics of the Dired File Manager (Doom Emacs)]]></title>
-        <id>https://www.youtube.com/watch?v=eQ_3L702n7w</id>
-        <link href="https://www.youtube.com/watch?v=eQ_3L702n7w"/>
-        <updated>2022-09-05T12:56:39.000Z</updated>
+        <title type="html"><![CDATA[Zooming out of a fractal percolation configuration]]></title>
+        <id>https://www.youtube.com/watch?v=pU7R9MGoLtA</id>
+        <link href="https://www.youtube.com/watch?v=pU7R9MGoLtA"/>
+        <updated>2022-09-01T09:00:21.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This PC took 600 HOURS to Build!]]></title>
-        <id>https://www.youtube.com/watch?v=t03rmc-prJo</id>
-        <link href="https://www.youtube.com/watch?v=t03rmc-prJo"/>
-        <updated>2022-09-04T17:00:26.000Z</updated>
+        <title type="html"><![CDATA[3D rendering of 2D seismic waves]]></title>
+        <id>https://www.youtube.com/watch?v=AiITAG8Kr_8</id>
+        <link href="https://www.youtube.com/watch?v=AiITAG8Kr_8"/>
+        <updated>2022-08-31T09:00:10.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube Burnout Is Real (And How To Prevent It!)]]></title>
-        <id>https://www.youtube.com/watch?v=JbfKFRhn7uM</id>
-        <link href="https://www.youtube.com/watch?v=JbfKFRhn7uM"/>
-        <updated>2022-09-03T21:46:26.000Z</updated>
+        <title type="html"><![CDATA[The weirdest paradox in statistics (and machine learning)]]></title>
+        <id>https://www.youtube.com/watch?v=cUqoHQDinCM</id>
+        <link href="https://www.youtube.com/watch?v=cUqoHQDinCM"/>
+        <updated>2022-08-30T14:00:18.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Mathemaniac</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Keep My House In Order]]></title>
-        <id>https://www.youtube.com/watch?v=9XozhdsYHDc</id>
-        <link href="https://www.youtube.com/watch?v=9XozhdsYHDc"/>
-        <updated>2022-09-03T17:01:49.000Z</updated>
+        <title type="html"><![CDATA[A Rayleigh-Taylor instability under horizontal gravity]]></title>
+        <id>https://www.youtube.com/watch?v=rd0B8tZ_iY8</id>
+        <link href="https://www.youtube.com/watch?v=rd0B8tZ_iY8"/>
+        <updated>2022-08-30T09:00:22.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I've never been so angry...  - WAN Show September 2, 2022]]></title>
-        <id>https://www.youtube.com/watch?v=EUu0bnDNC-A</id>
-        <link href="https://www.youtube.com/watch?v=EUu0bnDNC-A"/>
-        <updated>2022-09-03T03:32:11.000Z</updated>
+        <title type="html"><![CDATA[Zooming out of Bernoulli site percolation configurations on a honeycomb lattice]]></title>
+        <id>https://www.youtube.com/watch?v=ItpWHgB2H_Q</id>
+        <link href="https://www.youtube.com/watch?v=ItpWHgB2H_Q"/>
+        <updated>2022-08-29T09:00:08.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Justify Your Existence. I'll Wait.]]></title>
-        <id>https://www.youtube.com/watch?v=1CX8xXwYTl4</id>
-        <link href="https://www.youtube.com/watch?v=1CX8xXwYTl4"/>
-        <updated>2022-09-02T17:01:26.000Z</updated>
+        <title type="html"><![CDATA[Physics-Informed Dynamic Mode Decomposition (PI-DMD)]]></title>
+        <id>https://www.youtube.com/watch?v=lx-msllg1kU</id>
+        <link href="https://www.youtube.com/watch?v=lx-msllg1kU"/>
+        <updated>2022-08-26T16:00:28.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install Third Party DEB Packages With 'deb get' (Reduces Need For Snaps!)]]></title>
-        <id>https://www.youtube.com/watch?v=xkdTMIp3PTg</id>
-        <link href="https://www.youtube.com/watch?v=xkdTMIp3PTg"/>
-        <updated>2022-09-02T12:58:06.000Z</updated>
+        <title type="html"><![CDATA[Circle billiard with 10 000 balls]]></title>
+        <id>https://www.youtube.com/watch?v=mcmHLtVkvRo</id>
+        <link href="https://www.youtube.com/watch?v=mcmHLtVkvRo"/>
+        <updated>2022-08-24T18:39:02.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Alexander Gustafsson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I didn’t break this but I REALLY want to]]></title>
-        <id>https://www.youtube.com/watch?v=NypT2CZdeiI</id>
-        <link href="https://www.youtube.com/watch?v=NypT2CZdeiI"/>
-        <updated>2022-09-01T17:31:20.000Z</updated>
+        <title type="html"><![CDATA[Enhancing Computational Fluid Dynamics with Machine Learning]]></title>
+        <id>https://www.youtube.com/watch?v=i-_1RY6EBI0</id>
+        <link href="https://www.youtube.com/watch?v=i-_1RY6EBI0"/>
+        <updated>2022-08-19T10:00:24.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why our Screwdriver took 3 YEARS]]></title>
-        <id>https://www.youtube.com/watch?v=2K5Gqp1cEcM</id>
-        <link href="https://www.youtube.com/watch?v=2K5Gqp1cEcM"/>
-        <updated>2022-08-31T17:19:22.000Z</updated>
+        <title type="html"><![CDATA[Scientific Controversies: James Webb Space Telescope]]></title>
+        <id>https://www.youtube.com/watch?v=pCRwJdwFvmI</id>
+        <link href="https://www.youtube.com/watch?v=pCRwJdwFvmI"/>
+        <updated>2022-08-18T15:00:35.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What are Chrome Variations?]]></title>
-        <id>https://www.youtube.com/watch?v=teSgavrweWI</id>
-        <link href="https://www.youtube.com/watch?v=teSgavrweWI"/>
-        <updated>2022-08-31T17:03:19.000Z</updated>
+        <title type="html"><![CDATA[Medicine Singers Live at Greenwood Cemetery - Sunrise (Rumble) ft. Yonatan Gat]]></title>
+        <id>https://www.youtube.com/watch?v=M6Nz9dasR3k</id>
+        <link href="https://www.youtube.com/watch?v=M6Nz9dasR3k"/>
+        <updated>2022-08-18T13:00:07.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Odysee Is Still The Best YouTube Alternative (And It's Getting Better!)]]></title>
-        <id>https://www.youtube.com/watch?v=fPO60RVGtOw</id>
-        <link href="https://www.youtube.com/watch?v=fPO60RVGtOw"/>
-        <updated>2022-08-31T17:00:21.000Z</updated>
+        <title type="html"><![CDATA[How many people might ever exist, calculated]]></title>
+        <id>https://www.youtube.com/watch?v=r6sa_fWQB_4</id>
+        <link href="https://www.youtube.com/watch?v=r6sa_fWQB_4"/>
+        <updated>2022-08-16T15:50:00.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Primer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SLAM Robot Mapping - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=-XU54IsG8Vo</id>
-        <link href="https://www.youtube.com/watch?v=-XU54IsG8Vo"/>
-        <updated>2022-08-31T12:37:13.000Z</updated>
+        <title type="html"><![CDATA[How Two Physicists Unlocked the Secrets of Two Dimensions]]></title>
+        <id>https://www.youtube.com/watch?v=kpsu9_ql0-M</id>
+        <link href="https://www.youtube.com/watch?v=kpsu9_ql0-M"/>
+        <updated>2022-08-16T15:45:19.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>Quanta Magazine</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New in Chrome 105: Container Queries, :has, the Sanitizer API, and more!]]></title>
-        <id>https://www.youtube.com/watch?v=qwdN1fJA_d8</id>
-        <link href="https://www.youtube.com/watch?v=qwdN1fJA_d8"/>
-        <updated>2022-08-30T19:01:25.000Z</updated>
+        <title type="html"><![CDATA[Is Civilization on the Brink of Collapse?]]></title>
+        <id>https://www.youtube.com/watch?v=W93XyXHI8Nw</id>
+        <link href="https://www.youtube.com/watch?v=W93XyXHI8Nw"/>
+        <updated>2022-08-16T13:59:34.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ryzen 7000 is NOT what I Expected!]]></title>
-        <id>https://www.youtube.com/watch?v=c0hv8h2a4Tk</id>
-        <link href="https://www.youtube.com/watch?v=c0hv8h2a4Tk"/>
-        <updated>2022-08-30T15:23:14.000Z</updated>
+        <title type="html"><![CDATA[Black hole passing in front of the Andromeda galaxy]]></title>
+        <id>https://www.youtube.com/watch?v=M70sUauxrdc</id>
+        <link href="https://www.youtube.com/watch?v=M70sUauxrdc"/>
+        <updated>2022-08-14T10:14:18.000Z</updated>
         <author>
-            <name>Linus Tech Tips</name>
+            <name>Alexander Gustafsson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magic tricks with the HTML parser | HTTP 203]]></title>
-        <id>https://www.youtube.com/watch?v=LLRig4s1_yA</id>
-        <link href="https://www.youtube.com/watch?v=LLRig4s1_yA"/>
-        <updated>2022-08-30T15:06:10.000Z</updated>
+        <title type="html"><![CDATA[Annoying maze billiard]]></title>
+        <id>https://www.youtube.com/watch?v=HbwCrVyqS4I</id>
+        <link href="https://www.youtube.com/watch?v=HbwCrVyqS4I"/>
+        <updated>2022-08-12T21:16:17.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Alexander Gustafsson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Linux Respects Your Privacy (And How Windows Does NOT!)]]></title>
-        <id>https://www.youtube.com/watch?v=KarYADRAoTU</id>
-        <link href="https://www.youtube.com/watch?v=KarYADRAoTU"/>
-        <updated>2022-08-30T12:57:13.000Z</updated>
+        <title type="html"><![CDATA[The Experimental Double Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control]]></title>
+        <id>https://www.youtube.com/watch?v=OkEsTLeIP98</id>
+        <link href="https://www.youtube.com/watch?v=OkEsTLeIP98"/>
+        <updated>2022-08-12T10:00:15.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astro Crash Course]]></title>
-        <id>https://www.youtube.com/watch?v=Oi9z5gfIHJs</id>
-        <link href="https://www.youtube.com/watch?v=Oi9z5gfIHJs"/>
-        <updated>2022-08-29T14:28:44.000Z</updated>
+        <title type="html"><![CDATA[Mill Creek Marsh, Atlantic White Cedar Remnants]]></title>
+        <id>https://www.youtube.com/watch?v=gacdGogOnVM</id>
+        <link href="https://www.youtube.com/watch?v=gacdGogOnVM"/>
+        <updated>2022-08-11T13:55:54.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chat With Patrons (Aug 28, 2022)]]></title>
-        <id>https://www.youtube.com/watch?v=Z_gRUuUTRRA</id>
-        <link href="https://www.youtube.com/watch?v=Z_gRUuUTRRA"/>
-        <updated>2022-08-28T17:17:59.000Z</updated>
+        <title type="html"><![CDATA[Phragmites 3D Render]]></title>
+        <id>https://www.youtube.com/watch?v=zjIOSSiJXcQ</id>
+        <link href="https://www.youtube.com/watch?v=zjIOSSiJXcQ"/>
+        <updated>2022-08-11T13:55:38.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Installation And First Look At Mabox Linux 22.08]]></title>
-        <id>https://www.youtube.com/watch?v=TBEDeY6tx7c</id>
-        <link href="https://www.youtube.com/watch?v=TBEDeY6tx7c"/>
-        <updated>2022-08-27T12:58:39.000Z</updated>
+        <title type="html"><![CDATA[MillCreekMarsh VR]]></title>
+        <id>https://www.youtube.com/watch?v=suEVPAcq1b0</id>
+        <link href="https://www.youtube.com/watch?v=suEVPAcq1b0"/>
+        <updated>2022-08-11T13:55:31.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome 105 - What’s New in DevTools]]></title>
-        <id>https://www.youtube.com/watch?v=bHw_56RiVsg</id>
-        <link href="https://www.youtube.com/watch?v=bHw_56RiVsg"/>
-        <updated>2022-08-25T23:00:13.000Z</updated>
+        <title type="html"><![CDATA[Exploring the Deep Mystery of Life's Origins]]></title>
+        <id>https://www.youtube.com/watch?v=ATubwpnVLAY</id>
+        <link href="https://www.youtube.com/watch?v=ATubwpnVLAY"/>
+        <updated>2022-08-08T15:31:36.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Quanta Magazine</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to speed up your workflow with Console shortcuts | DevTools Tips]]></title>
-        <id>https://www.youtube.com/watch?v=hdRDTj6ObiE</id>
-        <link href="https://www.youtube.com/watch?v=hdRDTj6ObiE"/>
-        <updated>2022-08-25T17:00:21.000Z</updated>
+        <title type="html"><![CDATA[Researchers Use Group Theory to Speed Up Algorithms — Introduction to Groups]]></title>
+        <id>https://www.youtube.com/watch?v=KufsL2VgELo</id>
+        <link href="https://www.youtube.com/watch?v=KufsL2VgELo"/>
+        <updated>2022-08-06T20:00:03.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Nemean</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub CEO talks about Copilot, available to developers since June ‘22. What do you think? #tech]]></title>
-        <id>https://www.youtube.com/watch?v=_GDpoiPkdsw</id>
-        <link href="https://www.youtube.com/watch?v=_GDpoiPkdsw"/>
-        <updated>2022-08-25T14:07:39.000Z</updated>
+        <title type="html"><![CDATA[Discrepancy Modeling with Physics Informed Machine Learning]]></title>
+        <id>https://www.youtube.com/watch?v=7n7xaviepKM</id>
+        <link href="https://www.youtube.com/watch?v=7n7xaviepKM"/>
+        <updated>2022-08-05T10:00:05.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do You Need To Learn Data Structures & Algorithms As A Developer?]]></title>
-        <id>https://www.youtube.com/watch?v=b_4ZchFAYRs</id>
-        <link href="https://www.youtube.com/watch?v=b_4ZchFAYRs"/>
-        <updated>2022-08-25T13:07:07.000Z</updated>
+        <title type="html"><![CDATA[Black hole passing by]]></title>
+        <id>https://www.youtube.com/watch?v=kpakKNfkwoM</id>
+        <link href="https://www.youtube.com/watch?v=kpakKNfkwoM"/>
+        <updated>2022-08-03T17:39:26.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>Alexander Gustafsson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xdotool Simulates Key Presses and Mouse Clicks]]></title>
-        <id>https://www.youtube.com/watch?v=1DF58wDDfBE</id>
-        <link href="https://www.youtube.com/watch?v=1DF58wDDfBE"/>
-        <updated>2022-08-25T12:56:28.000Z</updated>
+        <title type="html"><![CDATA[Highly schematic figure skating pirouette]]></title>
+        <id>https://www.youtube.com/watch?v=TZHrOXLLf7Q</id>
+        <link href="https://www.youtube.com/watch?v=TZHrOXLLf7Q"/>
+        <updated>2022-07-29T21:25:44.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Alexander Gustafsson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thinking on ways to solve CAFE WALL ILLUSION]]></title>
-        <id>https://www.youtube.com/watch?v=71jpjr7syc4</id>
-        <link href="https://www.youtube.com/watch?v=71jpjr7syc4"/>
-        <updated>2022-08-24T17:00:03.000Z</updated>
+        <title type="html"><![CDATA[Deriving the Heat Equation in 2D & 3D (& in N Dimensions!) with Control Volumes and Vector Calculus]]></title>
+        <id>https://www.youtube.com/watch?v=lBZIxv1bZDo</id>
+        <link href="https://www.youtube.com/watch?v=lBZIxv1bZDo"/>
+        <updated>2022-07-29T10:00:37.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fish Shell Tips and Tricks (Can Your Shell Do This?)]]></title>
-        <id>https://www.youtube.com/watch?v=8GN9D-OnG-A</id>
-        <link href="https://www.youtube.com/watch?v=8GN9D-OnG-A"/>
-        <updated>2022-08-23T12:55:41.000Z</updated>
+        <title type="html"><![CDATA[The Traveling Salesman Problem: When Good Enough Beats Perfect]]></title>
+        <id>https://www.youtube.com/watch?v=GiDsjIBOVoA</id>
+        <link href="https://www.youtube.com/watch?v=GiDsjIBOVoA"/>
+        <updated>2022-07-26T16:57:05.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Reducible</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manjaro and EndeavourOS are like Ding Dongs and Zingers]]></title>
-        <id>https://www.youtube.com/watch?v=p5FU5m_THGU</id>
-        <link href="https://www.youtube.com/watch?v=p5FU5m_THGU"/>
-        <updated>2022-08-21T13:50:57.000Z</updated>
+        <title type="html"><![CDATA[The Deadliest Virus on Earth]]></title>
+        <id>https://www.youtube.com/watch?v=4u5I8GYB79Y</id>
+        <link href="https://www.youtube.com/watch?v=4u5I8GYB79Y"/>
+        <updated>2022-07-26T13:58:55.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sparky Linux Is Debian With Non-GNOME Desktops]]></title>
-        <id>https://www.youtube.com/watch?v=EpLF8GacgiA</id>
-        <link href="https://www.youtube.com/watch?v=EpLF8GacgiA"/>
-        <updated>2022-08-20T12:58:15.000Z</updated>
+        <title type="html"><![CDATA[Good Scientific Code Workshop]]></title>
+        <id>https://www.youtube.com/watch?v=x3swaMSCcYk</id>
+        <link href="https://www.youtube.com/watch?v=x3swaMSCcYk"/>
+        <updated>2022-07-24T07:45:35.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>JuliaDynamics</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cool Retro Term Is A Blast From The Past]]></title>
-        <id>https://www.youtube.com/watch?v=MB7QYyz-hc0</id>
-        <link href="https://www.youtube.com/watch?v=MB7QYyz-hc0"/>
-        <updated>2022-08-18T12:57:36.000Z</updated>
+        <title type="html"><![CDATA[The Heat Equation and the Steady State Heat Distribution via Laplace's Equation]]></title>
+        <id>https://www.youtube.com/watch?v=OoRwXVIXpL0</id>
+        <link href="https://www.youtube.com/watch?v=OoRwXVIXpL0"/>
+        <updated>2022-07-22T10:00:24.000Z</updated>
         <author>
-            <name>DistroTube</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What are Chrome's origin trials?]]></title>
-        <id>https://www.youtube.com/watch?v=v_gI8wcsPUA</id>
-        <link href="https://www.youtube.com/watch?v=v_gI8wcsPUA"/>
-        <updated>2022-08-17T20:00:23.000Z</updated>
+        <title type="html"><![CDATA[Science vs. Fiction: Jennifer Egan on "The Candy House"]]></title>
+        <id>https://www.youtube.com/watch?v=T_jzGbeYkCw</id>
+        <link href="https://www.youtube.com/watch?v=T_jzGbeYkCw"/>
+        <updated>2022-07-20T14:12:16.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coffee with Brian Kernighan - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=GNyQxXw_oMQ</id>
-        <link href="https://www.youtube.com/watch?v=GNyQxXw_oMQ"/>
-        <updated>2022-08-16T16:08:29.000Z</updated>
+        <title type="html"><![CDATA[Deriving the Heat Equation: A Parabolic Partial Differential Equation for Heat Energy Conservation]]></title>
+        <id>https://www.youtube.com/watch?v=9d8PwnKVA-U</id>
+        <link href="https://www.youtube.com/watch?v=9d8PwnKVA-U"/>
+        <updated>2022-07-15T10:00:06.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create A Simple JavaScript App to Generate QR Codes]]></title>
-        <id>https://www.youtube.com/watch?v=qNiUlml9MDk</id>
-        <link href="https://www.youtube.com/watch?v=qNiUlml9MDk"/>
-        <updated>2022-08-16T13:17:27.000Z</updated>
+        <title type="html"><![CDATA[First Images: James Webb Space Telescope’s New View of the Cosmos]]></title>
+        <id>https://www.youtube.com/watch?v=5sMZw_DM5eA</id>
+        <link href="https://www.youtube.com/watch?v=5sMZw_DM5eA"/>
+        <updated>2022-07-12T20:33:56.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to inspect animations | DevTools Tips]]></title>
-        <id>https://www.youtube.com/watch?v=lVLzkleL_CE</id>
-        <link href="https://www.youtube.com/watch?v=lVLzkleL_CE"/>
-        <updated>2022-08-11T17:07:45.000Z</updated>
+        <title type="html"><![CDATA[Laplace's Equation and Poisson's Equation]]></title>
+        <id>https://www.youtube.com/watch?v=nmvs0vrBT18</id>
+        <link href="https://www.youtube.com/watch?v=nmvs0vrBT18"/>
+        <updated>2022-07-08T10:00:36.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build A Digital Resume & Host For Free]]></title>
-        <id>https://www.youtube.com/watch?v=clwpf3VwCZQ</id>
-        <link href="https://www.youtube.com/watch?v=clwpf3VwCZQ"/>
-        <updated>2022-08-11T14:00:30.000Z</updated>
+        <title type="html"><![CDATA[BREYER P-ORRIDGE | We Are But One]]></title>
+        <id>https://www.youtube.com/watch?v=Wx0I4Zv4Y8s</id>
+        <link href="https://www.youtube.com/watch?v=Wx0I4Zv4Y8s"/>
+        <updated>2022-07-08T00:30:02.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explode a node #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=oe_n0OHMz6o</id>
-        <link href="https://www.youtube.com/watch?v=oe_n0OHMz6o"/>
-        <updated>2022-08-10T17:00:38.000Z</updated>
+        <title type="html"><![CDATA[Extra Credit: Introduction to Motion Capture and Web VR with LaJuné McMillian]]></title>
+        <id>https://www.youtube.com/watch?v=-Ztp2w_vi3o</id>
+        <link href="https://www.youtube.com/watch?v=-Ztp2w_vi3o"/>
+        <updated>2022-07-06T12:40:04.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Day with a Zürich Developer | DevCities (Work-life, Startups, and Life in Nature)]]></title>
-        <id>https://www.youtube.com/watch?v=bbda-9ZgiIY</id>
-        <link href="https://www.youtube.com/watch?v=bbda-9ZgiIY"/>
-        <updated>2022-08-10T15:09:46.000Z</updated>
+        <title type="html"><![CDATA[How to lie using visual proofs]]></title>
+        <id>https://www.youtube.com/watch?v=VYQVlVoWoPY</id>
+        <link href="https://www.youtube.com/watch?v=VYQVlVoWoPY"/>
+        <updated>2022-07-03T15:03:56.000Z</updated>
         <author>
-            <name>Honeypot</name>
+            <name>3Blue1Brown</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automated Mathematical Proofs - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=prYaTrZUces</id>
-        <link href="https://www.youtube.com/watch?v=prYaTrZUces"/>
-        <updated>2022-08-09T18:12:34.000Z</updated>
+        <title type="html"><![CDATA[Why you can't solve quintic equations (Galois theory approach) #SoME2]]></title>
+        <id>https://www.youtube.com/watch?v=zCU9tZ2VkWc</id>
+        <link href="https://www.youtube.com/watch?v=zCU9tZ2VkWc"/>
+        <updated>2022-07-03T14:00:23.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>Mathemaniac</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX Website Clone - HTML, CSS & JavaScript]]></title>
-        <id>https://www.youtube.com/watch?v=wryPX7KSwSc</id>
-        <link href="https://www.youtube.com/watch?v=wryPX7KSwSc"/>
-        <updated>2022-08-09T13:00:01.000Z</updated>
+        <title type="html"><![CDATA[Partial Differential Equations Overview]]></title>
+        <id>https://www.youtube.com/watch?v=pvrIagjEk4c</id>
+        <link href="https://www.youtube.com/watch?v=pvrIagjEk4c"/>
+        <updated>2022-07-01T10:00:37.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What are Chrome release channels?]]></title>
-        <id>https://www.youtube.com/watch?v=WL1guL5n9PU</id>
-        <link href="https://www.youtube.com/watch?v=WL1guL5n9PU"/>
-        <updated>2022-08-03T17:34:58.000Z</updated>
+        <title type="html"><![CDATA[School’s Out, but Science Never Stops: Live Discussion with Brian Greene]]></title>
+        <id>https://www.youtube.com/watch?v=bHKbIhSWpl4</id>
+        <link href="https://www.youtube.com/watch?v=bHKbIhSWpl4"/>
+        <updated>2022-06-30T20:21:02.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New in Chrome 104: Region Capture, Media Queries, Shared Element Transitions, and more!]]></title>
-        <id>https://www.youtube.com/watch?v=GIt-g0nkt8w</id>
-        <link href="https://www.youtube.com/watch?v=GIt-g0nkt8w"/>
-        <updated>2022-08-02T17:00:21.000Z</updated>
+        <title type="html"><![CDATA[Scientific Controversies: Genetic Manipulation]]></title>
+        <id>https://www.youtube.com/watch?v=re7LrVtTPQ4</id>
+        <link href="https://www.youtube.com/watch?v=re7LrVtTPQ4"/>
+        <updated>2022-06-28T14:29:57.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scratch? Python? C? Kernighan on Languages for Kids Coding - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=h8LTEFNLZ6M</id>
-        <link href="https://www.youtube.com/watch?v=h8LTEFNLZ6M"/>
-        <updated>2022-08-02T14:00:19.000Z</updated>
+        <title type="html"><![CDATA[The Last Human – A Glimpse Into The Far Future]]></title>
+        <id>https://www.youtube.com/watch?v=LEENEFaVUzU</id>
+        <link href="https://www.youtube.com/watch?v=LEENEFaVUzU"/>
+        <updated>2022-06-28T14:00:23.000Z</updated>
         <author>
-            <name>Computerphile</name>
+            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carbon Lang First Look & Crash Course | Google's C++ Successor]]></title>
-        <id>https://www.youtube.com/watch?v=MMxbP8ME2Ag</id>
-        <link href="https://www.youtube.com/watch?v=MMxbP8ME2Ag"/>
-        <updated>2022-08-01T13:35:01.000Z</updated>
+        <title type="html"><![CDATA[How To Catch A Cheater With Math]]></title>
+        <id>https://www.youtube.com/watch?v=XTcP4oo4JI4</id>
+        <link href="https://www.youtube.com/watch?v=XTcP4oo4JI4"/>
+        <updated>2022-06-25T16:45:31.000Z</updated>
         <author>
-            <name>Traversy Media</name>
+            <name>Primer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to log messages in the Console | DevTools Tips]]></title>
-        <id>https://www.youtube.com/watch?v=76U0gtuV9AY</id>
-        <link href="https://www.youtube.com/watch?v=76U0gtuV9AY"/>
-        <updated>2022-07-28T23:00:02.000Z</updated>
+        <title type="html"><![CDATA[Black Holes: Seeing the Unseeable]]></title>
+        <id>https://www.youtube.com/watch?v=UtcBFlWSqGM</id>
+        <link href="https://www.youtube.com/watch?v=UtcBFlWSqGM"/>
+        <updated>2022-06-17T19:00:09.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome 104 - What’s New in DevTools]]></title>
-        <id>https://www.youtube.com/watch?v=4RXWfw7Xg_Y</id>
-        <link href="https://www.youtube.com/watch?v=4RXWfw7Xg_Y"/>
-        <updated>2022-07-28T17:08:37.000Z</updated>
+        <title type="html"><![CDATA[Potential Flow Part 2: Details and Examples]]></title>
+        <id>https://www.youtube.com/watch?v=Xfjs31WcY04</id>
+        <link href="https://www.youtube.com/watch?v=Xfjs31WcY04"/>
+        <updated>2022-06-17T10:00:25.000Z</updated>
         <author>
-            <name>Google Chrome Developers</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Pronounce JSON by Douglas Crockford 💅]]></title>
-        <id>https://www.youtube.com/watch?v=uR-f4b0G9lo</id>
-        <link href="https://www.youtube.com/watch?v=uR-f4b0G9lo"/>
-        <updated>2022-07-28T13:00:09.000Z</updated>
+        <title type="html"><![CDATA[The Triple Bubble Theorem]]></title>
+        <id>https://www.youtube.com/watch?v=afRzpih8MZY</id>
+        <link href="https://www.youtube.com/watch?v=afRzpih8MZY"/>
+        <updated>2022-06-16T13:55:39.000Z</updated>
         <author>
-            <name>Honeypot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tricking AI Image Recognition - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=gGIiechWEFs</id>
-        <link href="https://www.youtube.com/watch?v=gGIiechWEFs"/>
-        <updated>2022-07-27T14:07:09.000Z</updated>
-        <author>
-            <name>Computerphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 HTML, CSS & JS Mini Projects - Scroll Animation, Rotating Navigation, Drag Events, etc]]></title>
-        <id>https://www.youtube.com/watch?v=HtunPQtr-Xw</id>
-        <link href="https://www.youtube.com/watch?v=HtunPQtr-Xw"/>
-        <updated>2022-07-27T13:27:54.000Z</updated>
-        <author>
-            <name>Traversy Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computing with Soft Robots - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=6eP7_iDJk4k</id>
-        <link href="https://www.youtube.com/watch?v=6eP7_iDJk4k"/>
-        <updated>2022-07-21T14:27:35.000Z</updated>
-        <author>
-            <name>Computerphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve The Developer Hiring Process]]></title>
-        <id>https://www.youtube.com/watch?v=t3w7OCDbmnc</id>
-        <link href="https://www.youtube.com/watch?v=t3w7OCDbmnc"/>
-        <updated>2022-07-19T13:30:21.000Z</updated>
-        <author>
-            <name>Traversy Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LaMDA Logic - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=ONloZfZEbUE</id>
-        <link href="https://www.youtube.com/watch?v=ONloZfZEbUE"/>
-        <updated>2022-07-18T11:44:22.000Z</updated>
-        <author>
-            <name>Computerphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Creator of CSS Reacts to Creative Coding 🎨]]></title>
-        <id>https://www.youtube.com/watch?v=TZfDWiwlRlE</id>
-        <link href="https://www.youtube.com/watch?v=TZfDWiwlRlE"/>
-        <updated>2022-07-14T13:59:57.000Z</updated>
-        <author>
-            <name>Honeypot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Under The Hood [5] - JavaScript Engine Overview]]></title>
-        <id>https://www.youtube.com/watch?v=oc6faXVc54E</id>
-        <link href="https://www.youtube.com/watch?v=oc6faXVc54E"/>
-        <updated>2022-07-12T15:39:48.000Z</updated>
-        <author>
-            <name>Traversy Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Under The Hood [4] - Memory Storage]]></title>
-        <id>https://www.youtube.com/watch?v=Hci9Bb4_fkA</id>
-        <link href="https://www.youtube.com/watch?v=Hci9Bb4_fkA"/>
-        <updated>2022-07-12T15:29:46.000Z</updated>
-        <author>
-            <name>Traversy Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse Engineering - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=9tZmSFjoOm4</id>
-        <link href="https://www.youtube.com/watch?v=9tZmSFjoOm4"/>
-        <updated>2022-07-08T13:53:06.000Z</updated>
-        <author>
-            <name>Computerphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Under The Hood [3} - Asynchronous JavaScript, Task Queue & Event Loop]]></title>
-        <id>https://www.youtube.com/watch?v=28AXSTCpsyU</id>
-        <link href="https://www.youtube.com/watch?v=28AXSTCpsyU"/>
-        <updated>2022-07-07T13:00:02.000Z</updated>
-        <author>
-            <name>Traversy Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Under The Hood [2] - Execution Context]]></title>
-        <id>https://www.youtube.com/watch?v=Fd9VaW0M7K4</id>
-        <link href="https://www.youtube.com/watch?v=Fd9VaW0M7K4"/>
-        <updated>2022-06-30T15:13:30.000Z</updated>
-        <author>
-            <name>Traversy Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Under The Hood [1] - Thread & Call Stack]]></title>
-        <id>https://www.youtube.com/watch?v=-G9c4CMMUKc</id>
-        <link href="https://www.youtube.com/watch?v=-G9c4CMMUKc"/>
-        <updated>2022-06-30T15:01:38.000Z</updated>
-        <author>
-            <name>Traversy Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Go From 0% to Employed Developer with Anna McDougall]]></title>
-        <id>https://www.youtube.com/watch?v=AfsZwBrCMlE</id>
-        <link href="https://www.youtube.com/watch?v=AfsZwBrCMlE"/>
-        <updated>2022-06-23T14:01:24.000Z</updated>
-        <author>
-            <name>Honeypot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Server Setup & MERN Deployment]]></title>
-        <id>https://www.youtube.com/watch?v=7aRjGIhwyQM</id>
-        <link href="https://www.youtube.com/watch?v=7aRjGIhwyQM"/>
-        <updated>2022-06-20T13:00:37.000Z</updated>
-        <author>
-            <name>Traversy Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No, it's not Sentient - Computerphile]]></title>
-        <id>https://www.youtube.com/watch?v=iBouACLc-hw</id>
-        <link href="https://www.youtube.com/watch?v=iBouACLc-hw"/>
-        <updated>2022-06-17T21:11:25.000Z</updated>
-        <author>
-            <name>Computerphile</name>
+            <name>Association for Mathematical Research</name>
         </author>
     </entry>
 </feed>
