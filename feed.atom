@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T00:53:22.237Z</id>
+    <id>urn:2022-09-14T00:51:14.098Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-13T00:53:22.237Z</updated>
+    <updated>2022-09-14T00:51:14.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[One Man's Mission to Unveil Math's Beauty]]></title>
+        <id>https://www.youtube.com/watch?v=TL7XhfrLF4k</id>
+        <link href="https://www.youtube.com/watch?v=TL7XhfrLF4k"/>
+        <updated>2022-09-13T15:00:38.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A wave guide]]></title>
+        <id>https://www.youtube.com/watch?v=1NVTdzSUL6Y</id>
+        <link href="https://www.youtube.com/watch?v=1NVTdzSUL6Y"/>
+        <updated>2022-09-13T09:00:02.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solving the Heat Equation with Convection | Partial Differential Equations]]></title>
         <id>https://www.youtube.com/watch?v=mPkZ_VVNFfo</id>
@@ -181,15 +199,6 @@
         <id>https://www.youtube.com/watch?v=rd0B8tZ_iY8</id>
         <link href="https://www.youtube.com/watch?v=rd0B8tZ_iY8"/>
         <updated>2022-08-30T09:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zooming out of Bernoulli site percolation configurations on a honeycomb lattice]]></title>
-        <id>https://www.youtube.com/watch?v=ItpWHgB2H_Q</id>
-        <link href="https://www.youtube.com/watch?v=ItpWHgB2H_Q"/>
-        <updated>2022-08-29T09:00:08.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
