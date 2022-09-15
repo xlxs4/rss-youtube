@@ -205,6 +205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6OPnbmLed2Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6OPnbmLed2Y",
+          "publishedOn": "2022-09-14T09:00:06.000Z",
+          "wordCount": null,
+          "title": "Phase space representation of billiards in a stadium and in a lemon",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1NVTdzSUL6Y",
           "author": null,
           "description": "",
@@ -343,16 +353,6 @@
           "wordCount": null,
           "title": "3D rendering of 2D seismic waves",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rd0B8tZ_iY8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rd0B8tZ_iY8",
-          "publishedOn": "2022-08-30T09:00:22.000Z",
-          "wordCount": null,
-          "title": "A Rayleigh-Taylor instability under horizontal gravity",
-          "imageUrl": null
         }
       ]
     },
@@ -360,18 +360,7 @@
       "title": "Association for Mathematical Research",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
       "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=afRzpih8MZY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=afRzpih8MZY",
-          "publishedOn": "2022-06-16T13:55:39.000Z",
-          "wordCount": null,
-          "title": "The Triple Bubble Theorem",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kurzgesagt – In a Nutshell",
@@ -523,16 +512,6 @@
           "publishedOn": "2022-07-01T10:00:37.000Z",
           "wordCount": null,
           "title": "Partial Differential Equations Overview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xfjs31WcY04",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xfjs31WcY04",
-          "publishedOn": "2022-06-17T10:00:25.000Z",
-          "wordCount": null,
-          "title": "Potential Flow Part 2: Details and Examples",
           "imageUrl": null
         }
       ]

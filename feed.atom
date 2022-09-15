@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-14T00:51:14.098Z</id>
+    <id>urn:2022-09-15T00:56:39.892Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T00:51:14.098Z</updated>
+    <updated>2022-09-15T00:56:39.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of billiards in a stadium and in a lemon]]></title>
+        <id>https://www.youtube.com/watch?v=6OPnbmLed2Y</id>
+        <link href="https://www.youtube.com/watch?v=6OPnbmLed2Y"/>
+        <updated>2022-09-14T09:00:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Man's Mission to Unveil Math's Beauty]]></title>
         <id>https://www.youtube.com/watch?v=TL7XhfrLF4k</id>
@@ -192,15 +201,6 @@
         <updated>2022-08-30T14:00:18.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Rayleigh-Taylor instability under horizontal gravity]]></title>
-        <id>https://www.youtube.com/watch?v=rd0B8tZ_iY8</id>
-        <link href="https://www.youtube.com/watch?v=rd0B8tZ_iY8"/>
-        <updated>2022-08-30T09:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -543,24 +543,6 @@
         <updated>2022-06-17T19:00:09.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potential Flow Part 2: Details and Examples]]></title>
-        <id>https://www.youtube.com/watch?v=Xfjs31WcY04</id>
-        <link href="https://www.youtube.com/watch?v=Xfjs31WcY04"/>
-        <updated>2022-06-17T10:00:25.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Triple Bubble Theorem]]></title>
-        <id>https://www.youtube.com/watch?v=afRzpih8MZY</id>
-        <link href="https://www.youtube.com/watch?v=afRzpih8MZY"/>
-        <updated>2022-06-16T13:55:39.000Z</updated>
-        <author>
-            <name>Association for Mathematical Research</name>
         </author>
     </entry>
 </feed>
