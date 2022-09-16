@@ -205,6 +205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bHdGeR77jPg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bHdGeR77jPg",
+          "publishedOn": "2022-09-15T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Bernoulli percolation on a cubic lattice",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6OPnbmLed2Y",
           "author": null,
           "description": "",
@@ -342,16 +352,6 @@
           "publishedOn": "2022-09-01T09:00:21.000Z",
           "wordCount": null,
           "title": "Zooming out of a fractal percolation configuration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AiITAG8Kr_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AiITAG8Kr_8",
-          "publishedOn": "2022-08-31T09:00:10.000Z",
-          "wordCount": null,
-          "title": "3D rendering of 2D seismic waves",
           "imageUrl": null
         }
       ]
@@ -690,16 +690,6 @@
           "publishedOn": "2022-06-30T20:21:02.000Z",
           "wordCount": null,
           "title": "School’s Out, but Science Never Stops: Live Discussion with Brian Greene",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UtcBFlWSqGM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UtcBFlWSqGM",
-          "publishedOn": "2022-06-17T19:00:09.000Z",
-          "wordCount": null,
-          "title": "Black Holes: Seeing the Unseeable",
           "imageUrl": null
         }
       ]

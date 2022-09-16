@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-15T00:56:39.892Z</id>
+    <id>urn:2022-09-16T00:55:45.225Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-15T00:56:39.892Z</updated>
+    <updated>2022-09-16T00:55:45.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bernoulli percolation on a cubic lattice]]></title>
+        <id>https://www.youtube.com/watch?v=bHdGeR77jPg</id>
+        <link href="https://www.youtube.com/watch?v=bHdGeR77jPg"/>
+        <updated>2022-09-15T09:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phase space representation of billiards in a stadium and in a lemon]]></title>
         <id>https://www.youtube.com/watch?v=6OPnbmLed2Y</id>
@@ -181,15 +190,6 @@
         <id>https://www.youtube.com/watch?v=pU7R9MGoLtA</id>
         <link href="https://www.youtube.com/watch?v=pU7R9MGoLtA"/>
         <updated>2022-09-01T09:00:21.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D rendering of 2D seismic waves]]></title>
-        <id>https://www.youtube.com/watch?v=AiITAG8Kr_8</id>
-        <link href="https://www.youtube.com/watch?v=AiITAG8Kr_8"/>
-        <updated>2022-08-31T09:00:10.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -534,15 +534,6 @@
         <updated>2022-06-25T16:45:31.000Z</updated>
         <author>
             <name>Primer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Holes: Seeing the Unseeable]]></title>
-        <id>https://www.youtube.com/watch?v=UtcBFlWSqGM</id>
-        <link href="https://www.youtube.com/watch?v=UtcBFlWSqGM"/>
-        <updated>2022-06-17T19:00:09.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
