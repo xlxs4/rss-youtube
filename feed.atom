@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-16T00:55:45.225Z</id>
+    <id>urn:2022-09-17T00:50:36.006Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-16T00:55:45.225Z</updated>
+    <updated>2022-09-17T00:50:36.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deriving the Wave Equation]]></title>
+        <id>https://www.youtube.com/watch?v=UXqUXYaRyGU</id>
+        <link href="https://www.youtube.com/watch?v=UXqUXYaRyGU"/>
+        <updated>2022-09-16T10:00:16.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a maze with interacting Lennard-Jones particles]]></title>
+        <id>https://www.youtube.com/watch?v=FfnMaQF_2m8</id>
+        <link href="https://www.youtube.com/watch?v=FfnMaQF_2m8"/>
+        <updated>2022-09-16T09:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bernoulli percolation on a cubic lattice]]></title>
         <id>https://www.youtube.com/watch?v=bHdGeR77jPg</id>
@@ -181,15 +199,6 @@
         <id>https://www.youtube.com/watch?v=cW8B4Ci2zNc</id>
         <link href="https://www.youtube.com/watch?v=cW8B4Ci2zNc"/>
         <updated>2022-09-02T09:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zooming out of a fractal percolation configuration]]></title>
-        <id>https://www.youtube.com/watch?v=pU7R9MGoLtA</id>
-        <link href="https://www.youtube.com/watch?v=pU7R9MGoLtA"/>
-        <updated>2022-09-01T09:00:21.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
