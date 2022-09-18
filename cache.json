@@ -205,6 +205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Yl2RJCub0Iw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Yl2RJCub0Iw",
+          "publishedOn": "2022-09-17T09:00:20.000Z",
+          "wordCount": null,
+          "title": "3D rendering of a wave guide",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FfnMaQF_2m8",
           "author": null,
           "description": "",
@@ -343,16 +353,6 @@
           "wordCount": null,
           "title": "Opening a release valve in a dam, with a more regular initial state",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cW8B4Ci2zNc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cW8B4Ci2zNc",
-          "publishedOn": "2022-09-02T09:00:32.000Z",
-          "wordCount": null,
-          "title": "All you feel: A circular wave escaping a  prism",
-          "imageUrl": null
         }
       ]
     },
@@ -414,6 +414,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eI2x99SxJgU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eI2x99SxJgU",
+          "publishedOn": "2022-09-17T10:15:01.000Z",
+          "wordCount": null,
+          "title": "The Method of Characteristics and the Wave Equation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WR7z2bdY7Ko",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WR7z2bdY7Ko",
+          "publishedOn": "2022-09-17T10:15:01.000Z",
+          "wordCount": null,
+          "title": "The Wave Equation and Slack Line Physics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ywrgWRSQ3PY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ywrgWRSQ3PY",
+          "publishedOn": "2022-09-17T10:00:28.000Z",
+          "wordCount": null,
+          "title": "Solving the Wave Equation with Separation of Variables... and Guitar String Physics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UXqUXYaRyGU",
           "author": null,
