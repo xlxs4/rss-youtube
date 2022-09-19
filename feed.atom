@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-18T00:55:11.021Z</id>
+    <id>urn:2022-09-19T00:53:11.124Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-18T00:55:11.021Z</updated>
+    <updated>2022-09-19T00:53:11.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of the billiard in an annulus]]></title>
+        <id>https://www.youtube.com/watch?v=ivwXJHqC8NM</id>
+        <link href="https://www.youtube.com/watch?v=ivwXJHqC8NM"/>
+        <updated>2022-09-18T09:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Method of Characteristics and the Wave Equation]]></title>
         <id>https://www.youtube.com/watch?v=eI2x99SxJgU</id>
@@ -208,15 +217,6 @@
         <id>https://www.youtube.com/watch?v=eLlV3lgruMQ</id>
         <link href="https://www.youtube.com/watch?v=eLlV3lgruMQ"/>
         <updated>2022-09-04T09:00:25.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opening a release valve in a dam, with a more regular initial state]]></title>
-        <id>https://www.youtube.com/watch?v=JSpM6F5mm7M</id>
-        <link href="https://www.youtube.com/watch?v=JSpM6F5mm7M"/>
-        <updated>2022-09-03T09:00:09.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
