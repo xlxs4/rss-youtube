@@ -205,6 +205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eoOhRjDAGTg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eoOhRjDAGTg",
+          "publishedOn": "2022-09-19T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Growth of one cluster in Bernoulli percolation on a cubic lattice",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ivwXJHqC8NM",
           "author": null,
           "description": "",
@@ -342,16 +352,6 @@
           "publishedOn": "2022-09-05T09:00:31.000Z",
           "wordCount": null,
           "title": "Zooming out of Bernoulli site percolation configurations on a lattice of triangles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eLlV3lgruMQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eLlV3lgruMQ",
-          "publishedOn": "2022-09-04T09:00:25.000Z",
-          "wordCount": null,
-          "title": "An attempt at illustrating the Aharonov-Bohm effect",
           "imageUrl": null
         }
       ]
@@ -605,6 +605,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=C9_6ww-ODjA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C9_6ww-ODjA",
+          "publishedOn": "2022-09-19T23:11:19.000Z",
+          "wordCount": null,
+          "title": "Extra Credit: Making Your Own Chatbot With Carrie Sijia Wang",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pCRwJdwFvmI",
           "author": null,
