@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T00:53:06.564Z</id>
+    <id>urn:2022-09-23T00:57:07.519Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-22T00:53:06.564Z</updated>
+    <updated>2022-09-23T00:57:07.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A W-shaped wave guide]]></title>
+        <id>https://www.youtube.com/watch?v=yavj84JWjOA</id>
+        <link href="https://www.youtube.com/watch?v=yavj84JWjOA"/>
+        <updated>2022-09-22T09:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phase space representation of the billiard in Reuleaux-like triangles]]></title>
         <id>https://www.youtube.com/watch?v=-NEzUhFEb7g</id>
@@ -199,15 +208,6 @@
         <id>https://www.youtube.com/watch?v=mwjHeJp5XMI</id>
         <link href="https://www.youtube.com/watch?v=mwjHeJp5XMI"/>
         <updated>2022-09-08T09:00:21.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Aharonov-Bohm effect with a stronger magnetic field]]></title>
-        <id>https://www.youtube.com/watch?v=rjOtPdZMsqM</id>
-        <link href="https://www.youtube.com/watch?v=rjOtPdZMsqM"/>
-        <updated>2022-09-07T09:00:34.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
