@@ -51,16 +51,6 @@
           "wordCount": null,
           "title": "How many people might ever exist, calculated",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XTcP4oo4JI4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XTcP4oo4JI4",
-          "publishedOn": "2022-06-25T16:45:31.000Z",
-          "wordCount": null,
-          "title": "How To Catch A Cheater With Math",
-          "imageUrl": null
         }
       ]
     },
@@ -205,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gycRPplVaXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gycRPplVaXk",
+          "publishedOn": "2022-09-23T09:00:18.000Z",
+          "wordCount": null,
+          "title": "Cluster size distribution in Bernoulli percolation on a cubic lattice (rotating view)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yavj84JWjOA",
           "author": null,
           "description": "",
@@ -343,16 +343,6 @@
           "wordCount": null,
           "title": "A circular wave escaping a hexagon-bestagon (short version)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mwjHeJp5XMI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mwjHeJp5XMI",
-          "publishedOn": "2022-09-08T09:00:21.000Z",
-          "wordCount": null,
-          "title": "Rocket comparison 7: Round chamber vs rectangular chamber",
-          "imageUrl": null
         }
       ]
     },
@@ -414,6 +404,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9fQkLQZe3u8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9fQkLQZe3u8",
+          "publishedOn": "2022-09-23T10:00:11.000Z",
+          "wordCount": null,
+          "title": "Differential Equations and Dynamical Systems: Overview",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eI2x99SxJgU",
           "author": null,

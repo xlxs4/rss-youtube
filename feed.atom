@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-23T00:57:07.519Z</id>
+    <id>urn:2022-09-24T00:56:05.504Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-23T00:57:07.519Z</updated>
+    <updated>2022-09-24T00:56:05.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Differential Equations and Dynamical Systems: Overview]]></title>
+        <id>https://www.youtube.com/watch?v=9fQkLQZe3u8</id>
+        <link href="https://www.youtube.com/watch?v=9fQkLQZe3u8"/>
+        <updated>2022-09-23T10:00:11.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cluster size distribution in Bernoulli percolation on a cubic lattice (rotating view)]]></title>
+        <id>https://www.youtube.com/watch?v=gycRPplVaXk</id>
+        <link href="https://www.youtube.com/watch?v=gycRPplVaXk"/>
+        <updated>2022-09-23T09:00:18.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A W-shaped wave guide]]></title>
         <id>https://www.youtube.com/watch?v=yavj84JWjOA</id>
@@ -201,15 +219,6 @@
         <updated>2022-09-08T19:00:09.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket comparison 7: Round chamber vs rectangular chamber]]></title>
-        <id>https://www.youtube.com/watch?v=mwjHeJp5XMI</id>
-        <link href="https://www.youtube.com/watch?v=mwjHeJp5XMI"/>
-        <updated>2022-09-08T09:00:21.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -570,15 +579,6 @@
         <updated>2022-06-28T14:00:23.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Catch A Cheater With Math]]></title>
-        <id>https://www.youtube.com/watch?v=XTcP4oo4JI4</id>
-        <link href="https://www.youtube.com/watch?v=XTcP4oo4JI4"/>
-        <updated>2022-06-25T16:45:31.000Z</updated>
-        <author>
-            <name>Primer</name>
         </author>
     </entry>
 </feed>
