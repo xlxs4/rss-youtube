@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-24T00:56:05.504Z</id>
+    <id>urn:2022-09-25T00:52:58.427Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-24T00:56:05.504Z</updated>
+    <updated>2022-09-25T00:52:58.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of the billiard in Reuleaux-like pentagons]]></title>
+        <id>https://www.youtube.com/watch?v=JF9BUZp8xH0</id>
+        <link href="https://www.youtube.com/watch?v=JF9BUZp8xH0"/>
+        <updated>2022-09-24T09:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Differential Equations and Dynamical Systems: Overview]]></title>
         <id>https://www.youtube.com/watch?v=9fQkLQZe3u8</id>
@@ -199,15 +208,6 @@
         <id>https://www.youtube.com/watch?v=jKARG3cqZU8</id>
         <link href="https://www.youtube.com/watch?v=jKARG3cqZU8"/>
         <updated>2022-09-10T09:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A circular wave escaping a hexagon-bestagon (short version)]]></title>
-        <id>https://www.youtube.com/watch?v=h4SPn2TqoJk</id>
-        <link href="https://www.youtube.com/watch?v=h4SPn2TqoJk"/>
-        <updated>2022-09-09T09:00:33.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
