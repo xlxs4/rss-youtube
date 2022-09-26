@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bruyFexIiLU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bruyFexIiLU",
+          "publishedOn": "2022-09-26T09:00:14.000Z",
+          "wordCount": null,
+          "title": "Growth of a percolation cluster in 3D (rotating view)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wY4KG8r4lbg",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "A Rayleigh-Taylor instability under horizontal gravity with a 4:1 mass ratio",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B7GsV9HvYBw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B7GsV9HvYBw",
-          "publishedOn": "2022-09-11T09:00:05.000Z",
-          "wordCount": null,
-          "title": "A circular wave escaping a hexagon-bestagon (long version)",
-          "imageUrl": null
         }
       ]
     },
@@ -385,16 +385,6 @@
           "publishedOn": "2022-07-26T13:58:55.000Z",
           "wordCount": null,
           "title": "The Deadliest Virus on Earth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LEENEFaVUzU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LEENEFaVUzU",
-          "publishedOn": "2022-06-28T14:00:23.000Z",
-          "wordCount": null,
-          "title": "The Last Human – A Glimpse Into The Far Future",
           "imageUrl": null
         }
       ]
@@ -694,16 +684,6 @@
           "wordCount": null,
           "title": "Extra Credit: Introduction to Motion Capture and Web VR with LaJuné McMillian",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=re7LrVtTPQ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=re7LrVtTPQ4",
-          "publishedOn": "2022-06-28T14:29:57.000Z",
-          "wordCount": null,
-          "title": "Scientific Controversies: Genetic Manipulation",
-          "imageUrl": null
         }
       ]
     },
@@ -712,6 +692,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ugZemizXHB0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ugZemizXHB0",
+          "publishedOn": "2022-09-26T12:58:30.000Z",
+          "wordCount": null,
+          "title": "Psychedelics for the Frontlines: A Police Officer on the Healing Potential of MDMA for PTSD",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kxFTWk9lLDU",
           "author": null,
