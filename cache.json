@@ -395,6 +395,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-NhgElcA3K8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-NhgElcA3K8",
+          "publishedOn": "2022-09-26T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Calculus Review: The Derivative (and the Power Law and Chain Rule)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9fQkLQZe3u8",
           "author": null,
           "description": "",
@@ -532,16 +542,6 @@
           "publishedOn": "2022-07-08T10:00:36.000Z",
           "wordCount": null,
           "title": "Laplace's Equation and Poisson's Equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pvrIagjEk4c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pvrIagjEk4c",
-          "publishedOn": "2022-07-01T10:00:37.000Z",
-          "wordCount": null,
-          "title": "Partial Differential Equations Overview",
           "imageUrl": null
         }
       ]

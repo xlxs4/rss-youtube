@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T20:21:09.592Z</id>
+    <id>urn:2022-09-27T00:58:15.947Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-26T20:21:09.592Z</updated>
+    <updated>2022-09-27T00:58:15.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Calculus Review: The Derivative (and the Power Law and Chain Rule)]]></title>
+        <id>https://www.youtube.com/watch?v=-NhgElcA3K8</id>
+        <link href="https://www.youtube.com/watch?v=-NhgElcA3K8"/>
+        <updated>2022-09-26T22:00:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Psychedelics for the Frontlines: A Police Officer on the Healing Potential of MDMA for PTSD]]></title>
         <id>https://www.youtube.com/watch?v=ugZemizXHB0</id>
@@ -552,15 +561,6 @@
         <updated>2022-07-03T14:00:23.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Partial Differential Equations Overview]]></title>
-        <id>https://www.youtube.com/watch?v=pvrIagjEk4c</id>
-        <link href="https://www.youtube.com/watch?v=pvrIagjEk4c"/>
-        <updated>2022-07-01T10:00:37.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
