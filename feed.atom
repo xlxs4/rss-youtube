@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T00:58:15.947Z</id>
+    <id>urn:2022-09-28T01:00:17.162Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T00:58:15.947Z</updated>
+    <updated>2022-09-28T01:00:17.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gentle Introduction to Modeling with Matrices and Vectors: A Probabilistic Weather Model]]></title>
+        <id>https://www.youtube.com/watch?v=K-8F_zDMDUI</id>
+        <link href="https://www.youtube.com/watch?v=K-8F_zDMDUI"/>
+        <updated>2022-09-27T10:00:20.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Total internal reflection]]></title>
+        <id>https://www.youtube.com/watch?v=J2rYjjSJFX0</id>
+        <link href="https://www.youtube.com/watch?v=J2rYjjSJFX0"/>
+        <updated>2022-09-27T09:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calculus Review: The Derivative (and the Power Law and Chain Rule)]]></title>
         <id>https://www.youtube.com/watch?v=-NhgElcA3K8</id>
@@ -219,15 +237,6 @@
         <updated>2022-09-12T12:00:27.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Rayleigh-Taylor instability under horizontal gravity with a 4:1 mass ratio]]></title>
-        <id>https://www.youtube.com/watch?v=RrP4lOEpNwE</id>
-        <link href="https://www.youtube.com/watch?v=RrP4lOEpNwE"/>
-        <updated>2022-09-12T09:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -516,15 +525,6 @@
         <updated>2022-07-12T20:33:56.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laplace's Equation and Poisson's Equation]]></title>
-        <id>https://www.youtube.com/watch?v=nmvs0vrBT18</id>
-        <link href="https://www.youtube.com/watch?v=nmvs0vrBT18"/>
-        <updated>2022-07-08T10:00:36.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
