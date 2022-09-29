@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tR8SC3PRlyk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tR8SC3PRlyk",
+          "publishedOn": "2022-09-28T09:00:33.000Z",
+          "wordCount": null,
+          "title": "Phase space representation of the billiard in Reuleaux-like heptagons",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=J2rYjjSJFX0",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "Phase space representation of billiards in a stadium and in a lemon",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1NVTdzSUL6Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1NVTdzSUL6Y",
-          "publishedOn": "2022-09-13T09:00:02.000Z",
-          "wordCount": null,
-          "title": "A wave guide",
-          "imageUrl": null
         }
       ]
     },
@@ -394,6 +394,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BjvkBLfvkqY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BjvkBLfvkqY",
+          "publishedOn": "2022-09-28T10:00:05.000Z",
+          "wordCount": null,
+          "title": "The Simplest Ordinary Differential Equation (ODE) and Its Exponential Solution",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=K-8F_zDMDUI",
           "author": null,
@@ -532,16 +542,6 @@
           "publishedOn": "2022-07-22T10:00:24.000Z",
           "wordCount": null,
           "title": "The Heat Equation and the Steady State Heat Distribution via Laplace's Equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9d8PwnKVA-U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9d8PwnKVA-U",
-          "publishedOn": "2022-07-15T10:00:06.000Z",
-          "wordCount": null,
-          "title": "Deriving the Heat Equation: A Parabolic Partial Differential Equation for Heat Energy Conservation",
           "imageUrl": null
         }
       ]
@@ -720,16 +720,6 @@
           "publishedOn": "2022-07-12T20:33:56.000Z",
           "wordCount": null,
           "title": "First Images: James Webb Space Telescope’s New View of the Cosmos",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bHKbIhSWpl4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bHKbIhSWpl4",
-          "publishedOn": "2022-06-30T20:21:02.000Z",
-          "wordCount": null,
-          "title": "School’s Out, but Science Never Stops: Live Discussion with Brian Greene",
           "imageUrl": null
         }
       ]

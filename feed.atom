@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T01:00:17.162Z</id>
+    <id>urn:2022-09-29T01:04:40.730Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T01:00:17.162Z</updated>
+    <updated>2022-09-29T01:04:40.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Simplest Ordinary Differential Equation (ODE) and Its Exponential Solution]]></title>
+        <id>https://www.youtube.com/watch?v=BjvkBLfvkqY</id>
+        <link href="https://www.youtube.com/watch?v=BjvkBLfvkqY"/>
+        <updated>2022-09-28T10:00:05.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of the billiard in Reuleaux-like heptagons]]></title>
+        <id>https://www.youtube.com/watch?v=tR8SC3PRlyk</id>
+        <link href="https://www.youtube.com/watch?v=tR8SC3PRlyk"/>
+        <updated>2022-09-28T09:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gentle Introduction to Modeling with Matrices and Vectors: A Probabilistic Weather Model]]></title>
         <id>https://www.youtube.com/watch?v=K-8F_zDMDUI</id>
@@ -219,15 +237,6 @@
         <updated>2022-09-13T15:00:38.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A wave guide]]></title>
-        <id>https://www.youtube.com/watch?v=1NVTdzSUL6Y</id>
-        <link href="https://www.youtube.com/watch?v=1NVTdzSUL6Y"/>
-        <updated>2022-09-13T09:00:02.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -510,15 +519,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deriving the Heat Equation: A Parabolic Partial Differential Equation for Heat Energy Conservation]]></title>
-        <id>https://www.youtube.com/watch?v=9d8PwnKVA-U</id>
-        <link href="https://www.youtube.com/watch?v=9d8PwnKVA-U"/>
-        <updated>2022-07-15T10:00:06.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[First Images: James Webb Space Telescope’s New View of the Cosmos]]></title>
         <id>https://www.youtube.com/watch?v=5sMZw_DM5eA</id>
         <link href="https://www.youtube.com/watch?v=5sMZw_DM5eA"/>
@@ -561,15 +561,6 @@
         <updated>2022-07-03T14:00:23.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[School’s Out, but Science Never Stops: Live Discussion with Brian Greene]]></title>
-        <id>https://www.youtube.com/watch?v=bHKbIhSWpl4</id>
-        <link href="https://www.youtube.com/watch?v=bHKbIhSWpl4"/>
-        <updated>2022-06-30T20:21:02.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
