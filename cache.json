@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PZs3aMIy7EU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PZs3aMIy7EU",
+          "publishedOn": "2022-09-29T09:00:13.000Z",
+          "wordCount": null,
+          "title": "A breaking dam made of non-interacting bricks",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tR8SC3PRlyk",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "Bernoulli percolation on a cubic lattice",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6OPnbmLed2Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6OPnbmLed2Y",
-          "publishedOn": "2022-09-14T09:00:06.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of billiards in a stadium and in a lemon",
-          "imageUrl": null
         }
       ]
     },
@@ -394,6 +394,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fGGNlXZB2YI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fGGNlXZB2YI",
+          "publishedOn": "2022-09-29T10:00:33.000Z",
+          "wordCount": null,
+          "title": "Interpretable Aeroelastic Models for Control at Insect Scale",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BjvkBLfvkqY",
           "author": null,
@@ -532,16 +542,6 @@
           "publishedOn": "2022-07-29T10:00:37.000Z",
           "wordCount": null,
           "title": "Deriving the Heat Equation in 2D & 3D (& in N Dimensions!) with Control Volumes and Vector Calculus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OoRwXVIXpL0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OoRwXVIXpL0",
-          "publishedOn": "2022-07-22T10:00:24.000Z",
-          "wordCount": null,
-          "title": "The Heat Equation and the Steady State Heat Distribution via Laplace's Equation",
           "imageUrl": null
         }
       ]
