@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ywi9hCgzIHc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ywi9hCgzIHc",
+          "publishedOn": "2022-09-30T09:00:38.000Z",
+          "wordCount": null,
+          "title": "3D rendering of a W-shaped wave guide",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PZs3aMIy7EU",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "Solving a maze with interacting Lennard-Jones particles",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bHdGeR77jPg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bHdGeR77jPg",
-          "publishedOn": "2022-09-15T09:00:16.000Z",
-          "wordCount": null,
-          "title": "Bernoulli percolation on a cubic lattice",
-          "imageUrl": null
         }
       ]
     },
@@ -394,6 +394,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3icbG3geC60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3icbG3geC60",
+          "publishedOn": "2022-09-30T14:05:00.000Z",
+          "wordCount": null,
+          "title": "Solving Differential Equations with Power Series: A Simple Example",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fGGNlXZB2YI",
           "author": null,
@@ -532,16 +542,6 @@
           "publishedOn": "2022-08-05T10:00:05.000Z",
           "wordCount": null,
           "title": "Discrepancy Modeling with Physics Informed Machine Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lBZIxv1bZDo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lBZIxv1bZDo",
-          "publishedOn": "2022-07-29T10:00:37.000Z",
-          "wordCount": null,
-          "title": "Deriving the Heat Equation in 2D & 3D (& in N Dimensions!) with Control Volumes and Vector Calculus",
           "imageUrl": null
         }
       ]

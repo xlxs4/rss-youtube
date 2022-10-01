@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T01:15:47.714Z</id>
+    <id>urn:2022-10-01T01:10:40.267Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T01:15:47.714Z</updated>
+    <updated>2022-10-01T01:10:40.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solving Differential Equations with Power Series: A Simple Example]]></title>
+        <id>https://www.youtube.com/watch?v=3icbG3geC60</id>
+        <link href="https://www.youtube.com/watch?v=3icbG3geC60"/>
+        <updated>2022-09-30T14:05:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D rendering of a W-shaped wave guide]]></title>
+        <id>https://www.youtube.com/watch?v=ywi9hCgzIHc</id>
+        <link href="https://www.youtube.com/watch?v=ywi9hCgzIHc"/>
+        <updated>2022-09-30T09:00:38.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interpretable Aeroelastic Models for Control at Insect Scale]]></title>
         <id>https://www.youtube.com/watch?v=fGGNlXZB2YI</id>
@@ -226,15 +244,6 @@
         <id>https://www.youtube.com/watch?v=FfnMaQF_2m8</id>
         <link href="https://www.youtube.com/watch?v=FfnMaQF_2m8"/>
         <updated>2022-09-16T09:00:16.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bernoulli percolation on a cubic lattice]]></title>
-        <id>https://www.youtube.com/watch?v=bHdGeR77jPg</id>
-        <link href="https://www.youtube.com/watch?v=bHdGeR77jPg"/>
-        <updated>2022-09-15T09:00:16.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -471,15 +480,6 @@
         <updated>2022-07-29T21:25:44.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deriving the Heat Equation in 2D & 3D (& in N Dimensions!) with Control Volumes and Vector Calculus]]></title>
-        <id>https://www.youtube.com/watch?v=lBZIxv1bZDo</id>
-        <link href="https://www.youtube.com/watch?v=lBZIxv1bZDo"/>
-        <updated>2022-07-29T10:00:37.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
