@@ -77,13 +77,13 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=VYQVlVoWoPY",
+          "id": "https://www.youtube.com/watch?v=cDofhN-RJqg",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=VYQVlVoWoPY",
-          "publishedOn": "2022-07-03T15:03:56.000Z",
+          "link": "https://www.youtube.com/watch?v=cDofhN-RJqg",
+          "publishedOn": "2022-10-01T19:23:52.000Z",
           "wordCount": null,
-          "title": "How to lie using visual proofs",
+          "title": "Have you seen more math videos in your feed recently?  (SoME2 results)",
           "imageUrl": null
         }
       ]
@@ -101,16 +101,6 @@
           "publishedOn": "2022-08-30T14:00:18.000Z",
           "wordCount": null,
           "title": "The weirdest paradox in statistics (and machine learning)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zCU9tZ2VkWc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zCU9tZ2VkWc",
-          "publishedOn": "2022-07-03T14:00:23.000Z",
-          "wordCount": null,
-          "title": "Why you can't solve quintic equations (Galois theory approach) #SoME2",
           "imageUrl": null
         }
       ]
@@ -194,6 +184,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Ski3UOUtIdA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ski3UOUtIdA",
+          "publishedOn": "2022-10-01T09:00:13.000Z",
+          "wordCount": null,
+          "title": "Solving a maze with laser beams",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ywi9hCgzIHc",
           "author": null,
@@ -333,16 +333,6 @@
           "wordCount": null,
           "title": "3D rendering of a wave guide",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FfnMaQF_2m8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FfnMaQF_2m8",
-          "publishedOn": "2022-09-16T09:00:16.000Z",
-          "wordCount": null,
-          "title": "Solving a maze with interacting Lennard-Jones particles",
-          "imageUrl": null
         }
       ]
     },
@@ -394,6 +384,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ebfOSDj4j3I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ebfOSDj4j3I",
+          "publishedOn": "2022-10-01T13:17:00.000Z",
+          "wordCount": null,
+          "title": "Taylor Series and Power Series Made Easy (with Pictures): Review of Calculus",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3icbG3geC60",
           "author": null,
@@ -532,16 +532,6 @@
           "publishedOn": "2022-08-12T10:00:15.000Z",
           "wordCount": null,
           "title": "The Experimental Double Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7n7xaviepKM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7n7xaviepKM",
-          "publishedOn": "2022-08-05T10:00:05.000Z",
-          "wordCount": null,
-          "title": "Discrepancy Modeling with Physics Informed Machine Learning",
           "imageUrl": null
         }
       ]
