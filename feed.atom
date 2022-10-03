@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-02T01:02:40.976Z</id>
+    <id>urn:2022-10-03T00:54:42.074Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T01:02:40.976Z</updated>
+    <updated>2022-10-03T00:54:42.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of billiards interpolating between a circle and a hexagon]]></title>
+        <id>https://www.youtube.com/watch?v=6TjyKJKg40A</id>
+        <link href="https://www.youtube.com/watch?v=6TjyKJKg40A"/>
+        <updated>2022-10-02T09:00:02.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Have you seen more math videos in your feed recently?  (SoME2 results)]]></title>
         <id>https://www.youtube.com/watch?v=cDofhN-RJqg</id>
@@ -246,15 +255,6 @@
         <updated>2022-09-17T10:00:28.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D rendering of a wave guide]]></title>
-        <id>https://www.youtube.com/watch?v=Yl2RJCub0Iw</id>
-        <link href="https://www.youtube.com/watch?v=Yl2RJCub0Iw"/>
-        <updated>2022-09-17T09:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

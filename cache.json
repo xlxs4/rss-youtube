@@ -185,6 +185,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6TjyKJKg40A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6TjyKJKg40A",
+          "publishedOn": "2022-10-02T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Phase space representation of billiards interpolating between a circle and a hexagon",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ski3UOUtIdA",
           "author": null,
           "description": "",
@@ -322,16 +332,6 @@
           "publishedOn": "2022-09-18T09:00:31.000Z",
           "wordCount": null,
           "title": "Phase space representation of the billiard in an annulus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Yl2RJCub0Iw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Yl2RJCub0Iw",
-          "publishedOn": "2022-09-17T09:00:20.000Z",
-          "wordCount": null,
-          "title": "3D rendering of a wave guide",
           "imageUrl": null
         }
       ]
