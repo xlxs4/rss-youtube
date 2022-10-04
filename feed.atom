@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-03T00:54:42.074Z</id>
+    <id>urn:2022-10-04T01:03:19.269Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-03T00:54:42.074Z</updated>
+    <updated>2022-10-04T01:03:19.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Taylor Series of the Exponential Function and Euler's Formula!]]></title>
+        <id>https://www.youtube.com/watch?v=H0Zbg_CqMCs</id>
+        <link href="https://www.youtube.com/watch?v=H0Zbg_CqMCs"/>
+        <updated>2022-10-03T14:22:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Total internal reflection, with an index of refraction of 1.33]]></title>
+        <id>https://www.youtube.com/watch?v=cRk3X-XkLjI</id>
+        <link href="https://www.youtube.com/watch?v=cRk3X-XkLjI"/>
+        <updated>2022-10-03T09:00:18.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phase space representation of billiards interpolating between a circle and a hexagon]]></title>
         <id>https://www.youtube.com/watch?v=6TjyKJKg40A</id>
@@ -222,15 +240,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phase space representation of the billiard in an annulus]]></title>
-        <id>https://www.youtube.com/watch?v=ivwXJHqC8NM</id>
-        <link href="https://www.youtube.com/watch?v=ivwXJHqC8NM"/>
-        <updated>2022-09-18T09:00:31.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Method of Characteristics and the Wave Equation]]></title>
         <id>https://www.youtube.com/watch?v=eI2x99SxJgU</id>
         <link href="https://www.youtube.com/watch?v=eI2x99SxJgU"/>
@@ -420,15 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Experimental Double Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control]]></title>
-        <id>https://www.youtube.com/watch?v=OkEsTLeIP98</id>
-        <link href="https://www.youtube.com/watch?v=OkEsTLeIP98"/>
-        <updated>2022-08-12T10:00:15.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mill Creek Marsh, Atlantic White Cedar Remnants]]></title>
         <id>https://www.youtube.com/watch?v=gacdGogOnVM</id>
         <link href="https://www.youtube.com/watch?v=gacdGogOnVM"/>
@@ -541,15 +541,6 @@
         <id>https://www.youtube.com/watch?v=Wx0I4Zv4Y8s</id>
         <link href="https://www.youtube.com/watch?v=Wx0I4Zv4Y8s"/>
         <updated>2022-07-08T00:30:02.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extra Credit: Introduction to Motion Capture and Web VR with LaJuné McMillian]]></title>
-        <id>https://www.youtube.com/watch?v=-Ztp2w_vi3o</id>
-        <link href="https://www.youtube.com/watch?v=-Ztp2w_vi3o"/>
-        <updated>2022-07-06T12:40:04.000Z</updated>
         <author>
             <name>Pioneer Works</name>
         </author>

@@ -185,6 +185,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cRk3X-XkLjI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cRk3X-XkLjI",
+          "publishedOn": "2022-10-03T09:00:18.000Z",
+          "wordCount": null,
+          "title": "Total internal reflection, with an index of refraction of 1.33",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6TjyKJKg40A",
           "author": null,
           "description": "",
@@ -323,16 +333,6 @@
           "wordCount": null,
           "title": "Growth of one cluster in Bernoulli percolation on a cubic lattice",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ivwXJHqC8NM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ivwXJHqC8NM",
-          "publishedOn": "2022-09-18T09:00:31.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of the billiard in an annulus",
-          "imageUrl": null
         }
       ]
     },
@@ -384,6 +384,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=H0Zbg_CqMCs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H0Zbg_CqMCs",
+          "publishedOn": "2022-10-03T14:22:00.000Z",
+          "wordCount": null,
+          "title": "Taylor Series of the Exponential Function and Euler's Formula!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ebfOSDj4j3I",
           "author": null,
@@ -523,16 +533,6 @@
           "wordCount": null,
           "title": "Enhancing Computational Fluid Dynamics with Machine Learning",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OkEsTLeIP98",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OkEsTLeIP98",
-          "publishedOn": "2022-08-12T10:00:15.000Z",
-          "wordCount": null,
-          "title": "The Experimental Double Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control",
-          "imageUrl": null
         }
       ]
     },
@@ -663,16 +663,6 @@
           "publishedOn": "2022-07-08T00:30:02.000Z",
           "wordCount": null,
           "title": "BREYER P-ORRIDGE | We Are But One",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-Ztp2w_vi3o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-Ztp2w_vi3o",
-          "publishedOn": "2022-07-06T12:40:04.000Z",
-          "wordCount": null,
-          "title": "Extra Credit: Introduction to Motion Capture and Web VR with LaJuné McMillian",
           "imageUrl": null
         }
       ]
