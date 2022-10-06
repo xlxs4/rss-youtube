@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-06T00:58:14.403Z</id>
+    <id>urn:2022-10-06T15:42:18.076Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-06T00:58:14.403Z</updated>
+    <updated>2022-10-06T15:42:18.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Example Second-Order ODE: Spring-Mass-Damper]]></title>
+        <id>https://www.youtube.com/watch?v=r1eWerqrcqo</id>
+        <link href="https://www.youtube.com/watch?v=r1eWerqrcqo"/>
+        <updated>2022-10-06T13:45:02.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of parabolic resonators]]></title>
+        <id>https://www.youtube.com/watch?v=NHikEeUEDHI</id>
+        <link href="https://www.youtube.com/watch?v=NHikEeUEDHI"/>
+        <updated>2022-10-06T09:00:21.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Entanglement: 2022 Nobel Prize in Physics]]></title>
         <id>https://www.youtube.com/watch?v=Sk_0QM_UA4I</id>
@@ -12,6 +30,15 @@
         <updated>2022-10-05T20:18:06.000Z</updated>
         <author>
             <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theta rhythm: A Memory Clock]]></title>
+        <id>https://www.youtube.com/watch?v=5CxSoFK5tOQ</id>
+        <link href="https://www.youtube.com/watch?v=5CxSoFK5tOQ"/>
+        <updated>2022-10-05T17:40:29.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
         </author>
     </entry>
     <entry>
@@ -258,15 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phase space representation of the billiard in Reuleaux-like triangles]]></title>
-        <id>https://www.youtube.com/watch?v=-NEzUhFEb7g</id>
-        <link href="https://www.youtube.com/watch?v=-NEzUhFEb7g"/>
-        <updated>2022-09-21T09:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Credit: Making Your Own Chatbot With Carrie Sijia Wang]]></title>
         <id>https://www.youtube.com/watch?v=C9_6ww-ODjA</id>
         <link href="https://www.youtube.com/watch?v=C9_6ww-ODjA"/>
@@ -375,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Physics-Informed Dynamic Mode Decomposition (PI-DMD)]]></title>
-        <id>https://www.youtube.com/watch?v=lx-msllg1kU</id>
-        <link href="https://www.youtube.com/watch?v=lx-msllg1kU"/>
-        <updated>2022-08-26T16:00:28.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Circle billiard with 10 000 balls]]></title>
         <id>https://www.youtube.com/watch?v=mcmHLtVkvRo</id>
         <link href="https://www.youtube.com/watch?v=mcmHLtVkvRo"/>
@@ -435,6 +444,15 @@
         <updated>2022-08-16T13:59:34.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wavelets: a mathematical microscope]]></title>
+        <id>https://www.youtube.com/watch?v=jnxqHcObNK4</id>
+        <link href="https://www.youtube.com/watch?v=jnxqHcObNK4"/>
+        <updated>2022-08-15T19:50:42.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
         </author>
     </entry>
     <entry>

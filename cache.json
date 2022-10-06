@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NHikEeUEDHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NHikEeUEDHI",
+          "publishedOn": "2022-10-06T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Phase space representation of parabolic resonators",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=reE_6q5ye08",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "A W-shaped wave guide",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-NEzUhFEb7g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-NEzUhFEb7g",
-          "publishedOn": "2022-09-21T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of the billiard in Reuleaux-like triangles",
-          "imageUrl": null
         }
       ]
     },
@@ -404,6 +404,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=r1eWerqrcqo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r1eWerqrcqo",
+          "publishedOn": "2022-10-06T13:45:02.000Z",
+          "wordCount": null,
+          "title": "Example Second-Order ODE: Spring-Mass-Damper",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8ePqqZXSMQs",
           "author": null,
@@ -542,16 +552,6 @@
           "publishedOn": "2022-09-02T10:00:15.000Z",
           "wordCount": null,
           "title": "PDE 101: Separation of Variables! ...or how I learned to stop worrying and solve Laplace's equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lx-msllg1kU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lx-msllg1kU",
-          "publishedOn": "2022-08-26T16:00:28.000Z",
-          "wordCount": null,
-          "title": "Physics-Informed Dynamic Mode Decomposition (PI-DMD)",
           "imageUrl": null
         }
       ]
@@ -720,6 +720,33 @@
           "publishedOn": "2022-07-12T20:33:56.000Z",
           "wordCount": null,
           "title": "First Images: James Webb Space Telescope’s New View of the Cosmos",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Artem Kirsanov",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
+      "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5CxSoFK5tOQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5CxSoFK5tOQ",
+          "publishedOn": "2022-10-05T17:40:29.000Z",
+          "wordCount": null,
+          "title": "Theta rhythm: A Memory Clock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jnxqHcObNK4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jnxqHcObNK4",
+          "publishedOn": "2022-08-15T19:50:42.000Z",
+          "wordCount": null,
+          "title": "Wavelets: a mathematical microscope",
           "imageUrl": null
         }
       ]
