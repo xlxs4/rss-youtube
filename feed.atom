@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T01:02:38.220Z</id>
+    <id>urn:2022-10-06T00:58:14.403Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T01:02:38.220Z</updated>
+    <updated>2022-10-06T00:58:14.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Entanglement: 2022 Nobel Prize in Physics]]></title>
+        <id>https://www.youtube.com/watch?v=Sk_0QM_UA4I</id>
+        <link href="https://www.youtube.com/watch?v=Sk_0QM_UA4I"/>
+        <updated>2022-10-05T20:18:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second-Order Ordinary Differential Equations: Solving the Harmonic Oscillator Four Ways]]></title>
+        <id>https://www.youtube.com/watch?v=8ePqqZXSMQs</id>
+        <link href="https://www.youtube.com/watch?v=8ePqqZXSMQs"/>
+        <updated>2022-10-05T13:35:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a maze by shooting particles at it]]></title>
+        <id>https://www.youtube.com/watch?v=reE_6q5ye08</id>
+        <link href="https://www.youtube.com/watch?v=reE_6q5ye08"/>
+        <updated>2022-10-05T09:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let’s Travel to The Most Extreme Place in The Universe]]></title>
         <id>https://www.youtube.com/watch?v=FfWtIaDtfYk</id>
@@ -240,15 +267,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solving a maze with Lennard-Jones particles and gravity]]></title>
-        <id>https://www.youtube.com/watch?v=iBmmS4bgJcQ</id>
-        <link href="https://www.youtube.com/watch?v=iBmmS4bgJcQ"/>
-        <updated>2022-09-20T09:00:31.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Credit: Making Your Own Chatbot With Carrie Sijia Wang]]></title>
         <id>https://www.youtube.com/watch?v=C9_6ww-ODjA</id>
         <link href="https://www.youtube.com/watch?v=C9_6ww-ODjA"/>
@@ -372,15 +390,6 @@
         <updated>2022-08-24T18:39:02.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Computational Fluid Dynamics with Machine Learning]]></title>
-        <id>https://www.youtube.com/watch?v=i-_1RY6EBI0</id>
-        <link href="https://www.youtube.com/watch?v=i-_1RY6EBI0"/>
-        <updated>2022-08-19T10:00:24.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -552,15 +561,6 @@
         <updated>2022-07-12T20:33:56.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BREYER P-ORRIDGE | We Are But One]]></title>
-        <id>https://www.youtube.com/watch?v=Wx0I4Zv4Y8s</id>
-        <link href="https://www.youtube.com/watch?v=Wx0I4Zv4Y8s"/>
-        <updated>2022-07-08T00:30:02.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>

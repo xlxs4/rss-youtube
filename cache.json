@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=reE_6q5ye08",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=reE_6q5ye08",
+          "publishedOn": "2022-10-05T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Solving a maze by shooting particles at it",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oA2E6udrwms",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "Phase space representation of the billiard in Reuleaux-like triangles",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iBmmS4bgJcQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iBmmS4bgJcQ",
-          "publishedOn": "2022-09-20T09:00:31.000Z",
-          "wordCount": null,
-          "title": "Solving a maze with Lennard-Jones particles and gravity",
-          "imageUrl": null
         }
       ]
     },
@@ -404,6 +404,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8ePqqZXSMQs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8ePqqZXSMQs",
+          "publishedOn": "2022-10-05T13:35:00.000Z",
+          "wordCount": null,
+          "title": "Second-Order Ordinary Differential Equations: Solving the Harmonic Oscillator Four Ways",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=H0Zbg_CqMCs",
           "author": null,
@@ -543,16 +553,6 @@
           "wordCount": null,
           "title": "Physics-Informed Dynamic Mode Decomposition (PI-DMD)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i-_1RY6EBI0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i-_1RY6EBI0",
-          "publishedOn": "2022-08-19T10:00:24.000Z",
-          "wordCount": null,
-          "title": "Enhancing Computational Fluid Dynamics with Machine Learning",
-          "imageUrl": null
         }
       ]
     },
@@ -674,16 +674,6 @@
           "wordCount": null,
           "title": "Science vs. Fiction: Jennifer Egan on \"The Candy House\"",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Wx0I4Zv4Y8s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wx0I4Zv4Y8s",
-          "publishedOn": "2022-07-08T00:30:02.000Z",
-          "wordCount": null,
-          "title": "BREYER P-ORRIDGE | We Are But One",
-          "imageUrl": null
         }
       ]
     },
@@ -692,6 +682,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Sk_0QM_UA4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Sk_0QM_UA4I",
+          "publishedOn": "2022-10-05T20:18:06.000Z",
+          "wordCount": null,
+          "title": "Quantum Entanglement: 2022 Nobel Prize in Physics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ugZemizXHB0",
           "author": null,
