@@ -405,6 +405,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-CX9B_SB8ME",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-CX9B_SB8ME",
+          "publishedOn": "2022-10-06T21:31:00.000Z",
+          "wordCount": null,
+          "title": "Engineering Math Pre-Req: Quick and Dirty Introduction to Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=U9EL8-9MuYA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U9EL8-9MuYA",
+          "publishedOn": "2022-10-06T21:30:04.000Z",
+          "wordCount": null,
+          "title": "Engineering Math Pre-Req: Quick and Dirty Introduction to Matlab",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r1eWerqrcqo",
           "author": null,
           "description": "",
@@ -532,26 +552,6 @@
           "publishedOn": "2022-09-17T10:00:28.000Z",
           "wordCount": null,
           "title": "Solving the Wave Equation with Separation of Variables... and Guitar String Physics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UXqUXYaRyGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UXqUXYaRyGU",
-          "publishedOn": "2022-09-16T10:00:16.000Z",
-          "wordCount": null,
-          "title": "Deriving the Wave Equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VjWtMl6vQ3Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VjWtMl6vQ3Q",
-          "publishedOn": "2022-09-02T10:00:15.000Z",
-          "wordCount": null,
-          "title": "PDE 101: Separation of Variables! ...or how I learned to stop worrying and solve Laplace's equation",
           "imageUrl": null
         }
       ]
