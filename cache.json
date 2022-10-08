@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cFGaZIrNmbo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cFGaZIrNmbo",
+          "publishedOn": "2022-10-07T09:00:32.000Z",
+          "wordCount": null,
+          "title": "Total internal reflection (short version)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NHikEeUEDHI",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "Cluster size distribution in Bernoulli percolation on a cubic lattice (rotating view)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yavj84JWjOA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yavj84JWjOA",
-          "publishedOn": "2022-09-22T09:00:34.000Z",
-          "wordCount": null,
-          "title": "A W-shaped wave guide",
-          "imageUrl": null
         }
       ]
     },
@@ -404,6 +404,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fi54Hz5TiWI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fi54Hz5TiWI",
+          "publishedOn": "2022-10-07T12:18:00.000Z",
+          "wordCount": null,
+          "title": "More Examples of Second Order Differential Equations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-CX9B_SB8ME",
           "author": null,
@@ -543,16 +553,6 @@
           "wordCount": null,
           "title": "The Wave Equation and Slack Line Physics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ywrgWRSQ3PY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ywrgWRSQ3PY",
-          "publishedOn": "2022-09-17T10:00:28.000Z",
-          "wordCount": null,
-          "title": "Solving the Wave Equation with Separation of Variables... and Guitar String Physics",
-          "imageUrl": null
         }
       ]
     },
@@ -605,6 +605,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rnZjLgmmzyE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rnZjLgmmzyE",
+          "publishedOn": "2022-10-07T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Author Talks: Hua Hsu and Lucy Sante",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=C9_6ww-ODjA",
           "author": null,

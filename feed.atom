@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-07T01:08:40.276Z</id>
+    <id>urn:2022-10-08T00:52:55.043Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T01:08:40.276Z</updated>
+    <updated>2022-10-08T00:52:55.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Author Talks: Hua Hsu and Lucy Sante]]></title>
+        <id>https://www.youtube.com/watch?v=rnZjLgmmzyE</id>
+        <link href="https://www.youtube.com/watch?v=rnZjLgmmzyE"/>
+        <updated>2022-10-07T14:00:27.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Examples of Second Order Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=fi54Hz5TiWI</id>
+        <link href="https://www.youtube.com/watch?v=fi54Hz5TiWI"/>
+        <updated>2022-10-07T12:18:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Total internal reflection (short version)]]></title>
+        <id>https://www.youtube.com/watch?v=cFGaZIrNmbo</id>
+        <link href="https://www.youtube.com/watch?v=cFGaZIrNmbo"/>
+        <updated>2022-10-07T09:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Engineering Math Pre-Req: Quick and Dirty Introduction to Python]]></title>
         <id>https://www.youtube.com/watch?v=-CX9B_SB8ME</id>
@@ -294,15 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A W-shaped wave guide]]></title>
-        <id>https://www.youtube.com/watch?v=yavj84JWjOA</id>
-        <link href="https://www.youtube.com/watch?v=yavj84JWjOA"/>
-        <updated>2022-09-22T09:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Credit: Making Your Own Chatbot With Carrie Sijia Wang]]></title>
         <id>https://www.youtube.com/watch?v=C9_6ww-ODjA</id>
         <link href="https://www.youtube.com/watch?v=C9_6ww-ODjA"/>
@@ -325,15 +343,6 @@
         <id>https://www.youtube.com/watch?v=WR7z2bdY7Ko</id>
         <link href="https://www.youtube.com/watch?v=WR7z2bdY7Ko"/>
         <updated>2022-09-17T10:15:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving the Wave Equation with Separation of Variables... and Guitar String Physics]]></title>
-        <id>https://www.youtube.com/watch?v=ywrgWRSQ3PY</id>
-        <link href="https://www.youtube.com/watch?v=ywrgWRSQ3PY"/>
-        <updated>2022-09-17T10:00:28.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
