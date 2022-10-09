@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-08T00:52:55.043Z</id>
+    <id>urn:2022-10-09T00:55:40.344Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-08T00:52:55.043Z</updated>
+    <updated>2022-10-09T00:55:40.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[High-Order Ordinary Differential Equations with More Derivatives (from Physics)]]></title>
+        <id>https://www.youtube.com/watch?v=uIqJF1rgRJI</id>
+        <link href="https://www.youtube.com/watch?v=uIqJF1rgRJI"/>
+        <updated>2022-10-08T10:00:38.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An example of simulation gone wrong: Dam break with interacting bricks and no thermostat]]></title>
+        <id>https://www.youtube.com/watch?v=bNCZtAnlVfc</id>
+        <link href="https://www.youtube.com/watch?v=bNCZtAnlVfc"/>
+        <updated>2022-10-08T09:00:22.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Author Talks: Hua Hsu and Lucy Sante]]></title>
         <id>https://www.youtube.com/watch?v=rnZjLgmmzyE</id>
@@ -312,15 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cluster size distribution in Bernoulli percolation on a cubic lattice (rotating view)]]></title>
-        <id>https://www.youtube.com/watch?v=gycRPplVaXk</id>
-        <link href="https://www.youtube.com/watch?v=gycRPplVaXk"/>
-        <updated>2022-09-23T09:00:18.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Credit: Making Your Own Chatbot With Carrie Sijia Wang]]></title>
         <id>https://www.youtube.com/watch?v=C9_6ww-ODjA</id>
         <link href="https://www.youtube.com/watch?v=C9_6ww-ODjA"/>
@@ -333,15 +342,6 @@
         <title type="html"><![CDATA[The Method of Characteristics and the Wave Equation]]></title>
         <id>https://www.youtube.com/watch?v=eI2x99SxJgU</id>
         <link href="https://www.youtube.com/watch?v=eI2x99SxJgU"/>
-        <updated>2022-09-17T10:15:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wave Equation and Slack Line Physics]]></title>
-        <id>https://www.youtube.com/watch?v=WR7z2bdY7Ko</id>
-        <link href="https://www.youtube.com/watch?v=WR7z2bdY7Ko"/>
         <updated>2022-09-17T10:15:01.000Z</updated>
         <author>
             <name>Steve Brunton</name>

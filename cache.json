@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bNCZtAnlVfc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bNCZtAnlVfc",
+          "publishedOn": "2022-10-08T09:00:22.000Z",
+          "wordCount": null,
+          "title": "An example of simulation gone wrong: Dam break with interacting bricks and no thermostat",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cFGaZIrNmbo",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "Phase space representation of the billiard in Reuleaux-like pentagons",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gycRPplVaXk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gycRPplVaXk",
-          "publishedOn": "2022-09-23T09:00:18.000Z",
-          "wordCount": null,
-          "title": "Cluster size distribution in Bernoulli percolation on a cubic lattice (rotating view)",
-          "imageUrl": null
         }
       ]
     },
@@ -404,6 +404,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uIqJF1rgRJI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uIqJF1rgRJI",
+          "publishedOn": "2022-10-08T10:00:38.000Z",
+          "wordCount": null,
+          "title": "High-Order Ordinary Differential Equations with More Derivatives (from Physics)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fi54Hz5TiWI",
           "author": null,
@@ -542,16 +552,6 @@
           "publishedOn": "2022-09-17T10:15:01.000Z",
           "wordCount": null,
           "title": "The Method of Characteristics and the Wave Equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WR7z2bdY7Ko",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WR7z2bdY7Ko",
-          "publishedOn": "2022-09-17T10:15:01.000Z",
-          "wordCount": null,
-          "title": "The Wave Equation and Slack Line Physics",
           "imageUrl": null
         }
       ]
