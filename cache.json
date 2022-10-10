@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2fRTeoFVTS4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2fRTeoFVTS4",
+          "publishedOn": "2022-10-09T09:00:01.000Z",
+          "wordCount": null,
+          "title": "Video #600: Incompressible Euler equation with two vortices",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bNCZtAnlVfc",
           "author": null,
           "description": "",
@@ -332,16 +342,6 @@
           "publishedOn": "2022-09-25T09:00:24.000Z",
           "wordCount": null,
           "title": "I'm a leaf on the wind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JF9BUZp8xH0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JF9BUZp8xH0",
-          "publishedOn": "2022-09-24T09:00:09.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of the billiard in Reuleaux-like pentagons",
           "imageUrl": null
         }
       ]
