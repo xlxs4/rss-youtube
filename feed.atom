@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T01:00:40.133Z</id>
+    <id>urn:2022-10-11T00:55:03.282Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-10T01:00:40.133Z</updated>
+    <updated>2022-10-11T00:55:03.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solving General High-Order, Linear Ordinary Differential Equations (ODEs)]]></title>
+        <id>https://www.youtube.com/watch?v=vA3MjD0cfS4</id>
+        <link href="https://www.youtube.com/watch?v=vA3MjD0cfS4"/>
+        <updated>2022-10-10T10:00:37.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shining a rotating laser beam into a maze with mirrored walls]]></title>
+        <id>https://www.youtube.com/watch?v=DMMxRo0C7ms</id>
+        <link href="https://www.youtube.com/watch?v=DMMxRo0C7ms"/>
+        <updated>2022-10-10T09:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Video #600: Incompressible Euler equation with two vortices]]></title>
         <id>https://www.youtube.com/watch?v=2fRTeoFVTS4</id>
@@ -312,15 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm a leaf on the wind]]></title>
-        <id>https://www.youtube.com/watch?v=wY4KG8r4lbg</id>
-        <link href="https://www.youtube.com/watch?v=wY4KG8r4lbg"/>
-        <updated>2022-09-25T09:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Differential Equations and Dynamical Systems: Overview]]></title>
         <id>https://www.youtube.com/watch?v=9fQkLQZe3u8</id>
         <link href="https://www.youtube.com/watch?v=9fQkLQZe3u8"/>
@@ -336,15 +345,6 @@
         <updated>2022-09-19T23:11:19.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Method of Characteristics and the Wave Equation]]></title>
-        <id>https://www.youtube.com/watch?v=eI2x99SxJgU</id>
-        <link href="https://www.youtube.com/watch?v=eI2x99SxJgU"/>
-        <updated>2022-09-17T10:15:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -579,15 +579,6 @@
         <updated>2022-07-20T14:12:16.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Images: James Webb Space Telescope’s New View of the Cosmos]]></title>
-        <id>https://www.youtube.com/watch?v=5sMZw_DM5eA</id>
-        <link href="https://www.youtube.com/watch?v=5sMZw_DM5eA"/>
-        <updated>2022-07-12T20:33:56.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>

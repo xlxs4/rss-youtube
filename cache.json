@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DMMxRo0C7ms",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DMMxRo0C7ms",
+          "publishedOn": "2022-10-10T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Shining a rotating laser beam into a maze with mirrored walls",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2fRTeoFVTS4",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "Growth of a percolation cluster in 3D (rotating view)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wY4KG8r4lbg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wY4KG8r4lbg",
-          "publishedOn": "2022-09-25T09:00:24.000Z",
-          "wordCount": null,
-          "title": "I'm a leaf on the wind",
-          "imageUrl": null
         }
       ]
     },
@@ -404,6 +404,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vA3MjD0cfS4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vA3MjD0cfS4",
+          "publishedOn": "2022-10-10T10:00:37.000Z",
+          "wordCount": null,
+          "title": "Solving General High-Order, Linear Ordinary Differential Equations (ODEs)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uIqJF1rgRJI",
           "author": null,
@@ -542,16 +552,6 @@
           "publishedOn": "2022-09-23T10:00:11.000Z",
           "wordCount": null,
           "title": "Differential Equations and Dynamical Systems: Overview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eI2x99SxJgU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eI2x99SxJgU",
-          "publishedOn": "2022-09-17T10:15:01.000Z",
-          "wordCount": null,
-          "title": "The Method of Characteristics and the Wave Equation",
           "imageUrl": null
         }
       ]
@@ -720,16 +720,6 @@
           "publishedOn": "2022-09-08T19:00:09.000Z",
           "wordCount": null,
           "title": "Psychedelics: Chemicals, Consciousness, and Creativity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5sMZw_DM5eA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5sMZw_DM5eA",
-          "publishedOn": "2022-07-12T20:33:56.000Z",
-          "wordCount": null,
-          "title": "First Images: James Webb Space Telescope’s New View of the Cosmos",
           "imageUrl": null
         }
       ]
