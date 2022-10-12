@@ -195,6 +195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GjQ1zNCSWUQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GjQ1zNCSWUQ",
+          "publishedOn": "2022-10-11T09:00:09.000Z",
+          "wordCount": null,
+          "title": "Solving a maze with waves",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DMMxRo0C7ms",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "wordCount": null,
           "title": "Total internal reflection",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bruyFexIiLU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bruyFexIiLU",
-          "publishedOn": "2022-09-26T09:00:14.000Z",
-          "wordCount": null,
-          "title": "Growth of a percolation cluster in 3D (rotating view)",
-          "imageUrl": null
         }
       ]
     },
@@ -357,6 +357,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fMJqwD7_-NU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fMJqwD7_-NU",
+          "publishedOn": "2022-10-11T14:30:08.000Z",
+          "wordCount": null,
+          "title": "HIDDEN WORLDS - Limited Edition Calendar!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FfWtIaDtfYk",
           "author": null,
