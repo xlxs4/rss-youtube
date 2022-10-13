@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-12T01:07:47.848Z</id>
+    <id>urn:2022-10-13T00:59:19.975Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-12T01:07:47.848Z</updated>
+    <updated>2022-10-13T00:59:19.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Matrix Systems of Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=Vtijyyo5fKI</id>
+        <link href="https://www.youtube.com/watch?v=Vtijyyo5fKI"/>
+        <updated>2022-10-12T10:00:30.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of a Penrose unilluminable room]]></title>
+        <id>https://www.youtube.com/watch?v=6E9453yHUqs</id>
+        <link href="https://www.youtube.com/watch?v=6E9453yHUqs"/>
+        <updated>2022-10-12T09:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HIDDEN WORLDS - Limited Edition Calendar!]]></title>
         <id>https://www.youtube.com/watch?v=fMJqwD7_-NU</id>
@@ -222,7 +240,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Have you seen more math videos in your feed recently?  (SoME2 results)]]></title>
+        <title type="html"><![CDATA[What makes a math video/article great? (SoME2 results)]]></title>
         <id>https://www.youtube.com/watch?v=cDofhN-RJqg</id>
         <link href="https://www.youtube.com/watch?v=cDofhN-RJqg"/>
         <updated>2022-10-01T19:23:52.000Z</updated>
@@ -312,15 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Total internal reflection]]></title>
-        <id>https://www.youtube.com/watch?v=J2rYjjSJFX0</id>
-        <link href="https://www.youtube.com/watch?v=J2rYjjSJFX0"/>
-        <updated>2022-09-27T09:00:09.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Calculus Review: The Derivative (and the Power Law and Chain Rule)]]></title>
         <id>https://www.youtube.com/watch?v=-NhgElcA3K8</id>
         <link href="https://www.youtube.com/watch?v=-NhgElcA3K8"/>
@@ -336,15 +345,6 @@
         <updated>2022-09-26T12:58:30.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differential Equations and Dynamical Systems: Overview]]></title>
-        <id>https://www.youtube.com/watch?v=9fQkLQZe3u8</id>
-        <link href="https://www.youtube.com/watch?v=9fQkLQZe3u8"/>
-        <updated>2022-09-23T10:00:11.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
