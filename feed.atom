@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T00:59:19.975Z</id>
+    <id>urn:2022-10-14T01:07:02.030Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T00:59:19.975Z</updated>
+    <updated>2022-10-14T01:07:02.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The High Schooler Who Solved a Prime Number Theorem]]></title>
+        <id>https://www.youtube.com/watch?v=Kqi_6v2RGB0</id>
+        <link href="https://www.youtube.com/watch?v=Kqi_6v2RGB0"/>
+        <updated>2022-10-13T15:04:00.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D rendering of two interacting vortices in the 2D incompressible Euler equation]]></title>
+        <id>https://www.youtube.com/watch?v=C-dR47iN8k8</id>
+        <link href="https://www.youtube.com/watch?v=C-dR47iN8k8"/>
+        <updated>2022-10-13T09:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matrix Systems of Differential Equations]]></title>
         <id>https://www.youtube.com/watch?v=Vtijyyo5fKI</id>
@@ -309,15 +327,6 @@
         <updated>2022-09-28T10:00:05.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phase space representation of the billiard in Reuleaux-like heptagons]]></title>
-        <id>https://www.youtube.com/watch?v=tR8SC3PRlyk</id>
-        <link href="https://www.youtube.com/watch?v=tR8SC3PRlyk"/>
-        <updated>2022-09-28T09:00:33.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
