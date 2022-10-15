@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-14T01:07:02.030Z</id>
+    <id>urn:2022-10-15T00:59:21.397Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-14T01:07:02.030Z</updated>
+    <updated>2022-10-15T00:59:21.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gloria Steinem Reads “The Nazi Connection,” 42 Years Later]]></title>
+        <id>https://www.youtube.com/watch?v=n4IZVHvvrTk</id>
+        <link href="https://www.youtube.com/watch?v=n4IZVHvvrTk"/>
+        <updated>2022-10-14T15:38:10.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivating Eigenvalues and Eigenvectors with Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=QYS-ML_vn4k</id>
+        <link href="https://www.youtube.com/watch?v=QYS-ML_vn4k"/>
+        <updated>2022-10-14T10:00:19.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a maze with waves: Average energy]]></title>
+        <id>https://www.youtube.com/watch?v=DMjqrWQ64fM</id>
+        <link href="https://www.youtube.com/watch?v=DMjqrWQ64fM"/>
+        <updated>2022-10-14T09:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The High Schooler Who Solved a Prime Number Theorem]]></title>
         <id>https://www.youtube.com/watch?v=Kqi_6v2RGB0</id>
@@ -258,7 +285,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What makes a math video/article great? (SoME2 results)]]></title>
+        <title type="html"><![CDATA[We ran a contest for math explainers, here are the results (SoME2)]]></title>
         <id>https://www.youtube.com/watch?v=cDofhN-RJqg</id>
         <link href="https://www.youtube.com/watch?v=cDofhN-RJqg"/>
         <updated>2022-10-01T19:23:52.000Z</updated>
@@ -312,15 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A breaking dam made of non-interacting bricks]]></title>
-        <id>https://www.youtube.com/watch?v=PZs3aMIy7EU</id>
-        <link href="https://www.youtube.com/watch?v=PZs3aMIy7EU"/>
-        <updated>2022-09-29T09:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Simplest Ordinary Differential Equation (ODE) and Its Exponential Solution]]></title>
         <id>https://www.youtube.com/watch?v=BjvkBLfvkqY</id>
         <link href="https://www.youtube.com/watch?v=BjvkBLfvkqY"/>
@@ -334,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=K-8F_zDMDUI</id>
         <link href="https://www.youtube.com/watch?v=K-8F_zDMDUI"/>
         <updated>2022-09-27T10:00:20.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calculus Review: The Derivative (and the Power Law and Chain Rule)]]></title>
-        <id>https://www.youtube.com/watch?v=-NhgElcA3K8</id>
-        <link href="https://www.youtube.com/watch?v=-NhgElcA3K8"/>
-        <updated>2022-09-26T22:00:00.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>

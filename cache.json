@@ -93,7 +93,7 @@
           "link": "https://www.youtube.com/watch?v=cDofhN-RJqg",
           "publishedOn": "2022-10-01T19:23:52.000Z",
           "wordCount": null,
-          "title": "What makes a math video/article great? (SoME2 results)",
+          "title": "We ran a contest for math explainers, here are the results (SoME2)",
           "imageUrl": null
         }
       ]
@@ -204,6 +204,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DMjqrWQ64fM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DMjqrWQ64fM",
+          "publishedOn": "2022-10-14T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Solving a maze with waves: Average energy",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=C-dR47iN8k8",
           "author": null,
@@ -343,16 +353,6 @@
           "wordCount": null,
           "title": "3D rendering of a W-shaped wave guide",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PZs3aMIy7EU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PZs3aMIy7EU",
-          "publishedOn": "2022-09-29T09:00:13.000Z",
-          "wordCount": null,
-          "title": "A breaking dam made of non-interacting bricks",
-          "imageUrl": null
         }
       ]
     },
@@ -424,6 +424,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QYS-ML_vn4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QYS-ML_vn4k",
+          "publishedOn": "2022-10-14T10:00:19.000Z",
+          "wordCount": null,
+          "title": "Motivating Eigenvalues and Eigenvectors with Differential Equations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Vtijyyo5fKI",
           "author": null,
@@ -563,16 +573,6 @@
           "wordCount": null,
           "title": "Gentle Introduction to Modeling with Matrices and Vectors: A Probabilistic Weather Model",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-NhgElcA3K8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-NhgElcA3K8",
-          "publishedOn": "2022-09-26T22:00:00.000Z",
-          "wordCount": null,
-          "title": "Calculus Review: The Derivative (and the Power Law and Chain Rule)",
-          "imageUrl": null
         }
       ]
     },
@@ -625,6 +625,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=n4IZVHvvrTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n4IZVHvvrTk",
+          "publishedOn": "2022-10-14T15:38:10.000Z",
+          "wordCount": null,
+          "title": "Gloria Steinem Reads “The Nazi Connection,” 42 Years Later",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rnZjLgmmzyE",
           "author": null,
