@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-15T00:59:21.397Z</id>
+    <id>urn:2022-10-16T01:01:52.303Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-15T00:59:21.397Z</updated>
+    <updated>2022-10-16T01:01:52.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[And the winner is: The fastest particles solving a maze]]></title>
+        <id>https://www.youtube.com/watch?v=vp5tyRyAxAI</id>
+        <link href="https://www.youtube.com/watch?v=vp5tyRyAxAI"/>
+        <updated>2022-10-15T09:00:36.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gloria Steinem Reads “The Nazi Connection,” 42 Years Later]]></title>
         <id>https://www.youtube.com/watch?v=n4IZVHvvrTk</id>
@@ -318,15 +327,6 @@
         <updated>2022-09-30T14:05:00.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D rendering of a W-shaped wave guide]]></title>
-        <id>https://www.youtube.com/watch?v=ywi9hCgzIHc</id>
-        <link href="https://www.youtube.com/watch?v=ywi9hCgzIHc"/>
-        <updated>2022-09-30T09:00:38.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
