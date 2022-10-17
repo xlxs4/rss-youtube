@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-16T01:01:52.303Z</id>
+    <id>urn:2022-10-17T01:04:48.007Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-16T01:01:52.303Z</updated>
+    <updated>2022-10-17T01:04:48.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A rocket that can rotate]]></title>
+        <id>https://www.youtube.com/watch?v=yFH1p7Mw1g4</id>
+        <link href="https://www.youtube.com/watch?v=yFH1p7Mw1g4"/>
+        <updated>2022-10-16T08:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[And the winner is: The fastest particles solving a maze]]></title>
         <id>https://www.youtube.com/watch?v=vp5tyRyAxAI</id>
@@ -309,15 +318,6 @@
         <updated>2022-10-01T13:17:00.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving a maze with laser beams]]></title>
-        <id>https://www.youtube.com/watch?v=Ski3UOUtIdA</id>
-        <link href="https://www.youtube.com/watch?v=Ski3UOUtIdA"/>
-        <updated>2022-10-01T09:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
