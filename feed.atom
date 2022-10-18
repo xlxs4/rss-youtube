@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-17T01:04:48.007Z</id>
+    <id>urn:2022-10-18T01:00:51.797Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-17T01:04:48.007Z</updated>
+    <updated>2022-10-18T01:00:51.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eigenvalues and Eigenvectors]]></title>
+        <id>https://www.youtube.com/watch?v=ZSGrJBS_qtc</id>
+        <link href="https://www.youtube.com/watch?v=ZSGrJBS_qtc"/>
+        <updated>2022-10-17T14:04:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two vortices in the incompressible Euler equation (short version)]]></title>
+        <id>https://www.youtube.com/watch?v=-GMvh1TAdbI</id>
+        <link href="https://www.youtube.com/watch?v=-GMvh1TAdbI"/>
+        <updated>2022-10-17T09:00:00.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A rocket that can rotate]]></title>
         <id>https://www.youtube.com/watch?v=yFH1p7Mw1g4</id>
@@ -294,15 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phase space representation of billiards interpolating between a circle and a hexagon]]></title>
-        <id>https://www.youtube.com/watch?v=6TjyKJKg40A</id>
-        <link href="https://www.youtube.com/watch?v=6TjyKJKg40A"/>
-        <updated>2022-10-02T09:00:02.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We ran a contest for math explainers, here are the results (SoME2)]]></title>
         <id>https://www.youtube.com/watch?v=cDofhN-RJqg</id>
         <link href="https://www.youtube.com/watch?v=cDofhN-RJqg"/>
@@ -343,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=BjvkBLfvkqY</id>
         <link href="https://www.youtube.com/watch?v=BjvkBLfvkqY"/>
         <updated>2022-09-28T10:00:05.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gentle Introduction to Modeling with Matrices and Vectors: A Probabilistic Weather Model]]></title>
-        <id>https://www.youtube.com/watch?v=K-8F_zDMDUI</id>
-        <link href="https://www.youtube.com/watch?v=K-8F_zDMDUI"/>
-        <updated>2022-09-27T10:00:20.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>

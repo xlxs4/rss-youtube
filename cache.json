@@ -205,6 +205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-GMvh1TAdbI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-GMvh1TAdbI",
+          "publishedOn": "2022-10-17T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Two vortices in the incompressible Euler equation (short version)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yFH1p7Mw1g4",
           "author": null,
           "description": "",
@@ -343,16 +353,6 @@
           "wordCount": null,
           "title": "Total internal reflection, with an index of refraction of 1.33",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6TjyKJKg40A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6TjyKJKg40A",
-          "publishedOn": "2022-10-02T09:00:02.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of billiards interpolating between a circle and a hexagon",
-          "imageUrl": null
         }
       ]
     },
@@ -424,6 +424,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZSGrJBS_qtc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZSGrJBS_qtc",
+          "publishedOn": "2022-10-17T14:04:00.000Z",
+          "wordCount": null,
+          "title": "Eigenvalues and Eigenvectors",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QYS-ML_vn4k",
           "author": null,
@@ -562,16 +572,6 @@
           "publishedOn": "2022-09-28T10:00:05.000Z",
           "wordCount": null,
           "title": "The Simplest Ordinary Differential Equation (ODE) and Its Exponential Solution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K-8F_zDMDUI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K-8F_zDMDUI",
-          "publishedOn": "2022-09-27T10:00:20.000Z",
-          "wordCount": null,
-          "title": "Gentle Introduction to Modeling with Matrices and Vectors: A Probabilistic Weather Model",
           "imageUrl": null
         }
       ]
