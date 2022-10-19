@@ -205,6 +205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1__Ti5U80qc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1__Ti5U80qc",
+          "publishedOn": "2022-10-18T09:00:00.000Z",
+          "wordCount": null,
+          "title": "A circular wave starting off center in a hexagon-bestagon",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-GMvh1TAdbI",
           "author": null,
           "description": "",
@@ -343,16 +353,6 @@
           "wordCount": null,
           "title": "Just another sim in the hall: A breaking dam made of interacting bricks",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cRk3X-XkLjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cRk3X-XkLjI",
-          "publishedOn": "2022-10-03T09:00:18.000Z",
-          "wordCount": null,
-          "title": "Total internal reflection, with an index of refraction of 1.33",
-          "imageUrl": null
         }
       ]
     },
@@ -367,6 +367,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fXb02MQ78yQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fXb02MQ78yQ",
+          "publishedOn": "2022-10-18T13:59:41.000Z",
+          "wordCount": null,
+          "title": "What Happens if a Supervolcano Blows Up?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fMJqwD7_-NU",
           "author": null,
@@ -703,16 +713,6 @@
           "publishedOn": "2022-08-11T13:55:31.000Z",
           "wordCount": null,
           "title": "MillCreekMarsh VR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T_jzGbeYkCw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T_jzGbeYkCw",
-          "publishedOn": "2022-07-20T14:12:16.000Z",
-          "wordCount": null,
-          "title": "Science vs. Fiction: Jennifer Egan on \"The Candy House\"",
           "imageUrl": null
         }
       ]
