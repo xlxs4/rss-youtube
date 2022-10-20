@@ -205,6 +205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2wCU2inEex0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2wCU2inEex0",
+          "publishedOn": "2022-10-19T09:00:01.000Z",
+          "wordCount": null,
+          "title": "Tracking a rocket able to rotate",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1__Ti5U80qc",
           "author": null,
           "description": "",
@@ -343,16 +353,6 @@
           "wordCount": null,
           "title": "Solving a maze by shooting particles at it",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oA2E6udrwms",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oA2E6udrwms",
-          "publishedOn": "2022-10-04T09:00:23.000Z",
-          "wordCount": null,
-          "title": "Just another sim in the hall: A breaking dam made of interacting bricks",
-          "imageUrl": null
         }
       ]
     },
@@ -434,6 +434,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Zwb5eiYcL8w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zwb5eiYcL8w",
+          "publishedOn": "2022-10-19T10:00:23.000Z",
+          "wordCount": null,
+          "title": "Solving Systems of Differential Equations with Eigenvalues and Eigenvectors",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZSGrJBS_qtc",
           "author": null,
@@ -572,16 +582,6 @@
           "publishedOn": "2022-09-29T10:00:33.000Z",
           "wordCount": null,
           "title": "Interpretable Aeroelastic Models for Control at Insect Scale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BjvkBLfvkqY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BjvkBLfvkqY",
-          "publishedOn": "2022-09-28T10:00:05.000Z",
-          "wordCount": null,
-          "title": "The Simplest Ordinary Differential Equation (ODE) and Its Exponential Solution",
           "imageUrl": null
         }
       ]
