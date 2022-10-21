@@ -205,6 +205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Wf8IKdSsdO0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Wf8IKdSsdO0",
+          "publishedOn": "2022-10-20T09:00:28.000Z",
+          "wordCount": null,
+          "title": "[Epilepsy warning] Shining a laser beam into a mirrored maze: High fps version without slowdown",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2wCU2inEex0",
           "author": null,
           "description": "",
@@ -342,16 +352,6 @@
           "publishedOn": "2022-10-06T09:00:21.000Z",
           "wordCount": null,
           "title": "Phase space representation of parabolic resonators",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=reE_6q5ye08",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=reE_6q5ye08",
-          "publishedOn": "2022-10-05T09:00:34.000Z",
-          "wordCount": null,
-          "title": "Solving a maze by shooting particles at it",
           "imageUrl": null
         }
       ]
