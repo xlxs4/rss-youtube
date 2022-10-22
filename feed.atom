@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T00:56:55.334Z</id>
+    <id>urn:2022-10-22T01:03:52.792Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T00:56:55.334Z</updated>
+    <updated>2022-10-22T01:03:52.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2x2 Systems of ODEs: Sources and Sinks]]></title>
+        <id>https://www.youtube.com/watch?v=NaNdkCPLftc</id>
+        <link href="https://www.youtube.com/watch?v=NaNdkCPLftc"/>
+        <updated>2022-10-21T10:00:30.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a maze with waves: 3D rendering]]></title>
+        <id>https://www.youtube.com/watch?v=cyXDuhckvC8</id>
+        <link href="https://www.youtube.com/watch?v=cyXDuhckvC8"/>
+        <updated>2022-10-21T09:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Epilepsy warning] Shining a laser beam into a mirrored maze: High fps version without slowdown]]></title>
         <id>https://www.youtube.com/watch?v=Wf8IKdSsdO0</id>
@@ -267,15 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phase space representation of parabolic resonators]]></title>
-        <id>https://www.youtube.com/watch?v=NHikEeUEDHI</id>
-        <link href="https://www.youtube.com/watch?v=NHikEeUEDHI"/>
-        <updated>2022-10-06T09:00:21.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quantum Entanglement: 2022 Nobel Prize in Physics]]></title>
         <id>https://www.youtube.com/watch?v=Sk_0QM_UA4I</id>
         <link href="https://www.youtube.com/watch?v=Sk_0QM_UA4I"/>
@@ -352,15 +361,6 @@
         <id>https://www.youtube.com/watch?v=3icbG3geC60</id>
         <link href="https://www.youtube.com/watch?v=3icbG3geC60"/>
         <updated>2022-09-30T14:05:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpretable Aeroelastic Models for Control at Insect Scale]]></title>
-        <id>https://www.youtube.com/watch?v=fGGNlXZB2YI</id>
-        <link href="https://www.youtube.com/watch?v=fGGNlXZB2YI"/>
-        <updated>2022-09-29T10:00:33.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
@@ -597,15 +597,6 @@
         <updated>2022-07-26T13:58:55.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Scientific Code Workshop]]></title>
-        <id>https://www.youtube.com/watch?v=x3swaMSCcYk</id>
-        <link href="https://www.youtube.com/watch?v=x3swaMSCcYk"/>
-        <updated>2022-07-24T07:45:35.000Z</updated>
-        <author>
-            <name>JuliaDynamics</name>
         </author>
     </entry>
 </feed>
