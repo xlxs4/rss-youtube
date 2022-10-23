@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-22T01:03:52.792Z</id>
+    <id>urn:2022-10-23T01:00:18.502Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T01:03:52.792Z</updated>
+    <updated>2022-10-23T01:00:18.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2x2 Systems of ODEs: Saddle Points and Instability]]></title>
+        <id>https://www.youtube.com/watch?v=fA86UJcFM60</id>
+        <link href="https://www.youtube.com/watch?v=fA86UJcFM60"/>
+        <updated>2022-10-22T10:00:28.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket comparison 8 - with an unexpected outcome]]></title>
+        <id>https://www.youtube.com/watch?v=qxx1IoTpxac</id>
+        <link href="https://www.youtube.com/watch?v=qxx1IoTpxac"/>
+        <updated>2022-10-22T09:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2x2 Systems of ODEs: Sources and Sinks]]></title>
         <id>https://www.youtube.com/watch?v=NaNdkCPLftc</id>
@@ -249,15 +267,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Total internal reflection (short version)]]></title>
-        <id>https://www.youtube.com/watch?v=cFGaZIrNmbo</id>
-        <link href="https://www.youtube.com/watch?v=cFGaZIrNmbo"/>
-        <updated>2022-10-07T09:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Engineering Math Pre-Req: Quick and Dirty Introduction to Python]]></title>
         <id>https://www.youtube.com/watch?v=-CX9B_SB8ME</id>
         <link href="https://www.youtube.com/watch?v=-CX9B_SB8ME"/>
@@ -352,15 +361,6 @@
         <id>https://www.youtube.com/watch?v=ebfOSDj4j3I</id>
         <link href="https://www.youtube.com/watch?v=ebfOSDj4j3I"/>
         <updated>2022-10-01T13:17:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Differential Equations with Power Series: A Simple Example]]></title>
-        <id>https://www.youtube.com/watch?v=3icbG3geC60</id>
-        <link href="https://www.youtube.com/watch?v=3icbG3geC60"/>
-        <updated>2022-09-30T14:05:00.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
