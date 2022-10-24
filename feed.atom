@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-23T01:00:18.502Z</id>
+    <id>urn:2022-10-24T01:06:53.507Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-23T01:00:18.502Z</updated>
+    <updated>2022-10-24T01:06:53.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2x2 Systems of ODEs: Imaginary Eigenvalues and Center Fixed Points]]></title>
+        <id>https://www.youtube.com/watch?v=b7389fIVey0</id>
+        <link href="https://www.youtube.com/watch?v=b7389fIVey0"/>
+        <updated>2022-10-23T10:00:25.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jovian weather: A shear flow under the incompressible Euler equations]]></title>
+        <id>https://www.youtube.com/watch?v=-yqcCbDAa3I</id>
+        <link href="https://www.youtube.com/watch?v=-yqcCbDAa3I"/>
+        <updated>2022-10-23T09:00:00.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2x2 Systems of ODEs: Saddle Points and Instability]]></title>
         <id>https://www.youtube.com/watch?v=fA86UJcFM60</id>
@@ -240,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An example of simulation gone wrong: Dam break with interacting bricks and no thermostat]]></title>
-        <id>https://www.youtube.com/watch?v=bNCZtAnlVfc</id>
-        <link href="https://www.youtube.com/watch?v=bNCZtAnlVfc"/>
-        <updated>2022-10-08T09:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Author Talks: Hua Hsu and Lucy Sante]]></title>
         <id>https://www.youtube.com/watch?v=rnZjLgmmzyE</id>
         <link href="https://www.youtube.com/watch?v=rnZjLgmmzyE"/>
@@ -354,15 +363,6 @@
         <updated>2022-10-01T19:23:52.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taylor Series and Power Series Made Easy (with Pictures): Review of Calculus]]></title>
-        <id>https://www.youtube.com/watch?v=ebfOSDj4j3I</id>
-        <link href="https://www.youtube.com/watch?v=ebfOSDj4j3I"/>
-        <updated>2022-10-01T13:17:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>

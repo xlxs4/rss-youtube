@@ -194,6 +194,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-yqcCbDAa3I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-yqcCbDAa3I",
+          "publishedOn": "2022-10-23T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Jovian weather: A shear flow under the incompressible Euler equations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qxx1IoTpxac",
           "author": null,
           "description": "",
@@ -332,16 +342,6 @@
           "wordCount": null,
           "title": "Video #600: Incompressible Euler equation with two vortices",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bNCZtAnlVfc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bNCZtAnlVfc",
-          "publishedOn": "2022-10-08T09:00:22.000Z",
-          "wordCount": null,
-          "title": "An example of simulation gone wrong: Dam break with interacting bricks and no thermostat",
-          "imageUrl": null
         }
       ]
     },
@@ -423,6 +423,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=b7389fIVey0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b7389fIVey0",
+          "publishedOn": "2022-10-23T10:00:25.000Z",
+          "wordCount": null,
+          "title": "2x2 Systems of ODEs: Imaginary Eigenvalues and Center Fixed Points",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fA86UJcFM60",
           "author": null,
@@ -561,16 +571,6 @@
           "publishedOn": "2022-10-03T14:22:00.000Z",
           "wordCount": null,
           "title": "Taylor Series of the Exponential Function and Euler's Formula!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ebfOSDj4j3I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ebfOSDj4j3I",
-          "publishedOn": "2022-10-01T13:17:00.000Z",
-          "wordCount": null,
-          "title": "Taylor Series and Power Series Made Easy (with Pictures): Review of Calculus",
           "imageUrl": null
         }
       ]
