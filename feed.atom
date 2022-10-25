@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-24T01:06:53.507Z</id>
+    <id>urn:2022-10-25T01:04:09.076Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-24T01:06:53.507Z</updated>
+    <updated>2022-10-25T01:04:09.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stability and Eigenvalues: What does it mean to be a "stable" eigenvalue?]]></title>
+        <id>https://www.youtube.com/watch?v=XXjoh8L1HkE</id>
+        <link href="https://www.youtube.com/watch?v=XXjoh8L1HkE"/>
+        <updated>2022-10-24T10:00:30.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the Wifi s*cks in your flat]]></title>
+        <id>https://www.youtube.com/watch?v=ErGwhuzJUQQ</id>
+        <link href="https://www.youtube.com/watch?v=ErGwhuzJUQQ"/>
+        <updated>2022-10-24T09:00:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2x2 Systems of ODEs: Imaginary Eigenvalues and Center Fixed Points]]></title>
         <id>https://www.youtube.com/watch?v=b7389fIVey0</id>
@@ -240,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video #600: Incompressible Euler equation with two vortices]]></title>
-        <id>https://www.youtube.com/watch?v=2fRTeoFVTS4</id>
-        <link href="https://www.youtube.com/watch?v=2fRTeoFVTS4"/>
-        <updated>2022-10-09T09:00:01.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[High-Order Ordinary Differential Equations with More Derivatives (from Physics)]]></title>
         <id>https://www.youtube.com/watch?v=uIqJF1rgRJI</id>
         <link href="https://www.youtube.com/watch?v=uIqJF1rgRJI"/>
@@ -345,15 +354,6 @@
         <updated>2022-10-04T14:00:24.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taylor Series of the Exponential Function and Euler's Formula!]]></title>
-        <id>https://www.youtube.com/watch?v=H0Zbg_CqMCs</id>
-        <link href="https://www.youtube.com/watch?v=H0Zbg_CqMCs"/>
-        <updated>2022-10-03T14:22:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -579,24 +579,6 @@
         <updated>2022-07-29T21:25:44.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Traveling Salesman Problem: When Good Enough Beats Perfect]]></title>
-        <id>https://www.youtube.com/watch?v=GiDsjIBOVoA</id>
-        <link href="https://www.youtube.com/watch?v=GiDsjIBOVoA"/>
-        <updated>2022-07-26T16:57:05.000Z</updated>
-        <author>
-            <name>Reducible</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Deadliest Virus on Earth]]></title>
-        <id>https://www.youtube.com/watch?v=4u5I8GYB79Y</id>
-        <link href="https://www.youtube.com/watch?v=4u5I8GYB79Y"/>
-        <updated>2022-07-26T13:58:55.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>

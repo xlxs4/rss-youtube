@@ -68,18 +68,7 @@
       "title": "Reducible",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8XIGR5kRidIw2fWqwyHRA",
       "siteUrl": "https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=GiDsjIBOVoA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GiDsjIBOVoA",
-          "publishedOn": "2022-07-26T16:57:05.000Z",
-          "wordCount": null,
-          "title": "The Traveling Salesman Problem: When Good Enough Beats Perfect",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "3Blue1Brown",
@@ -193,6 +182,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ErGwhuzJUQQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ErGwhuzJUQQ",
+          "publishedOn": "2022-10-24T09:00:06.000Z",
+          "wordCount": null,
+          "title": "Why the Wifi s*cks in your flat",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-yqcCbDAa3I",
           "author": null,
@@ -332,16 +331,6 @@
           "wordCount": null,
           "title": "Shining a rotating laser beam into a maze with mirrored walls",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2fRTeoFVTS4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2fRTeoFVTS4",
-          "publishedOn": "2022-10-09T09:00:01.000Z",
-          "wordCount": null,
-          "title": "Video #600: Incompressible Euler equation with two vortices",
-          "imageUrl": null
         }
       ]
     },
@@ -405,16 +394,6 @@
           "wordCount": null,
           "title": "Is Civilization on the Brink of Collapse?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4u5I8GYB79Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4u5I8GYB79Y",
-          "publishedOn": "2022-07-26T13:58:55.000Z",
-          "wordCount": null,
-          "title": "The Deadliest Virus on Earth",
-          "imageUrl": null
         }
       ]
     },
@@ -423,6 +402,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XXjoh8L1HkE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XXjoh8L1HkE",
+          "publishedOn": "2022-10-24T10:00:30.000Z",
+          "wordCount": null,
+          "title": "Stability and Eigenvalues: What does it mean to be a \"stable\" eigenvalue?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=b7389fIVey0",
           "author": null,
@@ -561,16 +550,6 @@
           "publishedOn": "2022-10-05T13:35:00.000Z",
           "wordCount": null,
           "title": "Second-Order Ordinary Differential Equations: Solving the Harmonic Oscillator Four Ways",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H0Zbg_CqMCs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H0Zbg_CqMCs",
-          "publishedOn": "2022-10-03T14:22:00.000Z",
-          "wordCount": null,
-          "title": "Taylor Series of the Exponential Function and Euler's Formula!",
           "imageUrl": null
         }
       ]
