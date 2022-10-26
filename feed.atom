@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-25T01:04:09.076Z</id>
+    <id>urn:2022-10-26T00:52:34.024Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T01:04:09.076Z</updated>
+    <updated>2022-10-26T00:52:34.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rocket comparison 9: Bell-shaped vs broad straight nozzle]]></title>
+        <id>https://www.youtube.com/watch?v=J3O0tGiJZzk</id>
+        <link href="https://www.youtube.com/watch?v=J3O0tGiJZzk"/>
+        <updated>2022-10-25T09:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stability and Eigenvalues: What does it mean to be a "stable" eigenvalue?]]></title>
         <id>https://www.youtube.com/watch?v=XXjoh8L1HkE</id>
@@ -246,15 +255,6 @@
         <updated>2022-10-10T10:00:37.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shining a rotating laser beam into a maze with mirrored walls]]></title>
-        <id>https://www.youtube.com/watch?v=DMMxRo0C7ms</id>
-        <link href="https://www.youtube.com/watch?v=DMMxRo0C7ms"/>
-        <updated>2022-10-10T09:00:08.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
