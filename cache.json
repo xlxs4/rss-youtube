@@ -183,6 +183,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=73C827fbVBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=73C827fbVBE",
+          "publishedOn": "2022-10-26T09:00:04.000Z",
+          "wordCount": null,
+          "title": "A shear flow",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=J3O0tGiJZzk",
           "author": null,
           "description": "",
@@ -321,16 +331,6 @@
           "wordCount": null,
           "title": "Phase space representation of a Penrose unilluminable room",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GjQ1zNCSWUQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GjQ1zNCSWUQ",
-          "publishedOn": "2022-10-11T09:00:09.000Z",
-          "wordCount": null,
-          "title": "Solving a maze with waves",
-          "imageUrl": null
         }
       ]
     },
@@ -402,6 +402,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=78we91-gWy8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=78we91-gWy8",
+          "publishedOn": "2022-10-26T10:00:05.000Z",
+          "wordCount": null,
+          "title": "What is a \"Linear\" Differential Equation?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XXjoh8L1HkE",
           "author": null,
@@ -540,16 +550,6 @@
           "publishedOn": "2022-10-06T13:45:02.000Z",
           "wordCount": null,
           "title": "Example Second-Order ODE: Spring-Mass-Damper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8ePqqZXSMQs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8ePqqZXSMQs",
-          "publishedOn": "2022-10-05T13:35:00.000Z",
-          "wordCount": null,
-          "title": "Second-Order Ordinary Differential Equations: Solving the Harmonic Oscillator Four Ways",
           "imageUrl": null
         }
       ]
