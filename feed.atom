@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-27T00:53:07.154Z</id>
+    <id>urn:2022-10-28T00:55:59.268Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-27T00:53:07.154Z</updated>
+    <updated>2022-10-28T00:55:59.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An annular wave guide]]></title>
+        <id>https://www.youtube.com/watch?v=xeQkf6c5SVQ</id>
+        <link href="https://www.youtube.com/watch?v=xeQkf6c5SVQ"/>
+        <updated>2022-10-27T09:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a "Linear" Differential Equation?]]></title>
         <id>https://www.youtube.com/watch?v=78we91-gWy8</id>
@@ -237,15 +246,6 @@
         <updated>2022-10-12T10:00:30.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phase space representation of a Penrose unilluminable room]]></title>
-        <id>https://www.youtube.com/watch?v=6E9453yHUqs</id>
-        <link href="https://www.youtube.com/watch?v=6E9453yHUqs"/>
-        <updated>2022-10-12T09:00:05.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -568,15 +568,6 @@
         <id>https://www.youtube.com/watch?v=kpakKNfkwoM</id>
         <link href="https://www.youtube.com/watch?v=kpakKNfkwoM"/>
         <updated>2022-08-03T17:39:26.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highly schematic figure skating pirouette]]></title>
-        <id>https://www.youtube.com/watch?v=TZHrOXLLf7Q</id>
-        <link href="https://www.youtube.com/watch?v=TZHrOXLLf7Q"/>
-        <updated>2022-07-29T21:25:44.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
         </author>
