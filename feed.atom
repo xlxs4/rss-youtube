@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-31T00:58:21.676Z</id>
+    <id>urn:2022-11-01T01:01:38.428Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-31T00:58:21.676Z</updated>
+    <updated>2022-11-01T01:01:38.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Phase Portrait for Double Well Potential]]></title>
+        <id>https://www.youtube.com/watch?v=vuZmaSyJpUY</id>
+        <link href="https://www.youtube.com/watch?v=vuZmaSyJpUY"/>
+        <updated>2022-10-31T20:00:30.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drawing Phase Portraits for Nonlinear Systems]]></title>
+        <id>https://www.youtube.com/watch?v=vBwyD4JJlSs</id>
+        <link href="https://www.youtube.com/watch?v=vBwyD4JJlSs"/>
+        <updated>2022-10-31T18:45:01.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Particle in a Potential Well: Nonlinear Dynamics]]></title>
+        <id>https://www.youtube.com/watch?v=d83Rq81Ojlc</id>
+        <link href="https://www.youtube.com/watch?v=d83Rq81Ojlc"/>
+        <updated>2022-10-31T10:00:21.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of a Penrose room of varying length]]></title>
+        <id>https://www.youtube.com/watch?v=XqgMRJ0_rXE</id>
+        <link href="https://www.youtube.com/watch?v=XqgMRJ0_rXE"/>
+        <updated>2022-10-31T10:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum maze: Solved and not solved at the same time]]></title>
         <id>https://www.youtube.com/watch?v=Boz9QRgud4w</id>
@@ -222,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A rocket that can rotate]]></title>
-        <id>https://www.youtube.com/watch?v=yFH1p7Mw1g4</id>
-        <link href="https://www.youtube.com/watch?v=yFH1p7Mw1g4"/>
-        <updated>2022-10-16T08:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gloria Steinem Reads “The Nazi Connection,” 42 Years Later]]></title>
         <id>https://www.youtube.com/watch?v=n4IZVHvvrTk</id>
         <link href="https://www.youtube.com/watch?v=n4IZVHvvrTk"/>
@@ -300,33 +327,6 @@
         <updated>2022-10-07T14:00:27.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Examples of Second Order Differential Equations]]></title>
-        <id>https://www.youtube.com/watch?v=fi54Hz5TiWI</id>
-        <link href="https://www.youtube.com/watch?v=fi54Hz5TiWI"/>
-        <updated>2022-10-07T12:18:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineering Math Pre-Req: Quick and Dirty Introduction to Python]]></title>
-        <id>https://www.youtube.com/watch?v=-CX9B_SB8ME</id>
-        <link href="https://www.youtube.com/watch?v=-CX9B_SB8ME"/>
-        <updated>2022-10-06T21:31:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineering Math Pre-Req: Quick and Dirty Introduction to Matlab]]></title>
-        <id>https://www.youtube.com/watch?v=U9EL8-9MuYA</id>
-        <link href="https://www.youtube.com/watch?v=U9EL8-9MuYA"/>
-        <updated>2022-10-06T21:30:04.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>

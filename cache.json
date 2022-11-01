@@ -173,6 +173,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XqgMRJ0_rXE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XqgMRJ0_rXE",
+          "publishedOn": "2022-10-31T10:00:20.000Z",
+          "wordCount": null,
+          "title": "Phase space representation of a Penrose room of varying length",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Boz9QRgud4w",
           "author": null,
           "description": "",
@@ -311,16 +321,6 @@
           "wordCount": null,
           "title": "Two vortices in the incompressible Euler equation (short version)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yFH1p7Mw1g4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yFH1p7Mw1g4",
-          "publishedOn": "2022-10-16T08:00:20.000Z",
-          "wordCount": null,
-          "title": "A rocket that can rotate",
-          "imageUrl": null
         }
       ]
     },
@@ -392,6 +392,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vuZmaSyJpUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vuZmaSyJpUY",
+          "publishedOn": "2022-10-31T20:00:30.000Z",
+          "wordCount": null,
+          "title": "Phase Portrait for Double Well Potential",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vBwyD4JJlSs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vBwyD4JJlSs",
+          "publishedOn": "2022-10-31T18:45:01.000Z",
+          "wordCount": null,
+          "title": "Drawing Phase Portraits for Nonlinear Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=d83Rq81Ojlc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d83Rq81Ojlc",
+          "publishedOn": "2022-10-31T10:00:21.000Z",
+          "wordCount": null,
+          "title": "A Particle in a Potential Well: Nonlinear Dynamics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RCWkzzLgwf0",
           "author": null,
@@ -510,36 +540,6 @@
           "publishedOn": "2022-10-08T10:00:38.000Z",
           "wordCount": null,
           "title": "High-Order Ordinary Differential Equations with More Derivatives (from Physics)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fi54Hz5TiWI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fi54Hz5TiWI",
-          "publishedOn": "2022-10-07T12:18:00.000Z",
-          "wordCount": null,
-          "title": "More Examples of Second Order Differential Equations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-CX9B_SB8ME",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-CX9B_SB8ME",
-          "publishedOn": "2022-10-06T21:31:00.000Z",
-          "wordCount": null,
-          "title": "Engineering Math Pre-Req: Quick and Dirty Introduction to Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U9EL8-9MuYA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U9EL8-9MuYA",
-          "publishedOn": "2022-10-06T21:30:04.000Z",
-          "wordCount": null,
-          "title": "Engineering Math Pre-Req: Quick and Dirty Introduction to Matlab",
           "imageUrl": null
         }
       ]
