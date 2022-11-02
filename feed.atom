@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-01T01:01:38.428Z</id>
+    <id>urn:2022-11-02T00:56:07.447Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T01:01:38.428Z</updated>
+    <updated>2022-11-02T00:56:07.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A quantum particle tunneling through a maze]]></title>
+        <id>https://www.youtube.com/watch?v=aCoYQOdWBk0</id>
+        <link href="https://www.youtube.com/watch?v=aCoYQOdWBk0"/>
+        <updated>2022-11-01T10:00:00.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phase Portrait for Double Well Potential]]></title>
         <id>https://www.youtube.com/watch?v=vuZmaSyJpUY</id>
@@ -246,15 +255,6 @@
         <updated>2022-10-17T14:04:00.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two vortices in the incompressible Euler equation (short version)]]></title>
-        <id>https://www.youtube.com/watch?v=-GMvh1TAdbI</id>
-        <link href="https://www.youtube.com/watch?v=-GMvh1TAdbI"/>
-        <updated>2022-10-17T09:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -570,15 +570,6 @@
         <updated>2022-08-06T20:00:03.000Z</updated>
         <author>
             <name>Nemean</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black hole passing by]]></title>
-        <id>https://www.youtube.com/watch?v=kpakKNfkwoM</id>
-        <link href="https://www.youtube.com/watch?v=kpakKNfkwoM"/>
-        <updated>2022-08-03T17:39:26.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
