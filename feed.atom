@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T00:56:07.447Z</id>
+    <id>urn:2022-11-03T00:51:27.885Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T00:56:07.447Z</updated>
+    <updated>2022-11-03T00:51:27.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A shear flow at 60 fps]]></title>
+        <id>https://www.youtube.com/watch?v=xYboEUdzui0</id>
+        <link href="https://www.youtube.com/watch?v=xYboEUdzui0"/>
+        <updated>2022-11-02T10:00:41.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations]]></title>
+        <id>https://www.youtube.com/watch?v=Dc2OYDVp43I</id>
+        <link href="https://www.youtube.com/watch?v=Dc2OYDVp43I"/>
+        <updated>2022-11-02T10:00:07.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A quantum particle tunneling through a maze]]></title>
         <id>https://www.youtube.com/watch?v=aCoYQOdWBk0</id>
@@ -240,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A circular wave starting off center in a hexagon-bestagon]]></title>
-        <id>https://www.youtube.com/watch?v=1__Ti5U80qc</id>
-        <link href="https://www.youtube.com/watch?v=1__Ti5U80qc"/>
-        <updated>2022-10-18T09:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Eigenvalues and Eigenvectors]]></title>
         <id>https://www.youtube.com/watch?v=ZSGrJBS_qtc</id>
         <link href="https://www.youtube.com/watch?v=ZSGrJBS_qtc"/>
@@ -307,15 +316,6 @@
         <id>https://www.youtube.com/watch?v=vA3MjD0cfS4</id>
         <link href="https://www.youtube.com/watch?v=vA3MjD0cfS4"/>
         <updated>2022-10-10T10:00:37.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Order Ordinary Differential Equations with More Derivatives (from Physics)]]></title>
-        <id>https://www.youtube.com/watch?v=uIqJF1rgRJI</id>
-        <link href="https://www.youtube.com/watch?v=uIqJF1rgRJI"/>
-        <updated>2022-10-08T10:00:38.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>

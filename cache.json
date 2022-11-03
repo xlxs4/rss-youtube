@@ -163,6 +163,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xYboEUdzui0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xYboEUdzui0",
+          "publishedOn": "2022-11-02T10:00:41.000Z",
+          "wordCount": null,
+          "title": "A shear flow at 60 fps",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aCoYQOdWBk0",
           "author": null,
           "description": "",
@@ -301,16 +311,6 @@
           "wordCount": null,
           "title": "Tracking a rocket able to rotate",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1__Ti5U80qc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1__Ti5U80qc",
-          "publishedOn": "2022-10-18T09:00:00.000Z",
-          "wordCount": null,
-          "title": "A circular wave starting off center in a hexagon-bestagon",
-          "imageUrl": null
         }
       ]
     },
@@ -382,6 +382,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Dc2OYDVp43I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dc2OYDVp43I",
+          "publishedOn": "2022-11-02T10:00:07.000Z",
+          "wordCount": null,
+          "title": "Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vuZmaSyJpUY",
           "author": null,
@@ -520,16 +530,6 @@
           "publishedOn": "2022-10-10T10:00:37.000Z",
           "wordCount": null,
           "title": "Solving General High-Order, Linear Ordinary Differential Equations (ODEs)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uIqJF1rgRJI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uIqJF1rgRJI",
-          "publishedOn": "2022-10-08T10:00:38.000Z",
-          "wordCount": null,
-          "title": "High-Order Ordinary Differential Equations with More Derivatives (from Physics)",
           "imageUrl": null
         }
       ]
