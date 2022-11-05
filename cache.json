@@ -76,6 +76,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=851U557j6HE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=851U557j6HE",
+          "publishedOn": "2022-11-04T15:54:19.000Z",
+          "wordCount": null,
+          "title": "Researchers thought this was a bug (Borwein integrals)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cDofhN-RJqg",
           "author": null,
           "description": "",
@@ -92,6 +102,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2n2XGNHsKjA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2n2XGNHsKjA",
+          "publishedOn": "2022-11-04T15:00:03.000Z",
+          "wordCount": null,
+          "title": "Can Oxford teacher solve Cambridge math interview questions? (ft. @Tom Rocks Maths)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iH2kATv49rc",
           "author": null,
@@ -162,6 +182,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nmn-YEGLsz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nmn-YEGLsz0",
+          "publishedOn": "2022-11-04T10:00:27.000Z",
+          "wordCount": null,
+          "title": "A 2D shear flow rendered in 3D",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uWVtpSVTh2U",
           "author": null,
@@ -301,16 +331,6 @@
           "wordCount": null,
           "title": "Solving a maze with waves: 3D rendering",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Wf8IKdSsdO0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wf8IKdSsdO0",
-          "publishedOn": "2022-10-20T09:00:28.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] Shining a laser beam into a mirrored maze: High fps version without slowdown",
-          "imageUrl": null
         }
       ]
     },
@@ -382,6 +402,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Xt3vS_hhBm8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xt3vS_hhBm8",
+          "publishedOn": "2022-11-04T10:00:17.000Z",
+          "wordCount": null,
+          "title": "Measure-preserving EDMD: A 4-line structure-preserving & convergent DMD algorithm!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Dc2OYDVp43I",
           "author": null,
@@ -521,16 +551,6 @@
           "wordCount": null,
           "title": "Matrix Systems of Differential Equations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vA3MjD0cfS4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vA3MjD0cfS4",
-          "publishedOn": "2022-10-10T10:00:37.000Z",
-          "wordCount": null,
-          "title": "Solving General High-Order, Linear Ordinary Differential Equations (ODEs)",
-          "imageUrl": null
         }
       ]
     },
@@ -538,18 +558,7 @@
       "title": "Nemean",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtJPeNYnAXhB1-_h8xbIX_Q",
       "siteUrl": "https://www.youtube.com/channel/UCtJPeNYnAXhB1-_h8xbIX_Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=KufsL2VgELo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KufsL2VgELo",
-          "publishedOn": "2022-08-06T20:00:03.000Z",
-          "wordCount": null,
-          "title": "Researchers Use Group Theory to Speed Up Algorithms — Introduction to Groups",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Faculty of Khan",
@@ -583,6 +592,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=L0NenZtIib4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L0NenZtIib4",
+          "publishedOn": "2022-11-04T14:21:43.000Z",
+          "wordCount": null,
+          "title": "Discover Dead Stars with Dame Bell Burnell",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8VFNQ_l7L5c",
           "author": null,
