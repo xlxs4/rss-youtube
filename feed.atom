@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T00:51:50.160Z</id>
+    <id>urn:2022-11-06T00:49:50.467Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T00:51:50.160Z</updated>
+    <updated>2022-11-06T00:49:50.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Hartman-Grobman Theorem, Structural Stability of Linearization, and Stable/Unstable Manifolds]]></title>
+        <id>https://www.youtube.com/watch?v=vRaUSnB7qNw</id>
+        <link href="https://www.youtube.com/watch?v=vRaUSnB7qNw"/>
+        <updated>2022-11-05T17:00:37.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket comparison 11: Bell-shaped vs narrow straight nozzle, with larger moments of inertia]]></title>
+        <id>https://www.youtube.com/watch?v=2-PjzuNEfgA</id>
+        <link href="https://www.youtube.com/watch?v=2-PjzuNEfgA"/>
+        <updated>2022-11-05T10:00:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers thought this was a bug (Borwein integrals)]]></title>
         <id>https://www.youtube.com/watch?v=851U557j6HE</id>
@@ -15,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can Oxford teacher solve Cambridge math interview questions? (ft. @Tom Rocks Maths)]]></title>
+        <title type="html"><![CDATA[Can Oxford professor solve Cambridge math interview questions? (ft. @Tom Rocks Maths)]]></title>
         <id>https://www.youtube.com/watch?v=2n2XGNHsKjA</id>
         <link href="https://www.youtube.com/watch?v=2n2XGNHsKjA"/>
         <updated>2022-11-04T15:00:03.000Z</updated>
@@ -267,15 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solving a maze with waves: 3D rendering]]></title>
-        <id>https://www.youtube.com/watch?v=cyXDuhckvC8</id>
-        <link href="https://www.youtube.com/watch?v=cyXDuhckvC8"/>
-        <updated>2022-10-21T09:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solving Systems of Differential Equations with Eigenvalues and Eigenvectors]]></title>
         <id>https://www.youtube.com/watch?v=Zwb5eiYcL8w</id>
         <link href="https://www.youtube.com/watch?v=Zwb5eiYcL8w"/>
@@ -327,15 +336,6 @@
         <updated>2022-10-13T15:04:00.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix Systems of Differential Equations]]></title>
-        <id>https://www.youtube.com/watch?v=Vtijyyo5fKI</id>
-        <link href="https://www.youtube.com/watch?v=Vtijyyo5fKI"/>
-        <updated>2022-10-12T10:00:30.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
