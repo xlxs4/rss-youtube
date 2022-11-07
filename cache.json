@@ -34,16 +34,6 @@
           "wordCount": null,
           "title": "How Two Physicists Unlocked the Secrets of Two Dimensions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ATubwpnVLAY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ATubwpnVLAY",
-          "publishedOn": "2022-08-08T15:31:36.000Z",
-          "wordCount": null,
-          "title": "Exploring the Deep Mystery of Life's Origins",
-          "imageUrl": null
         }
       ]
     },
@@ -183,6 +173,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yPXo_sLZy48",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yPXo_sLZy48",
+          "publishedOn": "2022-11-06T10:00:25.000Z",
+          "wordCount": null,
+          "title": "Refraction of a wave on a chessboard",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2-PjzuNEfgA",
           "author": null,
           "description": "",
@@ -320,16 +320,6 @@
           "publishedOn": "2022-10-23T09:00:00.000Z",
           "wordCount": null,
           "title": "Jovian weather: A shear flow under the incompressible Euler equations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qxx1IoTpxac",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qxx1IoTpxac",
-          "publishedOn": "2022-10-22T09:00:31.000Z",
-          "wordCount": null,
-          "title": "Rocket comparison 8 - with an unexpected outcome",
           "imageUrl": null
         }
       ]
