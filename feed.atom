@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T00:48:34.864Z</id>
+    <id>urn:2022-11-09T00:47:27.519Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T00:48:34.864Z</updated>
+    <updated>2022-11-09T00:47:27.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Don't We Shoot Nuclear Waste Into Space?]]></title>
+        <id>https://www.youtube.com/watch?v=Us2Z-WC9rao</id>
+        <link href="https://www.youtube.com/watch?v=Us2Z-WC9rao"/>
+        <updated>2022-11-08T14:59:18.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Periodicised view of a 2D shear flow rendered in 3D]]></title>
+        <id>https://www.youtube.com/watch?v=gXRhCQaxAfI</id>
+        <link href="https://www.youtube.com/watch?v=gXRhCQaxAfI"/>
+        <updated>2022-11-08T10:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Extra Credit: Activated Archives with Umber Majeed]]></title>
         <id>https://www.youtube.com/watch?v=B5xiNWfo2i0</id>
@@ -264,15 +282,6 @@
         <updated>2022-10-24T10:00:30.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the Wifi s*cks in your flat]]></title>
-        <id>https://www.youtube.com/watch?v=ErGwhuzJUQQ</id>
-        <link href="https://www.youtube.com/watch?v=ErGwhuzJUQQ"/>
-        <updated>2022-10-24T09:00:06.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

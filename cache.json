@@ -173,6 +173,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gXRhCQaxAfI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gXRhCQaxAfI",
+          "publishedOn": "2022-11-08T10:00:20.000Z",
+          "wordCount": null,
+          "title": "Periodicised view of a 2D shear flow rendered in 3D",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DNlw8mzz2Y8",
           "author": null,
           "description": "",
@@ -311,16 +321,6 @@
           "wordCount": null,
           "title": "Rocket comparison 9: Bell-shaped vs broad straight nozzle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ErGwhuzJUQQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ErGwhuzJUQQ",
-          "publishedOn": "2022-10-24T09:00:06.000Z",
-          "wordCount": null,
-          "title": "Why the Wifi s*cks in your flat",
-          "imageUrl": null
         }
       ]
     },
@@ -335,6 +335,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Us2Z-WC9rao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Us2Z-WC9rao",
+          "publishedOn": "2022-11-08T14:59:18.000Z",
+          "wordCount": null,
+          "title": "Why Don't We Shoot Nuclear Waste Into Space?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fXb02MQ78yQ",
           "author": null,
