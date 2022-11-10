@@ -72,7 +72,7 @@
           "link": "https://www.youtube.com/watch?v=851U557j6HE",
           "publishedOn": "2022-11-04T15:54:19.000Z",
           "wordCount": null,
-          "title": "Researchers thought this was a bug (Borwein integrals)",
+          "title": "This sequence is absurd, but explainable (Borwein integrals)",
           "imageUrl": null
         },
         {
@@ -172,6 +172,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0sxi9E96uEw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0sxi9E96uEw",
+          "publishedOn": "2022-11-09T10:00:02.000Z",
+          "wordCount": null,
+          "title": "Deep impact 3: Dropping a disc in a Lennard-Jones fluid",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gXRhCQaxAfI",
           "author": null,
@@ -311,16 +321,6 @@
           "wordCount": null,
           "title": "A shear flow",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J3O0tGiJZzk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J3O0tGiJZzk",
-          "publishedOn": "2022-10-25T09:00:10.000Z",
-          "wordCount": null,
-          "title": "Rocket comparison 9: Bell-shaped vs broad straight nozzle",
-          "imageUrl": null
         }
       ]
     },
@@ -402,6 +402,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9xWqNPXRl7o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9xWqNPXRl7o",
+          "publishedOn": "2022-11-09T11:00:06.000Z",
+          "wordCount": null,
+          "title": "Repeated Eigenvalues and Secular Terms: Transient Growth in Non-Normal Systems",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5tjDDNp5v6I",
           "author": null,
@@ -541,16 +551,6 @@
           "wordCount": null,
           "title": "Solving Systems of Differential Equations with Eigenvalues and Eigenvectors",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZSGrJBS_qtc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZSGrJBS_qtc",
-          "publishedOn": "2022-10-17T14:04:00.000Z",
-          "wordCount": null,
-          "title": "Eigenvalues and Eigenvectors",
-          "imageUrl": null
         }
       ]
     },
@@ -670,36 +670,6 @@
           "publishedOn": "2022-08-18T13:00:07.000Z",
           "wordCount": null,
           "title": "Medicine Singers Live at Greenwood Cemetery - Sunrise (Rumble) ft. Yonatan Gat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gacdGogOnVM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gacdGogOnVM",
-          "publishedOn": "2022-08-11T13:55:54.000Z",
-          "wordCount": null,
-          "title": "Mill Creek Marsh, Atlantic White Cedar Remnants",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zjIOSSiJXcQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zjIOSSiJXcQ",
-          "publishedOn": "2022-08-11T13:55:38.000Z",
-          "wordCount": null,
-          "title": "Phragmites 3D Render",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=suEVPAcq1b0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=suEVPAcq1b0",
-          "publishedOn": "2022-08-11T13:55:31.000Z",
-          "wordCount": null,
-          "title": "MillCreekMarsh VR",
           "imageUrl": null
         }
       ]
