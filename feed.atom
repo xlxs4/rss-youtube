@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T00:48:52.073Z</id>
+    <id>urn:2022-11-11T00:52:02.339Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T00:48:52.073Z</updated>
+    <updated>2022-11-11T00:52:02.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sacred Nature with Karen Armstrong]]></title>
+        <id>https://www.youtube.com/watch?v=ovfqJFkuRrg</id>
+        <link href="https://www.youtube.com/watch?v=ovfqJFkuRrg"/>
+        <updated>2022-11-10T20:00:08.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refraction of a wave on a grid of triangles]]></title>
+        <id>https://www.youtube.com/watch?v=u9xiruC5omc</id>
+        <link href="https://www.youtube.com/watch?v=u9xiruC5omc"/>
+        <updated>2022-11-10T10:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Repeated Eigenvalues and Secular Terms: Transient Growth in Non-Normal Systems]]></title>
         <id>https://www.youtube.com/watch?v=9xWqNPXRl7o</id>
@@ -96,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This sequence is absurd, but explainable (Borwein integrals)]]></title>
+        <title type="html"><![CDATA[Researchers thought this was a bug (Borwein integrals)]]></title>
         <id>https://www.youtube.com/watch?v=851U557j6HE</id>
         <link href="https://www.youtube.com/watch?v=851U557j6HE"/>
         <updated>2022-11-04T15:54:19.000Z</updated>
@@ -273,15 +291,6 @@
         <updated>2022-10-26T10:00:05.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A shear flow]]></title>
-        <id>https://www.youtube.com/watch?v=73C827fbVBE</id>
-        <link href="https://www.youtube.com/watch?v=73C827fbVBE"/>
-        <updated>2022-10-26T09:00:04.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -559,15 +568,6 @@
         <id>https://www.youtube.com/watch?v=M70sUauxrdc</id>
         <link href="https://www.youtube.com/watch?v=M70sUauxrdc"/>
         <updated>2022-08-14T10:14:18.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annoying maze billiard]]></title>
-        <id>https://www.youtube.com/watch?v=HbwCrVyqS4I</id>
-        <link href="https://www.youtube.com/watch?v=HbwCrVyqS4I"/>
-        <updated>2022-08-12T21:16:17.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
         </author>

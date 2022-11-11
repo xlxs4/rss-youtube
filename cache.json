@@ -72,7 +72,7 @@
           "link": "https://www.youtube.com/watch?v=851U557j6HE",
           "publishedOn": "2022-11-04T15:54:19.000Z",
           "wordCount": null,
-          "title": "This sequence is absurd, but explainable (Borwein integrals)",
+          "title": "Researchers thought this was a bug (Borwein integrals)",
           "imageUrl": null
         },
         {
@@ -154,16 +154,6 @@
           "wordCount": null,
           "title": "Black hole passing in front of the Andromeda galaxy",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HbwCrVyqS4I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HbwCrVyqS4I",
-          "publishedOn": "2022-08-12T21:16:17.000Z",
-          "wordCount": null,
-          "title": "Annoying maze billiard",
-          "imageUrl": null
         }
       ]
     },
@@ -172,6 +162,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=u9xiruC5omc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u9xiruC5omc",
+          "publishedOn": "2022-11-10T10:00:35.000Z",
+          "wordCount": null,
+          "title": "Refraction of a wave on a grid of triangles",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0sxi9E96uEw",
           "author": null,
@@ -310,16 +310,6 @@
           "publishedOn": "2022-10-27T09:00:35.000Z",
           "wordCount": null,
           "title": "An annular wave guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=73C827fbVBE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=73C827fbVBE",
-          "publishedOn": "2022-10-26T09:00:04.000Z",
-          "wordCount": null,
-          "title": "A shear flow",
           "imageUrl": null
         }
       ]
@@ -679,6 +669,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ovfqJFkuRrg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ovfqJFkuRrg",
+          "publishedOn": "2022-11-10T20:00:08.000Z",
+          "wordCount": null,
+          "title": "Sacred Nature with Karen Armstrong",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Sk_0QM_UA4I",
           "author": null,
