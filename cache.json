@@ -153,6 +153,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3jbhBYsMxLc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3jbhBYsMxLc",
+          "publishedOn": "2022-11-12T10:00:04.000Z",
+          "wordCount": null,
+          "title": "Deep impact 4: Dropping a rectangle in a Lennard-Jones fluid",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UqYejww1E9M",
           "author": null,
           "description": "",
@@ -291,16 +301,6 @@
           "wordCount": null,
           "title": "A shear flow with 4 layers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bBXtrGhWy3s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bBXtrGhWy3s",
-          "publishedOn": "2022-10-28T09:00:18.000Z",
-          "wordCount": null,
-          "title": "Bloopers 3: Rockets messing with the thermostat",
-          "imageUrl": null
         }
       ]
     },
@@ -382,6 +382,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Jvmb2jeRaGE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jvmb2jeRaGE",
+          "publishedOn": "2022-11-12T11:00:20.000Z",
+          "wordCount": null,
+          "title": "Differential Equations with Forcing: Method of Undetermined Coefficients",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SsCiQym5yQU",
           "author": null,
@@ -520,16 +530,6 @@
           "publishedOn": "2022-10-22T10:00:28.000Z",
           "wordCount": null,
           "title": "2x2 Systems of ODEs: Saddle Points and Instability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NaNdkCPLftc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NaNdkCPLftc",
-          "publishedOn": "2022-10-21T10:00:30.000Z",
-          "wordCount": null,
-          "title": "2x2 Systems of ODEs: Sources and Sinks",
           "imageUrl": null
         }
       ]
