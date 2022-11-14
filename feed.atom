@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-13T00:45:24.596Z</id>
+    <id>urn:2022-11-14T00:43:57.481Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-13T00:45:24.596Z</updated>
+    <updated>2022-11-14T00:43:57.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Energy flux of waves crossing a maze]]></title>
+        <id>https://www.youtube.com/watch?v=wOprxqtBEuQ</id>
+        <link href="https://www.youtube.com/watch?v=wOprxqtBEuQ"/>
+        <updated>2022-11-13T10:00:39.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Differential Equations with Forcing: Method of Undetermined Coefficients]]></title>
         <id>https://www.youtube.com/watch?v=Jvmb2jeRaGE</id>
@@ -285,15 +294,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A shear flow with 4 layers]]></title>
-        <id>https://www.youtube.com/watch?v=Ja7qXcCPXVU</id>
-        <link href="https://www.youtube.com/watch?v=Ja7qXcCPXVU"/>
-        <updated>2022-10-29T09:00:23.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Circuit des Yeux Live at Greenwood Cemetery]]></title>
         <id>https://www.youtube.com/watch?v=8VFNQ_l7L5c</id>
         <link href="https://www.youtube.com/watch?v=8VFNQ_l7L5c"/>
@@ -561,15 +561,6 @@
         <updated>2022-08-16T13:59:34.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wavelets: a mathematical microscope]]></title>
-        <id>https://www.youtube.com/watch?v=jnxqHcObNK4</id>
-        <link href="https://www.youtube.com/watch?v=jnxqHcObNK4"/>
-        <updated>2022-08-15T19:50:42.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
         </author>
     </entry>
 </feed>

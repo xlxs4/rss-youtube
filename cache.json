@@ -153,6 +153,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wOprxqtBEuQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wOprxqtBEuQ",
+          "publishedOn": "2022-11-13T10:00:39.000Z",
+          "wordCount": null,
+          "title": "Energy flux of waves crossing a maze",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3jbhBYsMxLc",
           "author": null,
           "description": "",
@@ -290,16 +300,6 @@
           "publishedOn": "2022-10-30T10:00:11.000Z",
           "wordCount": null,
           "title": "Quantum maze: Solved and not solved at the same time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ja7qXcCPXVU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ja7qXcCPXVU",
-          "publishedOn": "2022-10-29T09:00:23.000Z",
-          "wordCount": null,
-          "title": "A shear flow with 4 layers",
           "imageUrl": null
         }
       ]
@@ -724,16 +724,6 @@
           "publishedOn": "2022-10-05T17:40:29.000Z",
           "wordCount": null,
           "title": "Theta rhythm: A Memory Clock",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jnxqHcObNK4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jnxqHcObNK4",
-          "publishedOn": "2022-08-15T19:50:42.000Z",
-          "wordCount": null,
-          "title": "Wavelets: a mathematical microscope",
           "imageUrl": null
         }
       ]
