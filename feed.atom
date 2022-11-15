@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-14T00:43:57.481Z</id>
+    <id>urn:2022-11-15T00:45:18.940Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-14T00:43:57.481Z</updated>
+    <updated>2022-11-15T00:45:18.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solving the Infinite Square Well Problem | Quantum Mechanics]]></title>
+        <id>https://www.youtube.com/watch?v=yX-xeexgDGA</id>
+        <link href="https://www.youtube.com/watch?v=yX-xeexgDGA"/>
+        <updated>2022-11-14T12:19:43.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differential Equations with Forcing: Method of Variation of Parameters]]></title>
+        <id>https://www.youtube.com/watch?v=wCeDUbZQ_zA</id>
+        <link href="https://www.youtube.com/watch?v=wCeDUbZQ_zA"/>
+        <updated>2022-11-14T11:00:40.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A visualization of a shear flow with tracers]]></title>
+        <id>https://www.youtube.com/watch?v=SCYuz4h6WUw</id>
+        <link href="https://www.youtube.com/watch?v=SCYuz4h6WUw"/>
+        <updated>2022-11-14T10:00:14.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Energy flux of waves crossing a maze]]></title>
         <id>https://www.youtube.com/watch?v=wOprxqtBEuQ</id>
@@ -285,15 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quantum maze: Solved and not solved at the same time]]></title>
-        <id>https://www.youtube.com/watch?v=Boz9QRgud4w</id>
-        <link href="https://www.youtube.com/watch?v=Boz9QRgud4w"/>
-        <updated>2022-10-30T10:00:11.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Circuit des Yeux Live at Greenwood Cemetery]]></title>
         <id>https://www.youtube.com/watch?v=8VFNQ_l7L5c</id>
         <link href="https://www.youtube.com/watch?v=8VFNQ_l7L5c"/>
@@ -334,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=b7389fIVey0</id>
         <link href="https://www.youtube.com/watch?v=b7389fIVey0"/>
         <updated>2022-10-23T10:00:25.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2x2 Systems of ODEs: Saddle Points and Instability]]></title>
-        <id>https://www.youtube.com/watch?v=fA86UJcFM60</id>
-        <link href="https://www.youtube.com/watch?v=fA86UJcFM60"/>
-        <updated>2022-10-22T10:00:28.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
@@ -534,33 +543,6 @@
         <updated>2022-08-18T13:00:07.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many people might ever exist, calculated]]></title>
-        <id>https://www.youtube.com/watch?v=r6sa_fWQB_4</id>
-        <link href="https://www.youtube.com/watch?v=r6sa_fWQB_4"/>
-        <updated>2022-08-16T15:50:00.000Z</updated>
-        <author>
-            <name>Primer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Two Physicists Unlocked the Secrets of Two Dimensions]]></title>
-        <id>https://www.youtube.com/watch?v=kpsu9_ql0-M</id>
-        <link href="https://www.youtube.com/watch?v=kpsu9_ql0-M"/>
-        <updated>2022-08-16T15:45:19.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Civilization on the Brink of Collapse?]]></title>
-        <id>https://www.youtube.com/watch?v=W93XyXHI8Nw</id>
-        <link href="https://www.youtube.com/watch?v=W93XyXHI8Nw"/>
-        <updated>2022-08-16T13:59:34.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
