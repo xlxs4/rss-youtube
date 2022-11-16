@@ -132,6 +132,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ptBt8ic61Ss",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ptBt8ic61Ss",
+          "publishedOn": "2022-11-15T10:00:34.000Z",
+          "wordCount": null,
+          "title": "Rocket comparison 12: Glas-shaped vs trumpet-shaped nozzle, with a background grid",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SCYuz4h6WUw",
           "author": null,
           "description": "",
@@ -269,16 +279,6 @@
           "publishedOn": "2022-11-01T10:00:00.000Z",
           "wordCount": null,
           "title": "A quantum particle tunneling through a maze",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XqgMRJ0_rXE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XqgMRJ0_rXE",
-          "publishedOn": "2022-10-31T10:00:20.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of a Penrose room of varying length",
           "imageUrl": null
         }
       ]
@@ -551,16 +551,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=6MD5pVWOK3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6MD5pVWOK3g",
-          "publishedOn": "2022-11-10T15:13:30.000Z",
-          "wordCount": null,
-          "title": "Dreamcrusher | Pioneer Live | Warning - Photosensitivity/Seizures",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=B5xiNWfo2i0",
           "author": null,

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-15T00:45:18.940Z</id>
+    <id>urn:2022-11-16T00:45:58.013Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-15T00:45:18.940Z</updated>
+    <updated>2022-11-16T00:45:58.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rocket comparison 12: Glas-shaped vs trumpet-shaped nozzle, with a background grid]]></title>
+        <id>https://www.youtube.com/watch?v=ptBt8ic61Ss</id>
+        <link href="https://www.youtube.com/watch?v=ptBt8ic61Ss"/>
+        <updated>2022-11-15T10:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solving the Infinite Square Well Problem | Quantum Mechanics]]></title>
         <id>https://www.youtube.com/watch?v=yX-xeexgDGA</id>
@@ -84,15 +93,6 @@
         <updated>2022-11-10T20:00:08.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamcrusher | Pioneer Live | Warning - Photosensitivity/Seizures]]></title>
-        <id>https://www.youtube.com/watch?v=6MD5pVWOK3g</id>
-        <link href="https://www.youtube.com/watch?v=6MD5pVWOK3g"/>
-        <updated>2022-11-10T15:13:30.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
@@ -300,15 +300,6 @@
         <updated>2022-10-31T10:00:21.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phase space representation of a Penrose room of varying length]]></title>
-        <id>https://www.youtube.com/watch?v=XqgMRJ0_rXE</id>
-        <link href="https://www.youtube.com/watch?v=XqgMRJ0_rXE"/>
-        <updated>2022-10-31T10:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
