@@ -132,6 +132,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VIIseFTNSso",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VIIseFTNSso",
+          "publishedOn": "2022-11-16T10:00:16.000Z",
+          "wordCount": null,
+          "title": "Solving a 16 by 16 maze with laser beams",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ptBt8ic61Ss",
           "author": null,
           "description": "",
@@ -270,16 +280,6 @@
           "wordCount": null,
           "title": "A shear flow at 60 fps",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aCoYQOdWBk0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aCoYQOdWBk0",
-          "publishedOn": "2022-11-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "A quantum particle tunneling through a maze",
-          "imageUrl": null
         }
       ]
     },
@@ -351,6 +351,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vKgbYRw21xA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vKgbYRw21xA",
+          "publishedOn": "2022-11-16T11:00:43.000Z",
+          "wordCount": null,
+          "title": "Systems of Differential Equations with Forcing: Example in Control Theory",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wCeDUbZQ_zA",
           "author": null,
@@ -490,16 +500,6 @@
           "wordCount": null,
           "title": "Stability and Eigenvalues: What does it mean to be a \"stable\" eigenvalue?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b7389fIVey0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b7389fIVey0",
-          "publishedOn": "2022-10-23T10:00:25.000Z",
-          "wordCount": null,
-          "title": "2x2 Systems of ODEs: Imaginary Eigenvalues and Center Fixed Points",
-          "imageUrl": null
         }
       ]
     },
@@ -609,26 +609,6 @@
           "publishedOn": "2022-09-19T23:11:19.000Z",
           "wordCount": null,
           "title": "Extra Credit: Making Your Own Chatbot With Carrie Sijia Wang",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pCRwJdwFvmI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pCRwJdwFvmI",
-          "publishedOn": "2022-08-18T15:00:35.000Z",
-          "wordCount": null,
-          "title": "Scientific Controversies: James Webb Space Telescope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M6Nz9dasR3k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M6Nz9dasR3k",
-          "publishedOn": "2022-08-18T13:00:07.000Z",
-          "wordCount": null,
-          "title": "Medicine Singers Live at Greenwood Cemetery - Sunrise (Rumble) ft. Yonatan Gat",
           "imageUrl": null
         }
       ]

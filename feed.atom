@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T00:45:58.013Z</id>
+    <id>urn:2022-11-17T00:44:34.803Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T00:45:58.013Z</updated>
+    <updated>2022-11-17T00:44:34.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Systems of Differential Equations with Forcing: Example in Control Theory]]></title>
+        <id>https://www.youtube.com/watch?v=vKgbYRw21xA</id>
+        <link href="https://www.youtube.com/watch?v=vKgbYRw21xA"/>
+        <updated>2022-11-16T11:00:43.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a 16 by 16 maze with laser beams]]></title>
+        <id>https://www.youtube.com/watch?v=VIIseFTNSso</id>
+        <link href="https://www.youtube.com/watch?v=VIIseFTNSso"/>
+        <updated>2022-11-16T10:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rocket comparison 12: Glas-shaped vs trumpet-shaped nozzle, with a background grid]]></title>
         <id>https://www.youtube.com/watch?v=ptBt8ic61Ss</id>
@@ -267,15 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A quantum particle tunneling through a maze]]></title>
-        <id>https://www.youtube.com/watch?v=aCoYQOdWBk0</id>
-        <link href="https://www.youtube.com/watch?v=aCoYQOdWBk0"/>
-        <updated>2022-11-01T10:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Phase Portrait for Double Well Potential]]></title>
         <id>https://www.youtube.com/watch?v=vuZmaSyJpUY</id>
         <link href="https://www.youtube.com/watch?v=vuZmaSyJpUY"/>
@@ -334,15 +343,6 @@
         <id>https://www.youtube.com/watch?v=XXjoh8L1HkE</id>
         <link href="https://www.youtube.com/watch?v=XXjoh8L1HkE"/>
         <updated>2022-10-24T10:00:30.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2x2 Systems of ODEs: Imaginary Eigenvalues and Center Fixed Points]]></title>
-        <id>https://www.youtube.com/watch?v=b7389fIVey0</id>
-        <link href="https://www.youtube.com/watch?v=b7389fIVey0"/>
-        <updated>2022-10-23T10:00:25.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
@@ -516,24 +516,6 @@
         <updated>2022-08-24T18:39:02.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientific Controversies: James Webb Space Telescope]]></title>
-        <id>https://www.youtube.com/watch?v=pCRwJdwFvmI</id>
-        <link href="https://www.youtube.com/watch?v=pCRwJdwFvmI"/>
-        <updated>2022-08-18T15:00:35.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medicine Singers Live at Greenwood Cemetery - Sunrise (Rumble) ft. Yonatan Gat]]></title>
-        <id>https://www.youtube.com/watch?v=M6Nz9dasR3k</id>
-        <link href="https://www.youtube.com/watch?v=M6Nz9dasR3k"/>
-        <updated>2022-08-18T13:00:07.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
