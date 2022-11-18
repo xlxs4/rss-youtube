@@ -132,6 +132,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VwL5oVWhWcY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VwL5oVWhWcY",
+          "publishedOn": "2022-11-17T10:00:15.000Z",
+          "wordCount": null,
+          "title": "A visualization with tracers of interacting vortices in the Euler equation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VIIseFTNSso",
           "author": null,
           "description": "",
@@ -269,16 +279,6 @@
           "publishedOn": "2022-11-03T10:00:38.000Z",
           "wordCount": null,
           "title": "Rocket comparison 10: Bell-shaped vs narrow straight nozzle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xYboEUdzui0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xYboEUdzui0",
-          "publishedOn": "2022-11-02T10:00:41.000Z",
-          "wordCount": null,
-          "title": "A shear flow at 60 fps",
           "imageUrl": null
         }
       ]
@@ -598,7 +598,7 @@
           "link": "https://www.youtube.com/watch?v=rnZjLgmmzyE",
           "publishedOn": "2022-10-07T14:00:27.000Z",
           "wordCount": null,
-          "title": "Author Talks: Hua Hsu and Lucy Sante",
+          "title": "Hua Hsu and Lucy Sante Discuss \"Stay True: A Memoir\"",
           "imageUrl": null
         },
         {
@@ -618,6 +618,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wvvovktKKa4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wvvovktKKa4",
+          "publishedOn": "2022-11-17T20:00:08.000Z",
+          "wordCount": null,
+          "title": "The Dreaming Mind: Waking the Mysteries of Sleep",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ovfqJFkuRrg",
           "author": null,

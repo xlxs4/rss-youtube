@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T00:44:34.803Z</id>
+    <id>urn:2022-11-18T00:50:55.384Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T00:44:34.803Z</updated>
+    <updated>2022-11-18T00:50:55.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Dreaming Mind: Waking the Mysteries of Sleep]]></title>
+        <id>https://www.youtube.com/watch?v=wvvovktKKa4</id>
+        <link href="https://www.youtube.com/watch?v=wvvovktKKa4"/>
+        <updated>2022-11-17T20:00:08.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A visualization with tracers of interacting vortices in the Euler equation]]></title>
+        <id>https://www.youtube.com/watch?v=VwL5oVWhWcY</id>
+        <link href="https://www.youtube.com/watch?v=VwL5oVWhWcY"/>
+        <updated>2022-11-17T10:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Systems of Differential Equations with Forcing: Example in Control Theory]]></title>
         <id>https://www.youtube.com/watch?v=vKgbYRw21xA</id>
@@ -267,15 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A shear flow at 60 fps]]></title>
-        <id>https://www.youtube.com/watch?v=xYboEUdzui0</id>
-        <link href="https://www.youtube.com/watch?v=xYboEUdzui0"/>
-        <updated>2022-11-02T10:00:41.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations]]></title>
         <id>https://www.youtube.com/watch?v=Dc2OYDVp43I</id>
         <link href="https://www.youtube.com/watch?v=Dc2OYDVp43I"/>
@@ -384,7 +393,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Author Talks: Hua Hsu and Lucy Sante]]></title>
+        <title type="html"><![CDATA[Hua Hsu and Lucy Sante Discuss "Stay True: A Memoir"]]></title>
         <id>https://www.youtube.com/watch?v=rnZjLgmmzyE</id>
         <link href="https://www.youtube.com/watch?v=rnZjLgmmzyE"/>
         <updated>2022-10-07T14:00:27.000Z</updated>
