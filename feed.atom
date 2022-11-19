@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T00:50:55.384Z</id>
+    <id>urn:2022-11-19T00:47:32.314Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-18T00:50:55.384Z</updated>
+    <updated>2022-11-19T00:47:32.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elif Batuman on Life as Literature (and "Either/Or")]]></title>
+        <id>https://www.youtube.com/watch?v=2PwgJqprU9s</id>
+        <link href="https://www.youtube.com/watch?v=2PwgJqprU9s"/>
+        <updated>2022-11-18T16:33:49.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[But what is a convolution?]]></title>
+        <id>https://www.youtube.com/watch?v=KuXjwB4LzSA</id>
+        <link href="https://www.youtube.com/watch?v=KuXjwB4LzSA"/>
+        <updated>2022-11-18T16:00:39.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Systems of Differential Equations with Forcing: Convolution and the Dirac Delta Function]]></title>
+        <id>https://www.youtube.com/watch?v=q1phVuNCuf0</id>
+        <link href="https://www.youtube.com/watch?v=q1phVuNCuf0"/>
+        <updated>2022-11-18T11:00:40.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2D view of an annular wave guide]]></title>
+        <id>https://www.youtube.com/watch?v=fQEUW9ziqxo</id>
+        <link href="https://www.youtube.com/watch?v=fQEUW9ziqxo"/>
+        <updated>2022-11-18T10:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Dreaming Mind: Waking the Mysteries of Sleep]]></title>
         <id>https://www.youtube.com/watch?v=wvvovktKKa4</id>
@@ -276,15 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rocket comparison 10: Bell-shaped vs narrow straight nozzle]]></title>
-        <id>https://www.youtube.com/watch?v=uWVtpSVTh2U</id>
-        <link href="https://www.youtube.com/watch?v=uWVtpSVTh2U"/>
-        <updated>2022-11-03T10:00:38.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations]]></title>
         <id>https://www.youtube.com/watch?v=Dc2OYDVp43I</id>
         <link href="https://www.youtube.com/watch?v=Dc2OYDVp43I"/>
@@ -343,15 +370,6 @@
         <id>https://www.youtube.com/watch?v=78we91-gWy8</id>
         <link href="https://www.youtube.com/watch?v=78we91-gWy8"/>
         <updated>2022-10-26T10:00:05.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stability and Eigenvalues: What does it mean to be a "stable" eigenvalue?]]></title>
-        <id>https://www.youtube.com/watch?v=XXjoh8L1HkE</id>
-        <link href="https://www.youtube.com/watch?v=XXjoh8L1HkE"/>
-        <updated>2022-10-24T10:00:30.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
