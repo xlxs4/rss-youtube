@@ -142,6 +142,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Xa96kQJIZ8Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xa96kQJIZ8Y",
+          "publishedOn": "2022-11-19T10:00:24.000Z",
+          "wordCount": null,
+          "title": "Solving a 30 by 30 maze with laser beams",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fQEUW9ziqxo",
           "author": null,
           "description": "",
@@ -280,16 +290,6 @@
           "wordCount": null,
           "title": "Rocket comparison 11: Bell-shaped vs narrow straight nozzle, with larger moments of inertia",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nmn-YEGLsz0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nmn-YEGLsz0",
-          "publishedOn": "2022-11-04T10:00:27.000Z",
-          "wordCount": null,
-          "title": "A 2D shear flow rendered in 3D",
-          "imageUrl": null
         }
       ]
     },
@@ -361,6 +361,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0zxHJd8OgE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0zxHJd8OgE0",
+          "publishedOn": "2022-11-19T11:00:02.000Z",
+          "wordCount": null,
+          "title": "Forced Systems of Differential Equations in Matlab and Python",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=q1phVuNCuf0",
           "author": null,
@@ -499,16 +509,6 @@
           "publishedOn": "2022-10-28T10:00:31.000Z",
           "wordCount": null,
           "title": "Linearizing Nonlinear Differential Equations Near a Fixed Point",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=78we91-gWy8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=78we91-gWy8",
-          "publishedOn": "2022-10-26T10:00:05.000Z",
-          "wordCount": null,
-          "title": "What is a \"Linear\" Differential Equation?",
           "imageUrl": null
         }
       ]

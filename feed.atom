@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-19T00:47:32.314Z</id>
+    <id>urn:2022-11-20T00:49:18.103Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T00:47:32.314Z</updated>
+    <updated>2022-11-20T00:49:18.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Forced Systems of Differential Equations in Matlab and Python]]></title>
+        <id>https://www.youtube.com/watch?v=0zxHJd8OgE0</id>
+        <link href="https://www.youtube.com/watch?v=0zxHJd8OgE0"/>
+        <updated>2022-11-19T11:00:02.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a 30 by 30 maze with laser beams]]></title>
+        <id>https://www.youtube.com/watch?v=Xa96kQJIZ8Y</id>
+        <link href="https://www.youtube.com/watch?v=Xa96kQJIZ8Y"/>
+        <updated>2022-11-19T10:00:24.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elif Batuman on Life as Literature (and "Either/Or")]]></title>
         <id>https://www.youtube.com/watch?v=2PwgJqprU9s</id>
@@ -294,15 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 2D shear flow rendered in 3D]]></title>
-        <id>https://www.youtube.com/watch?v=nmn-YEGLsz0</id>
-        <link href="https://www.youtube.com/watch?v=nmn-YEGLsz0"/>
-        <updated>2022-11-04T10:00:27.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Measure-preserving EDMD: A 4-line structure-preserving & convergent DMD algorithm!]]></title>
         <id>https://www.youtube.com/watch?v=Xt3vS_hhBm8</id>
         <link href="https://www.youtube.com/watch?v=Xt3vS_hhBm8"/>
@@ -361,15 +370,6 @@
         <id>https://www.youtube.com/watch?v=RCWkzzLgwf0</id>
         <link href="https://www.youtube.com/watch?v=RCWkzzLgwf0"/>
         <updated>2022-10-28T10:00:31.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a "Linear" Differential Equation?]]></title>
-        <id>https://www.youtube.com/watch?v=78we91-gWy8</id>
-        <link href="https://www.youtube.com/watch?v=78we91-gWy8"/>
-        <updated>2022-10-26T10:00:05.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
