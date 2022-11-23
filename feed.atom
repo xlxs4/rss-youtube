@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-22T00:47:04.158Z</id>
+    <id>urn:2022-11-23T00:40:26.318Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-22T00:47:04.158Z</updated>
+    <updated>2022-11-23T00:40:26.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Artemis I: Launching a New Era in Human Space Exploration]]></title>
+        <id>https://www.youtube.com/watch?v=W8W3w3udEXI</id>
+        <link href="https://www.youtube.com/watch?v=W8W3w3udEXI"/>
+        <updated>2022-11-22T18:09:39.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refraction of a wave on a honeycomb lattice]]></title>
+        <id>https://www.youtube.com/watch?v=xIDIGyVJNg0</id>
+        <link href="https://www.youtube.com/watch?v=xIDIGyVJNg0"/>
+        <updated>2022-11-22T10:00:29.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dreamcrusher Live (Full Set)]]></title>
         <id>https://www.youtube.com/watch?v=LD4nFpGtW-Q</id>
@@ -285,15 +303,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phase space representation of a Bunimovich flower billiard]]></title>
-        <id>https://www.youtube.com/watch?v=DNlw8mzz2Y8</id>
-        <link href="https://www.youtube.com/watch?v=DNlw8mzz2Y8"/>
-        <updated>2022-11-07T10:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Hartman-Grobman Theorem, Structural Stability of Linearization, and Stable/Unstable Manifolds]]></title>
         <id>https://www.youtube.com/watch?v=vRaUSnB7qNw</id>
         <link href="https://www.youtube.com/watch?v=vRaUSnB7qNw"/>
@@ -543,15 +552,6 @@
         <updated>2022-08-30T14:00:18.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle billiard with 10 000 balls]]></title>
-        <id>https://www.youtube.com/watch?v=mcmHLtVkvRo</id>
-        <link href="https://www.youtube.com/watch?v=mcmHLtVkvRo"/>
-        <updated>2022-08-24T18:39:02.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>

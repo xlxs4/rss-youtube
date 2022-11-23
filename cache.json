@@ -123,24 +123,23 @@
       "title": "Alexander Gustafsson",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=mcmHLtVkvRo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mcmHLtVkvRo",
-          "publishedOn": "2022-08-24T18:39:02.000Z",
-          "wordCount": null,
-          "title": "Circle billiard with 10 000 balls",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Nils Berglund",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xIDIGyVJNg0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xIDIGyVJNg0",
+          "publishedOn": "2022-11-22T10:00:29.000Z",
+          "wordCount": null,
+          "title": "Refraction of a wave on a honeycomb lattice",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aV3owDSVH6s",
           "author": null,
@@ -279,16 +278,6 @@
           "publishedOn": "2022-11-08T10:00:20.000Z",
           "wordCount": null,
           "title": "Periodicised view of a 2D shear flow rendered in 3D",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DNlw8mzz2Y8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DNlw8mzz2Y8",
-          "publishedOn": "2022-11-07T10:00:10.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of a Bunimovich flower billiard",
           "imageUrl": null
         }
       ]
@@ -648,6 +637,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=W8W3w3udEXI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W8W3w3udEXI",
+          "publishedOn": "2022-11-22T18:09:39.000Z",
+          "wordCount": null,
+          "title": "Artemis I: Launching a New Era in Human Space Exploration",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wvvovktKKa4",
           "author": null,
