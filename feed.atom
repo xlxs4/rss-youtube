@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T00:40:26.318Z</id>
+    <id>urn:2022-11-24T00:45:26.238Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-23T00:40:26.318Z</updated>
+    <updated>2022-11-24T00:45:26.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What If a Supernova Hits Earth?]]></title>
+        <id>https://www.youtube.com/watch?v=q4DF3j4saCE</id>
+        <link href="https://www.youtube.com/watch?v=q4DF3j4saCE"/>
+        <updated>2022-11-23T15:00:13.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Numerical Differentiation: Second Derivatives and Differentiating Data]]></title>
+        <id>https://www.youtube.com/watch?v=dKyqCPjhv0I</id>
+        <link href="https://www.youtube.com/watch?v=dKyqCPjhv0I"/>
+        <updated>2022-11-23T14:30:16.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a 48 by 48 maze with laser beams]]></title>
+        <id>https://www.youtube.com/watch?v=4baY4iaA90o</id>
+        <link href="https://www.youtube.com/watch?v=4baY4iaA90o"/>
+        <updated>2022-11-23T10:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artemis I: Launching a New Era in Human Space Exploration]]></title>
         <id>https://www.youtube.com/watch?v=W8W3w3udEXI</id>
@@ -276,15 +303,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Periodicised view of a 2D shear flow rendered in 3D]]></title>
-        <id>https://www.youtube.com/watch?v=gXRhCQaxAfI</id>
-        <link href="https://www.youtube.com/watch?v=gXRhCQaxAfI"/>
-        <updated>2022-11-08T10:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Credit: Activated Archives with Umber Majeed]]></title>
         <id>https://www.youtube.com/watch?v=B5xiNWfo2i0</id>
         <link href="https://www.youtube.com/watch?v=B5xiNWfo2i0"/>
@@ -370,15 +388,6 @@
         <id>https://www.youtube.com/watch?v=vBwyD4JJlSs</id>
         <link href="https://www.youtube.com/watch?v=vBwyD4JJlSs"/>
         <updated>2022-10-31T18:45:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Particle in a Potential Well: Nonlinear Dynamics]]></title>
-        <id>https://www.youtube.com/watch?v=d83Rq81Ojlc</id>
-        <link href="https://www.youtube.com/watch?v=d83Rq81Ojlc"/>
-        <updated>2022-10-31T10:00:21.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>

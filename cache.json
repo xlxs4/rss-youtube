@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4baY4iaA90o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4baY4iaA90o",
+          "publishedOn": "2022-11-23T10:00:03.000Z",
+          "wordCount": null,
+          "title": "Solving a 48 by 48 maze with laser beams",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xIDIGyVJNg0",
           "author": null,
           "description": "",
@@ -269,16 +279,6 @@
           "wordCount": null,
           "title": "Deep impact 3: Dropping a disc in a Lennard-Jones fluid",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gXRhCQaxAfI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gXRhCQaxAfI",
-          "publishedOn": "2022-11-08T10:00:20.000Z",
-          "wordCount": null,
-          "title": "Periodicised view of a 2D shear flow rendered in 3D",
-          "imageUrl": null
         }
       ]
     },
@@ -293,6 +293,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=q4DF3j4saCE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q4DF3j4saCE",
+          "publishedOn": "2022-11-23T15:00:13.000Z",
+          "wordCount": null,
+          "title": "What If a Supernova Hits Earth?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Us2Z-WC9rao",
           "author": null,
@@ -350,6 +360,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dKyqCPjhv0I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dKyqCPjhv0I",
+          "publishedOn": "2022-11-23T14:30:16.000Z",
+          "wordCount": null,
+          "title": "Numerical Differentiation: Second Derivatives and Differentiating Data",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9fGaTU1-f-0",
           "author": null,
@@ -488,16 +508,6 @@
           "publishedOn": "2022-10-31T18:45:01.000Z",
           "wordCount": null,
           "title": "Drawing Phase Portraits for Nonlinear Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d83Rq81Ojlc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d83Rq81Ojlc",
-          "publishedOn": "2022-10-31T10:00:21.000Z",
-          "wordCount": null,
-          "title": "A Particle in a Potential Well: Nonlinear Dynamics",
           "imageUrl": null
         }
       ]
