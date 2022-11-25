@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QAkF2JBYLLQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QAkF2JBYLLQ",
+          "publishedOn": "2022-11-24T10:00:27.000Z",
+          "wordCount": null,
+          "title": "Modeling a cave-in with Lennard-Jones particles, version with stronger damping",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4baY4iaA90o",
           "author": null,
           "description": "",
@@ -269,16 +279,6 @@
           "wordCount": null,
           "title": "Refraction of a wave on a grid of triangles",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0sxi9E96uEw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0sxi9E96uEw",
-          "publishedOn": "2022-11-09T10:00:02.000Z",
-          "wordCount": null,
-          "title": "Deep impact 3: Dropping a disc in a Lennard-Jones fluid",
-          "imageUrl": null
         }
       ]
     },
@@ -300,7 +300,7 @@
           "link": "https://www.youtube.com/watch?v=q4DF3j4saCE",
           "publishedOn": "2022-11-23T15:00:13.000Z",
           "wordCount": null,
-          "title": "What If a Supernova Hits Earth?",
+          "title": "The Most Extreme Explosion in the Universe",
           "imageUrl": null
         },
         {

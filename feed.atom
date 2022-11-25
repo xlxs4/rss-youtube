@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-24T00:45:26.238Z</id>
+    <id>urn:2022-11-25T00:42:25.294Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-24T00:45:26.238Z</updated>
+    <updated>2022-11-25T00:42:25.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[What If a Supernova Hits Earth?]]></title>
+        <title type="html"><![CDATA[Modeling a cave-in with Lennard-Jones particles, version with stronger damping]]></title>
+        <id>https://www.youtube.com/watch?v=QAkF2JBYLLQ</id>
+        <link href="https://www.youtube.com/watch?v=QAkF2JBYLLQ"/>
+        <updated>2022-11-24T10:00:27.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Extreme Explosion in the Universe]]></title>
         <id>https://www.youtube.com/watch?v=q4DF3j4saCE</id>
         <link href="https://www.youtube.com/watch?v=q4DF3j4saCE"/>
         <updated>2022-11-23T15:00:13.000Z</updated>
@@ -282,15 +291,6 @@
         <updated>2022-11-09T11:00:06.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep impact 3: Dropping a disc in a Lennard-Jones fluid]]></title>
-        <id>https://www.youtube.com/watch?v=0sxi9E96uEw</id>
-        <link href="https://www.youtube.com/watch?v=0sxi9E96uEw"/>
-        <updated>2022-11-09T10:00:02.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
