@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-25T00:42:25.294Z</id>
+    <id>urn:2022-11-26T00:38:04.985Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T00:42:25.294Z</updated>
+    <updated>2022-11-26T00:38:04.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An incompressible flow in a maze]]></title>
+        <id>https://www.youtube.com/watch?v=oFMR-ExYsqI</id>
+        <link href="https://www.youtube.com/watch?v=oFMR-ExYsqI"/>
+        <updated>2022-11-25T10:00:27.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modeling a cave-in with Lennard-Jones particles, version with stronger damping]]></title>
         <id>https://www.youtube.com/watch?v=QAkF2JBYLLQ</id>
@@ -273,15 +282,6 @@
         <updated>2022-11-10T20:00:08.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refraction of a wave on a grid of triangles]]></title>
-        <id>https://www.youtube.com/watch?v=u9xiruC5omc</id>
-        <link href="https://www.youtube.com/watch?v=u9xiruC5omc"/>
-        <updated>2022-11-10T10:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
