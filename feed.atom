@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-27T00:45:06.977Z</id>
+    <id>urn:2022-11-28T00:39:15.027Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-27T00:45:06.977Z</updated>
+    <updated>2022-11-28T00:39:15.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze]]></title>
+        <id>https://www.youtube.com/watch?v=_WjWfd8uC4Q</id>
+        <link href="https://www.youtube.com/watch?v=_WjWfd8uC4Q"/>
+        <updated>2022-11-27T10:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Refraction of a wave on a honeycomb lattice with inverted wave speeds]]></title>
         <id>https://www.youtube.com/watch?v=6ExxsSudeBg</id>
@@ -255,15 +264,6 @@
         <updated>2022-11-12T11:00:20.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep impact 4: Dropping a rectangle in a Lennard-Jones fluid]]></title>
-        <id>https://www.youtube.com/watch?v=3jbhBYsMxLc</id>
-        <link href="https://www.youtube.com/watch?v=3jbhBYsMxLc"/>
-        <updated>2022-11-12T10:00:04.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
