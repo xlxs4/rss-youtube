@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-28T00:39:15.027Z</id>
+    <id>urn:2022-11-29T00:42:32.425Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-28T00:39:15.027Z</updated>
+    <updated>2022-11-29T00:42:32.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Numerical Integration: Discrete Riemann Integrals and Trapezoid Rule]]></title>
+        <id>https://www.youtube.com/watch?v=Xw6W3Ph3Wzc</id>
+        <link href="https://www.youtube.com/watch?v=Xw6W3Ph3Wzc"/>
+        <updated>2022-11-28T11:00:19.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A cave-in with square grains of sand]]></title>
+        <id>https://www.youtube.com/watch?v=2sC2DMhgDEs</id>
+        <link href="https://www.youtube.com/watch?v=2sC2DMhgDEs"/>
+        <updated>2022-11-28T10:00:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze]]></title>
         <id>https://www.youtube.com/watch?v=_WjWfd8uC4Q</id>
@@ -249,15 +267,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Energy flux of waves crossing a maze]]></title>
-        <id>https://www.youtube.com/watch?v=wOprxqtBEuQ</id>
-        <link href="https://www.youtube.com/watch?v=wOprxqtBEuQ"/>
-        <updated>2022-11-13T10:00:39.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Differential Equations with Forcing: Method of Undetermined Coefficients]]></title>
         <id>https://www.youtube.com/watch?v=Jvmb2jeRaGE</id>
         <link href="https://www.youtube.com/watch?v=Jvmb2jeRaGE"/>
@@ -379,15 +388,6 @@
         <id>https://www.youtube.com/watch?v=vuZmaSyJpUY</id>
         <link href="https://www.youtube.com/watch?v=vuZmaSyJpUY"/>
         <updated>2022-10-31T20:00:30.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drawing Phase Portraits for Nonlinear Systems]]></title>
-        <id>https://www.youtube.com/watch?v=vBwyD4JJlSs</id>
-        <link href="https://www.youtube.com/watch?v=vBwyD4JJlSs"/>
-        <updated>2022-10-31T18:45:01.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
@@ -552,15 +552,6 @@
         <updated>2022-09-06T13:59:36.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The weirdest paradox in statistics (and machine learning)]]></title>
-        <id>https://www.youtube.com/watch?v=cUqoHQDinCM</id>
-        <link href="https://www.youtube.com/watch?v=cUqoHQDinCM"/>
-        <updated>2022-08-30T14:00:18.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>

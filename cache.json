@@ -100,16 +100,6 @@
           "wordCount": null,
           "title": "Random walks in 2D and 3D are fundamentally different (Markov chains approach)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cUqoHQDinCM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cUqoHQDinCM",
-          "publishedOn": "2022-08-30T14:00:18.000Z",
-          "wordCount": null,
-          "title": "The weirdest paradox in statistics (and machine learning)",
-          "imageUrl": null
         }
       ]
     },
@@ -130,6 +120,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2sC2DMhgDEs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2sC2DMhgDEs",
+          "publishedOn": "2022-11-28T10:00:01.000Z",
+          "wordCount": null,
+          "title": "A cave-in with square grains of sand",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_WjWfd8uC4Q",
           "author": null,
@@ -269,16 +269,6 @@
           "wordCount": null,
           "title": "A visualization of a shear flow with tracers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wOprxqtBEuQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wOprxqtBEuQ",
-          "publishedOn": "2022-11-13T10:00:39.000Z",
-          "wordCount": null,
-          "title": "Energy flux of waves crossing a maze",
-          "imageUrl": null
         }
       ]
     },
@@ -360,6 +350,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Xw6W3Ph3Wzc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xw6W3Ph3Wzc",
+          "publishedOn": "2022-11-28T11:00:19.000Z",
+          "wordCount": null,
+          "title": "Numerical Integration: Discrete Riemann Integrals and Trapezoid Rule",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=dKyqCPjhv0I",
           "author": null,
@@ -498,16 +498,6 @@
           "publishedOn": "2022-10-31T20:00:30.000Z",
           "wordCount": null,
           "title": "Phase Portrait for Double Well Potential",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vBwyD4JJlSs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vBwyD4JJlSs",
-          "publishedOn": "2022-10-31T18:45:01.000Z",
-          "wordCount": null,
-          "title": "Drawing Phase Portraits for Nonlinear Systems",
           "imageUrl": null
         }
       ]
