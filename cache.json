@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uOJCS1W1uzg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uOJCS1W1uzg",
+          "publishedOn": "2022-11-30T16:00:47.000Z",
+          "wordCount": null,
+          "title": "How Physicists Created a Wormhole in a Quantum Computer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Kqi_6v2RGB0",
           "author": null,
           "description": "",
@@ -120,6 +130,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LkStnssVn_M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LkStnssVn_M",
+          "publishedOn": "2022-11-30T10:00:10.000Z",
+          "wordCount": null,
+          "title": "3D view of a wave refracted on a chessboard",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=I8-LM5Z992A",
           "author": null,
@@ -259,16 +279,6 @@
           "wordCount": null,
           "title": "Solving a 16 by 16 maze with laser beams",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ptBt8ic61Ss",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ptBt8ic61Ss",
-          "publishedOn": "2022-11-15T10:00:34.000Z",
-          "wordCount": null,
-          "title": "Rocket comparison 12: Glas-shaped vs trumpet-shaped nozzle, with a background grid",
-          "imageUrl": null
         }
       ]
     },
@@ -350,6 +360,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=W-wxKgjBDnc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W-wxKgjBDnc",
+          "publishedOn": "2022-11-30T11:00:14.000Z",
+          "wordCount": null,
+          "title": "Why we can't take \"dt\" to 0 in a computer: Sources of error in numerical differentiation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Xw6W3Ph3Wzc",
           "author": null,
@@ -489,16 +509,6 @@
           "wordCount": null,
           "title": "Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vuZmaSyJpUY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vuZmaSyJpUY",
-          "publishedOn": "2022-10-31T20:00:30.000Z",
-          "wordCount": null,
-          "title": "Phase Portrait for Double Well Potential",
-          "imageUrl": null
         }
       ]
     },
@@ -617,7 +627,7 @@
           "link": "https://www.youtube.com/watch?v=rnZjLgmmzyE",
           "publishedOn": "2022-10-07T14:00:27.000Z",
           "wordCount": null,
-          "title": "Hua Hsu and Lucy Sante Discuss \"Stay True: A Memoir\"",
+          "title": "Hua Hsu and Lucy Sante on Growing Up and Staying True",
           "imageUrl": null
         },
         {
@@ -637,6 +647,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1wwDYiPFLcI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1wwDYiPFLcI",
+          "publishedOn": "2022-11-30T22:27:00.000Z",
+          "wordCount": null,
+          "title": "The Dreaming Pen: From Lucid Dreams to Waking Art",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=W8W3w3udEXI",
           "author": null,

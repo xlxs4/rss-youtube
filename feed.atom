@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-30T00:42:28.349Z</id>
+    <id>urn:2022-12-01T00:46:54.971Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-30T00:42:28.349Z</updated>
+    <updated>2022-12-01T00:46:54.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Dreaming Pen: From Lucid Dreams to Waking Art]]></title>
+        <id>https://www.youtube.com/watch?v=1wwDYiPFLcI</id>
+        <link href="https://www.youtube.com/watch?v=1wwDYiPFLcI"/>
+        <updated>2022-11-30T22:27:00.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Physicists Created a Wormhole in a Quantum Computer]]></title>
+        <id>https://www.youtube.com/watch?v=uOJCS1W1uzg</id>
+        <link href="https://www.youtube.com/watch?v=uOJCS1W1uzg"/>
+        <updated>2022-11-30T16:00:47.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why we can't take "dt" to 0 in a computer: Sources of error in numerical differentiation]]></title>
+        <id>https://www.youtube.com/watch?v=W-wxKgjBDnc</id>
+        <link href="https://www.youtube.com/watch?v=W-wxKgjBDnc"/>
+        <updated>2022-11-30T11:00:14.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D view of a wave refracted on a chessboard]]></title>
+        <id>https://www.youtube.com/watch?v=LkStnssVn_M</id>
+        <link href="https://www.youtube.com/watch?v=LkStnssVn_M"/>
+        <updated>2022-11-30T10:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A shear flow with an elliptical obstacle]]></title>
         <id>https://www.youtube.com/watch?v=I8-LM5Z992A</id>
@@ -240,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rocket comparison 12: Glas-shaped vs trumpet-shaped nozzle, with a background grid]]></title>
-        <id>https://www.youtube.com/watch?v=ptBt8ic61Ss</id>
-        <link href="https://www.youtube.com/watch?v=ptBt8ic61Ss"/>
-        <updated>2022-11-15T10:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solving the Infinite Square Well Problem | Quantum Mechanics]]></title>
         <id>https://www.youtube.com/watch?v=yX-xeexgDGA</id>
         <link href="https://www.youtube.com/watch?v=yX-xeexgDGA"/>
@@ -384,15 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phase Portrait for Double Well Potential]]></title>
-        <id>https://www.youtube.com/watch?v=vuZmaSyJpUY</id>
-        <link href="https://www.youtube.com/watch?v=vuZmaSyJpUY"/>
-        <updated>2022-10-31T20:00:30.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Circuit des Yeux Live at Greenwood Cemetery]]></title>
         <id>https://www.youtube.com/watch?v=8VFNQ_l7L5c</id>
         <link href="https://www.youtube.com/watch?v=8VFNQ_l7L5c"/>
@@ -438,7 +456,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hua Hsu and Lucy Sante Discuss "Stay True: A Memoir"]]></title>
+        <title type="html"><![CDATA[Hua Hsu and Lucy Sante on Growing Up and Staying True]]></title>
         <id>https://www.youtube.com/watch?v=rnZjLgmmzyE</id>
         <link href="https://www.youtube.com/watch?v=rnZjLgmmzyE"/>
         <updated>2022-10-07T14:00:27.000Z</updated>
