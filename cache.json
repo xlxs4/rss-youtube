@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=uOJCS1W1uzg",
           "publishedOn": "2022-11-30T16:00:47.000Z",
           "wordCount": null,
-          "title": "How Physicists Created a Wormhole in a Quantum Computer",
+          "title": "How Physicists Created a Holographic Wormhole in a Quantum Computer",
           "imageUrl": null
         },
         {
@@ -130,6 +130,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=61R8ycZOEoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=61R8ycZOEoo",
+          "publishedOn": "2022-12-01T10:00:03.000Z",
+          "wordCount": null,
+          "title": "45 degrees is not always optimal: Solving a 16 by 32 maze with laser beams",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LkStnssVn_M",
           "author": null,
@@ -268,16 +278,6 @@
           "publishedOn": "2022-11-17T10:00:15.000Z",
           "wordCount": null,
           "title": "A visualization with tracers of interacting vortices in the Euler equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VIIseFTNSso",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VIIseFTNSso",
-          "publishedOn": "2022-11-16T10:00:16.000Z",
-          "wordCount": null,
-          "title": "Solving a 16 by 16 maze with laser beams",
           "imageUrl": null
         }
       ]

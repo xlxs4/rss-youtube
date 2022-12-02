@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-01T00:46:54.971Z</id>
+    <id>urn:2022-12-02T00:39:35.967Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-01T00:46:54.971Z</updated>
+    <updated>2022-12-02T00:39:35.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[45 degrees is not always optimal: Solving a 16 by 32 maze with laser beams]]></title>
+        <id>https://www.youtube.com/watch?v=61R8ycZOEoo</id>
+        <link href="https://www.youtube.com/watch?v=61R8ycZOEoo"/>
+        <updated>2022-12-01T10:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Dreaming Pen: From Lucid Dreams to Waking Art]]></title>
         <id>https://www.youtube.com/watch?v=1wwDYiPFLcI</id>
@@ -15,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Physicists Created a Wormhole in a Quantum Computer]]></title>
+        <title type="html"><![CDATA[How Physicists Created a Holographic Wormhole in a Quantum Computer]]></title>
         <id>https://www.youtube.com/watch?v=uOJCS1W1uzg</id>
         <link href="https://www.youtube.com/watch?v=uOJCS1W1uzg"/>
         <updated>2022-11-30T16:00:47.000Z</updated>
@@ -264,15 +273,6 @@
         <updated>2022-11-16T11:00:43.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving a 16 by 16 maze with laser beams]]></title>
-        <id>https://www.youtube.com/watch?v=VIIseFTNSso</id>
-        <link href="https://www.youtube.com/watch?v=VIIseFTNSso"/>
-        <updated>2022-11-16T10:00:16.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
