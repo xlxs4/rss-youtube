@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-04T00:39:23.996Z</id>
+    <id>urn:2022-12-05T00:40:06.472Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-04T00:39:23.996Z</updated>
+    <updated>2022-12-05T00:40:06.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3D view of a wave refracted on a honeycomb lattice]]></title>
+        <id>https://www.youtube.com/watch?v=o1sDp4kUYQs</id>
+        <link href="https://www.youtube.com/watch?v=o1sDp4kUYQs"/>
+        <updated>2022-12-04T10:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A shear flow with an airfoil-shaped obstacle]]></title>
         <id>https://www.youtube.com/watch?v=-r8EwV5xAvo</id>
@@ -219,15 +228,6 @@
         <updated>2022-11-19T11:00:02.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving a 30 by 30 maze with laser beams]]></title>
-        <id>https://www.youtube.com/watch?v=Xa96kQJIZ8Y</id>
-        <link href="https://www.youtube.com/watch?v=Xa96kQJIZ8Y"/>
-        <updated>2022-11-19T10:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
