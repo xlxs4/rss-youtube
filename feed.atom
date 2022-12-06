@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-05T00:40:06.472Z</id>
+    <id>urn:2022-12-06T00:37:54.157Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T00:40:06.472Z</updated>
+    <updated>2022-12-06T00:37:54.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Numerical Simulation of Ordinary Differential Equations: Integrating ODEs]]></title>
+        <id>https://www.youtube.com/watch?v=QBeNXHrAYns</id>
+        <link href="https://www.youtube.com/watch?v=QBeNXHrAYns"/>
+        <updated>2022-12-05T11:00:14.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shooting laser beams at a 16 by 16 maze with slanted corners]]></title>
+        <id>https://www.youtube.com/watch?v=z85cl0hiuiw</id>
+        <link href="https://www.youtube.com/watch?v=z85cl0hiuiw"/>
+        <updated>2022-12-05T10:00:24.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D view of a wave refracted on a honeycomb lattice]]></title>
         <id>https://www.youtube.com/watch?v=o1sDp4kUYQs</id>
@@ -213,15 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modeling a cave-in with Lennard-Jones particles]]></title>
-        <id>https://www.youtube.com/watch?v=urRP6qCbR3Q</id>
-        <link href="https://www.youtube.com/watch?v=urRP6qCbR3Q"/>
-        <updated>2022-11-20T10:00:33.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Forced Systems of Differential Equations in Matlab and Python]]></title>
         <id>https://www.youtube.com/watch?v=0zxHJd8OgE0</id>
         <link href="https://www.youtube.com/watch?v=0zxHJd8OgE0"/>
@@ -402,15 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations]]></title>
-        <id>https://www.youtube.com/watch?v=Dc2OYDVp43I</id>
-        <link href="https://www.youtube.com/watch?v=Dc2OYDVp43I"/>
-        <updated>2022-11-02T10:00:07.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Circuit des Yeux Live at Greenwood Cemetery]]></title>
         <id>https://www.youtube.com/watch?v=8VFNQ_l7L5c</id>
         <link href="https://www.youtube.com/watch?v=8VFNQ_l7L5c"/>
@@ -552,24 +552,6 @@
         <updated>2022-09-08T19:00:09.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fourier Transforms in Partial Differential Equations]]></title>
-        <id>https://www.youtube.com/watch?v=Lxq7AgGhabk</id>
-        <link href="https://www.youtube.com/watch?v=Lxq7AgGhabk"/>
-        <updated>2022-09-07T01:00:05.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Are Lonely and How to Make Friends]]></title>
-        <id>https://www.youtube.com/watch?v=I9hJ_Rux9y0</id>
-        <link href="https://www.youtube.com/watch?v=I9hJ_Rux9y0"/>
-        <updated>2022-09-06T13:59:36.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>

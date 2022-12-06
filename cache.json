@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z85cl0hiuiw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z85cl0hiuiw",
+          "publishedOn": "2022-12-05T10:00:24.000Z",
+          "wordCount": null,
+          "title": "Shooting laser beams at a 16 by 16 maze with slanted corners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=o1sDp4kUYQs",
           "author": null,
           "description": "",
@@ -269,16 +279,6 @@
           "wordCount": null,
           "title": "A shear flow with an obstacle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=urRP6qCbR3Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=urRP6qCbR3Q",
-          "publishedOn": "2022-11-20T10:00:33.000Z",
-          "wordCount": null,
-          "title": "Modeling a cave-in with Lennard-Jones particles",
-          "imageUrl": null
         }
       ]
     },
@@ -342,16 +342,6 @@
           "wordCount": null,
           "title": "Let’s Travel to The Most Extreme Place in The Universe",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I9hJ_Rux9y0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I9hJ_Rux9y0",
-          "publishedOn": "2022-09-06T13:59:36.000Z",
-          "wordCount": null,
-          "title": "Why You Are Lonely and How to Make Friends",
-          "imageUrl": null
         }
       ]
     },
@@ -360,6 +350,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QBeNXHrAYns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QBeNXHrAYns",
+          "publishedOn": "2022-12-05T11:00:14.000Z",
+          "wordCount": null,
+          "title": "Numerical Simulation of Ordinary Differential Equations: Integrating ODEs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=W-wxKgjBDnc",
           "author": null,
@@ -499,16 +499,6 @@
           "wordCount": null,
           "title": "Measure-preserving EDMD: A 4-line structure-preserving & convergent DMD algorithm!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dc2OYDVp43I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dc2OYDVp43I",
-          "publishedOn": "2022-11-02T10:00:07.000Z",
-          "wordCount": null,
-          "title": "Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations",
-          "imageUrl": null
         }
       ]
     },
@@ -541,16 +531,6 @@
           "publishedOn": "2022-09-12T12:00:27.000Z",
           "wordCount": null,
           "title": "Solving the Heat Equation with Convection | Partial Differential Equations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Lxq7AgGhabk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Lxq7AgGhabk",
-          "publishedOn": "2022-09-07T01:00:05.000Z",
-          "wordCount": null,
-          "title": "Fourier Transforms in Partial Differential Equations",
           "imageUrl": null
         }
       ]
