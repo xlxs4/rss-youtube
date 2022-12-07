@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-06T00:37:54.157Z</id>
+    <id>urn:2022-12-07T00:40:07.807Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T00:37:54.157Z</updated>
+    <updated>2022-12-07T00:40:07.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Most Brutal Ant: The Slaver Ant Polyergus]]></title>
+        <id>https://www.youtube.com/watch?v=Qsbe1pD8ocE</id>
+        <link href="https://www.youtube.com/watch?v=Qsbe1pD8ocE"/>
+        <updated>2022-12-06T15:52:00.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix transpose isn’t just swapping rows and columns]]></title>
+        <id>https://www.youtube.com/watch?v=g4ecBFmvAYU</id>
+        <link href="https://www.youtube.com/watch?v=g4ecBFmvAYU"/>
+        <updated>2022-12-06T15:00:31.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep impact 6: Comparing a triangular and a rectangular obstacle]]></title>
+        <id>https://www.youtube.com/watch?v=EZv_wOUVPSA</id>
+        <link href="https://www.youtube.com/watch?v=EZv_wOUVPSA"/>
+        <updated>2022-12-06T10:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Numerical Simulation of Ordinary Differential Equations: Integrating ODEs]]></title>
         <id>https://www.youtube.com/watch?v=QBeNXHrAYns</id>
@@ -219,15 +246,6 @@
         <updated>2022-11-21T14:30:04.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A shear flow with an obstacle]]></title>
-        <id>https://www.youtube.com/watch?v=aV3owDSVH6s</id>
-        <link href="https://www.youtube.com/watch?v=aV3owDSVH6s"/>
-        <updated>2022-11-21T10:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

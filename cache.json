@@ -92,6 +92,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=g4ecBFmvAYU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g4ecBFmvAYU",
+          "publishedOn": "2022-12-06T15:00:31.000Z",
+          "wordCount": null,
+          "title": "Matrix transpose isn’t just swapping rows and columns",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2n2XGNHsKjA",
           "author": null,
           "description": "",
@@ -130,6 +140,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EZv_wOUVPSA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EZv_wOUVPSA",
+          "publishedOn": "2022-12-06T10:00:08.000Z",
+          "wordCount": null,
+          "title": "Deep impact 6: Comparing a triangular and a rectangular obstacle",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=z85cl0hiuiw",
           "author": null,
@@ -269,16 +289,6 @@
           "wordCount": null,
           "title": "Refraction of a wave on a honeycomb lattice",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aV3owDSVH6s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aV3owDSVH6s",
-          "publishedOn": "2022-11-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "A shear flow with an obstacle",
-          "imageUrl": null
         }
       ]
     },
@@ -293,6 +303,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Qsbe1pD8ocE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qsbe1pD8ocE",
+          "publishedOn": "2022-12-06T15:52:00.000Z",
+          "wordCount": null,
+          "title": "The Most Brutal Ant: The Slaver Ant Polyergus",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=q4DF3j4saCE",
           "author": null,
