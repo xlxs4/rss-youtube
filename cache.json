@@ -98,7 +98,7 @@
           "link": "https://www.youtube.com/watch?v=g4ecBFmvAYU",
           "publishedOn": "2022-12-06T15:00:31.000Z",
           "wordCount": null,
-          "title": "Matrix transpose isn’t just swapping rows and columns",
+          "title": "Matrix transpose isn't just swapping rows and columns",
           "imageUrl": null
         },
         {
@@ -140,6 +140,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SiReFGDQ7kg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SiReFGDQ7kg",
+          "publishedOn": "2022-12-07T10:00:13.000Z",
+          "wordCount": null,
+          "title": "An airfoil in a channel",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EZv_wOUVPSA",
           "author": null,
@@ -279,16 +289,6 @@
           "wordCount": null,
           "title": "Solving a 48 by 48 maze with laser beams",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xIDIGyVJNg0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xIDIGyVJNg0",
-          "publishedOn": "2022-11-22T10:00:29.000Z",
-          "wordCount": null,
-          "title": "Refraction of a wave on a honeycomb lattice",
-          "imageUrl": null
         }
       ]
     },
@@ -310,7 +310,7 @@
           "link": "https://www.youtube.com/watch?v=Qsbe1pD8ocE",
           "publishedOn": "2022-12-06T15:52:00.000Z",
           "wordCount": null,
-          "title": "The Most Brutal Ant: The Slaver Ant Polyergus",
+          "title": "The Horror of the Slaver Ant",
           "imageUrl": null
         },
         {
@@ -370,6 +370,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MstPeOTCVzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MstPeOTCVzQ",
+          "publishedOn": "2022-12-07T11:00:21.000Z",
+          "wordCount": null,
+          "title": "Deriving Forward Euler and Backward/Implicit Euler Integration Schemes for Differential Equations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QBeNXHrAYns",
           "author": null,
@@ -508,16 +518,6 @@
           "publishedOn": "2022-11-05T17:00:37.000Z",
           "wordCount": null,
           "title": "The Hartman-Grobman Theorem, Structural Stability of Linearization, and Stable/Unstable Manifolds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xt3vS_hhBm8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xt3vS_hhBm8",
-          "publishedOn": "2022-11-04T10:00:17.000Z",
-          "wordCount": null,
-          "title": "Measure-preserving EDMD: A 4-line structure-preserving & convergent DMD algorithm!",
           "imageUrl": null
         }
       ]
@@ -705,16 +705,6 @@
           "publishedOn": "2022-09-26T12:58:30.000Z",
           "wordCount": null,
           "title": "Psychedelics for the Frontlines: A Police Officer on the Healing Potential of MDMA for PTSD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kxFTWk9lLDU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kxFTWk9lLDU",
-          "publishedOn": "2022-09-08T19:00:09.000Z",
-          "wordCount": null,
-          "title": "Psychedelics: Chemicals, Consciousness, and Creativity",
           "imageUrl": null
         }
       ]

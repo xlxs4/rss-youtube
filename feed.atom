@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T00:40:07.807Z</id>
+    <id>urn:2022-12-08T00:38:11.871Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T00:40:07.807Z</updated>
+    <updated>2022-12-08T00:38:11.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Most Brutal Ant: The Slaver Ant Polyergus]]></title>
+        <title type="html"><![CDATA[Deriving Forward Euler and Backward/Implicit Euler Integration Schemes for Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=MstPeOTCVzQ</id>
+        <link href="https://www.youtube.com/watch?v=MstPeOTCVzQ"/>
+        <updated>2022-12-07T11:00:21.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An airfoil in a channel]]></title>
+        <id>https://www.youtube.com/watch?v=SiReFGDQ7kg</id>
+        <link href="https://www.youtube.com/watch?v=SiReFGDQ7kg"/>
+        <updated>2022-12-07T10:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Horror of the Slaver Ant]]></title>
         <id>https://www.youtube.com/watch?v=Qsbe1pD8ocE</id>
         <link href="https://www.youtube.com/watch?v=Qsbe1pD8ocE"/>
         <updated>2022-12-06T15:52:00.000Z</updated>
@@ -15,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matrix transpose isn’t just swapping rows and columns]]></title>
+        <title type="html"><![CDATA[Matrix transpose isn't just swapping rows and columns]]></title>
         <id>https://www.youtube.com/watch?v=g4ecBFmvAYU</id>
         <link href="https://www.youtube.com/watch?v=g4ecBFmvAYU"/>
         <updated>2022-12-06T15:00:31.000Z</updated>
@@ -222,15 +240,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Refraction of a wave on a honeycomb lattice]]></title>
-        <id>https://www.youtube.com/watch?v=xIDIGyVJNg0</id>
-        <link href="https://www.youtube.com/watch?v=xIDIGyVJNg0"/>
-        <updated>2022-11-22T10:00:29.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dreamcrusher Live (Full Set)]]></title>
         <id>https://www.youtube.com/watch?v=LD4nFpGtW-Q</id>
         <link href="https://www.youtube.com/watch?v=LD4nFpGtW-Q"/>
@@ -420,15 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measure-preserving EDMD: A 4-line structure-preserving & convergent DMD algorithm!]]></title>
-        <id>https://www.youtube.com/watch?v=Xt3vS_hhBm8</id>
-        <link href="https://www.youtube.com/watch?v=Xt3vS_hhBm8"/>
-        <updated>2022-11-04T10:00:17.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Circuit des Yeux Live at Greenwood Cemetery]]></title>
         <id>https://www.youtube.com/watch?v=8VFNQ_l7L5c</id>
         <link href="https://www.youtube.com/watch?v=8VFNQ_l7L5c"/>
@@ -561,15 +561,6 @@
         <updated>2022-09-12T12:00:27.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psychedelics: Chemicals, Consciousness, and Creativity]]></title>
-        <id>https://www.youtube.com/watch?v=kxFTWk9lLDU</id>
-        <link href="https://www.youtube.com/watch?v=kxFTWk9lLDU"/>
-        <updated>2022-09-08T19:00:09.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
