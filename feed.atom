@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T00:39:41.731Z</id>
+    <id>urn:2022-12-10T00:37:04.560Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T00:39:41.731Z</updated>
+    <updated>2022-12-10T00:37:04.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Neuroscience of Consciousness | Scientific Controversies]]></title>
+        <id>https://www.youtube.com/watch?v=kCKD0tMgS8M</id>
+        <link href="https://www.youtube.com/watch?v=kCKD0tMgS8M"/>
+        <updated>2022-12-09T16:42:43.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error Analysis of Euler Integration Scheme for Differential Equations Using Taylor Series]]></title>
+        <id>https://www.youtube.com/watch?v=h2i550iaEv0</id>
+        <link href="https://www.youtube.com/watch?v=h2i550iaEv0"/>
+        <updated>2022-12-09T11:00:34.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze with slanted corners]]></title>
+        <id>https://www.youtube.com/watch?v=k8Hld7LWYJ4</id>
+        <link href="https://www.youtube.com/watch?v=k8Hld7LWYJ4"/>
+        <updated>2022-12-09T10:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Energy flux of a wave refracted on a honeycomb lattice]]></title>
         <id>https://www.youtube.com/watch?v=jVOSSdD7I1o</id>
@@ -204,15 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modeling a cave-in with Lennard-Jones particles, version with stronger damping]]></title>
-        <id>https://www.youtube.com/watch?v=QAkF2JBYLLQ</id>
-        <link href="https://www.youtube.com/watch?v=QAkF2JBYLLQ"/>
-        <updated>2022-11-24T10:00:27.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Most Extreme Explosion in the Universe]]></title>
         <id>https://www.youtube.com/watch?v=q4DF3j4saCE</id>
         <link href="https://www.youtube.com/watch?v=q4DF3j4saCE"/>
@@ -388,15 +406,6 @@
         <id>https://www.youtube.com/watch?v=5tjDDNp5v6I</id>
         <link href="https://www.youtube.com/watch?v=5tjDDNp5v6I"/>
         <updated>2022-11-07T11:00:08.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hartman-Grobman Theorem, Structural Stability of Linearization, and Stable/Unstable Manifolds]]></title>
-        <id>https://www.youtube.com/watch?v=vRaUSnB7qNw</id>
-        <link href="https://www.youtube.com/watch?v=vRaUSnB7qNw"/>
-        <updated>2022-11-05T17:00:37.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
