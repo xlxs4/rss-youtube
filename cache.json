@@ -141,6 +141,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CO7eoqUqIl0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CO7eoqUqIl0",
+          "publishedOn": "2022-12-10T10:00:06.000Z",
+          "wordCount": null,
+          "title": "Mixing (or lack thereof) of Lennard-Jones particles during a cave-in",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k8Hld7LWYJ4",
           "author": null,
           "description": "",
@@ -278,16 +288,6 @@
           "publishedOn": "2022-11-26T10:00:04.000Z",
           "wordCount": null,
           "title": "Refraction of a wave on a honeycomb lattice with inverted wave speeds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oFMR-ExYsqI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oFMR-ExYsqI",
-          "publishedOn": "2022-11-25T10:00:27.000Z",
-          "wordCount": null,
-          "title": "An incompressible flow in a maze",
           "imageUrl": null
         }
       ]
@@ -732,6 +732,123 @@
           "publishedOn": "2022-10-05T17:40:29.000Z",
           "wordCount": null,
           "title": "Theta rhythm: A Memory Clock",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Freya Holmér",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA",
+      "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jvPPXbo87ds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jvPPXbo87ds",
+          "publishedOn": "2022-12-07T19:00:08.000Z",
+          "wordCount": null,
+          "title": "The Continuity of Splines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Pku6WAs1fF8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pku6WAs1fF8",
+          "publishedOn": "2022-11-04T16:13:36.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 10] • Abstract Algebra, Procedural Animation & Splines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sZKfaio97bc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sZKfaio97bc",
+          "publishedOn": "2022-11-04T11:35:33.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 9] • Solutions to the final assignments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XkAuksIABHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XkAuksIABHI",
+          "publishedOn": "2022-11-02T11:28:47.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 8] • Trajectories & Derivatives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tjTRXzwdU6A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tjTRXzwdU6A",
+          "publishedOn": "2022-11-01T16:12:15.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 7] • Interpolation & Point Physics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o6HBZ5XkVg4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o6HBZ5XkVg4",
+          "publishedOn": "2022-11-01T11:31:46.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 6] • Solutions for Assignments 7-11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=86MsWRvPjMw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=86MsWRvPjMw",
+          "publishedOn": "2022-10-28T14:52:46.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 5] • Trigonometry & Rotations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KGgkycDmv4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KGgkycDmv4I",
+          "publishedOn": "2022-10-28T10:22:51.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 4] • solutions for assignments 4-6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gVgN5SU6BrA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gVgN5SU6BrA",
+          "publishedOn": "2022-10-26T14:17:24.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 3] • Matrix4x4 & Cross Product",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0bUJyuwXV0Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0bUJyuwXV0Y",
+          "publishedOn": "2022-10-26T10:12:00.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 2] solutions for assignments 1-3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fjOdtSu4Lm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fjOdtSu4Lm4",
+          "publishedOn": "2022-10-25T11:16:35.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 1] • Numbers, Vectors & Dot Product",
           "imageUrl": null
         }
       ]
