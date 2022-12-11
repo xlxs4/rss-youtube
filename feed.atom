@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-10T15:15:12.525Z</id>
+    <id>urn:2022-12-11T00:43:24.964Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-10T15:15:12.525Z</updated>
+    <updated>2022-12-11T00:43:24.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -660,15 +660,6 @@
         <updated>2022-09-13T15:00:38.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving the Heat Equation with Convection | Partial Differential Equations]]></title>
-        <id>https://www.youtube.com/watch?v=mPkZ_VVNFfo</id>
-        <link href="https://www.youtube.com/watch?v=mPkZ_VVNFfo"/>
-        <updated>2022-09-12T12:00:27.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>

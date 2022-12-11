@@ -542,16 +542,6 @@
           "wordCount": null,
           "title": "Solving the Infinite Square Well Problem | Quantum Mechanics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mPkZ_VVNFfo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mPkZ_VVNFfo",
-          "publishedOn": "2022-09-12T12:00:27.000Z",
-          "wordCount": null,
-          "title": "Solving the Heat Equation with Convection | Partial Differential Equations",
-          "imageUrl": null
         }
       ]
     },
