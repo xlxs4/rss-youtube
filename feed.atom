@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-11T00:43:24.964Z</id>
+    <id>urn:2022-12-12T00:41:48.519Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T00:43:24.964Z</updated>
+    <updated>2022-12-12T00:41:48.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Terraform Mars - WITH LASERS]]></title>
+        <id>https://www.youtube.com/watch?v=HpcTJW4ur54</id>
+        <link href="https://www.youtube.com/watch?v=HpcTJW4ur54"/>
+        <updated>2022-12-11T15:00:09.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two airfoils on a torus]]></title>
+        <id>https://www.youtube.com/watch?v=WEaWjbTGFTk</id>
+        <link href="https://www.youtube.com/watch?v=WEaWjbTGFTk"/>
+        <updated>2022-12-11T10:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mixing (or lack thereof) of Lennard-Jones particles during a cave-in]]></title>
         <id>https://www.youtube.com/watch?v=CO7eoqUqIl0</id>
@@ -69,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An airfoil in a channel]]></title>
+        <title type="html"><![CDATA[Van Gogh meets Munch: An airfoil in a channel]]></title>
         <id>https://www.youtube.com/watch?v=SiReFGDQ7kg</id>
         <link href="https://www.youtube.com/watch?v=SiReFGDQ7kg"/>
         <updated>2022-12-07T10:00:13.000Z</updated>
@@ -226,15 +244,6 @@
         <id>https://www.youtube.com/watch?v=_WjWfd8uC4Q</id>
         <link href="https://www.youtube.com/watch?v=_WjWfd8uC4Q"/>
         <updated>2022-11-27T10:00:16.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refraction of a wave on a honeycomb lattice with inverted wave speeds]]></title>
-        <id>https://www.youtube.com/watch?v=6ExxsSudeBg</id>
-        <link href="https://www.youtube.com/watch?v=6ExxsSudeBg"/>
-        <updated>2022-11-26T10:00:04.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
