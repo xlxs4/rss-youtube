@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-12T00:41:48.519Z</id>
+    <id>urn:2022-12-13T00:43:02.045Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T00:41:48.519Z</updated>
+    <updated>2022-12-13T00:43:02.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Laser beams starting in the center of a 32 by 32 maze]]></title>
+        <id>https://www.youtube.com/watch?v=IHbshAvBwZE</id>
+        <link href="https://www.youtube.com/watch?v=IHbshAvBwZE"/>
+        <updated>2022-12-12T23:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stability of Forward Euler and Backward Euler Integration Schemes for Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=RdXCGnTT6UY</id>
+        <link href="https://www.youtube.com/watch?v=RdXCGnTT6UY"/>
+        <updated>2022-12-12T11:00:12.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Randomly started waves refracted on a honeycomb lattice]]></title>
+        <id>https://www.youtube.com/watch?v=ARFV-eLQ6Rw</id>
+        <link href="https://www.youtube.com/watch?v=ARFV-eLQ6Rw"/>
+        <updated>2022-12-12T10:00:04.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Terraform Mars - WITH LASERS]]></title>
         <id>https://www.youtube.com/watch?v=HpcTJW4ur54</id>
@@ -231,24 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A cave-in with square grains of sand]]></title>
-        <id>https://www.youtube.com/watch?v=2sC2DMhgDEs</id>
-        <link href="https://www.youtube.com/watch?v=2sC2DMhgDEs"/>
-        <updated>2022-11-28T10:00:01.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze]]></title>
-        <id>https://www.youtube.com/watch?v=_WjWfd8uC4Q</id>
-        <link href="https://www.youtube.com/watch?v=_WjWfd8uC4Q"/>
-        <updated>2022-11-27T10:00:16.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Most Extreme Explosion in the Universe]]></title>
         <id>https://www.youtube.com/watch?v=q4DF3j4saCE</id>
         <link href="https://www.youtube.com/watch?v=q4DF3j4saCE"/>
@@ -417,15 +426,6 @@
         <updated>2022-11-07T15:00:07.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Normal Linear Systems and Transient Energy Growth: Bypass Transition to Turbulence]]></title>
-        <id>https://www.youtube.com/watch?v=5tjDDNp5v6I</id>
-        <link href="https://www.youtube.com/watch?v=5tjDDNp5v6I"/>
-        <updated>2022-11-07T11:00:08.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -660,15 +660,6 @@
         <updated>2022-09-19T23:11:19.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Man's Mission to Unveil Math's Beauty]]></title>
-        <id>https://www.youtube.com/watch?v=TL7XhfrLF4k</id>
-        <link href="https://www.youtube.com/watch?v=TL7XhfrLF4k"/>
-        <updated>2022-09-13T15:00:38.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>

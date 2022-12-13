@@ -24,16 +24,6 @@
           "wordCount": null,
           "title": "The High Schooler Who Solved a Prime Number Theorem",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TL7XhfrLF4k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TL7XhfrLF4k",
-          "publishedOn": "2022-09-13T15:00:38.000Z",
-          "wordCount": null,
-          "title": "One Man's Mission to Unveil Math's Beauty",
-          "imageUrl": null
         }
       ]
     },
@@ -140,6 +130,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IHbshAvBwZE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IHbshAvBwZE",
+          "publishedOn": "2022-12-12T23:00:16.000Z",
+          "wordCount": null,
+          "title": "Laser beams starting in the center of a 32 by 32 maze",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ARFV-eLQ6Rw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ARFV-eLQ6Rw",
+          "publishedOn": "2022-12-12T10:00:04.000Z",
+          "wordCount": null,
+          "title": "Randomly started waves refracted on a honeycomb lattice",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WEaWjbTGFTk",
           "author": null,
@@ -269,26 +279,6 @@
           "wordCount": null,
           "title": "A shear flow with an elliptical obstacle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2sC2DMhgDEs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2sC2DMhgDEs",
-          "publishedOn": "2022-11-28T10:00:01.000Z",
-          "wordCount": null,
-          "title": "A cave-in with square grains of sand",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_WjWfd8uC4Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_WjWfd8uC4Q",
-          "publishedOn": "2022-11-27T10:00:16.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze",
-          "imageUrl": null
         }
       ]
     },
@@ -380,6 +370,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RdXCGnTT6UY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RdXCGnTT6UY",
+          "publishedOn": "2022-12-12T11:00:12.000Z",
+          "wordCount": null,
+          "title": "Stability of Forward Euler and Backward Euler Integration Schemes for Differential Equations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=h2i550iaEv0",
           "author": null,
@@ -518,16 +518,6 @@
           "publishedOn": "2022-11-09T11:00:06.000Z",
           "wordCount": null,
           "title": "Repeated Eigenvalues and Secular Terms: Transient Growth in Non-Normal Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5tjDDNp5v6I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5tjDDNp5v6I",
-          "publishedOn": "2022-11-07T11:00:08.000Z",
-          "wordCount": null,
-          "title": "Non-Normal Linear Systems and Transient Energy Growth: Bypass Transition to Turbulence",
           "imageUrl": null
         }
       ]
