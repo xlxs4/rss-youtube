@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qxckhclqBLs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qxckhclqBLs",
+          "publishedOn": "2022-12-16T10:00:26.000Z",
+          "wordCount": null,
+          "title": "A refracting star",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vJc5PWsznCY",
           "author": null,
           "description": "",
@@ -269,16 +279,6 @@
           "wordCount": null,
           "title": "Deep impact 5: Comparing a round and a rectangular obstacle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=61R8ycZOEoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=61R8ycZOEoo",
-          "publishedOn": "2022-12-01T10:00:03.000Z",
-          "wordCount": null,
-          "title": "45 degrees is not always optimal: Solving a 16 by 32 maze with laser beams",
-          "imageUrl": null
         }
       ]
     },
@@ -380,6 +380,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HOWJp8NV5xU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HOWJp8NV5xU",
+          "publishedOn": "2022-12-16T11:00:18.000Z",
+          "wordCount": null,
+          "title": "Runge-Kutta Integrator Overview:  All Purpose Numerical Integration of Differential Equations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ITFolyl_66U",
           "author": null,
@@ -519,16 +529,6 @@
           "wordCount": null,
           "title": "Differential Equations with Forcing: Method of Undetermined Coefficients",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SsCiQym5yQU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SsCiQym5yQU",
-          "publishedOn": "2022-11-11T11:00:18.000Z",
-          "wordCount": null,
-          "title": "Systems of Differential Equations: Diagonalization and Jordan Canonical Form",
-          "imageUrl": null
         }
       ]
     },
@@ -560,6 +560,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CH39SDlxon4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CH39SDlxon4",
+          "publishedOn": "2022-12-16T15:05:08.000Z",
+          "wordCount": null,
+          "title": "Physicist Sean Carroll on \"The Biggest Ideas in the Universe\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kCKD0tMgS8M",
           "author": null,

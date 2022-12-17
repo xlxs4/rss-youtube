@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T00:38:11.473Z</id>
+    <id>urn:2022-12-17T00:36:25.813Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T00:38:11.473Z</updated>
+    <updated>2022-12-17T00:36:25.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Physicist Sean Carroll on "The Biggest Ideas in the Universe"]]></title>
+        <id>https://www.youtube.com/watch?v=CH39SDlxon4</id>
+        <link href="https://www.youtube.com/watch?v=CH39SDlxon4"/>
+        <updated>2022-12-16T15:05:08.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Runge-Kutta Integrator Overview:  All Purpose Numerical Integration of Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=HOWJp8NV5xU</id>
+        <link href="https://www.youtube.com/watch?v=HOWJp8NV5xU"/>
+        <updated>2022-12-16T11:00:18.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A refracting star]]></title>
+        <id>https://www.youtube.com/watch?v=qxckhclqBLs</id>
+        <link href="https://www.youtube.com/watch?v=qxckhclqBLs"/>
+        <updated>2022-12-16T10:00:26.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black Hole Star – The Star That Shouldn't Exist]]></title>
         <id>https://www.youtube.com/watch?v=aeWyp2vXxqA</id>
@@ -231,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[45 degrees is not always optimal: Solving a 16 by 32 maze with laser beams]]></title>
-        <id>https://www.youtube.com/watch?v=61R8ycZOEoo</id>
-        <link href="https://www.youtube.com/watch?v=61R8ycZOEoo"/>
-        <updated>2022-12-01T10:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Dreaming Pen: From Lucid Dreams to Waking Art]]></title>
         <id>https://www.youtube.com/watch?v=1wwDYiPFLcI</id>
         <link href="https://www.youtube.com/watch?v=1wwDYiPFLcI"/>
@@ -397,15 +415,6 @@
         <id>https://www.youtube.com/watch?v=Jvmb2jeRaGE</id>
         <link href="https://www.youtube.com/watch?v=Jvmb2jeRaGE"/>
         <updated>2022-11-12T11:00:20.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systems of Differential Equations: Diagonalization and Jordan Canonical Form]]></title>
-        <id>https://www.youtube.com/watch?v=SsCiQym5yQU</id>
-        <link href="https://www.youtube.com/watch?v=SsCiQym5yQU"/>
-        <updated>2022-11-11T11:00:18.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
