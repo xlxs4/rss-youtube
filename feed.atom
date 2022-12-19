@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-18T00:37:10.353Z</id>
+    <id>urn:2022-12-19T00:35:10.320Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T00:37:10.353Z</updated>
+    <updated>2022-12-19T00:35:10.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deep impact 7: Dropping heavy particles (mass ratio 5:1) into a Lennard-Jones fluid]]></title>
+        <id>https://www.youtube.com/watch?v=GC1nfPH4u0E</id>
+        <link href="https://www.youtube.com/watch?v=GC1nfPH4u0E"/>
+        <updated>2022-12-18T10:00:07.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mazes with randomized angles are harder to solve with laser beams]]></title>
         <id>https://www.youtube.com/watch?v=H8MgMF32qRo</id>
@@ -244,15 +253,6 @@
         <id>https://www.youtube.com/watch?v=o1sDp4kUYQs</id>
         <link href="https://www.youtube.com/watch?v=o1sDp4kUYQs"/>
         <updated>2022-12-04T10:00:31.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A shear flow with an airfoil-shaped obstacle]]></title>
-        <id>https://www.youtube.com/watch?v=-r8EwV5xAvo</id>
-        <link href="https://www.youtube.com/watch?v=-r8EwV5xAvo"/>
-        <updated>2022-12-03T10:00:00.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -669,15 +669,6 @@
         <updated>2022-09-26T12:58:30.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extra Credit: Making Your Own Chatbot With Carrie Sijia Wang]]></title>
-        <id>https://www.youtube.com/watch?v=C9_6ww-ODjA</id>
-        <link href="https://www.youtube.com/watch?v=C9_6ww-ODjA"/>
-        <updated>2022-09-19T23:11:19.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
