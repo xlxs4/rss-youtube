@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T00:35:10.320Z</id>
+    <id>urn:2022-12-20T00:39:14.701Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T00:35:10.320Z</updated>
+    <updated>2022-12-20T00:39:14.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coding a Fourth-Order Runge-Kutta Integrator in Python and Matlab]]></title>
+        <id>https://www.youtube.com/watch?v=vNoFdtcPFdk</id>
+        <link href="https://www.youtube.com/watch?v=vNoFdtcPFdk"/>
+        <updated>2022-12-19T11:00:26.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloopers 4: Blow-up in an incompressible Euler flow]]></title>
+        <id>https://www.youtube.com/watch?v=m8guWPQkFgQ</id>
+        <link href="https://www.youtube.com/watch?v=m8guWPQkFgQ"/>
+        <updated>2022-12-19T10:00:23.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep impact 7: Dropping heavy particles (mass ratio 5:1) into a Lennard-Jones fluid]]></title>
         <id>https://www.youtube.com/watch?v=GC1nfPH4u0E</id>
@@ -249,15 +267,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D view of a wave refracted on a honeycomb lattice]]></title>
-        <id>https://www.youtube.com/watch?v=o1sDp4kUYQs</id>
-        <link href="https://www.youtube.com/watch?v=o1sDp4kUYQs"/>
-        <updated>2022-12-04T10:00:31.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Dreaming Pen: From Lucid Dreams to Waking Art]]></title>
         <id>https://www.youtube.com/watch?v=1wwDYiPFLcI</id>
         <link href="https://www.youtube.com/watch?v=1wwDYiPFLcI"/>
@@ -406,15 +415,6 @@
         <id>https://www.youtube.com/watch?v=wCeDUbZQ_zA</id>
         <link href="https://www.youtube.com/watch?v=wCeDUbZQ_zA"/>
         <updated>2022-11-14T11:00:40.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differential Equations with Forcing: Method of Undetermined Coefficients]]></title>
-        <id>https://www.youtube.com/watch?v=Jvmb2jeRaGE</id>
-        <link href="https://www.youtube.com/watch?v=Jvmb2jeRaGE"/>
-        <updated>2022-11-12T11:00:20.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
