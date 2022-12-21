@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-20T00:39:14.701Z</id>
+    <id>urn:2022-12-21T00:35:57.288Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T00:39:14.701Z</updated>
+    <updated>2022-12-21T00:35:57.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A refracting von Koch snowflake]]></title>
+        <id>https://www.youtube.com/watch?v=rTteEPgSAgA</id>
+        <link href="https://www.youtube.com/watch?v=rTteEPgSAgA"/>
+        <updated>2022-12-20T10:00:22.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding a Fourth-Order Runge-Kutta Integrator in Python and Matlab]]></title>
         <id>https://www.youtube.com/watch?v=vNoFdtcPFdk</id>
@@ -255,15 +264,6 @@
         <updated>2022-12-05T11:00:14.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shooting laser beams at a 16 by 16 maze with slanted corners]]></title>
-        <id>https://www.youtube.com/watch?v=z85cl0hiuiw</id>
-        <link href="https://www.youtube.com/watch?v=z85cl0hiuiw"/>
-        <updated>2022-12-05T10:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
