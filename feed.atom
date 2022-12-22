@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-21T00:35:57.288Z</id>
+    <id>urn:2022-12-22T00:38:05.984Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T00:35:57.288Z</updated>
+    <updated>2022-12-22T00:38:05.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Deep: Exploring Earth’s Last Frontier]]></title>
+        <id>https://www.youtube.com/watch?v=FiyyndtlHdQ</id>
+        <link href="https://www.youtube.com/watch?v=FiyyndtlHdQ"/>
+        <updated>2022-12-21T21:03:36.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a maze with rounded corners using laser beams]]></title>
+        <id>https://www.youtube.com/watch?v=a1jJDjt7euE</id>
+        <link href="https://www.youtube.com/watch?v=a1jJDjt7euE"/>
+        <updated>2022-12-21T10:00:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A refracting von Koch snowflake]]></title>
         <id>https://www.youtube.com/watch?v=rTteEPgSAgA</id>
@@ -246,15 +264,6 @@
         <updated>2022-12-06T15:00:31.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep impact 6: Comparing a triangular and a rectangular obstacle]]></title>
-        <id>https://www.youtube.com/watch?v=EZv_wOUVPSA</id>
-        <link href="https://www.youtube.com/watch?v=EZv_wOUVPSA"/>
-        <updated>2022-12-06T10:00:08.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
