@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T00:37:23.273Z</id>
-    <title>osmos::feed</title>
-    <updated>2022-12-23T00:37:23.273Z</updated>
+    <id>urn:2022-12-23T19:24:19.588Z</id>
+    <title>A curated list of longer ramblings</title>
+    <updated>2022-12-23T19:24:19.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2022's Biggest Breakthroughs in Math]]></title>
+        <id>https://www.youtube.com/watch?v=Nmgl78a02ys</id>
+        <link href="https://www.youtube.com/watch?v=Nmgl78a02ys"/>
+        <updated>2022-12-23T14:13:13.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Numerical Integration of Chaotic Dynamics: Uncertainty Propagation & Vectorized Integration]]></title>
+        <id>https://www.youtube.com/watch?v=LRF4dGP4xeo</id>
+        <link href="https://www.youtube.com/watch?v=LRF4dGP4xeo"/>
+        <updated>2022-12-23T11:00:22.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An airfoil in a laminar flow]]></title>
+        <id>https://www.youtube.com/watch?v=PCUHjKWzbS4</id>
+        <link href="https://www.youtube.com/watch?v=PCUHjKWzbS4"/>
+        <updated>2022-12-23T10:00:19.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Deep: Exploring Earth’s Last Frontier]]></title>
         <id>https://www.youtube.com/watch?v=FiyyndtlHdQ</id>
@@ -12,15 +39,6 @@
         <updated>2022-12-22T20:00:07.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022's Biggest Breakthroughs in Math]]></title>
-        <id>https://www.youtube.com/watch?v=pThaipgRuY8</id>
-        <link href="https://www.youtube.com/watch?v=pThaipgRuY8"/>
-        <updated>2022-12-22T16:04:03.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
     <entry>
@@ -231,15 +249,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Energy flux of a wave refracted on a honeycomb lattice]]></title>
-        <id>https://www.youtube.com/watch?v=jVOSSdD7I1o</id>
-        <link href="https://www.youtube.com/watch?v=jVOSSdD7I1o"/>
-        <updated>2022-12-08T10:00:17.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Continuity of Splines]]></title>
         <id>https://www.youtube.com/watch?v=jvPPXbo87ds</id>
         <link href="https://www.youtube.com/watch?v=jvPPXbo87ds"/>
@@ -426,15 +435,6 @@
         <updated>2022-11-14T12:19:43.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differential Equations with Forcing: Method of Variation of Parameters]]></title>
-        <id>https://www.youtube.com/watch?v=wCeDUbZQ_zA</id>
-        <link href="https://www.youtube.com/watch?v=wCeDUbZQ_zA"/>
-        <updated>2022-11-14T11:00:40.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>

@@ -6,11 +6,11 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=pThaipgRuY8",
+          "id": "https://www.youtube.com/watch?v=Nmgl78a02ys",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=pThaipgRuY8",
-          "publishedOn": "2022-12-22T16:04:03.000Z",
+          "link": "https://www.youtube.com/watch?v=Nmgl78a02ys",
+          "publishedOn": "2022-12-23T14:13:13.000Z",
           "wordCount": null,
           "title": "2022's Biggest Breakthroughs in Math",
           "imageUrl": null
@@ -140,6 +140,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PCUHjKWzbS4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PCUHjKWzbS4",
+          "publishedOn": "2022-12-23T10:00:19.000Z",
+          "wordCount": null,
+          "title": "An airfoil in a laminar flow",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pkhFsdT63xU",
           "author": null,
@@ -279,16 +289,6 @@
           "wordCount": null,
           "title": "[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze with slanted corners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jVOSSdD7I1o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jVOSSdD7I1o",
-          "publishedOn": "2022-12-08T10:00:17.000Z",
-          "wordCount": null,
-          "title": "Energy flux of a wave refracted on a honeycomb lattice",
-          "imageUrl": null
         }
       ]
     },
@@ -390,6 +390,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LRF4dGP4xeo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LRF4dGP4xeo",
+          "publishedOn": "2022-12-23T11:00:22.000Z",
+          "wordCount": null,
+          "title": "Numerical Integration of Chaotic Dynamics: Uncertainty Propagation & Vectorized Integration",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vNoFdtcPFdk",
           "author": null,
@@ -528,16 +538,6 @@
           "publishedOn": "2022-11-16T11:00:43.000Z",
           "wordCount": null,
           "title": "Systems of Differential Equations with Forcing: Example in Control Theory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wCeDUbZQ_zA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wCeDUbZQ_zA",
-          "publishedOn": "2022-11-14T11:00:40.000Z",
-          "wordCount": null,
-          "title": "Differential Equations with Forcing: Method of Variation of Parameters",
           "imageUrl": null
         }
       ]
