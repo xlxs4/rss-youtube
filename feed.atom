@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-24T00:33:40.699Z</id>
+    <id>urn:2022-12-24T16:27:38.022Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2022-12-24T00:33:40.699Z</updated>
+    <updated>2022-12-24T16:27:38.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Christmas sand pile]]></title>
+        <id>https://www.youtube.com/watch?v=UKA9Kx45lYQ</id>
+        <link href="https://www.youtube.com/watch?v=UKA9Kx45lYQ"/>
+        <updated>2022-12-24T10:00:12.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022's Biggest Breakthroughs in Math]]></title>
         <id>https://www.youtube.com/watch?v=Nmgl78a02ys</id>
@@ -39,6 +48,15 @@
         <updated>2022-12-22T20:00:07.000Z</updated>
         <author>
             <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prefer Composition Over Inheritance - What Does It Mean?]]></title>
+        <id>https://www.youtube.com/watch?v=hxGOiiR9ZKg</id>
+        <link href="https://www.youtube.com/watch?v=hxGOiiR9ZKg"/>
+        <updated>2022-12-22T14:04:23.000Z</updated>
+        <author>
+            <name>CodeAesthetic</name>
         </author>
     </entry>
     <entry>
@@ -240,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze with slanted corners]]></title>
-        <id>https://www.youtube.com/watch?v=k8Hld7LWYJ4</id>
-        <link href="https://www.youtube.com/watch?v=k8Hld7LWYJ4"/>
-        <updated>2022-12-09T10:00:31.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Continuity of Splines]]></title>
         <id>https://www.youtube.com/watch?v=jvPPXbo87ds</id>
         <link href="https://www.youtube.com/watch?v=jvPPXbo87ds"/>
@@ -264,6 +273,15 @@
         <updated>2022-12-07T11:00:21.000Z</updated>
         <author>
             <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Shouldn't Nest Your Code]]></title>
+        <id>https://www.youtube.com/watch?v=CFRhGnuXG-4</id>
+        <link href="https://www.youtube.com/watch?v=CFRhGnuXG-4"/>
+        <updated>2022-12-06T16:00:11.000Z</updated>
+        <author>
+            <name>CodeAesthetic</name>
         </author>
     </entry>
     <entry>
@@ -330,6 +348,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Naming Things in Code]]></title>
+        <id>https://www.youtube.com/watch?v=-J3wNP6u5YU</id>
+        <link href="https://www.youtube.com/watch?v=-J3wNP6u5YU"/>
+        <updated>2022-11-27T20:02:53.000Z</updated>
+        <author>
+            <name>CodeAesthetic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Most Extreme Explosion in the Universe]]></title>
         <id>https://www.youtube.com/watch?v=q4DF3j4saCE</id>
         <link href="https://www.youtube.com/watch?v=q4DF3j4saCE"/>
@@ -372,6 +399,15 @@
         <updated>2022-11-21T14:30:04.000Z</updated>
         <author>
             <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abstraction Can Make Your Code Worse]]></title>
+        <id>https://www.youtube.com/watch?v=rQlMtztiAoA</id>
+        <link href="https://www.youtube.com/watch?v=rQlMtztiAoA"/>
+        <updated>2022-11-20T18:16:05.000Z</updated>
+        <author>
+            <name>CodeAesthetic</name>
         </author>
     </entry>
     <entry>

@@ -141,6 +141,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UKA9Kx45lYQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UKA9Kx45lYQ",
+          "publishedOn": "2022-12-24T10:00:12.000Z",
+          "wordCount": null,
+          "title": "A Christmas sand pile",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PCUHjKWzbS4",
           "author": null,
           "description": "",
@@ -278,16 +288,6 @@
           "publishedOn": "2022-12-10T10:00:06.000Z",
           "wordCount": null,
           "title": "Mixing (or lack thereof) of Lennard-Jones particles during a cave-in",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k8Hld7LWYJ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k8Hld7LWYJ4",
-          "publishedOn": "2022-12-09T10:00:31.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze with slanted corners",
           "imageUrl": null
         }
       ]
@@ -869,6 +869,53 @@
           "publishedOn": "2022-10-25T11:16:35.000Z",
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 1] • Numbers, Vectors & Dot Product",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "CodeAesthetic",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaSCt8s_4nfkRglWCvNSDrg",
+      "siteUrl": "https://www.youtube.com/channel/UCaSCt8s_4nfkRglWCvNSDrg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hxGOiiR9ZKg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hxGOiiR9ZKg",
+          "publishedOn": "2022-12-22T14:04:23.000Z",
+          "wordCount": null,
+          "title": "Prefer Composition Over Inheritance - What Does It Mean?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CFRhGnuXG-4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CFRhGnuXG-4",
+          "publishedOn": "2022-12-06T16:00:11.000Z",
+          "wordCount": null,
+          "title": "Why You Shouldn't Nest Your Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-J3wNP6u5YU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-J3wNP6u5YU",
+          "publishedOn": "2022-11-27T20:02:53.000Z",
+          "wordCount": null,
+          "title": "Naming Things in Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rQlMtztiAoA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rQlMtztiAoA",
+          "publishedOn": "2022-11-20T18:16:05.000Z",
+          "wordCount": null,
+          "title": "Abstraction Can Make Your Code Worse",
           "imageUrl": null
         }
       ]
