@@ -141,6 +141,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6tyOyhtEPdg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6tyOyhtEPdg",
+          "publishedOn": "2022-12-25T10:00:03.000Z",
+          "wordCount": null,
+          "title": "A refracting star viewed in 3D",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UKA9Kx45lYQ",
           "author": null,
           "description": "",
@@ -278,16 +288,6 @@
           "publishedOn": "2022-12-11T10:00:13.000Z",
           "wordCount": null,
           "title": "Two airfoils on a torus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CO7eoqUqIl0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CO7eoqUqIl0",
-          "publishedOn": "2022-12-10T10:00:06.000Z",
-          "wordCount": null,
-          "title": "Mixing (or lack thereof) of Lennard-Jones particles during a cave-in",
           "imageUrl": null
         }
       ]
@@ -726,16 +726,6 @@
           "wordCount": null,
           "title": "Quantum Entanglement: 2022 Nobel Prize in Physics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ugZemizXHB0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ugZemizXHB0",
-          "publishedOn": "2022-09-26T12:58:30.000Z",
-          "wordCount": null,
-          "title": "Psychedelics for the Frontlines: A Police Officer on the Healing Potential of MDMA for PTSD",
-          "imageUrl": null
         }
       ]
     },
@@ -744,6 +734,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=C00IR4IVRkg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C00IR4IVRkg",
+          "publishedOn": "2022-12-25T19:47:13.000Z",
+          "wordCount": null,
+          "title": "A Map of Social Space in Your Brain",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5CxSoFK5tOQ",
           "author": null,
