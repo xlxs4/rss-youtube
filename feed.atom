@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-26T00:38:47.445Z</id>
+    <id>urn:2022-12-27T00:38:25.560Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2022-12-26T00:38:47.445Z</updated>
+    <updated>2022-12-27T00:38:25.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze with rounded corners]]></title>
+        <id>https://www.youtube.com/watch?v=Vv411KmFXzg</id>
+        <link href="https://www.youtube.com/watch?v=Vv411KmFXzg"/>
+        <updated>2022-12-26T10:00:14.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Map of Social Space in Your Brain]]></title>
         <id>https://www.youtube.com/watch?v=C00IR4IVRkg</id>
@@ -237,15 +246,6 @@
         <updated>2022-12-11T15:00:09.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two airfoils on a torus]]></title>
-        <id>https://www.youtube.com/watch?v=WEaWjbTGFTk</id>
-        <link href="https://www.youtube.com/watch?v=WEaWjbTGFTk"/>
-        <updated>2022-12-11T10:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
