@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-27T00:38:25.560Z</id>
+    <id>urn:2022-12-28T00:37:53.729Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2022-12-27T00:38:25.560Z</updated>
+    <updated>2022-12-28T00:37:53.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Turbulence (possibly numerical) in a flow of increasing speed around an obstacle]]></title>
+        <id>https://www.youtube.com/watch?v=q1XDtZHYw4s</id>
+        <link href="https://www.youtube.com/watch?v=q1XDtZHYw4s"/>
+        <updated>2022-12-27T10:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze with rounded corners]]></title>
         <id>https://www.youtube.com/watch?v=Vv411KmFXzg</id>
@@ -228,15 +237,6 @@
         <updated>2022-12-12T11:00:12.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Randomly started waves refracted on a honeycomb lattice]]></title>
-        <id>https://www.youtube.com/watch?v=ARFV-eLQ6Rw</id>
-        <link href="https://www.youtube.com/watch?v=ARFV-eLQ6Rw"/>
-        <updated>2022-12-12T10:00:04.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
