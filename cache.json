@@ -73,16 +73,6 @@
           "wordCount": null,
           "title": "Researchers thought this was a bug (Borwein integrals)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cDofhN-RJqg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cDofhN-RJqg",
-          "publishedOn": "2022-10-01T19:23:52.000Z",
-          "wordCount": null,
-          "title": "We ran a contest for math explainers, here are the results (SoME2)",
-          "imageUrl": null
         }
       ]
     },
@@ -140,6 +130,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UWdrwC7W7B0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UWdrwC7W7B0",
+          "publishedOn": "2022-12-30T10:00:17.000Z",
+          "wordCount": null,
+          "title": "Yet another, only marginally successful attempt to solve a maze with an incompressible fluid",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KfwIyIxvLUg",
           "author": null,
@@ -279,16 +279,6 @@
           "wordCount": null,
           "title": "A refracting star",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vJc5PWsznCY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vJc5PWsznCY",
-          "publishedOn": "2022-12-15T10:00:33.000Z",
-          "wordCount": null,
-          "title": "Pressure of an incompressible Euler flow with a circular obstacle",
-          "imageUrl": null
         }
       ]
     },
@@ -390,6 +380,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PDeN3iCtyNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PDeN3iCtyNY",
+          "publishedOn": "2022-12-30T11:00:12.000Z",
+          "wordCount": null,
+          "title": "Chaotic Dynamical Systems",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LRF4dGP4xeo",
           "author": null,
@@ -528,16 +528,6 @@
           "publishedOn": "2022-11-18T11:00:40.000Z",
           "wordCount": null,
           "title": "Linear Systems of Differential Equations with Forcing: Convolution and the Dirac Delta Function",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vKgbYRw21xA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vKgbYRw21xA",
-          "publishedOn": "2022-11-16T11:00:43.000Z",
-          "wordCount": null,
-          "title": "Systems of Differential Equations with Forcing: Example in Control Theory",
           "imageUrl": null
         }
       ]
@@ -916,6 +906,106 @@
           "publishedOn": "2022-11-20T18:16:05.000Z",
           "wordCount": null,
           "title": "Abstraction Can Make Your Code Worse",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "The Julia Programming Language",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
+      "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yHiyJQdWBY8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yHiyJQdWBY8",
+          "publishedOn": "2022-11-18T10:41:59.000Z",
+          "wordCount": null,
+          "title": "The Continuing Advancements of Scientific Machine Learning (SciML) | 2022 DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Cn5HO78Q2XA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cn5HO78Q2XA",
+          "publishedOn": "2022-11-18T10:41:47.000Z",
+          "wordCount": null,
+          "title": "DataDrivenDiffEq.jl- Data driven modeling in Julia  | 2022 DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SkmCe6fScJI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SkmCe6fScJI",
+          "publishedOn": "2022-11-18T10:41:42.000Z",
+          "wordCount": null,
+          "title": "Model Predictive Control (MPC) with JuliaSim and ModelingToolkit | 2022 DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3B1sTCN66BE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3B1sTCN66BE",
+          "publishedOn": "2022-11-18T10:41:34.000Z",
+          "wordCount": null,
+          "title": "Extensions for JuMP, for coupled systems analysis and optimization || 2022 DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uBQAE4obOv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uBQAE4obOv8",
+          "publishedOn": "2022-11-18T10:41:30.000Z",
+          "wordCount": null,
+          "title": "Jutul: Oil reservoir simulation in Julia | 2022 DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ByjLYB6_9ng",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ByjLYB6_9ng",
+          "publishedOn": "2022-10-21T16:53:16.000Z",
+          "wordCount": null,
+          "title": "ML Community Call (2022-10-21)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=f3OAA6aYAmc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f3OAA6aYAmc",
+          "publishedOn": "2022-10-11T19:55:05.000Z",
+          "wordCount": null,
+          "title": "ML Community Call (2022-10-07)",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Christopher Rackauckas",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCugBGdUbn6PeH03iPZtr-JQ",
+      "siteUrl": "https://www.youtube.com/channel/UCugBGdUbn6PeH03iPZtr-JQ",
+      "articles": []
+    },
+    {
+      "title": "JuliaHub",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
+      "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=O0LpzwMlYQA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O0LpzwMlYQA",
+          "publishedOn": "2022-12-29T22:30:51.000Z",
+          "wordCount": null,
+          "title": "Density Functional Theory Surrogates with JuliaSim",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T00:38:41.593Z</id>
+    <id>urn:2022-12-30T13:58:44.911Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2022-12-30T00:38:41.593Z</updated>
+    <updated>2022-12-30T13:58:44.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chaotic Dynamical Systems]]></title>
+        <id>https://www.youtube.com/watch?v=PDeN3iCtyNY</id>
+        <link href="https://www.youtube.com/watch?v=PDeN3iCtyNY"/>
+        <updated>2022-12-30T11:00:12.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yet another, only marginally successful attempt to solve a maze with an incompressible fluid]]></title>
+        <id>https://www.youtube.com/watch?v=UWdrwC7W7B0</id>
+        <link href="https://www.youtube.com/watch?v=UWdrwC7W7B0"/>
+        <updated>2022-12-30T10:00:17.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Density Functional Theory Surrogates with JuliaSim]]></title>
+        <id>https://www.youtube.com/watch?v=O0LpzwMlYQA</id>
+        <link href="https://www.youtube.com/watch?v=O0LpzwMlYQA"/>
+        <updated>2022-12-29T22:30:51.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are circular mazes unilluminable?]]></title>
         <id>https://www.youtube.com/watch?v=KfwIyIxvLUg</id>
@@ -210,15 +237,6 @@
         <updated>2022-12-15T15:00:12.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pressure of an incompressible Euler flow with a circular obstacle]]></title>
-        <id>https://www.youtube.com/watch?v=vJc5PWsznCY</id>
-        <link href="https://www.youtube.com/watch?v=vJc5PWsznCY"/>
-        <updated>2022-12-15T10:00:33.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -456,21 +474,57 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Continuing Advancements of Scientific Machine Learning (SciML) | 2022 DigiWell Julia Seminar]]></title>
+        <id>https://www.youtube.com/watch?v=yHiyJQdWBY8</id>
+        <link href="https://www.youtube.com/watch?v=yHiyJQdWBY8"/>
+        <updated>2022-11-18T10:41:59.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DataDrivenDiffEq.jl- Data driven modeling in Julia  | 2022 DigiWell Julia Seminar]]></title>
+        <id>https://www.youtube.com/watch?v=Cn5HO78Q2XA</id>
+        <link href="https://www.youtube.com/watch?v=Cn5HO78Q2XA"/>
+        <updated>2022-11-18T10:41:47.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Predictive Control (MPC) with JuliaSim and ModelingToolkit | 2022 DigiWell Julia Seminar]]></title>
+        <id>https://www.youtube.com/watch?v=SkmCe6fScJI</id>
+        <link href="https://www.youtube.com/watch?v=SkmCe6fScJI"/>
+        <updated>2022-11-18T10:41:42.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extensions for JuMP, for coupled systems analysis and optimization || 2022 DigiWell Julia Seminar]]></title>
+        <id>https://www.youtube.com/watch?v=3B1sTCN66BE</id>
+        <link href="https://www.youtube.com/watch?v=3B1sTCN66BE"/>
+        <updated>2022-11-18T10:41:34.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jutul: Oil reservoir simulation in Julia | 2022 DigiWell Julia Seminar]]></title>
+        <id>https://www.youtube.com/watch?v=uBQAE4obOv8</id>
+        <link href="https://www.youtube.com/watch?v=uBQAE4obOv8"/>
+        <updated>2022-11-18T10:41:30.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Dreaming Mind: Waking the Mysteries of Sleep]]></title>
         <id>https://www.youtube.com/watch?v=wvvovktKKa4</id>
         <link href="https://www.youtube.com/watch?v=wvvovktKKa4"/>
         <updated>2022-11-17T20:00:08.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systems of Differential Equations with Forcing: Example in Control Theory]]></title>
-        <id>https://www.youtube.com/watch?v=vKgbYRw21xA</id>
-        <link href="https://www.youtube.com/watch?v=vKgbYRw21xA"/>
-        <updated>2022-11-16T11:00:43.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -636,6 +690,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ML Community Call (2022-10-21)]]></title>
+        <id>https://www.youtube.com/watch?v=ByjLYB6_9ng</id>
+        <link href="https://www.youtube.com/watch?v=ByjLYB6_9ng"/>
+        <updated>2022-10-21T16:53:16.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What Happens if a Supervolcano Blows Up?]]></title>
         <id>https://www.youtube.com/watch?v=fXb02MQ78yQ</id>
         <link href="https://www.youtube.com/watch?v=fXb02MQ78yQ"/>
@@ -660,6 +723,15 @@
         <updated>2022-10-13T15:04:00.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ML Community Call (2022-10-07)]]></title>
+        <id>https://www.youtube.com/watch?v=f3OAA6aYAmc</id>
+        <link href="https://www.youtube.com/watch?v=f3OAA6aYAmc"/>
+        <updated>2022-10-11T19:55:05.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
         </author>
     </entry>
     <entry>
@@ -714,15 +786,6 @@
         <updated>2022-10-04T14:00:24.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We ran a contest for math explainers, here are the results (SoME2)]]></title>
-        <id>https://www.youtube.com/watch?v=cDofhN-RJqg</id>
-        <link href="https://www.youtube.com/watch?v=cDofhN-RJqg"/>
-        <updated>2022-10-01T19:23:52.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
