@@ -26,6 +26,9 @@ sources:
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw # Artem Kirsanov
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA # Freya Holmér
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCaSCt8s_4nfkRglWCvNSDrg # Code Aesthetic
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA # The Julia Programming Language
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCugBGdUbn6PeH03iPZtr-JQ # Christopher Rackauckas
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA # JuliaHub
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "A curated list of longer ramblings"
