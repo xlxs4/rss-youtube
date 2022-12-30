@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-29T00:39:18.614Z</id>
+    <id>urn:2022-12-30T00:38:41.593Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2022-12-29T00:39:18.614Z</updated>
+    <updated>2022-12-30T00:38:41.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Are circular mazes unilluminable?]]></title>
+        <id>https://www.youtube.com/watch?v=KfwIyIxvLUg</id>
+        <link href="https://www.youtube.com/watch?v=KfwIyIxvLUg"/>
+        <updated>2022-12-29T10:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A rainbow sprinkler]]></title>
         <id>https://www.youtube.com/watch?v=heCKTwzhOoc</id>
@@ -219,15 +228,6 @@
         <updated>2022-12-14T11:00:09.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mixing of sticky square grains of sand during a cave-in]]></title>
-        <id>https://www.youtube.com/watch?v=-LWu_Uk_o_4</id>
-        <link href="https://www.youtube.com/watch?v=-LWu_Uk_o_4"/>
-        <updated>2022-12-14T10:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
