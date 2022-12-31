@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-31T00:37:10.557Z</id>
+    <id>urn:2022-12-31T01:27:37.107Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2022-12-31T00:37:10.557Z</updated>
+    <updated>2022-12-31T01:27:37.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -84,6 +84,15 @@
         <updated>2022-12-25T10:00:03.000Z</updated>
         <author>
             <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding nature’s masterful engineering using math (TMEB #2)]]></title>
+        <id>https://www.youtube.com/watch?v=elRbbdJUiTU</id>
+        <link href="https://www.youtube.com/watch?v=elRbbdJUiTU"/>
+        <updated>2022-12-25T02:20:27.000Z</updated>
+        <author>
+            <name>NanoRooms</name>
         </author>
     </entry>
     <entry>
@@ -537,6 +546,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using math to decode biology’s programming language (TMEB #1)]]></title>
+        <id>https://www.youtube.com/watch?v=kbJxl7HU480</id>
+        <link href="https://www.youtube.com/watch?v=kbJxl7HU480"/>
+        <updated>2022-11-10T23:02:44.000Z</updated>
+        <author>
+            <name>NanoRooms</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sacred Nature with Karen Armstrong]]></title>
         <id>https://www.youtube.com/watch?v=ovfqJFkuRrg</id>
         <link href="https://www.youtube.com/watch?v=ovfqJFkuRrg"/>
@@ -786,6 +804,15 @@
         <updated>2022-10-04T14:00:24.000Z</updated>
         <author>
             <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Surprisingly Deep Connection of Math and Biology (TMEB #0)]]></title>
+        <id>https://www.youtube.com/watch?v=qZGsKVMPXos</id>
+        <link href="https://www.youtube.com/watch?v=qZGsKVMPXos"/>
+        <updated>2022-10-02T14:00:08.000Z</updated>
+        <author>
+            <name>NanoRooms</name>
         </author>
     </entry>
 </feed>
