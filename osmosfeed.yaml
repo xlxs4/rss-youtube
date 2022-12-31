@@ -29,6 +29,7 @@ sources:
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA # The Julia Programming Language
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCugBGdUbn6PeH03iPZtr-JQ # Christopher Rackauckas
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA # JuliaHub
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g # Nanorooms
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "A curated list of longer ramblings"
