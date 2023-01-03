@@ -100,16 +100,6 @@
           "wordCount": null,
           "title": "How hard was my Cambridge interview? (ft. @TomRocksMaths)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iH2kATv49rc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iH2kATv49rc",
-          "publishedOn": "2022-10-04T14:00:24.000Z",
-          "wordCount": null,
-          "title": "Random walks in 2D and 3D are fundamentally different (Markov chains approach)",
-          "imageUrl": null
         }
       ]
     },
@@ -123,13 +113,34 @@
       "title": "Alexander Gustafsson",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BViazPtkGmo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BViazPtkGmo",
+          "publishedOn": "2023-01-02T20:49:38.000Z",
+          "wordCount": null,
+          "title": "Orion Nebula obscured and warped by a black hole",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nils Berglund",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=10WGoOE5Lxc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=10WGoOE5Lxc",
+          "publishedOn": "2023-01-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "[Epilepsy warning] A rotating laser beam in a circular maze",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NWH2wfA9_1c",
           "author": null,
@@ -269,16 +280,6 @@
           "wordCount": null,
           "title": "Bloopers 4: Blow-up in an incompressible Euler flow",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GC1nfPH4u0E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GC1nfPH4u0E",
-          "publishedOn": "2022-12-18T10:00:07.000Z",
-          "wordCount": null,
-          "title": "Deep impact 7: Dropping heavy particles (mass ratio 5:1) into a Lennard-Jones fluid",
-          "imageUrl": null
         }
       ]
     },
@@ -361,16 +362,6 @@
           "publishedOn": "2022-10-11T14:30:08.000Z",
           "wordCount": null,
           "title": "HIDDEN WORLDS - Limited Edition Calendar!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FfWtIaDtfYk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FfWtIaDtfYk",
-          "publishedOn": "2022-10-04T14:00:33.000Z",
-          "wordCount": null,
-          "title": "Let’s Travel to The Most Extreme Place in The Universe",
           "imageUrl": null
         }
       ]
