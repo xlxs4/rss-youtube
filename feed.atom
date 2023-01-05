@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T00:39:16.042Z</id>
+    <id>urn:2023-01-05T00:40:04.711Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-04T00:39:16.042Z</updated>
+    <updated>2023-01-05T00:40:04.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum moose billiard]]></title>
+        <id>https://www.youtube.com/watch?v=dw5PIgNwnuU</id>
+        <link href="https://www.youtube.com/watch?v=dw5PIgNwnuU"/>
+        <updated>2023-01-04T21:48:57.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moore's Law, exponential growth, and extrapolation!]]></title>
+        <id>https://www.youtube.com/watch?v=iu-DgigiyeA</id>
+        <link href="https://www.youtube.com/watch?v=iu-DgigiyeA"/>
+        <updated>2023-01-04T11:00:22.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves in a circular maze]]></title>
+        <id>https://www.youtube.com/watch?v=jPg8GWsbJkQ</id>
+        <link href="https://www.youtube.com/watch?v=jPg8GWsbJkQ"/>
+        <updated>2023-01-04T10:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bloopers 5: Boundary condition issues for a fluid in a funnel]]></title>
         <id>https://www.youtube.com/watch?v=vbdhFWNDtgs</id>
@@ -208,15 +235,6 @@
         <id>https://www.youtube.com/watch?v=a1jJDjt7euE</id>
         <link href="https://www.youtube.com/watch?v=a1jJDjt7euE"/>
         <updated>2022-12-21T10:00:01.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A refracting von Koch snowflake]]></title>
-        <id>https://www.youtube.com/watch?v=rTteEPgSAgA</id>
-        <link href="https://www.youtube.com/watch?v=rTteEPgSAgA"/>
-        <updated>2022-12-20T10:00:22.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -480,15 +498,6 @@
         <updated>2022-11-18T16:00:39.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear Systems of Differential Equations with Forcing: Convolution and the Dirac Delta Function]]></title>
-        <id>https://www.youtube.com/watch?v=q1phVuNCuf0</id>
-        <link href="https://www.youtube.com/watch?v=q1phVuNCuf0"/>
-        <updated>2022-11-18T11:00:40.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>

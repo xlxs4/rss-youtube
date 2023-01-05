@@ -115,6 +115,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dw5PIgNwnuU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dw5PIgNwnuU",
+          "publishedOn": "2023-01-04T21:48:57.000Z",
+          "wordCount": null,
+          "title": "Quantum moose billiard",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BViazPtkGmo",
           "author": null,
           "description": "",
@@ -131,6 +141,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jPg8GWsbJkQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jPg8GWsbJkQ",
+          "publishedOn": "2023-01-04T10:00:31.000Z",
+          "wordCount": null,
+          "title": "Waves in a circular maze",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vbdhFWNDtgs",
           "author": null,
@@ -270,16 +290,6 @@
           "wordCount": null,
           "title": "Solving a maze with rounded corners using laser beams",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rTteEPgSAgA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rTteEPgSAgA",
-          "publishedOn": "2022-12-20T10:00:22.000Z",
-          "wordCount": null,
-          "title": "A refracting von Koch snowflake",
-          "imageUrl": null
         }
       ]
     },
@@ -371,6 +381,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iu-DgigiyeA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iu-DgigiyeA",
+          "publishedOn": "2023-01-04T11:00:22.000Z",
+          "wordCount": null,
+          "title": "Moore's Law, exponential growth, and extrapolation!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PDeN3iCtyNY",
           "author": null,
@@ -509,16 +529,6 @@
           "publishedOn": "2022-11-19T11:00:02.000Z",
           "wordCount": null,
           "title": "Forced Systems of Differential Equations in Matlab and Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q1phVuNCuf0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q1phVuNCuf0",
-          "publishedOn": "2022-11-18T11:00:40.000Z",
-          "wordCount": null,
-          "title": "Linear Systems of Differential Equations with Forcing: Convolution and the Dirac Delta Function",
           "imageUrl": null
         }
       ]
