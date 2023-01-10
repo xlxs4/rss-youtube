@@ -142,6 +142,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yoYCRPtgxlE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yoYCRPtgxlE",
+          "publishedOn": "2023-01-09T10:00:29.000Z",
+          "wordCount": null,
+          "title": "The chemical reaction A + A → B with more particles",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G1Dg0qr43lI",
           "author": null,
           "description": "",
@@ -280,16 +290,6 @@
           "wordCount": null,
           "title": "[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze with rounded corners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6tyOyhtEPdg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6tyOyhtEPdg",
-          "publishedOn": "2022-12-25T10:00:03.000Z",
-          "wordCount": null,
-          "title": "A refracting star viewed in 3D",
-          "imageUrl": null
         }
       ]
     },
@@ -363,16 +363,6 @@
           "wordCount": null,
           "title": "What Happens if a Supervolcano Blows Up?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fMJqwD7_-NU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fMJqwD7_-NU",
-          "publishedOn": "2022-10-11T14:30:08.000Z",
-          "wordCount": null,
-          "title": "HIDDEN WORLDS - Limited Edition Calendar!",
-          "imageUrl": null
         }
       ]
     },
@@ -381,6 +371,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xuBJFSh6Bu4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xuBJFSh6Bu4",
+          "publishedOn": "2023-01-09T11:00:37.000Z",
+          "wordCount": null,
+          "title": "Solving PDEs with the Laplace Transform: The Heat Equation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iu-DgigiyeA",
           "author": null,
@@ -520,16 +520,6 @@
           "wordCount": null,
           "title": "Numerical Differentiation with Finite Difference Derivatives",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0zxHJd8OgE0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0zxHJd8OgE0",
-          "publishedOn": "2022-11-19T11:00:02.000Z",
-          "wordCount": null,
-          "title": "Forced Systems of Differential Equations in Matlab and Python",
-          "imageUrl": null
         }
       ]
     },
@@ -568,7 +558,7 @@
           "link": "https://www.youtube.com/watch?v=yKxb9JUN_BE",
           "publishedOn": "2023-01-06T18:24:39.000Z",
           "wordCount": null,
-          "title": "Beach Fossils | Pioneer Live",
+          "title": "Beach Fossils Live at Pioneer Works",
           "imageUrl": null
         },
         {
@@ -588,7 +578,7 @@
           "link": "https://www.youtube.com/watch?v=kCKD0tMgS8M",
           "publishedOn": "2022-12-09T16:42:43.000Z",
           "wordCount": null,
-          "title": "The Neuroscience of Consciousness | Scientific Controversies",
+          "title": "The Science of Consciousness | Scientific Controversies",
           "imageUrl": null
         },
         {
@@ -955,16 +945,6 @@
           "wordCount": null,
           "title": "ML Community Call (2022-10-21)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f3OAA6aYAmc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f3OAA6aYAmc",
-          "publishedOn": "2022-10-11T19:55:05.000Z",
-          "wordCount": null,
-          "title": "ML Community Call (2022-10-07)",
-          "imageUrl": null
         }
       ]
     },
@@ -997,6 +977,26 @@
           "publishedOn": "2022-12-29T22:30:51.000Z",
           "wordCount": null,
           "title": "Density Functional Theory Surrogates with JuliaSim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=z8o83UORuqQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z8o83UORuqQ",
+          "publishedOn": "2022-12-02T16:00:14.000Z",
+          "wordCount": null,
+          "title": "System identification for Model-Predictive control using JuliaSim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-XOux-2XDGI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-XOux-2XDGI",
+          "publishedOn": "2022-12-02T15:57:04.000Z",
+          "wordCount": null,
+          "title": "How to Linearize a ModelingToolkit model",
           "imageUrl": null
         }
       ]
