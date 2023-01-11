@@ -82,6 +82,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
+          "publishedOn": "2023-01-10T15:00:22.000Z",
+          "wordCount": null,
+          "title": "Ok I admit... I use PowerPoint to edit all* my videos | 100k Q&A",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=g4ecBFmvAYU",
           "author": null,
           "description": "",
@@ -141,6 +151,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Wm4tGYRY5oY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Wm4tGYRY5oY",
+          "publishedOn": "2023-01-10T10:00:30.000Z",
+          "wordCount": null,
+          "title": "Heat map representation of a billiard in a maze",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yoYCRPtgxlE",
           "author": null,
@@ -279,16 +299,6 @@
           "publishedOn": "2022-12-27T10:00:20.000Z",
           "wordCount": null,
           "title": "Turbulence (possibly numerical) in a flow of increasing speed around an obstacle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Vv411KmFXzg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Vv411KmFXzg",
-          "publishedOn": "2022-12-26T10:00:14.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze with rounded corners",
           "imageUrl": null
         }
       ]
@@ -960,6 +970,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-XOux-2XDGI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-XOux-2XDGI",
+          "publishedOn": "2023-01-10T05:00:11.000Z",
+          "wordCount": null,
+          "title": "How to Linearize a ModelingToolkit model",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mWseJEhcYjc",
           "author": null,
           "description": "",
@@ -987,16 +1007,6 @@
           "publishedOn": "2022-12-02T16:00:14.000Z",
           "wordCount": null,
           "title": "System identification for Model-Predictive control using JuliaSim",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-XOux-2XDGI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-XOux-2XDGI",
-          "publishedOn": "2022-12-02T15:57:04.000Z",
-          "wordCount": null,
-          "title": "How to Linearize a ModelingToolkit model",
           "imageUrl": null
         }
       ]

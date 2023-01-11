@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T00:41:45.394Z</id>
+    <id>urn:2023-01-11T00:40:42.935Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-10T00:41:45.394Z</updated>
+    <updated>2023-01-11T00:40:42.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ok I admit... I use PowerPoint to edit all* my videos | 100k Q&A]]></title>
+        <id>https://www.youtube.com/watch?v=hRTBVrEkb6A</id>
+        <link href="https://www.youtube.com/watch?v=hRTBVrEkb6A"/>
+        <updated>2023-01-10T15:00:22.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat map representation of a billiard in a maze]]></title>
+        <id>https://www.youtube.com/watch?v=Wm4tGYRY5oY</id>
+        <link href="https://www.youtube.com/watch?v=Wm4tGYRY5oY"/>
+        <updated>2023-01-10T10:00:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Linearize a ModelingToolkit model]]></title>
+        <id>https://www.youtube.com/watch?v=-XOux-2XDGI</id>
+        <link href="https://www.youtube.com/watch?v=-XOux-2XDGI"/>
+        <updated>2023-01-10T05:00:11.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solving PDEs with the Laplace Transform: The Heat Equation]]></title>
         <id>https://www.youtube.com/watch?v=xuBJFSh6Bu4</id>
@@ -204,15 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Epilepsy warning] Shining a rotating laser beam into a 16 by 16 maze with rounded corners]]></title>
-        <id>https://www.youtube.com/watch?v=Vv411KmFXzg</id>
-        <link href="https://www.youtube.com/watch?v=Vv411KmFXzg"/>
-        <updated>2022-12-26T10:00:14.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Map of Social Space in Your Brain]]></title>
         <id>https://www.youtube.com/watch?v=C00IR4IVRkg</id>
         <link href="https://www.youtube.com/watch?v=C00IR4IVRkg"/>
@@ -406,15 +424,6 @@
         <id>https://www.youtube.com/watch?v=z8o83UORuqQ</id>
         <link href="https://www.youtube.com/watch?v=z8o83UORuqQ"/>
         <updated>2022-12-02T16:00:14.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Linearize a ModelingToolkit model]]></title>
-        <id>https://www.youtube.com/watch?v=-XOux-2XDGI</id>
-        <link href="https://www.youtube.com/watch?v=-XOux-2XDGI"/>
-        <updated>2022-12-02T15:57:04.000Z</updated>
         <author>
             <name>JuliaHub</name>
         </author>
