@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T00:40:42.935Z</id>
+    <id>urn:2023-01-12T00:41:37.029Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-11T00:40:42.935Z</updated>
+    <updated>2023-01-12T00:41:37.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Ok I admit... I use PowerPoint to edit all* my videos | 100k Q&A]]></title>
+        <title type="html"><![CDATA[Sound waves in a laminar flow]]></title>
+        <id>https://www.youtube.com/watch?v=xycSAcUgxIM</id>
+        <link href="https://www.youtube.com/watch?v=xycSAcUgxIM"/>
+        <updated>2023-01-11T10:00:24.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I use PowerPoint to edit all* my videos]]></title>
         <id>https://www.youtube.com/watch?v=hRTBVrEkb6A</id>
         <link href="https://www.youtube.com/watch?v=hRTBVrEkb6A"/>
         <updated>2023-01-10T15:00:22.000Z</updated>
@@ -217,15 +226,6 @@
         <id>https://www.youtube.com/watch?v=heCKTwzhOoc</id>
         <link href="https://www.youtube.com/watch?v=heCKTwzhOoc"/>
         <updated>2022-12-28T10:00:15.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turbulence (possibly numerical) in a flow of increasing speed around an obstacle]]></title>
-        <id>https://www.youtube.com/watch?v=q1XDtZHYw4s</id>
-        <link href="https://www.youtube.com/watch?v=q1XDtZHYw4s"/>
-        <updated>2022-12-27T10:00:20.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -795,15 +795,6 @@
         <updated>2022-10-14T15:38:10.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The High Schooler Who Solved a Prime Number Theorem]]></title>
-        <id>https://www.youtube.com/watch?v=Kqi_6v2RGB0</id>
-        <link href="https://www.youtube.com/watch?v=Kqi_6v2RGB0"/>
-        <updated>2022-10-13T15:04:00.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
