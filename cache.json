@@ -78,7 +78,7 @@
           "link": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
           "publishedOn": "2023-01-10T15:00:22.000Z",
           "wordCount": null,
-          "title": "I use PowerPoint to edit all* my videos",
+          "title": "Rant on math education, animation software, favorite theorem | 100k Q&A",
           "imageUrl": null
         },
         {
@@ -115,6 +115,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HnplDoa_QP8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HnplDoa_QP8",
+          "publishedOn": "2023-01-12T13:19:06.000Z",
+          "wordCount": null,
+          "title": "Optical illusion by Fourier epicycles",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dw5PIgNwnuU",
           "author": null,
           "description": "",
@@ -141,6 +151,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-3z9pH5ZYFY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-3z9pH5ZYFY",
+          "publishedOn": "2023-01-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "3D view of the energy flux of a wave refracted on a honeycomb lattice",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xycSAcUgxIM",
           "author": null,
@@ -279,16 +299,6 @@
           "publishedOn": "2022-12-29T10:00:10.000Z",
           "wordCount": null,
           "title": "Are circular mazes unilluminable?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=heCKTwzhOoc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=heCKTwzhOoc",
-          "publishedOn": "2022-12-28T10:00:15.000Z",
-          "wordCount": null,
-          "title": "A rainbow sprinkler",
           "imageUrl": null
         }
       ]
@@ -629,16 +639,6 @@
           "publishedOn": "2022-10-28T13:59:46.000Z",
           "wordCount": null,
           "title": "Circuit des Yeux Live at Greenwood Cemetery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n4IZVHvvrTk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n4IZVHvvrTk",
-          "publishedOn": "2022-10-14T15:38:10.000Z",
-          "wordCount": null,
-          "title": "Gloria Steinem Reads “The Nazi Connection,” 42 Years Later",
           "imageUrl": null
         }
       ]
