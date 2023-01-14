@@ -78,7 +78,7 @@
           "link": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
           "publishedOn": "2023-01-10T15:00:22.000Z",
           "wordCount": null,
-          "title": "Rant on math education, animation software, favorite theorem | 100k Q&A",
+          "title": "I use PowerPoint to edit videos (and get 100k subs)",
           "imageUrl": null
         },
         {
@@ -151,6 +151,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=B7mhlOekb3w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B7mhlOekb3w",
+          "publishedOn": "2023-01-13T10:00:05.000Z",
+          "wordCount": null,
+          "title": "Bloopers 6: The chemical reaction A +B → C gone wrong",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-3z9pH5ZYFY",
           "author": null,
@@ -290,16 +300,6 @@
           "wordCount": null,
           "title": "Yet another, only marginally successful attempt to solve a maze with an incompressible fluid",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KfwIyIxvLUg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KfwIyIxvLUg",
-          "publishedOn": "2022-12-29T10:00:10.000Z",
-          "wordCount": null,
-          "title": "Are circular mazes unilluminable?",
-          "imageUrl": null
         }
       ]
     },
@@ -381,6 +381,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lG9NOHMy3YU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lG9NOHMy3YU",
+          "publishedOn": "2023-01-13T11:00:35.000Z",
+          "wordCount": null,
+          "title": "Solving PDEs with the Laplace Transform: The Wave Equation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xuBJFSh6Bu4",
           "author": null,
@@ -520,16 +530,6 @@
           "wordCount": null,
           "title": "Numerical Differentiation: Second Derivatives and Differentiating Data",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9fGaTU1-f-0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9fGaTU1-f-0",
-          "publishedOn": "2022-11-21T14:30:04.000Z",
-          "wordCount": null,
-          "title": "Numerical Differentiation with Finite Difference Derivatives",
-          "imageUrl": null
         }
       ]
     },
@@ -561,6 +561,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6c0JGQ28OM0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6c0JGQ28OM0",
+          "publishedOn": "2023-01-13T15:27:13.000Z",
+          "wordCount": null,
+          "title": "Is Math Invented or Discovered? | Scientific Controversies",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yKxb9JUN_BE",
           "author": null,

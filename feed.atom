@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T00:40:38.963Z</id>
+    <id>urn:2023-01-14T00:37:55.625Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-13T00:40:38.963Z</updated>
+    <updated>2023-01-14T00:37:55.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is Math Invented or Discovered? | Scientific Controversies]]></title>
+        <id>https://www.youtube.com/watch?v=6c0JGQ28OM0</id>
+        <link href="https://www.youtube.com/watch?v=6c0JGQ28OM0"/>
+        <updated>2023-01-13T15:27:13.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving PDEs with the Laplace Transform: The Wave Equation]]></title>
+        <id>https://www.youtube.com/watch?v=lG9NOHMy3YU</id>
+        <link href="https://www.youtube.com/watch?v=lG9NOHMy3YU"/>
+        <updated>2023-01-13T11:00:35.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloopers 6: The chemical reaction A +B → C gone wrong]]></title>
+        <id>https://www.youtube.com/watch?v=B7mhlOekb3w</id>
+        <link href="https://www.youtube.com/watch?v=B7mhlOekb3w"/>
+        <updated>2023-01-13T10:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optical illusion by Fourier epicycles]]></title>
         <id>https://www.youtube.com/watch?v=HnplDoa_QP8</id>
@@ -33,7 +60,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rant on math education, animation software, favorite theorem | 100k Q&A]]></title>
+        <title type="html"><![CDATA[I use PowerPoint to edit videos (and get 100k subs)]]></title>
         <id>https://www.youtube.com/watch?v=hRTBVrEkb6A</id>
         <link href="https://www.youtube.com/watch?v=hRTBVrEkb6A"/>
         <updated>2023-01-10T15:00:22.000Z</updated>
@@ -228,15 +255,6 @@
         <updated>2022-12-29T22:30:51.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are circular mazes unilluminable?]]></title>
-        <id>https://www.youtube.com/watch?v=KfwIyIxvLUg</id>
-        <link href="https://www.youtube.com/watch?v=KfwIyIxvLUg"/>
-        <updated>2022-12-29T10:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -516,15 +534,6 @@
         <updated>2022-11-21T17:54:15.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numerical Differentiation with Finite Difference Derivatives]]></title>
-        <id>https://www.youtube.com/watch?v=9fGaTU1-f-0</id>
-        <link href="https://www.youtube.com/watch?v=9fGaTU1-f-0"/>
-        <updated>2022-11-21T14:30:04.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
