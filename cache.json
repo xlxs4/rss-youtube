@@ -78,7 +78,7 @@
           "link": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
           "publishedOn": "2023-01-10T15:00:22.000Z",
           "wordCount": null,
-          "title": "I use PowerPoint to edit videos (and get 100k subs)",
+          "title": "How to make professional math visuals without coding",
           "imageUrl": null
         },
         {
@@ -151,6 +151,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3g3oKc1HS20",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3g3oKc1HS20",
+          "publishedOn": "2023-01-14T10:00:03.000Z",
+          "wordCount": null,
+          "title": "Heat map representation of a billiard in a maze with rounded corners",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=B7mhlOekb3w",
           "author": null,
@@ -289,16 +299,6 @@
           "publishedOn": "2022-12-31T10:00:20.000Z",
           "wordCount": null,
           "title": "Explosive lensing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UWdrwC7W7B0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UWdrwC7W7B0",
-          "publishedOn": "2022-12-30T10:00:17.000Z",
-          "wordCount": null,
-          "title": "Yet another, only marginally successful attempt to solve a maze with an incompressible fluid",
           "imageUrl": null
         }
       ]
