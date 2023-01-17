@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-16T00:39:31.052Z</id>
+    <id>urn:2023-01-17T00:40:30.930Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-16T00:39:31.052Z</updated>
+    <updated>2023-01-17T00:40:30.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don't Write Comments]]></title>
+        <id>https://www.youtube.com/watch?v=Bf7vDBBOBUA</id>
+        <link href="https://www.youtube.com/watch?v=Bf7vDBBOBUA"/>
+        <updated>2023-01-16T12:30:04.000Z</updated>
+        <author>
+            <name>CodeAesthetic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topics in Dynamical Systems: Fixed Points, Linearization, Invariant Manifolds, Bifurcations & Chaos]]></title>
+        <id>https://www.youtube.com/watch?v=0H1gWTaWva4</id>
+        <link href="https://www.youtube.com/watch?v=0H1gWTaWva4"/>
+        <updated>2023-01-16T11:00:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A detonation in a compressible Euler flow]]></title>
+        <id>https://www.youtube.com/watch?v=SDNWyP8SPV0</id>
+        <link href="https://www.youtube.com/watch?v=SDNWyP8SPV0"/>
+        <updated>2023-01-16T10:00:12.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waves in a circular maze: 3D rendering of the energy flux]]></title>
         <id>https://www.youtube.com/watch?v=8VZUy5LT9y4</id>
@@ -231,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New year Lennard-Jones particles]]></title>
-        <id>https://www.youtube.com/watch?v=NWH2wfA9_1c</id>
-        <link href="https://www.youtube.com/watch?v=NWH2wfA9_1c"/>
-        <updated>2023-01-01T10:00:11.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chaotic Dynamical Systems]]></title>
         <id>https://www.youtube.com/watch?v=PDeN3iCtyNY</id>
         <link href="https://www.youtube.com/watch?v=PDeN3iCtyNY"/>
@@ -303,7 +321,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prefer Composition Over Inheritance - What Does It Mean?]]></title>
+        <title type="html"><![CDATA[The Flaws of Inheritance]]></title>
         <id>https://www.youtube.com/watch?v=hxGOiiR9ZKg</id>
         <link href="https://www.youtube.com/watch?v=hxGOiiR9ZKg"/>
         <updated>2022-12-22T14:04:23.000Z</updated>
@@ -507,15 +525,6 @@
         <updated>2022-11-23T15:00:13.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numerical Differentiation: Second Derivatives and Differentiating Data]]></title>
-        <id>https://www.youtube.com/watch?v=dKyqCPjhv0I</id>
-        <link href="https://www.youtube.com/watch?v=dKyqCPjhv0I"/>
-        <updated>2022-11-23T14:30:16.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -795,15 +804,6 @@
         <updated>2022-10-21T16:53:16.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens if a Supervolcano Blows Up?]]></title>
-        <id>https://www.youtube.com/watch?v=fXb02MQ78yQ</id>
-        <link href="https://www.youtube.com/watch?v=fXb02MQ78yQ"/>
-        <updated>2022-10-18T13:59:41.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>

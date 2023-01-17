@@ -152,6 +152,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SDNWyP8SPV0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SDNWyP8SPV0",
+          "publishedOn": "2023-01-16T10:00:12.000Z",
+          "wordCount": null,
+          "title": "A detonation in a compressible Euler flow",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8VZUy5LT9y4",
           "author": null,
           "description": "",
@@ -290,16 +300,6 @@
           "wordCount": null,
           "title": "[Epilepsy warning] A rotating laser beam in a circular maze",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NWH2wfA9_1c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NWH2wfA9_1c",
-          "publishedOn": "2023-01-01T10:00:11.000Z",
-          "wordCount": null,
-          "title": "New year Lennard-Jones particles",
-          "imageUrl": null
         }
       ]
     },
@@ -363,16 +363,6 @@
           "wordCount": null,
           "title": "Why Don't We Shoot Nuclear Waste Into Space?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fXb02MQ78yQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fXb02MQ78yQ",
-          "publishedOn": "2022-10-18T13:59:41.000Z",
-          "wordCount": null,
-          "title": "What Happens if a Supervolcano Blows Up?",
-          "imageUrl": null
         }
       ]
     },
@@ -381,6 +371,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0H1gWTaWva4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0H1gWTaWva4",
+          "publishedOn": "2023-01-16T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Topics in Dynamical Systems: Fixed Points, Linearization, Invariant Manifolds, Bifurcations & Chaos",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lG9NOHMy3YU",
           "author": null,
@@ -519,16 +519,6 @@
           "publishedOn": "2022-11-28T11:00:19.000Z",
           "wordCount": null,
           "title": "Numerical Integration: Discrete Riemann Integrals and Trapezoid Rule",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dKyqCPjhv0I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dKyqCPjhv0I",
-          "publishedOn": "2022-11-23T14:30:16.000Z",
-          "wordCount": null,
-          "title": "Numerical Differentiation: Second Derivatives and Differentiating Data",
           "imageUrl": null
         }
       ]
@@ -850,13 +840,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCaSCt8s_4nfkRglWCvNSDrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Bf7vDBBOBUA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bf7vDBBOBUA",
+          "publishedOn": "2023-01-16T12:30:04.000Z",
+          "wordCount": null,
+          "title": "Don't Write Comments",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hxGOiiR9ZKg",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=hxGOiiR9ZKg",
           "publishedOn": "2022-12-22T14:04:23.000Z",
           "wordCount": null,
-          "title": "Prefer Composition Over Inheritance - What Does It Mean?",
+          "title": "The Flaws of Inheritance",
           "imageUrl": null
         },
         {
