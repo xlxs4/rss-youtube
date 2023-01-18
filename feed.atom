@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-17T00:40:30.930Z</id>
+    <id>urn:2023-01-18T00:40:56.610Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-17T00:40:30.930Z</updated>
+    <updated>2023-01-18T00:40:56.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yet another dull double pendulum video]]></title>
+        <id>https://www.youtube.com/watch?v=GXVi0TFOxm8</id>
+        <link href="https://www.youtube.com/watch?v=GXVi0TFOxm8"/>
+        <updated>2023-01-17T11:06:29.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video #700: A tribute to John Lennard-Jones]]></title>
+        <id>https://www.youtube.com/watch?v=8_Og4xDp4h0</id>
+        <link href="https://www.youtube.com/watch?v=8_Og4xDp4h0"/>
+        <updated>2023-01-17T10:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System identification for Model-Predictive control using JuliaSim]]></title>
+        <id>https://www.youtube.com/watch?v=z8o83UORuqQ</id>
+        <link href="https://www.youtube.com/watch?v=z8o83UORuqQ"/>
+        <updated>2023-01-17T05:00:08.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don't Write Comments]]></title>
         <id>https://www.youtube.com/watch?v=Bf7vDBBOBUA</id>
@@ -249,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Epilepsy warning] A rotating laser beam in a circular maze]]></title>
-        <id>https://www.youtube.com/watch?v=10WGoOE5Lxc</id>
-        <link href="https://www.youtube.com/watch?v=10WGoOE5Lxc"/>
-        <updated>2023-01-02T10:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chaotic Dynamical Systems]]></title>
         <id>https://www.youtube.com/watch?v=PDeN3iCtyNY</id>
         <link href="https://www.youtube.com/watch?v=PDeN3iCtyNY"/>
@@ -462,15 +480,6 @@
         <updated>2022-12-05T11:00:14.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System identification for Model-Predictive control using JuliaSim]]></title>
-        <id>https://www.youtube.com/watch?v=z8o83UORuqQ</id>
-        <link href="https://www.youtube.com/watch?v=z8o83UORuqQ"/>
-        <updated>2022-12-02T16:00:14.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
     <entry>

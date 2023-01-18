@@ -115,6 +115,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GXVi0TFOxm8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GXVi0TFOxm8",
+          "publishedOn": "2023-01-17T11:06:29.000Z",
+          "wordCount": null,
+          "title": "Yet another dull double pendulum video",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HnplDoa_QP8",
           "author": null,
           "description": "",
@@ -151,6 +161,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8_Og4xDp4h0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8_Og4xDp4h0",
+          "publishedOn": "2023-01-17T10:00:03.000Z",
+          "wordCount": null,
+          "title": "Video #700: A tribute to John Lennard-Jones",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SDNWyP8SPV0",
           "author": null,
@@ -289,16 +309,6 @@
           "publishedOn": "2023-01-03T10:00:25.000Z",
           "wordCount": null,
           "title": "Bloopers 5: Boundary condition issues for a fluid in a funnel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=10WGoOE5Lxc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=10WGoOE5Lxc",
-          "publishedOn": "2023-01-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] A rotating laser beam in a circular maze",
           "imageUrl": null
         }
       ]
@@ -970,6 +980,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z8o83UORuqQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z8o83UORuqQ",
+          "publishedOn": "2023-01-17T05:00:08.000Z",
+          "wordCount": null,
+          "title": "System identification for Model-Predictive control using JuliaSim",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-XOux-2XDGI",
           "author": null,
           "description": "",
@@ -997,16 +1017,6 @@
           "publishedOn": "2022-12-29T22:30:51.000Z",
           "wordCount": null,
           "title": "Density Functional Theory Surrogates with JuliaSim",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z8o83UORuqQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z8o83UORuqQ",
-          "publishedOn": "2022-12-02T16:00:14.000Z",
-          "wordCount": null,
-          "title": "System identification for Model-Predictive control using JuliaSim",
           "imageUrl": null
         }
       ]
