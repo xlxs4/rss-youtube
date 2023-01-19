@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-18T00:40:56.610Z</id>
+    <id>urn:2023-01-19T00:42:16.182Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-18T00:40:56.610Z</updated>
+    <updated>2023-01-19T00:42:16.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Extra Credit: Greenscreen Collaging with Caroline Garcia]]></title>
+        <id>https://www.youtube.com/watch?v=SH1JQRusTp4</id>
+        <link href="https://www.youtube.com/watch?v=SH1JQRusTp4"/>
+        <updated>2023-01-18T15:00:15.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Average density of particles bouncing in a maze]]></title>
+        <id>https://www.youtube.com/watch?v=Gkhqx58si6s</id>
+        <link href="https://www.youtube.com/watch?v=Gkhqx58si6s"/>
+        <updated>2023-01-18T10:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yet another dull double pendulum video]]></title>
         <id>https://www.youtube.com/watch?v=GXVi0TFOxm8</id>
@@ -253,15 +271,6 @@
         <id>https://www.youtube.com/watch?v=jPg8GWsbJkQ</id>
         <link href="https://www.youtube.com/watch?v=jPg8GWsbJkQ"/>
         <updated>2023-01-04T10:00:31.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloopers 5: Boundary condition issues for a fluid in a funnel]]></title>
-        <id>https://www.youtube.com/watch?v=vbdhFWNDtgs</id>
-        <link href="https://www.youtube.com/watch?v=vbdhFWNDtgs"/>
-        <updated>2023-01-03T10:00:25.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>

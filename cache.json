@@ -162,6 +162,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Gkhqx58si6s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gkhqx58si6s",
+          "publishedOn": "2023-01-18T10:00:09.000Z",
+          "wordCount": null,
+          "title": "Average density of particles bouncing in a maze",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8_Og4xDp4h0",
           "author": null,
           "description": "",
@@ -299,16 +309,6 @@
           "publishedOn": "2023-01-04T10:00:31.000Z",
           "wordCount": null,
           "title": "Waves in a circular maze",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vbdhFWNDtgs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vbdhFWNDtgs",
-          "publishedOn": "2023-01-03T10:00:25.000Z",
-          "wordCount": null,
-          "title": "Bloopers 5: Boundary condition issues for a fluid in a funnel",
           "imageUrl": null
         }
       ]
@@ -561,6 +561,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SH1JQRusTp4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SH1JQRusTp4",
+          "publishedOn": "2023-01-18T15:00:15.000Z",
+          "wordCount": null,
+          "title": "Extra Credit: Greenscreen Collaging with Caroline Garcia",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=6c0JGQ28OM0",
           "author": null,
