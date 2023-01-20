@@ -162,6 +162,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mmteVwxGGQo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mmteVwxGGQo",
+          "publishedOn": "2023-01-19T10:00:33.000Z",
+          "wordCount": null,
+          "title": "The chemical reaction A + B → C",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Gkhqx58si6s",
           "author": null,
           "description": "",
@@ -299,16 +309,6 @@
           "publishedOn": "2023-01-05T10:00:25.000Z",
           "wordCount": null,
           "title": "The chemical reaction A + A → B",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jPg8GWsbJkQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jPg8GWsbJkQ",
-          "publishedOn": "2023-01-04T10:00:31.000Z",
-          "wordCount": null,
-          "title": "Waves in a circular maze",
           "imageUrl": null
         }
       ]
@@ -568,7 +568,7 @@
           "link": "https://www.youtube.com/watch?v=SH1JQRusTp4",
           "publishedOn": "2023-01-18T15:00:15.000Z",
           "wordCount": null,
-          "title": "Extra Credit: Greenscreen Collaging with Caroline Garcia",
+          "title": "Extra Credit: Green Screen Collaging with Caroline Garcia",
           "imageUrl": null
         },
         {
@@ -964,16 +964,6 @@
           "publishedOn": "2022-11-18T10:41:30.000Z",
           "wordCount": null,
           "title": "Jutul: Oil reservoir simulation in Julia | 2022 DigiWell Julia Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ByjLYB6_9ng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ByjLYB6_9ng",
-          "publishedOn": "2022-10-21T16:53:16.000Z",
-          "wordCount": null,
-          "title": "ML Community Call (2022-10-21)",
           "imageUrl": null
         }
       ]

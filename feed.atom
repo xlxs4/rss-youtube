@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-19T00:42:16.182Z</id>
+    <id>urn:2023-01-20T00:40:44.668Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-19T00:42:16.182Z</updated>
+    <updated>2023-01-20T00:40:44.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Extra Credit: Greenscreen Collaging with Caroline Garcia]]></title>
+        <title type="html"><![CDATA[The chemical reaction A + B → C]]></title>
+        <id>https://www.youtube.com/watch?v=mmteVwxGGQo</id>
+        <link href="https://www.youtube.com/watch?v=mmteVwxGGQo"/>
+        <updated>2023-01-19T10:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extra Credit: Green Screen Collaging with Caroline Garcia]]></title>
         <id>https://www.youtube.com/watch?v=SH1JQRusTp4</id>
         <link href="https://www.youtube.com/watch?v=SH1JQRusTp4"/>
         <updated>2023-01-18T15:00:15.000Z</updated>
@@ -264,15 +273,6 @@
         <updated>2023-01-04T11:00:22.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves in a circular maze]]></title>
-        <id>https://www.youtube.com/watch?v=jPg8GWsbJkQ</id>
-        <link href="https://www.youtube.com/watch?v=jPg8GWsbJkQ"/>
-        <updated>2023-01-04T10:00:31.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -813,15 +813,6 @@
         <updated>2022-10-25T11:16:35.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ML Community Call (2022-10-21)]]></title>
-        <id>https://www.youtube.com/watch?v=ByjLYB6_9ng</id>
-        <link href="https://www.youtube.com/watch?v=ByjLYB6_9ng"/>
-        <updated>2022-10-21T16:53:16.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
         </author>
     </entry>
 </feed>
