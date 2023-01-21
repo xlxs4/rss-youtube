@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T00:40:44.668Z</id>
+    <id>urn:2023-01-21T00:40:11.267Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-20T00:40:44.668Z</updated>
+    <updated>2023-01-21T00:40:11.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FUJI||||||||||TA Performs Live at Pioneer Works (Full Set)]]></title>
+        <id>https://www.youtube.com/watch?v=sHxSvrEEEV4</id>
+        <link href="https://www.youtube.com/watch?v=sHxSvrEEEV4"/>
+        <updated>2023-01-20T15:20:59.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A compressible Euler flow with a soft obstacle]]></title>
+        <id>https://www.youtube.com/watch?v=nh9grkGLqb8</id>
+        <link href="https://www.youtube.com/watch?v=nh9grkGLqb8"/>
+        <updated>2023-01-20T10:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The chemical reaction A + B → C]]></title>
         <id>https://www.youtube.com/watch?v=mmteVwxGGQo</id>
@@ -159,7 +177,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to make professional math visuals without coding]]></title>
+        <title type="html"><![CDATA[I use PowerPoint to edit all* videos (100k Q&A)]]></title>
         <id>https://www.youtube.com/watch?v=hRTBVrEkb6A</id>
         <link href="https://www.youtube.com/watch?v=hRTBVrEkb6A"/>
         <updated>2023-01-10T15:00:22.000Z</updated>
@@ -246,15 +264,6 @@
         <updated>2023-01-05T14:57:14.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The chemical reaction A + A → B]]></title>
-        <id>https://www.youtube.com/watch?v=V7C3uuFl4vM</id>
-        <link href="https://www.youtube.com/watch?v=V7C3uuFl4vM"/>
-        <updated>2023-01-05T10:00:25.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

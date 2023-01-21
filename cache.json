@@ -78,7 +78,7 @@
           "link": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
           "publishedOn": "2023-01-10T15:00:22.000Z",
           "wordCount": null,
-          "title": "How to make professional math visuals without coding",
+          "title": "I use PowerPoint to edit all* videos (100k Q&A)",
           "imageUrl": null
         },
         {
@@ -161,6 +161,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nh9grkGLqb8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nh9grkGLqb8",
+          "publishedOn": "2023-01-20T10:00:34.000Z",
+          "wordCount": null,
+          "title": "A compressible Euler flow with a soft obstacle",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mmteVwxGGQo",
           "author": null,
@@ -299,16 +309,6 @@
           "publishedOn": "2023-01-06T10:00:35.000Z",
           "wordCount": null,
           "title": "A circular maze with scattering corners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V7C3uuFl4vM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V7C3uuFl4vM",
-          "publishedOn": "2023-01-05T10:00:25.000Z",
-          "wordCount": null,
-          "title": "The chemical reaction A + A → B",
           "imageUrl": null
         }
       ]
@@ -561,6 +561,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sHxSvrEEEV4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sHxSvrEEEV4",
+          "publishedOn": "2023-01-20T15:20:59.000Z",
+          "wordCount": null,
+          "title": "FUJI||||||||||TA Performs Live at Pioneer Works (Full Set)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SH1JQRusTp4",
           "author": null,
