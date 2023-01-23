@@ -162,6 +162,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yWy5UoVgJ6E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yWy5UoVgJ6E",
+          "publishedOn": "2023-01-22T10:00:35.000Z",
+          "wordCount": null,
+          "title": "Starting from a disc in the chemical reaction A + B → C",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=z90OWgSs4nA",
           "author": null,
           "description": "",
@@ -299,16 +309,6 @@
           "publishedOn": "2023-01-08T10:00:09.000Z",
           "wordCount": null,
           "title": "Waves in a circular maze: 3D rendering",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iVrIOwhXrrs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iVrIOwhXrrs",
-          "publishedOn": "2023-01-07T10:00:31.000Z",
-          "wordCount": null,
-          "title": "Weather forecast: Interacting high and low pressure systems in the compressible Euler equations",
           "imageUrl": null
         }
       ]
@@ -850,16 +850,6 @@
           "publishedOn": "2022-10-26T10:12:00.000Z",
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 2] solutions for assignments 1-3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fjOdtSu4Lm4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fjOdtSu4Lm4",
-          "publishedOn": "2022-10-25T11:16:35.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 1] • Numbers, Vectors & Dot Product",
           "imageUrl": null
         }
       ]

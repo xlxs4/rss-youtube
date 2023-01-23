@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-22T00:42:23.839Z</id>
+    <id>urn:2023-01-23T00:37:56.116Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-22T00:42:23.839Z</updated>
+    <updated>2023-01-23T00:37:56.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starting from a disc in the chemical reaction A + B → C]]></title>
+        <id>https://www.youtube.com/watch?v=yWy5UoVgJ6E</id>
+        <link href="https://www.youtube.com/watch?v=yWy5UoVgJ6E"/>
+        <updated>2023-01-22T10:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D rendering of explosive lensing]]></title>
         <id>https://www.youtube.com/watch?v=z90OWgSs4nA</id>
@@ -235,15 +244,6 @@
         <id>https://www.youtube.com/watch?v=G1Dg0qr43lI</id>
         <link href="https://www.youtube.com/watch?v=G1Dg0qr43lI"/>
         <updated>2023-01-08T10:00:09.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weather forecast: Interacting high and low pressure systems in the compressible Euler equations]]></title>
-        <id>https://www.youtube.com/watch?v=iVrIOwhXrrs</id>
-        <link href="https://www.youtube.com/watch?v=iVrIOwhXrrs"/>
-        <updated>2023-01-07T10:00:31.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -811,15 +811,6 @@
         <id>https://www.youtube.com/watch?v=0bUJyuwXV0Y</id>
         <link href="https://www.youtube.com/watch?v=0bUJyuwXV0Y"/>
         <updated>2022-10-26T10:12:00.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 1] • Numbers, Vectors & Dot Product]]></title>
-        <id>https://www.youtube.com/watch?v=fjOdtSu4Lm4</id>
-        <link href="https://www.youtube.com/watch?v=fjOdtSu4Lm4"/>
-        <updated>2022-10-25T11:16:35.000Z</updated>
         <author>
             <name>Freya Holmér</name>
         </author>
