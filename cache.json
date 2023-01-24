@@ -37,7 +37,18 @@
       "title": "Reducible",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8XIGR5kRidIw2fWqwyHRA",
       "siteUrl": "https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yYEMxqreA10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yYEMxqreA10",
+          "publishedOn": "2023-01-23T04:13:38.000Z",
+          "wordCount": null,
+          "title": "The Discrete Fourier Transform: Most Important Algorithm Ever?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "3Blue1Brown",
@@ -161,6 +172,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=G2e5cNjUhvQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G2e5cNjUhvQ",
+          "publishedOn": "2023-01-23T10:00:08.000Z",
+          "wordCount": null,
+          "title": "Average density of particles bouncing in a circular maze",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yWy5UoVgJ6E",
           "author": null,
@@ -299,16 +320,6 @@
           "publishedOn": "2023-01-09T10:00:29.000Z",
           "wordCount": null,
           "title": "The chemical reaction A + A → B with more particles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G1Dg0qr43lI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G1Dg0qr43lI",
-          "publishedOn": "2023-01-08T10:00:09.000Z",
-          "wordCount": null,
-          "title": "Waves in a circular maze: 3D rendering",
           "imageUrl": null
         }
       ]
@@ -840,16 +851,6 @@
           "publishedOn": "2022-10-26T14:17:24.000Z",
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 3] • Matrix4x4 & Cross Product",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0bUJyuwXV0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0bUJyuwXV0Y",
-          "publishedOn": "2022-10-26T10:12:00.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 2] solutions for assignments 1-3",
           "imageUrl": null
         }
       ]

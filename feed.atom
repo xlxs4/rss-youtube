@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T00:37:56.116Z</id>
+    <id>urn:2023-01-24T00:42:10.893Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-23T00:37:56.116Z</updated>
+    <updated>2023-01-24T00:42:10.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Average density of particles bouncing in a circular maze]]></title>
+        <id>https://www.youtube.com/watch?v=G2e5cNjUhvQ</id>
+        <link href="https://www.youtube.com/watch?v=G2e5cNjUhvQ"/>
+        <updated>2023-01-23T10:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Discrete Fourier Transform: Most Important Algorithm Ever?]]></title>
+        <id>https://www.youtube.com/watch?v=yYEMxqreA10</id>
+        <link href="https://www.youtube.com/watch?v=yYEMxqreA10"/>
+        <updated>2023-01-23T04:13:38.000Z</updated>
+        <author>
+            <name>Reducible</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starting from a disc in the chemical reaction A + B → C]]></title>
         <id>https://www.youtube.com/watch?v=yWy5UoVgJ6E</id>
@@ -235,15 +253,6 @@
         <id>https://www.youtube.com/watch?v=yoYCRPtgxlE</id>
         <link href="https://www.youtube.com/watch?v=yoYCRPtgxlE"/>
         <updated>2023-01-09T10:00:29.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves in a circular maze: 3D rendering]]></title>
-        <id>https://www.youtube.com/watch?v=G1Dg0qr43lI</id>
-        <link href="https://www.youtube.com/watch?v=G1Dg0qr43lI"/>
-        <updated>2023-01-08T10:00:09.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -802,15 +811,6 @@
         <id>https://www.youtube.com/watch?v=gVgN5SU6BrA</id>
         <link href="https://www.youtube.com/watch?v=gVgN5SU6BrA"/>
         <updated>2022-10-26T14:17:24.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 2] solutions for assignments 1-3]]></title>
-        <id>https://www.youtube.com/watch?v=0bUJyuwXV0Y</id>
-        <link href="https://www.youtube.com/watch?v=0bUJyuwXV0Y"/>
-        <updated>2022-10-26T10:12:00.000Z</updated>
         <author>
             <name>Freya Holmér</name>
         </author>
