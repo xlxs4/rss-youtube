@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T00:42:10.893Z</id>
+    <id>urn:2023-01-25T00:38:57.068Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-24T00:42:10.893Z</updated>
+    <updated>2023-01-25T00:38:57.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Moose eigenfunctions]]></title>
+        <id>https://www.youtube.com/watch?v=cdBoCo6Nvz4</id>
+        <link href="https://www.youtube.com/watch?v=cdBoCo6Nvz4"/>
+        <updated>2023-01-24T20:06:43.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vortex formation behind a soft obstacle]]></title>
+        <id>https://www.youtube.com/watch?v=T91UwE4yN-g</id>
+        <link href="https://www.youtube.com/watch?v=T91UwE4yN-g"/>
+        <updated>2023-01-24T10:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Average density of particles bouncing in a circular maze]]></title>
         <id>https://www.youtube.com/watch?v=G2e5cNjUhvQ</id>
@@ -213,7 +231,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I use PowerPoint to edit all* videos (100k Q&A)]]></title>
+        <title type="html"><![CDATA[Without coding, how to make professional math graphics?]]></title>
         <id>https://www.youtube.com/watch?v=hRTBVrEkb6A</id>
         <link href="https://www.youtube.com/watch?v=hRTBVrEkb6A"/>
         <updated>2023-01-10T15:00:22.000Z</updated>
@@ -246,15 +264,6 @@
         <updated>2023-01-09T11:00:37.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The chemical reaction A + A → B with more particles]]></title>
-        <id>https://www.youtube.com/watch?v=yoYCRPtgxlE</id>
-        <link href="https://www.youtube.com/watch?v=yoYCRPtgxlE"/>
-        <updated>2023-01-09T10:00:29.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -802,15 +811,6 @@
         <id>https://www.youtube.com/watch?v=KGgkycDmv4I</id>
         <link href="https://www.youtube.com/watch?v=KGgkycDmv4I"/>
         <updated>2022-10-28T10:22:51.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 3] • Matrix4x4 & Cross Product]]></title>
-        <id>https://www.youtube.com/watch?v=gVgN5SU6BrA</id>
-        <link href="https://www.youtube.com/watch?v=gVgN5SU6BrA"/>
-        <updated>2022-10-26T14:17:24.000Z</updated>
         <author>
             <name>Freya Holmér</name>
         </author>
