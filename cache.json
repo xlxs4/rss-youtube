@@ -183,6 +183,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=I0HOuQSmylA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I0HOuQSmylA",
+          "publishedOn": "2023-01-25T10:00:16.000Z",
+          "wordCount": null,
+          "title": "Explosive lensing in a parabolic resonator",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T91UwE4yN-g",
           "author": null,
           "description": "",
@@ -320,16 +330,6 @@
           "publishedOn": "2023-01-11T10:00:24.000Z",
           "wordCount": null,
           "title": "Sound waves in a laminar flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Wm4tGYRY5oY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wm4tGYRY5oY",
-          "publishedOn": "2023-01-10T10:00:30.000Z",
-          "wordCount": null,
-          "title": "Heat map representation of a billiard in a maze",
           "imageUrl": null
         }
       ]
@@ -841,16 +841,6 @@
           "publishedOn": "2022-10-28T14:52:46.000Z",
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 5] • Trigonometry & Rotations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KGgkycDmv4I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KGgkycDmv4I",
-          "publishedOn": "2022-10-28T10:22:51.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 4] • solutions for assignments 4-6",
           "imageUrl": null
         }
       ]
