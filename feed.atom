@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-26T00:39:26.339Z</id>
+    <id>urn:2023-01-27T00:41:41.271Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-26T00:39:26.339Z</updated>
+    <updated>2023-01-27T00:41:41.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The chemical reaction 2A + B → C]]></title>
+        <id>https://www.youtube.com/watch?v=EFSQGvMx8Jg</id>
+        <link href="https://www.youtube.com/watch?v=EFSQGvMx8Jg"/>
+        <updated>2023-01-26T10:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Explosive lensing in a parabolic resonator]]></title>
         <id>https://www.youtube.com/watch?v=I0HOuQSmylA</id>
@@ -231,16 +240,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sound waves in a laminar flow]]></title>
-        <id>https://www.youtube.com/watch?v=xycSAcUgxIM</id>
-        <link href="https://www.youtube.com/watch?v=xycSAcUgxIM"/>
-        <updated>2023-01-11T10:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Without coding, how to make professional math graphics?]]></title>
+        <title type="html"><![CDATA[How to make professional math visuals without coding?]]></title>
         <id>https://www.youtube.com/watch?v=hRTBVrEkb6A</id>
         <link href="https://www.youtube.com/watch?v=hRTBVrEkb6A"/>
         <updated>2023-01-10T15:00:22.000Z</updated>
@@ -786,24 +786,6 @@
         <updated>2022-11-01T11:31:46.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 5] • Trigonometry & Rotations]]></title>
-        <id>https://www.youtube.com/watch?v=86MsWRvPjMw</id>
-        <link href="https://www.youtube.com/watch?v=86MsWRvPjMw"/>
-        <updated>2022-10-28T14:52:46.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circuit des Yeux Live at Greenwood Cemetery]]></title>
-        <id>https://www.youtube.com/watch?v=8VFNQ_l7L5c</id>
-        <link href="https://www.youtube.com/watch?v=8VFNQ_l7L5c"/>
-        <updated>2022-10-28T13:59:46.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>

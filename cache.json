@@ -89,7 +89,7 @@
           "link": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
           "publishedOn": "2023-01-10T15:00:22.000Z",
           "wordCount": null,
-          "title": "Without coding, how to make professional math graphics?",
+          "title": "How to make professional math visuals without coding?",
           "imageUrl": null
         },
         {
@@ -182,6 +182,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EFSQGvMx8Jg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EFSQGvMx8Jg",
+          "publishedOn": "2023-01-26T10:00:08.000Z",
+          "wordCount": null,
+          "title": "The chemical reaction 2A + B → C",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=I0HOuQSmylA",
           "author": null,
@@ -320,16 +330,6 @@
           "publishedOn": "2023-01-12T10:00:00.000Z",
           "wordCount": null,
           "title": "3D view of the energy flux of a wave refracted on a honeycomb lattice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xycSAcUgxIM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xycSAcUgxIM",
-          "publishedOn": "2023-01-11T10:00:24.000Z",
-          "wordCount": null,
-          "title": "Sound waves in a laminar flow",
           "imageUrl": null
         }
       ]
@@ -681,16 +681,6 @@
           "wordCount": null,
           "title": "Discover Dead Stars with Dame Bell Burnell",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8VFNQ_l7L5c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8VFNQ_l7L5c",
-          "publishedOn": "2022-10-28T13:59:46.000Z",
-          "wordCount": null,
-          "title": "Circuit des Yeux Live at Greenwood Cemetery",
-          "imageUrl": null
         }
       ]
     },
@@ -831,16 +821,6 @@
           "publishedOn": "2022-11-01T11:31:46.000Z",
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 6] • Solutions for Assignments 7-11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=86MsWRvPjMw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=86MsWRvPjMw",
-          "publishedOn": "2022-10-28T14:52:46.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 5] • Trigonometry & Rotations",
           "imageUrl": null
         }
       ]
