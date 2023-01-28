@@ -126,6 +126,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YT5OZDBsvJQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YT5OZDBsvJQ",
+          "publishedOn": "2023-01-27T21:31:48.000Z",
+          "wordCount": null,
+          "title": "Penrose unilluminable room eigenfunctions",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cdBoCo6Nvz4",
           "author": null,
           "description": "",
@@ -182,6 +192,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LiO6hpEy4s0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LiO6hpEy4s0",
+          "publishedOn": "2023-01-27T10:00:24.000Z",
+          "wordCount": null,
+          "title": "[Epilepsy warning] Heat map representation of a rotating laser beam in a maze",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EFSQGvMx8Jg",
           "author": null,
@@ -321,16 +341,6 @@
           "wordCount": null,
           "title": "Bloopers 6: The chemical reaction A +B → C gone wrong",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-3z9pH5ZYFY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-3z9pH5ZYFY",
-          "publishedOn": "2023-01-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "3D view of the energy flux of a wave refracted on a honeycomb lattice",
-          "imageUrl": null
         }
       ]
     },
@@ -402,6 +412,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_mv0q7-WF4E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_mv0q7-WF4E",
+          "publishedOn": "2023-01-27T11:00:25.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L01: Overview & Motivation, Complex Arithmetic, Euler's Formula & Polar Coordinates",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0H1gWTaWva4",
           "author": null,
@@ -541,16 +561,6 @@
           "wordCount": null,
           "title": "Why we can't take \"dt\" to 0 in a computer: Sources of error in numerical differentiation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xw6W3Ph3Wzc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xw6W3Ph3Wzc",
-          "publishedOn": "2022-11-28T11:00:19.000Z",
-          "wordCount": null,
-          "title": "Numerical Integration: Discrete Riemann Integrals and Trapezoid Rule",
-          "imageUrl": null
         }
       ]
     },
@@ -582,6 +592,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=41461Yrotr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=41461Yrotr4",
+          "publishedOn": "2023-01-27T14:25:46.000Z",
+          "wordCount": null,
+          "title": "black midi Live at Pioneer Works",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sHxSvrEEEV4",
           "author": null,
@@ -887,6 +907,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FGT7Qe7XWnY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FGT7Qe7XWnY",
+          "publishedOn": "2023-01-27T18:02:59.000Z",
+          "wordCount": null,
+          "title": "ML Community Call (2023-01-27)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yHiyJQdWBY8",
           "author": null,
