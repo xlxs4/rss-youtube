@@ -193,6 +193,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HjuktbUdqJg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HjuktbUdqJg",
+          "publishedOn": "2023-01-29T10:00:17.000Z",
+          "wordCount": null,
+          "title": "A phased array",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ebo7GlMT700",
           "author": null,
           "description": "",
@@ -330,16 +340,6 @@
           "publishedOn": "2023-01-15T10:00:06.000Z",
           "wordCount": null,
           "title": "Waves in a circular maze: 3D rendering of the energy flux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3g3oKc1HS20",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3g3oKc1HS20",
-          "publishedOn": "2023-01-14T10:00:03.000Z",
-          "wordCount": null,
-          "title": "Heat map representation of a billiard in a maze with rounded corners",
           "imageUrl": null
         }
       ]
@@ -767,6 +767,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hmtQPrH-gC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hmtQPrH-gC4",
+          "publishedOn": "2023-01-29T20:23:03.000Z",
+          "wordCount": null,
+          "title": "Dendrites: Why Biological Neurons Are Deep Neural Networks",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C00IR4IVRkg",
           "author": null,
           "description": "",
@@ -831,16 +841,6 @@
           "publishedOn": "2022-11-01T16:12:15.000Z",
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 7] • Interpolation & Point Physics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o6HBZ5XkVg4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o6HBZ5XkVg4",
-          "publishedOn": "2022-11-01T11:31:46.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 6] • Solutions for Assignments 7-11",
           "imageUrl": null
         }
       ]
