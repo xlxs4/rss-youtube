@@ -126,6 +126,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tHfVbk8BQ4g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tHfVbk8BQ4g",
+          "publishedOn": "2023-01-30T20:41:30.000Z",
+          "wordCount": null,
+          "title": "Eigenfunctions of an ellipse",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YT5OZDBsvJQ",
           "author": null,
           "description": "",
@@ -192,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=az0WzmPtEzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=az0WzmPtEzQ",
+          "publishedOn": "2023-01-30T10:00:03.000Z",
+          "wordCount": null,
+          "title": "A simple model for catalysis",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HjuktbUdqJg",
           "author": null,
@@ -330,16 +350,6 @@
           "publishedOn": "2023-01-16T10:00:12.000Z",
           "wordCount": null,
           "title": "A detonation in a compressible Euler flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8VZUy5LT9y4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8VZUy5LT9y4",
-          "publishedOn": "2023-01-15T10:00:06.000Z",
-          "wordCount": null,
-          "title": "Waves in a circular maze: 3D rendering of the energy flux",
           "imageUrl": null
         }
       ]
@@ -821,26 +831,6 @@
           "publishedOn": "2022-11-04T11:35:33.000Z",
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 9] • Solutions to the final assignments",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XkAuksIABHI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XkAuksIABHI",
-          "publishedOn": "2022-11-02T11:28:47.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 8] • Trajectories & Derivatives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tjTRXzwdU6A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tjTRXzwdU6A",
-          "publishedOn": "2022-11-01T16:12:15.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 7] • Interpolation & Point Physics",
           "imageUrl": null
         }
       ]

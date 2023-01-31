@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-30T00:36:11.627Z</id>
+    <id>urn:2023-01-31T00:42:12.341Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-30T00:36:11.627Z</updated>
+    <updated>2023-01-31T00:42:12.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eigenfunctions of an ellipse]]></title>
+        <id>https://www.youtube.com/watch?v=tHfVbk8BQ4g</id>
+        <link href="https://www.youtube.com/watch?v=tHfVbk8BQ4g"/>
+        <updated>2023-01-30T20:41:30.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A simple model for catalysis]]></title>
+        <id>https://www.youtube.com/watch?v=az0WzmPtEzQ</id>
+        <link href="https://www.youtube.com/watch?v=az0WzmPtEzQ"/>
+        <updated>2023-01-30T10:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dendrites: Why Biological Neurons Are Deep Neural Networks]]></title>
         <id>https://www.youtube.com/watch?v=hmtQPrH-gC4</id>
@@ -244,15 +262,6 @@
         <id>https://www.youtube.com/watch?v=SDNWyP8SPV0</id>
         <link href="https://www.youtube.com/watch?v=SDNWyP8SPV0"/>
         <updated>2023-01-16T10:00:12.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves in a circular maze: 3D rendering of the energy flux]]></title>
-        <id>https://www.youtube.com/watch?v=8VZUy5LT9y4</id>
-        <link href="https://www.youtube.com/watch?v=8VZUy5LT9y4"/>
-        <updated>2023-01-15T10:00:06.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -793,24 +802,6 @@
         <id>https://www.youtube.com/watch?v=sZKfaio97bc</id>
         <link href="https://www.youtube.com/watch?v=sZKfaio97bc"/>
         <updated>2022-11-04T11:35:33.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 8] • Trajectories & Derivatives]]></title>
-        <id>https://www.youtube.com/watch?v=XkAuksIABHI</id>
-        <link href="https://www.youtube.com/watch?v=XkAuksIABHI"/>
-        <updated>2022-11-02T11:28:47.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 7] • Interpolation & Point Physics]]></title>
-        <id>https://www.youtube.com/watch?v=tjTRXzwdU6A</id>
-        <link href="https://www.youtube.com/watch?v=tjTRXzwdU6A"/>
-        <updated>2022-11-01T16:12:15.000Z</updated>
         <author>
             <name>Freya Holmér</name>
         </author>
