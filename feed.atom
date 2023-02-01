@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-31T00:42:12.341Z</id>
+    <id>urn:2023-02-01T00:45:40.701Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-01-31T00:42:12.341Z</updated>
+    <updated>2023-02-01T00:45:40.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Could One Physics Theory Unlock the Mysteries of the Brain?]]></title>
+        <id>https://www.youtube.com/watch?v=hjGFp7lMi9A</id>
+        <link href="https://www.youtube.com/watch?v=hjGFp7lMi9A"/>
+        <updated>2023-01-31T15:53:17.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1. How to Create System Models]]></title>
+        <id>https://www.youtube.com/watch?v=ksrEyMNX_BY</id>
+        <link href="https://www.youtube.com/watch?v=ksrEyMNX_BY"/>
+        <updated>2023-01-31T11:34:10.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat map representation of a billiard in a maze with slanted corners, without and with averaging]]></title>
+        <id>https://www.youtube.com/watch?v=AKc4YRPXGnE</id>
+        <link href="https://www.youtube.com/watch?v=AKc4YRPXGnE"/>
+        <updated>2023-01-31T10:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2. Frequency-domain Analysis]]></title>
+        <id>https://www.youtube.com/watch?v=_ZvvRLpCLG0</id>
+        <link href="https://www.youtube.com/watch?v=_ZvvRLpCLG0"/>
+        <updated>2023-01-31T06:30:07.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eigenfunctions of an ellipse]]></title>
         <id>https://www.youtube.com/watch?v=tHfVbk8BQ4g</id>
@@ -255,15 +291,6 @@
         <updated>2023-01-16T11:00:00.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A detonation in a compressible Euler flow]]></title>
-        <id>https://www.youtube.com/watch?v=SDNWyP8SPV0</id>
-        <link href="https://www.youtube.com/watch?v=SDNWyP8SPV0"/>
-        <updated>2023-01-16T10:00:12.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

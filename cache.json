@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hjGFp7lMi9A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hjGFp7lMi9A",
+          "publishedOn": "2023-01-31T15:53:17.000Z",
+          "wordCount": null,
+          "title": "Could One Physics Theory Unlock the Mysteries of the Brain?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Nmgl78a02ys",
           "author": null,
           "description": "",
@@ -203,6 +213,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AKc4YRPXGnE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AKc4YRPXGnE",
+          "publishedOn": "2023-01-31T10:00:09.000Z",
+          "wordCount": null,
+          "title": "Heat map representation of a billiard in a maze with slanted corners, without and with averaging",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=az0WzmPtEzQ",
           "author": null,
           "description": "",
@@ -340,16 +360,6 @@
           "publishedOn": "2023-01-17T10:00:03.000Z",
           "wordCount": null,
           "title": "Video #700: A tribute to John Lennard-Jones",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SDNWyP8SPV0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SDNWyP8SPV0",
-          "publishedOn": "2023-01-16T10:00:12.000Z",
-          "wordCount": null,
-          "title": "A detonation in a compressible Euler flow",
           "imageUrl": null
         }
       ]
@@ -970,6 +980,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ksrEyMNX_BY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ksrEyMNX_BY",
+          "publishedOn": "2023-01-31T11:34:10.000Z",
+          "wordCount": null,
+          "title": "1. How to Create System Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_ZvvRLpCLG0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_ZvvRLpCLG0",
+          "publishedOn": "2023-01-31T06:30:07.000Z",
+          "wordCount": null,
+          "title": "2. Frequency-domain Analysis",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=z8o83UORuqQ",
           "author": null,
