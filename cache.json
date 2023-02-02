@@ -213,6 +213,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=U-GBicPDWS8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U-GBicPDWS8",
+          "publishedOn": "2023-02-01T10:00:14.000Z",
+          "wordCount": null,
+          "title": "Vorticity and density of von Kármán vortices",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AKc4YRPXGnE",
           "author": null,
           "description": "",
@@ -350,16 +360,6 @@
           "publishedOn": "2023-01-18T10:00:09.000Z",
           "wordCount": null,
           "title": "Average density of particles bouncing in a maze",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8_Og4xDp4h0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8_Og4xDp4h0",
-          "publishedOn": "2023-01-17T10:00:03.000Z",
-          "wordCount": null,
-          "title": "Video #700: A tribute to John Lennard-Jones",
           "imageUrl": null
         }
       ]
@@ -832,16 +832,6 @@
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 10] • Abstract Algebra, Procedural Animation & Splines",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sZKfaio97bc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sZKfaio97bc",
-          "publishedOn": "2022-11-04T11:35:33.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 9] • Solutions to the final assignments",
-          "imageUrl": null
         }
       ]
     },
@@ -987,7 +977,7 @@
           "link": "https://www.youtube.com/watch?v=ksrEyMNX_BY",
           "publishedOn": "2023-01-31T11:34:10.000Z",
           "wordCount": null,
-          "title": "1. How to Create System Models",
+          "title": "Introduction to Control Analysis and Design in Julia: How to Create System Models",
           "imageUrl": null
         },
         {
@@ -997,7 +987,7 @@
           "link": "https://www.youtube.com/watch?v=_ZvvRLpCLG0",
           "publishedOn": "2023-01-31T06:30:07.000Z",
           "wordCount": null,
-          "title": "2. Frequency-domain Analysis",
+          "title": "Introduction to Control Analysis and Design in Julia: Frequency-domain Analysis",
           "imageUrl": null
         },
         {

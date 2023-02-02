@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T00:45:40.701Z</id>
+    <id>urn:2023-02-02T00:41:21.266Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-01T00:45:40.701Z</updated>
+    <updated>2023-02-02T00:41:21.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vorticity and density of von Kármán vortices]]></title>
+        <id>https://www.youtube.com/watch?v=U-GBicPDWS8</id>
+        <link href="https://www.youtube.com/watch?v=U-GBicPDWS8"/>
+        <updated>2023-02-01T10:00:14.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could One Physics Theory Unlock the Mysteries of the Brain?]]></title>
         <id>https://www.youtube.com/watch?v=hjGFp7lMi9A</id>
@@ -15,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1. How to Create System Models]]></title>
+        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: How to Create System Models]]></title>
         <id>https://www.youtube.com/watch?v=ksrEyMNX_BY</id>
         <link href="https://www.youtube.com/watch?v=ksrEyMNX_BY"/>
         <updated>2023-01-31T11:34:10.000Z</updated>
@@ -33,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2. Frequency-domain Analysis]]></title>
+        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: Frequency-domain Analysis]]></title>
         <id>https://www.youtube.com/watch?v=_ZvvRLpCLG0</id>
         <link href="https://www.youtube.com/watch?v=_ZvvRLpCLG0"/>
         <updated>2023-01-31T06:30:07.000Z</updated>
@@ -255,15 +264,6 @@
         <updated>2023-01-17T11:06:29.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video #700: A tribute to John Lennard-Jones]]></title>
-        <id>https://www.youtube.com/watch?v=8_Og4xDp4h0</id>
-        <link href="https://www.youtube.com/watch?v=8_Og4xDp4h0"/>
-        <updated>2023-01-17T10:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -822,15 +822,6 @@
         <updated>2022-11-04T14:21:43.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 9] • Solutions to the final assignments]]></title>
-        <id>https://www.youtube.com/watch?v=sZKfaio97bc</id>
-        <link href="https://www.youtube.com/watch?v=sZKfaio97bc"/>
-        <updated>2022-11-04T11:35:33.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
         </author>
     </entry>
 </feed>
