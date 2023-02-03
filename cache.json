@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "But what is a convolution?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=851U557j6HE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=851U557j6HE",
-          "publishedOn": "2022-11-04T15:54:19.000Z",
-          "wordCount": null,
-          "title": "Researchers thought this was a bug (Borwein integrals)",
-          "imageUrl": null
         }
       ]
     },
@@ -110,16 +100,6 @@
           "publishedOn": "2022-12-06T15:00:31.000Z",
           "wordCount": null,
           "title": "Matrix transpose isn't just swapping rows and columns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2n2XGNHsKjA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2n2XGNHsKjA",
-          "publishedOn": "2022-11-04T15:00:03.000Z",
-          "wordCount": null,
-          "title": "How hard was my Cambridge interview? (ft. @TomRocksMaths)",
           "imageUrl": null
         }
       ]
@@ -212,6 +192,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PsGgtaguP00",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PsGgtaguP00",
+          "publishedOn": "2023-02-02T10:00:25.000Z",
+          "wordCount": null,
+          "title": "Energy flux in a phased array",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=U-GBicPDWS8",
           "author": null,
@@ -350,16 +340,6 @@
           "publishedOn": "2023-01-19T10:00:33.000Z",
           "wordCount": null,
           "title": "The chemical reaction A + B → C",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Gkhqx58si6s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Gkhqx58si6s",
-          "publishedOn": "2023-01-18T10:00:09.000Z",
-          "wordCount": null,
-          "title": "Average density of particles bouncing in a maze",
           "imageUrl": null
         }
       ]
@@ -711,16 +691,6 @@
           "wordCount": null,
           "title": "Extra Credit: Activated Archives with Umber Majeed",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L0NenZtIib4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L0NenZtIib4",
-          "publishedOn": "2022-11-04T14:21:43.000Z",
-          "wordCount": null,
-          "title": "Discover Dead Stars with Dame Bell Burnell",
-          "imageUrl": null
         }
       ]
     },
@@ -729,6 +699,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MD-O4Gpx74s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MD-O4Gpx74s",
+          "publishedOn": "2023-02-02T20:00:11.000Z",
+          "wordCount": null,
+          "title": "Fooling the Eye: Revealing the Truth",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FiyyndtlHdQ",
           "author": null,
@@ -821,16 +801,6 @@
           "publishedOn": "2022-12-07T19:00:08.000Z",
           "wordCount": null,
           "title": "The Continuity of Splines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pku6WAs1fF8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pku6WAs1fF8",
-          "publishedOn": "2022-11-04T16:13:36.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 10] • Abstract Algebra, Procedural Animation & Splines",
           "imageUrl": null
         }
       ]
