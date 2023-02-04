@@ -193,6 +193,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7zq8Teg5YZk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7zq8Teg5YZk",
+          "publishedOn": "2023-02-03T10:00:06.000Z",
+          "wordCount": null,
+          "title": "The chemical dissociation reaction B → A + A",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PsGgtaguP00",
           "author": null,
           "description": "",
@@ -331,16 +341,6 @@
           "wordCount": null,
           "title": "A compressible Euler flow with a soft obstacle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mmteVwxGGQo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mmteVwxGGQo",
-          "publishedOn": "2023-01-19T10:00:33.000Z",
-          "wordCount": null,
-          "title": "The chemical reaction A + B → C",
-          "imageUrl": null
         }
       ]
     },
@@ -412,6 +412,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Rp-smPZLESc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rp-smPZLESc",
+          "publishedOn": "2023-02-03T11:00:21.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L02: Euler's formula, one of the most important formulas in all of mathematics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_mv0q7-WF4E",
           "author": null,
@@ -551,16 +561,6 @@
           "wordCount": null,
           "title": "Numerical Simulation of Ordinary Differential Equations: Integrating ODEs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W-wxKgjBDnc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W-wxKgjBDnc",
-          "publishedOn": "2022-11-30T11:00:14.000Z",
-          "wordCount": null,
-          "title": "Why we can't take \"dt\" to 0 in a computer: Sources of error in numerical differentiation",
-          "imageUrl": null
         }
       ]
     },
@@ -592,6 +592,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F4w16VcRhMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F4w16VcRhMk",
+          "publishedOn": "2023-02-03T15:04:13.000Z",
+          "wordCount": null,
+          "title": "Dark Matter | Scientific Controversies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cp4GPitNqP4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cp4GPitNqP4",
+          "publishedOn": "2023-02-03T15:03:25.000Z",
+          "wordCount": null,
+          "title": "Dark Energy | Scientific Controversies",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=41461Yrotr4",
           "author": null,

@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-03T00:42:18.904Z</id>
+    <id>urn:2023-02-04T00:38:28.997Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-03T00:42:18.904Z</updated>
+    <updated>2023-02-04T00:38:28.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dark Matter | Scientific Controversies]]></title>
+        <id>https://www.youtube.com/watch?v=F4w16VcRhMk</id>
+        <link href="https://www.youtube.com/watch?v=F4w16VcRhMk"/>
+        <updated>2023-02-03T15:04:13.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Energy | Scientific Controversies]]></title>
+        <id>https://www.youtube.com/watch?v=cp4GPitNqP4</id>
+        <link href="https://www.youtube.com/watch?v=cp4GPitNqP4"/>
+        <updated>2023-02-03T15:03:25.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex Analysis L02: Euler's formula, one of the most important formulas in all of mathematics]]></title>
+        <id>https://www.youtube.com/watch?v=Rp-smPZLESc</id>
+        <link href="https://www.youtube.com/watch?v=Rp-smPZLESc"/>
+        <updated>2023-02-03T11:00:21.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The chemical dissociation reaction B → A + A]]></title>
+        <id>https://www.youtube.com/watch?v=7zq8Teg5YZk</id>
+        <link href="https://www.youtube.com/watch?v=7zq8Teg5YZk"/>
+        <updated>2023-02-03T10:00:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fooling the Eye: Revealing the Truth]]></title>
         <id>https://www.youtube.com/watch?v=MD-O4Gpx74s</id>
@@ -244,15 +280,6 @@
         <id>https://www.youtube.com/watch?v=nh9grkGLqb8</id>
         <link href="https://www.youtube.com/watch?v=nh9grkGLqb8"/>
         <updated>2023-01-20T10:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The chemical reaction A + B → C]]></title>
-        <id>https://www.youtube.com/watch?v=mmteVwxGGQo</id>
-        <link href="https://www.youtube.com/watch?v=mmteVwxGGQo"/>
-        <updated>2023-01-19T10:00:33.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -624,15 +651,6 @@
         <updated>2022-11-30T16:00:47.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why we can't take "dt" to 0 in a computer: Sources of error in numerical differentiation]]></title>
-        <id>https://www.youtube.com/watch?v=W-wxKgjBDnc</id>
-        <link href="https://www.youtube.com/watch?v=W-wxKgjBDnc"/>
-        <updated>2022-11-30T11:00:14.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
