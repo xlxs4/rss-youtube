@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T00:38:28.997Z</id>
+    <id>urn:2023-02-05T00:43:56.938Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-04T00:38:28.997Z</updated>
+    <updated>2023-02-05T00:43:56.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solving a honeycomb maze using laser beams]]></title>
+        <id>https://www.youtube.com/watch?v=j8DcL5DrbwU</id>
+        <link href="https://www.youtube.com/watch?v=j8DcL5DrbwU"/>
+        <updated>2023-02-04T10:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dark Matter | Scientific Controversies]]></title>
         <id>https://www.youtube.com/watch?v=F4w16VcRhMk</id>
@@ -60,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vorticity and density of von Kármán vortices]]></title>
+        <title type="html"><![CDATA[Vorticity and speed of von Kármán vortices]]></title>
         <id>https://www.youtube.com/watch?v=U-GBicPDWS8</id>
         <link href="https://www.youtube.com/watch?v=U-GBicPDWS8"/>
         <updated>2023-02-01T10:00:14.000Z</updated>
@@ -273,15 +282,6 @@
         <updated>2023-01-20T15:20:59.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A compressible Euler flow with a soft obstacle]]></title>
-        <id>https://www.youtube.com/watch?v=nh9grkGLqb8</id>
-        <link href="https://www.youtube.com/watch?v=nh9grkGLqb8"/>
-        <updated>2023-01-20T10:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
