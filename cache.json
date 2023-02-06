@@ -193,6 +193,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6_wFSb5gWCs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6_wFSb5gWCs",
+          "publishedOn": "2023-02-05T10:00:03.000Z",
+          "wordCount": null,
+          "title": "3D rendering of vorticity and speed of von Kármán vortices",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j8DcL5DrbwU",
           "author": null,
           "description": "",
@@ -330,16 +340,6 @@
           "publishedOn": "2023-01-22T10:00:35.000Z",
           "wordCount": null,
           "title": "Starting from a disc in the chemical reaction A + B → C",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z90OWgSs4nA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z90OWgSs4nA",
-          "publishedOn": "2023-01-21T10:00:37.000Z",
-          "wordCount": null,
-          "title": "3D rendering of explosive lensing",
           "imageUrl": null
         }
       ]
@@ -701,16 +701,6 @@
           "wordCount": null,
           "title": "Elif Batuman on Life as Literature (and \"Either/Or\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B5xiNWfo2i0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B5xiNWfo2i0",
-          "publishedOn": "2022-11-07T15:00:07.000Z",
-          "wordCount": null,
-          "title": "Extra Credit: Activated Archives with Umber Majeed",
-          "imageUrl": null
         }
       ]
     },
@@ -1027,6 +1017,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g",
       "siteUrl": "https://www.youtube.com/channel/UCbHJVeS0ZIco7FTTqhvDg6g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oO3H1ZYZCz4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oO3H1ZYZCz4",
+          "publishedOn": "2023-02-05T14:00:33.000Z",
+          "wordCount": null,
+          "title": "Programming body parts — using math to modify life (TMEB #3)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=elRbbdJUiTU",
           "author": null,

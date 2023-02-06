@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T00:43:56.938Z</id>
+    <id>urn:2023-02-06T00:38:37.154Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-05T00:43:56.938Z</updated>
+    <updated>2023-02-06T00:38:37.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Programming body parts — using math to modify life (TMEB #3)]]></title>
+        <id>https://www.youtube.com/watch?v=oO3H1ZYZCz4</id>
+        <link href="https://www.youtube.com/watch?v=oO3H1ZYZCz4"/>
+        <updated>2023-02-05T14:00:33.000Z</updated>
+        <author>
+            <name>NanoRooms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D rendering of vorticity and speed of von Kármán vortices]]></title>
+        <id>https://www.youtube.com/watch?v=6_wFSb5gWCs</id>
+        <link href="https://www.youtube.com/watch?v=6_wFSb5gWCs"/>
+        <updated>2023-02-05T10:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solving a honeycomb maze using laser beams]]></title>
         <id>https://www.youtube.com/watch?v=j8DcL5DrbwU</id>
@@ -262,15 +280,6 @@
         <id>https://www.youtube.com/watch?v=yWy5UoVgJ6E</id>
         <link href="https://www.youtube.com/watch?v=yWy5UoVgJ6E"/>
         <updated>2023-01-22T10:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D rendering of explosive lensing]]></title>
-        <id>https://www.youtube.com/watch?v=z90OWgSs4nA</id>
-        <link href="https://www.youtube.com/watch?v=z90OWgSs4nA"/>
-        <updated>2023-01-21T10:00:37.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -804,15 +813,6 @@
         <updated>2022-11-08T14:59:18.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extra Credit: Activated Archives with Umber Majeed]]></title>
-        <id>https://www.youtube.com/watch?v=B5xiNWfo2i0</id>
-        <link href="https://www.youtube.com/watch?v=B5xiNWfo2i0"/>
-        <updated>2022-11-07T15:00:07.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
