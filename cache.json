@@ -89,7 +89,7 @@
           "link": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
           "publishedOn": "2023-01-10T15:00:22.000Z",
           "wordCount": null,
-          "title": "I use PowerPoint to edit all* videos (and get 100k subs!)",
+          "title": "Without coding, how to make math graphics professionally?",
           "imageUrl": null
         },
         {
@@ -192,6 +192,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QA5sHJvKteg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QA5sHJvKteg",
+          "publishedOn": "2023-02-06T10:00:10.000Z",
+          "wordCount": null,
+          "title": "Beam formation in a phased array",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=6_wFSb5gWCs",
           "author": null,
@@ -331,16 +341,6 @@
           "wordCount": null,
           "title": "Average density of particles bouncing in a circular maze",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yWy5UoVgJ6E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yWy5UoVgJ6E",
-          "publishedOn": "2023-01-22T10:00:35.000Z",
-          "wordCount": null,
-          "title": "Starting from a disc in the chemical reaction A + B → C",
-          "imageUrl": null
         }
       ]
     },
@@ -393,16 +393,6 @@
           "publishedOn": "2022-11-23T15:00:13.000Z",
           "wordCount": null,
           "title": "The Most Extreme Explosion in the Universe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Us2Z-WC9rao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Us2Z-WC9rao",
-          "publishedOn": "2022-11-08T14:59:18.000Z",
-          "wordCount": null,
-          "title": "Why Don't We Shoot Nuclear Waste Into Space?",
           "imageUrl": null
         }
       ]
@@ -716,7 +706,7 @@
           "link": "https://www.youtube.com/watch?v=MD-O4Gpx74s",
           "publishedOn": "2023-02-02T20:00:11.000Z",
           "wordCount": null,
-          "title": "Fooling the Eye: Revealing the Truth",
+          "title": "Visual Illusions: Catching the Brain Creating Reality",
           "imageUrl": null
         },
         {
@@ -1024,7 +1014,7 @@
           "link": "https://www.youtube.com/watch?v=oO3H1ZYZCz4",
           "publishedOn": "2023-02-05T14:00:33.000Z",
           "wordCount": null,
-          "title": "Programming body parts — using math to modify life (TMEB #3)",
+          "title": "Coding body parts & The math of bio-digital memory (TMEB #3)",
           "imageUrl": null
         },
         {
