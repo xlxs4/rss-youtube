@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T00:40:56.689Z</id>
+    <id>urn:2023-02-08T00:40:07.587Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-07T00:40:56.689Z</updated>
+    <updated>2023-02-08T00:40:07.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The reversible chemical reaction A + A ⇌ B]]></title>
+        <id>https://www.youtube.com/watch?v=YJ5w-IDSXCg</id>
+        <link href="https://www.youtube.com/watch?v=YJ5w-IDSXCg"/>
+        <updated>2023-02-07T10:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 3. Time Domain Simulations]]></title>
+        <id>https://www.youtube.com/watch?v=ii86sg_8xGw</id>
+        <link href="https://www.youtube.com/watch?v=ii86sg_8xGw"/>
+        <updated>2023-02-07T07:00:22.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beam formation in a phased array]]></title>
         <id>https://www.youtube.com/watch?v=QA5sHJvKteg</id>
@@ -114,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: How to Create System Models]]></title>
+        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 1. How to Create System Models]]></title>
         <id>https://www.youtube.com/watch?v=ksrEyMNX_BY</id>
         <link href="https://www.youtube.com/watch?v=ksrEyMNX_BY"/>
         <updated>2023-01-31T11:34:10.000Z</updated>
@@ -132,7 +150,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: Frequency-domain Analysis]]></title>
+        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 2. Frequency-domain Analysis]]></title>
         <id>https://www.youtube.com/watch?v=_ZvvRLpCLG0</id>
         <link href="https://www.youtube.com/watch?v=_ZvvRLpCLG0"/>
         <updated>2023-01-31T06:30:07.000Z</updated>
@@ -262,15 +280,6 @@
         <id>https://www.youtube.com/watch?v=T91UwE4yN-g</id>
         <link href="https://www.youtube.com/watch?v=T91UwE4yN-g"/>
         <updated>2023-01-24T10:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Average density of particles bouncing in a circular maze]]></title>
-        <id>https://www.youtube.com/watch?v=G2e5cNjUhvQ</id>
-        <link href="https://www.youtube.com/watch?v=G2e5cNjUhvQ"/>
-        <updated>2023-01-23T10:00:08.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
