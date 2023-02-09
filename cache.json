@@ -89,7 +89,7 @@
           "link": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
           "publishedOn": "2023-01-10T15:00:22.000Z",
           "wordCount": null,
-          "title": "Without coding, how to make math graphics professionally?",
+          "title": "I use PowerPoint to edit all* videos (and hit 100k subs!)",
           "imageUrl": null
         },
         {
@@ -192,6 +192,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IkJF27tlIDI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IkJF27tlIDI",
+          "publishedOn": "2023-02-08T10:00:09.000Z",
+          "wordCount": null,
+          "title": "[Epilepsy warning] A rotating laser beam in a honeycomb maze",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=YJ5w-IDSXCg",
           "author": null,
@@ -330,16 +340,6 @@
           "publishedOn": "2023-01-25T10:00:16.000Z",
           "wordCount": null,
           "title": "Explosive lensing in a parabolic resonator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T91UwE4yN-g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T91UwE4yN-g",
-          "publishedOn": "2023-01-24T10:00:13.000Z",
-          "wordCount": null,
-          "title": "Vortex formation behind a soft obstacle",
           "imageUrl": null
         }
       ]
@@ -748,16 +748,6 @@
           "wordCount": null,
           "title": "The Dreaming Mind: Waking the Mysteries of Sleep",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ovfqJFkuRrg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ovfqJFkuRrg",
-          "publishedOn": "2022-11-10T20:00:08.000Z",
-          "wordCount": null,
-          "title": "Sacred Nature with Karen Armstrong",
-          "imageUrl": null
         }
       ]
     },
@@ -1024,7 +1014,7 @@
           "link": "https://www.youtube.com/watch?v=oO3H1ZYZCz4",
           "publishedOn": "2023-02-05T14:00:33.000Z",
           "wordCount": null,
-          "title": "Coding body parts & The math of bio-digital memory (TMEB #3)",
+          "title": "The math behind the memory and programming of cells (TMEB #3)",
           "imageUrl": null
         },
         {
@@ -1035,16 +1025,6 @@
           "publishedOn": "2022-12-25T02:20:27.000Z",
           "wordCount": null,
           "title": "Decoding nature’s masterful engineering using math (TMEB #2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kbJxl7HU480",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kbJxl7HU480",
-          "publishedOn": "2022-11-10T23:02:44.000Z",
-          "wordCount": null,
-          "title": "Using math to decode biology’s programming language (TMEB #1)",
           "imageUrl": null
         }
       ]
