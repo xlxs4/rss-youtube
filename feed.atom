@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T00:40:35.706Z</id>
+    <id>urn:2023-02-10T00:44:11.549Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-09T00:40:35.706Z</updated>
+    <updated>2023-02-10T00:44:11.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Von Kármán vortices behind an elliptical obstacle]]></title>
+        <id>https://www.youtube.com/watch?v=uKnMvPL36a0</id>
+        <link href="https://www.youtube.com/watch?v=uKnMvPL36a0"/>
+        <updated>2023-02-09T10:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Epilepsy warning] A rotating laser beam in a honeycomb maze]]></title>
         <id>https://www.youtube.com/watch?v=IkJF27tlIDI</id>
@@ -262,15 +271,6 @@
         <id>https://www.youtube.com/watch?v=EFSQGvMx8Jg</id>
         <link href="https://www.youtube.com/watch?v=EFSQGvMx8Jg"/>
         <updated>2023-01-26T10:00:08.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explosive lensing in a parabolic resonator]]></title>
-        <id>https://www.youtube.com/watch?v=I0HOuQSmylA</id>
-        <link href="https://www.youtube.com/watch?v=I0HOuQSmylA"/>
-        <updated>2023-01-25T10:00:16.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
