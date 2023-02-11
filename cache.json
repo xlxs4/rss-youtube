@@ -193,6 +193,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JS-1Xk4MzcM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JS-1Xk4MzcM",
+          "publishedOn": "2023-02-10T10:00:11.000Z",
+          "wordCount": null,
+          "title": "Energy flux of waves leaving the Mandelbrot set",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uKnMvPL36a0",
           "author": null,
           "description": "",
@@ -331,16 +341,6 @@
           "wordCount": null,
           "title": "[Epilepsy warning] Heat map representation of a rotating laser beam in a maze",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EFSQGvMx8Jg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EFSQGvMx8Jg",
-          "publishedOn": "2023-01-26T10:00:08.000Z",
-          "wordCount": null,
-          "title": "The chemical reaction 2A + B → C",
-          "imageUrl": null
         }
       ]
     },
@@ -402,6 +402,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=59huv1T_LJw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=59huv1T_LJw",
+          "publishedOn": "2023-02-10T11:00:10.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L03: Functions of a complex variable, f(z)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Rp-smPZLESc",
           "author": null,
@@ -541,16 +551,6 @@
           "wordCount": null,
           "title": "Deriving Forward Euler and Backward/Implicit Euler Integration Schemes for Differential Equations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QBeNXHrAYns",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QBeNXHrAYns",
-          "publishedOn": "2022-12-05T11:00:14.000Z",
-          "wordCount": null,
-          "title": "Numerical Simulation of Ordinary Differential Equations: Integrating ODEs",
-          "imageUrl": null
         }
       ]
     },
@@ -582,6 +582,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Pa3y2f5MgXs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pa3y2f5MgXs",
+          "publishedOn": "2023-02-10T15:02:27.000Z",
+          "wordCount": null,
+          "title": "Hyd - Breaking Ground (Live at Pioneer Works)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=F4w16VcRhMk",
           "author": null,
@@ -801,6 +811,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCaSCt8s_4nfkRglWCvNSDrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tKbV6BpH-C8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tKbV6BpH-C8",
+          "publishedOn": "2023-02-10T16:00:35.000Z",
+          "wordCount": null,
+          "title": "Premature Optimization",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Bf7vDBBOBUA",
           "author": null,
           "description": "",
@@ -1014,7 +1034,7 @@
           "link": "https://www.youtube.com/watch?v=oO3H1ZYZCz4",
           "publishedOn": "2023-02-05T14:00:33.000Z",
           "wordCount": null,
-          "title": "The math behind the memory and programming of cells (TMEB #3)",
+          "title": "The math behind engineering living things (TMEB #3)",
           "imageUrl": null
         },
         {

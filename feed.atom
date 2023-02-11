@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T00:44:11.549Z</id>
+    <id>urn:2023-02-11T00:35:56.487Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-10T00:44:11.549Z</updated>
+    <updated>2023-02-11T00:35:56.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Premature Optimization]]></title>
+        <id>https://www.youtube.com/watch?v=tKbV6BpH-C8</id>
+        <link href="https://www.youtube.com/watch?v=tKbV6BpH-C8"/>
+        <updated>2023-02-10T16:00:35.000Z</updated>
+        <author>
+            <name>CodeAesthetic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyd - Breaking Ground (Live at Pioneer Works)]]></title>
+        <id>https://www.youtube.com/watch?v=Pa3y2f5MgXs</id>
+        <link href="https://www.youtube.com/watch?v=Pa3y2f5MgXs"/>
+        <updated>2023-02-10T15:02:27.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex Analysis L03: Functions of a complex variable, f(z)]]></title>
+        <id>https://www.youtube.com/watch?v=59huv1T_LJw</id>
+        <link href="https://www.youtube.com/watch?v=59huv1T_LJw"/>
+        <updated>2023-02-10T11:00:10.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy flux of waves leaving the Mandelbrot set]]></title>
+        <id>https://www.youtube.com/watch?v=JS-1Xk4MzcM</id>
+        <link href="https://www.youtube.com/watch?v=JS-1Xk4MzcM"/>
+        <updated>2023-02-10T10:00:11.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Von Kármán vortices behind an elliptical obstacle]]></title>
         <id>https://www.youtube.com/watch?v=uKnMvPL36a0</id>
@@ -51,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The math behind the memory and programming of cells (TMEB #3)]]></title>
+        <title type="html"><![CDATA[The math behind engineering living things (TMEB #3)]]></title>
         <id>https://www.youtube.com/watch?v=oO3H1ZYZCz4</id>
         <link href="https://www.youtube.com/watch?v=oO3H1ZYZCz4"/>
         <updated>2023-02-05T14:00:33.000Z</updated>
@@ -262,15 +298,6 @@
         <id>https://www.youtube.com/watch?v=LiO6hpEy4s0</id>
         <link href="https://www.youtube.com/watch?v=LiO6hpEy4s0"/>
         <updated>2023-01-27T10:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The chemical reaction 2A + B → C]]></title>
-        <id>https://www.youtube.com/watch?v=EFSQGvMx8Jg</id>
-        <link href="https://www.youtube.com/watch?v=EFSQGvMx8Jg"/>
-        <updated>2023-01-26T10:00:08.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -642,15 +669,6 @@
         <updated>2022-12-06T15:00:31.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numerical Simulation of Ordinary Differential Equations: Integrating ODEs]]></title>
-        <id>https://www.youtube.com/watch?v=QBeNXHrAYns</id>
-        <link href="https://www.youtube.com/watch?v=QBeNXHrAYns"/>
-        <updated>2022-12-05T11:00:14.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
