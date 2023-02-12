@@ -99,7 +99,7 @@
           "link": "https://www.youtube.com/watch?v=g4ecBFmvAYU",
           "publishedOn": "2022-12-06T15:00:31.000Z",
           "wordCount": null,
-          "title": "Matrix transpose isn't just swapping rows and columns",
+          "title": "The deeper meaning of matrix transpose",
           "imageUrl": null
         }
       ]
@@ -192,6 +192,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=c4BltpA-oyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c4BltpA-oyc",
+          "publishedOn": "2023-02-11T10:00:31.000Z",
+          "wordCount": null,
+          "title": "An example of chain growth polimerization",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JS-1Xk4MzcM",
           "author": null,
@@ -330,16 +340,6 @@
           "publishedOn": "2023-01-28T10:00:23.000Z",
           "wordCount": null,
           "title": "Von Kármán vortices - A first occurrence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LiO6hpEy4s0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LiO6hpEy4s0",
-          "publishedOn": "2023-01-27T10:00:24.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] Heat map representation of a rotating laser beam in a maze",
           "imageUrl": null
         }
       ]
@@ -564,18 +564,7 @@
       "title": "Faculty of Khan",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=yX-xeexgDGA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yX-xeexgDGA",
-          "publishedOn": "2022-11-14T12:19:43.000Z",
-          "wordCount": null,
-          "title": "Solving the Infinite Square Well Problem | Quantum Mechanics",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Pioneer Works",

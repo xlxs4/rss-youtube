@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T00:35:56.487Z</id>
+    <id>urn:2023-02-12T00:43:56.961Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-11T00:35:56.487Z</updated>
+    <updated>2023-02-12T00:43:56.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An example of chain growth polimerization]]></title>
+        <id>https://www.youtube.com/watch?v=c4BltpA-oyc</id>
+        <link href="https://www.youtube.com/watch?v=c4BltpA-oyc"/>
+        <updated>2023-02-11T10:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Premature Optimization]]></title>
         <id>https://www.youtube.com/watch?v=tKbV6BpH-C8</id>
@@ -291,15 +300,6 @@
         <updated>2023-01-27T11:00:25.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Epilepsy warning] Heat map representation of a rotating laser beam in a maze]]></title>
-        <id>https://www.youtube.com/watch?v=LiO6hpEy4s0</id>
-        <link href="https://www.youtube.com/watch?v=LiO6hpEy4s0"/>
-        <updated>2023-01-27T10:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -663,7 +663,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matrix transpose isn't just swapping rows and columns]]></title>
+        <title type="html"><![CDATA[The deeper meaning of matrix transpose]]></title>
         <id>https://www.youtube.com/watch?v=g4ecBFmvAYU</id>
         <link href="https://www.youtube.com/watch?v=g4ecBFmvAYU"/>
         <updated>2022-12-06T15:00:31.000Z</updated>
@@ -804,15 +804,6 @@
         <updated>2022-11-17T20:00:08.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving the Infinite Square Well Problem | Quantum Mechanics]]></title>
-        <id>https://www.youtube.com/watch?v=yX-xeexgDGA</id>
-        <link href="https://www.youtube.com/watch?v=yX-xeexgDGA"/>
-        <updated>2022-11-14T12:19:43.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
