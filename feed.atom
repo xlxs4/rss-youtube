@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T00:42:49.236Z</id>
+    <id>urn:2023-02-14T00:41:59.879Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-13T00:42:49.236Z</updated>
+    <updated>2023-02-14T00:41:59.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Von Kármán vortices behind an airfoil]]></title>
+        <id>https://www.youtube.com/watch?v=M-ky0T1bG1I</id>
+        <link href="https://www.youtube.com/watch?v=M-ky0T1bG1I"/>
+        <updated>2023-02-13T10:00:11.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heat map representation of a billiard in a honeycomb maze]]></title>
         <id>https://www.youtube.com/watch?v=jfyDgy4QPvM</id>
@@ -255,15 +264,6 @@
         <updated>2023-01-29T20:23:03.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A phased array]]></title>
-        <id>https://www.youtube.com/watch?v=HjuktbUdqJg</id>
-        <link href="https://www.youtube.com/watch?v=HjuktbUdqJg"/>
-        <updated>2023-01-29T10:00:17.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
