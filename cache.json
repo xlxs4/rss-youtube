@@ -193,6 +193,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BT6wCNHWY5E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BT6wCNHWY5E",
+          "publishedOn": "2023-02-14T10:00:13.000Z",
+          "wordCount": null,
+          "title": "Waves in a medium with random index of refraction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=M-ky0T1bG1I",
           "author": null,
           "description": "",
@@ -331,16 +341,6 @@
           "wordCount": null,
           "title": "Heat map representation of a billiard in a maze with slanted corners, without and with averaging",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=az0WzmPtEzQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=az0WzmPtEzQ",
-          "publishedOn": "2023-01-30T10:00:03.000Z",
-          "wordCount": null,
-          "title": "A simple model for catalysis",
-          "imageUrl": null
         }
       ]
     },
@@ -355,6 +355,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TYPFenJQciw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TYPFenJQciw",
+          "publishedOn": "2023-02-14T14:59:37.000Z",
+          "wordCount": null,
+          "title": "You Are an Impossible Machine",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aeWyp2vXxqA",
           "author": null,
@@ -564,7 +574,18 @@
       "title": "Faculty of Khan",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6AE5YjwlBfc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6AE5YjwlBfc",
+          "publishedOn": "2023-02-14T23:33:26.000Z",
+          "wordCount": null,
+          "title": "Solving the Schrodinger Equation for the Quantum Harmonic Oscillator | Part 1",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Pioneer Works",
@@ -939,6 +960,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7rin1_J8ByE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7rin1_J8ByE",
+          "publishedOn": "2023-02-14T20:46:40.000Z",
+          "wordCount": null,
+          "title": "Celebrating 11 Years of Julia love",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gIsa93GvPbg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gIsa93GvPbg",
+          "publishedOn": "2023-02-14T05:45:00.000Z",
+          "wordCount": null,
+          "title": "Introduction to Control Analysis and Design in Julia: 4. Control-system Analysis",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ii86sg_8xGw",
           "author": null,
