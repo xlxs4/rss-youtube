@@ -116,6 +116,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fALmZXCuS9Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fALmZXCuS9Y",
+          "publishedOn": "2023-02-15T20:55:41.000Z",
+          "wordCount": null,
+          "title": "Relatively unpopular double pendulum animation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tHfVbk8BQ4g",
           "author": null,
           "description": "",
@@ -192,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eUePbmFpUkM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eUePbmFpUkM",
+          "publishedOn": "2023-02-15T10:00:33.000Z",
+          "wordCount": null,
+          "title": "Polimerization with dissociation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BT6wCNHWY5E",
           "author": null,
@@ -330,16 +350,6 @@
           "publishedOn": "2023-02-01T10:00:14.000Z",
           "wordCount": null,
           "title": "Vorticity and speed of von Kármán vortices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AKc4YRPXGnE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AKc4YRPXGnE",
-          "publishedOn": "2023-01-31T10:00:09.000Z",
-          "wordCount": null,
-          "title": "Heat map representation of a billiard in a maze with slanted corners, without and with averaging",
           "imageUrl": null
         }
       ]
@@ -758,16 +768,6 @@
           "wordCount": null,
           "title": "To the Moon, Mars, and Beyond: The Next Step in Space Exploration",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wvvovktKKa4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wvvovktKKa4",
-          "publishedOn": "2022-11-17T20:00:08.000Z",
-          "wordCount": null,
-          "title": "The Dreaming Mind: Waking the Mysteries of Sleep",
-          "imageUrl": null
         }
       ]
     },
@@ -895,56 +895,6 @@
           "publishedOn": "2023-01-27T18:02:59.000Z",
           "wordCount": null,
           "title": "ML Community Call (2023-01-27)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yHiyJQdWBY8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yHiyJQdWBY8",
-          "publishedOn": "2022-11-18T10:41:59.000Z",
-          "wordCount": null,
-          "title": "The Continuing Advancements of Scientific Machine Learning (SciML) | 2022 DigiWell Julia Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cn5HO78Q2XA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cn5HO78Q2XA",
-          "publishedOn": "2022-11-18T10:41:47.000Z",
-          "wordCount": null,
-          "title": "DataDrivenDiffEq.jl- Data driven modeling in Julia  | 2022 DigiWell Julia Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SkmCe6fScJI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SkmCe6fScJI",
-          "publishedOn": "2022-11-18T10:41:42.000Z",
-          "wordCount": null,
-          "title": "Model Predictive Control (MPC) with JuliaSim and ModelingToolkit | 2022 DigiWell Julia Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3B1sTCN66BE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3B1sTCN66BE",
-          "publishedOn": "2022-11-18T10:41:34.000Z",
-          "wordCount": null,
-          "title": "Extensions for JuMP, for coupled systems analysis and optimization || 2022 DigiWell Julia Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uBQAE4obOv8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uBQAE4obOv8",
-          "publishedOn": "2022-11-18T10:41:30.000Z",
-          "wordCount": null,
-          "title": "Jutul: Oil reservoir simulation in Julia | 2022 DigiWell Julia Seminar",
           "imageUrl": null
         }
       ]
