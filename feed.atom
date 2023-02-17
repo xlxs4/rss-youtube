@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T00:41:17.165Z</id>
+    <id>urn:2023-02-17T00:44:27.777Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-16T00:41:17.165Z</updated>
+    <updated>2023-02-17T00:44:27.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Florist Performs "43" and "Vacation" Live at Pioneer Works]]></title>
+        <id>https://www.youtube.com/watch?v=61TGlj0_QCI</id>
+        <link href="https://www.youtube.com/watch?v=61TGlj0_QCI"/>
+        <updated>2023-02-16T15:04:54.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dance of the bees: Heat map representation of a billiard in a honeycomb maze with rounded corners]]></title>
+        <id>https://www.youtube.com/watch?v=a3ICP1wQyR8</id>
+        <link href="https://www.youtube.com/watch?v=a3ICP1wQyR8"/>
+        <updated>2023-02-16T10:00:00.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Relatively unpopular double pendulum animation]]></title>
         <id>https://www.youtube.com/watch?v=fALmZXCuS9Y</id>
@@ -253,15 +271,6 @@
         <id>https://www.youtube.com/watch?v=PsGgtaguP00</id>
         <link href="https://www.youtube.com/watch?v=PsGgtaguP00"/>
         <updated>2023-02-02T10:00:25.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vorticity and speed of von Kármán vortices]]></title>
-        <id>https://www.youtube.com/watch?v=U-GBicPDWS8</id>
-        <link href="https://www.youtube.com/watch?v=U-GBicPDWS8"/>
-        <updated>2023-02-01T10:00:14.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -777,24 +786,6 @@
         <updated>2022-11-20T18:16:05.000Z</updated>
         <author>
             <name>CodeAesthetic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elif Batuman on Life as Literature (and "Either/Or")]]></title>
-        <id>https://www.youtube.com/watch?v=2PwgJqprU9s</id>
-        <link href="https://www.youtube.com/watch?v=2PwgJqprU9s"/>
-        <updated>2022-11-18T16:33:49.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[But what is a convolution?]]></title>
-        <id>https://www.youtube.com/watch?v=KuXjwB4LzSA</id>
-        <link href="https://www.youtube.com/watch?v=KuXjwB4LzSA"/>
-        <updated>2022-11-18T16:00:39.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>

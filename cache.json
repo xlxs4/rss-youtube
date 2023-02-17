@@ -64,18 +64,7 @@
       "title": "3Blue1Brown",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=KuXjwB4LzSA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KuXjwB4LzSA",
-          "publishedOn": "2022-11-18T16:00:39.000Z",
-          "wordCount": null,
-          "title": "But what is a convolution?",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Mathemaniac",
@@ -202,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=a3ICP1wQyR8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a3ICP1wQyR8",
+          "publishedOn": "2023-02-16T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Dance of the bees: Heat map representation of a billiard in a honeycomb maze with rounded corners",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eUePbmFpUkM",
           "author": null,
@@ -340,16 +339,6 @@
           "publishedOn": "2023-02-02T10:00:25.000Z",
           "wordCount": null,
           "title": "Energy flux in a phased array",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U-GBicPDWS8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U-GBicPDWS8",
-          "publishedOn": "2023-02-01T10:00:14.000Z",
-          "wordCount": null,
-          "title": "Vorticity and speed of von Kármán vortices",
           "imageUrl": null
         }
       ]
@@ -603,6 +592,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=61TGlj0_QCI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=61TGlj0_QCI",
+          "publishedOn": "2023-02-16T15:04:54.000Z",
+          "wordCount": null,
+          "title": "Florist Performs \"43\" and \"Vacation\" Live at Pioneer Works",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Pa3y2f5MgXs",
           "author": null,
           "description": "",
@@ -710,16 +709,6 @@
           "publishedOn": "2022-11-21T17:54:15.000Z",
           "wordCount": null,
           "title": "Dreamcrusher Live (Full Set)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2PwgJqprU9s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2PwgJqprU9s",
-          "publishedOn": "2022-11-18T16:33:49.000Z",
-          "wordCount": null,
-          "title": "Elif Batuman on Life as Literature (and \"Either/Or\")",
           "imageUrl": null
         }
       ]
