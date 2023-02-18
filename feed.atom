@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T00:44:27.777Z</id>
+    <id>urn:2023-02-18T00:41:06.862Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-17T00:44:27.777Z</updated>
+    <updated>2023-02-18T00:41:06.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Complex Analysis L04: The Complex Logarithm, Log(z)]]></title>
+        <id>https://www.youtube.com/watch?v=CpKD9aYEdms</id>
+        <link href="https://www.youtube.com/watch?v=CpKD9aYEdms"/>
+        <updated>2023-02-17T11:00:16.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step polymerization]]></title>
+        <id>https://www.youtube.com/watch?v=RccLrhdjjkM</id>
+        <link href="https://www.youtube.com/watch?v=RccLrhdjjkM"/>
+        <updated>2023-02-17T10:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Florist Performs "43" and "Vacation" Live at Pioneer Works]]></title>
         <id>https://www.youtube.com/watch?v=61TGlj0_QCI</id>
@@ -60,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Are an Impossible Machine]]></title>
+        <title type="html"><![CDATA[The Most Complex Language in the World]]></title>
         <id>https://www.youtube.com/watch?v=TYPFenJQciw</id>
         <link href="https://www.youtube.com/watch?v=TYPFenJQciw"/>
         <updated>2023-02-14T14:59:37.000Z</updated>
@@ -264,15 +282,6 @@
         <updated>2023-02-02T20:00:11.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy flux in a phased array]]></title>
-        <id>https://www.youtube.com/watch?v=PsGgtaguP00</id>
-        <link href="https://www.youtube.com/watch?v=PsGgtaguP00"/>
-        <updated>2023-02-02T10:00:25.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -687,15 +696,6 @@
         <updated>2022-12-07T19:00:08.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deriving Forward Euler and Backward/Implicit Euler Integration Schemes for Differential Equations]]></title>
-        <id>https://www.youtube.com/watch?v=MstPeOTCVzQ</id>
-        <link href="https://www.youtube.com/watch?v=MstPeOTCVzQ"/>
-        <updated>2022-12-07T11:00:21.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
