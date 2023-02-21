@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T00:43:48.022Z</id>
+    <id>urn:2023-02-21T00:43:44.875Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-20T00:43:48.022Z</updated>
+    <updated>2023-02-21T00:43:44.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Particles escaping from a large honeycomb maze]]></title>
+        <id>https://www.youtube.com/watch?v=eoVzYc-MiBY</id>
+        <link href="https://www.youtube.com/watch?v=eoVzYc-MiBY"/>
+        <updated>2023-02-20T10:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A phased array seen from a larger distance]]></title>
         <id>https://www.youtube.com/watch?v=yS_0OVuigVE</id>
@@ -246,15 +255,6 @@
         <updated>2023-02-05T14:00:33.000Z</updated>
         <author>
             <name>NanoRooms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D rendering of vorticity and speed of von Kármán vortices]]></title>
-        <id>https://www.youtube.com/watch?v=6_wFSb5gWCs</id>
-        <link href="https://www.youtube.com/watch?v=6_wFSb5gWCs"/>
-        <updated>2023-02-05T10:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -768,15 +768,6 @@
         <updated>2022-11-23T15:00:13.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To the Moon, Mars, and Beyond: The Next Step in Space Exploration]]></title>
-        <id>https://www.youtube.com/watch?v=W8W3w3udEXI</id>
-        <link href="https://www.youtube.com/watch?v=W8W3w3udEXI"/>
-        <updated>2022-11-22T18:09:39.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
