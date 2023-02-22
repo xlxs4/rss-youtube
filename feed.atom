@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T00:43:44.875Z</id>
+    <id>urn:2023-02-22T00:38:39.545Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-21T00:43:44.875Z</updated>
+    <updated>2023-02-22T00:38:39.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A heterogeneous chemical reaction]]></title>
+        <id>https://www.youtube.com/watch?v=AnL8xV7sdzQ</id>
+        <link href="https://www.youtube.com/watch?v=AnL8xV7sdzQ"/>
+        <updated>2023-02-21T10:00:07.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 5. PID-controller Design and Lead/lag Design]]></title>
+        <id>https://www.youtube.com/watch?v=BolNmqYYIEg</id>
+        <link href="https://www.youtube.com/watch?v=BolNmqYYIEg"/>
+        <updated>2023-02-21T05:45:00.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Particles escaping from a large honeycomb maze]]></title>
         <id>https://www.youtube.com/watch?v=eoVzYc-MiBY</id>
@@ -237,15 +255,6 @@
         <updated>2023-02-07T07:00:22.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beam formation in a phased array]]></title>
-        <id>https://www.youtube.com/watch?v=QA5sHJvKteg</id>
-        <link href="https://www.youtube.com/watch?v=QA5sHJvKteg"/>
-        <updated>2023-02-06T10:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -759,15 +768,6 @@
         <updated>2022-11-27T20:02:53.000Z</updated>
         <author>
             <name>CodeAesthetic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Extreme Explosion in the Universe]]></title>
-        <id>https://www.youtube.com/watch?v=q4DF3j4saCE</id>
-        <link href="https://www.youtube.com/watch?v=q4DF3j4saCE"/>
-        <updated>2022-11-23T15:00:13.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
