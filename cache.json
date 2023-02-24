@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QF3F9G75PvE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QF3F9G75PvE",
+          "publishedOn": "2023-02-23T10:00:14.000Z",
+          "wordCount": null,
+          "title": "Waves in a medium with periodic index of refraction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G42O5f1GzJ8",
           "author": null,
           "description": "",
@@ -319,16 +329,6 @@
           "publishedOn": "2023-02-10T10:00:11.000Z",
           "wordCount": null,
           "title": "Energy flux of waves leaving the Mandelbrot set",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uKnMvPL36a0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uKnMvPL36a0",
-          "publishedOn": "2023-02-09T10:00:35.000Z",
-          "wordCount": null,
-          "title": "Von Kármán vortices behind an elliptical obstacle",
           "imageUrl": null
         }
       ]

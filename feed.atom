@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T00:40:03.030Z</id>
+    <id>urn:2023-02-24T00:40:45.546Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-23T00:40:03.030Z</updated>
+    <updated>2023-02-24T00:40:45.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Waves in a medium with periodic index of refraction]]></title>
+        <id>https://www.youtube.com/watch?v=QF3F9G75PvE</id>
+        <link href="https://www.youtube.com/watch?v=QF3F9G75PvE"/>
+        <updated>2023-02-23T10:00:14.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Von Kármán vortices behind an airplane wing, at smaller speed]]></title>
         <id>https://www.youtube.com/watch?v=G42O5f1GzJ8</id>
@@ -226,15 +235,6 @@
         <id>https://www.youtube.com/watch?v=JS-1Xk4MzcM</id>
         <link href="https://www.youtube.com/watch?v=JS-1Xk4MzcM"/>
         <updated>2023-02-10T10:00:11.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Von Kármán vortices behind an elliptical obstacle]]></title>
-        <id>https://www.youtube.com/watch?v=uKnMvPL36a0</id>
-        <link href="https://www.youtube.com/watch?v=uKnMvPL36a0"/>
-        <updated>2023-02-09T10:00:35.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
