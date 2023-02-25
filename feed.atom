@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T00:40:45.546Z</id>
+    <id>urn:2023-02-25T00:41:56.646Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-24T00:40:45.546Z</updated>
+    <updated>2023-02-25T00:41:56.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Darren Aronofsky on Storytelling, Science, Math, and God]]></title>
+        <id>https://www.youtube.com/watch?v=Q80TlGeQrIU</id>
+        <link href="https://www.youtube.com/watch?v=Q80TlGeQrIU"/>
+        <updated>2023-02-24T14:56:01.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex Analysis L05: Roots of Unity and Rational Powers of z]]></title>
+        <id>https://www.youtube.com/watch?v=bzCDvK3NNuk</id>
+        <link href="https://www.youtube.com/watch?v=bzCDvK3NNuk"/>
+        <updated>2023-02-24T11:00:34.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An exothermic chemical reaction]]></title>
+        <id>https://www.youtube.com/watch?v=ZQBvjZiRSeQ</id>
+        <link href="https://www.youtube.com/watch?v=ZQBvjZiRSeQ"/>
+        <updated>2023-02-24T10:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waves in a medium with periodic index of refraction]]></title>
         <id>https://www.youtube.com/watch?v=QF3F9G75PvE</id>
@@ -228,15 +255,6 @@
         <updated>2023-02-10T11:00:10.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy flux of waves leaving the Mandelbrot set]]></title>
-        <id>https://www.youtube.com/watch?v=JS-1Xk4MzcM</id>
-        <link href="https://www.youtube.com/watch?v=JS-1Xk4MzcM"/>
-        <updated>2023-02-10T10:00:11.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -687,15 +705,6 @@
         <updated>2022-12-09T16:42:43.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error Analysis of Euler Integration Scheme for Differential Equations Using Taylor Series]]></title>
-        <id>https://www.youtube.com/watch?v=h2i550iaEv0</id>
-        <link href="https://www.youtube.com/watch?v=h2i550iaEv0"/>
-        <updated>2022-12-09T11:00:34.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
