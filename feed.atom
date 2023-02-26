@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T00:41:56.646Z</id>
+    <id>urn:2023-02-26T00:47:35.281Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-25T00:41:56.646Z</updated>
+    <updated>2023-02-26T00:47:35.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Histogram of particle distribution in a maze]]></title>
+        <id>https://www.youtube.com/watch?v=3Q7ghTfOiBE</id>
+        <link href="https://www.youtube.com/watch?v=3Q7ghTfOiBE"/>
+        <updated>2023-02-25T10:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Darren Aronofsky on Storytelling, Science, Math, and God]]></title>
         <id>https://www.youtube.com/watch?v=Q80TlGeQrIU</id>
@@ -217,15 +226,6 @@
         <id>https://www.youtube.com/watch?v=jfyDgy4QPvM</id>
         <link href="https://www.youtube.com/watch?v=jfyDgy4QPvM"/>
         <updated>2023-02-12T10:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An example of chain growth polimerization]]></title>
-        <id>https://www.youtube.com/watch?v=c4BltpA-oyc</id>
-        <link href="https://www.youtube.com/watch?v=c4BltpA-oyc"/>
-        <updated>2023-02-11T10:00:31.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -759,15 +759,6 @@
         <updated>2022-11-30T16:00:47.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naming Things in Code]]></title>
-        <id>https://www.youtube.com/watch?v=-J3wNP6u5YU</id>
-        <link href="https://www.youtube.com/watch?v=-J3wNP6u5YU"/>
-        <updated>2022-11-27T20:02:53.000Z</updated>
-        <author>
-            <name>CodeAesthetic</name>
         </author>
     </entry>
 </feed>
