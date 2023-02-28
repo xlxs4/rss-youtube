@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T00:42:19.131Z</id>
+    <id>urn:2023-02-28T00:41:51.289Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-27T00:42:19.131Z</updated>
+    <updated>2023-02-28T00:41:51.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coherence of waves with random sources]]></title>
+        <id>https://www.youtube.com/watch?v=8TBi9eafNII</id>
+        <link href="https://www.youtube.com/watch?v=8TBi9eafNII"/>
+        <updated>2023-02-27T10:00:04.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Von Kármán vortices behind an accelerating airplane wing]]></title>
         <id>https://www.youtube.com/watch?v=XptnkvZF_Es</id>
@@ -219,15 +228,6 @@
         <updated>2023-02-14T05:45:00.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Von Kármán vortices behind an airfoil]]></title>
-        <id>https://www.youtube.com/watch?v=M-ky0T1bG1I</id>
-        <link href="https://www.youtube.com/watch?v=M-ky0T1bG1I"/>
-        <updated>2023-02-13T10:00:11.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
