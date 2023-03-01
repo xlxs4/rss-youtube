@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T00:41:51.289Z</id>
+    <id>urn:2023-03-01T00:47:00.258Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-02-28T00:41:51.289Z</updated>
+    <updated>2023-03-01T00:47:00.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Your Immune System is More Dangerous than You Think]]></title>
+        <id>https://www.youtube.com/watch?v=M-K7mxdN62M</id>
+        <link href="https://www.youtube.com/watch?v=M-K7mxdN62M"/>
+        <updated>2023-02-28T14:59:23.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 6. Pole Placement Design]]></title>
+        <id>https://www.youtube.com/watch?v=etOzqXNmzp0</id>
+        <link href="https://www.youtube.com/watch?v=etOzqXNmzp0"/>
+        <updated>2023-02-28T14:46:24.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An endothermic chemical reaction]]></title>
+        <id>https://www.youtube.com/watch?v=9pyVUyVK3Og</id>
+        <link href="https://www.youtube.com/watch?v=9pyVUyVK3Og"/>
+        <updated>2023-02-28T10:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coherence of waves with random sources]]></title>
         <id>https://www.youtube.com/watch?v=8TBi9eafNII</id>
@@ -210,15 +237,6 @@
         <updated>2023-02-14T14:59:37.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves in a medium with random index of refraction]]></title>
-        <id>https://www.youtube.com/watch?v=BT6wCNHWY5E</id>
-        <link href="https://www.youtube.com/watch?v=BT6wCNHWY5E"/>
-        <updated>2023-02-14T10:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -741,24 +759,6 @@
         <updated>2022-12-06T15:00:31.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dreaming Pen: From Lucid Dreams to Waking Art]]></title>
-        <id>https://www.youtube.com/watch?v=1wwDYiPFLcI</id>
-        <link href="https://www.youtube.com/watch?v=1wwDYiPFLcI"/>
-        <updated>2022-11-30T22:27:00.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Physicists Created a Holographic Wormhole in a Quantum Computer]]></title>
-        <id>https://www.youtube.com/watch?v=uOJCS1W1uzg</id>
-        <link href="https://www.youtube.com/watch?v=uOJCS1W1uzg"/>
-        <updated>2022-11-30T16:00:47.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>

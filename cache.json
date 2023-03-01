@@ -24,16 +24,6 @@
           "wordCount": null,
           "title": "2022's Biggest Breakthroughs in Math",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uOJCS1W1uzg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uOJCS1W1uzg",
-          "publishedOn": "2022-11-30T16:00:47.000Z",
-          "wordCount": null,
-          "title": "How Physicists Created a Holographic Wormhole in a Quantum Computer",
-          "imageUrl": null
         }
       ]
     },
@@ -192,6 +182,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9pyVUyVK3Og",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9pyVUyVK3Og",
+          "publishedOn": "2023-02-28T10:00:09.000Z",
+          "wordCount": null,
+          "title": "An endothermic chemical reaction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8TBi9eafNII",
           "author": null,
           "description": "",
@@ -320,16 +320,6 @@
           "wordCount": null,
           "title": "Polimerization with dissociation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BT6wCNHWY5E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BT6wCNHWY5E",
-          "publishedOn": "2023-02-14T10:00:13.000Z",
-          "wordCount": null,
-          "title": "Waves in a medium with random index of refraction",
-          "imageUrl": null
         }
       ]
     },
@@ -344,6 +334,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=M-K7mxdN62M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M-K7mxdN62M",
+          "publishedOn": "2023-02-28T14:59:23.000Z",
+          "wordCount": null,
+          "title": "Your Immune System is More Dangerous than You Think",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=TYPFenJQciw",
           "author": null,
@@ -717,16 +717,6 @@
           "wordCount": null,
           "title": "The Deep: Exploring Earth’s Last Frontier",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1wwDYiPFLcI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1wwDYiPFLcI",
-          "publishedOn": "2022-11-30T22:27:00.000Z",
-          "wordCount": null,
-          "title": "The Dreaming Pen: From Lucid Dreams to Waking Art",
-          "imageUrl": null
         }
       ]
     },
@@ -859,6 +849,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=etOzqXNmzp0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=etOzqXNmzp0",
+          "publishedOn": "2023-02-28T14:46:24.000Z",
+          "wordCount": null,
+          "title": "Introduction to Control Analysis and Design in Julia: 6. Pole Placement Design",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BolNmqYYIEg",
           "author": null,
