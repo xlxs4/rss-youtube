@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5A3aA1z-JGk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5A3aA1z-JGk",
+          "publishedOn": "2023-03-03T10:00:03.000Z",
+          "wordCount": null,
+          "title": "Changing the beam direction in a phased array",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m-lXsoH1Xpg",
           "author": null,
           "description": "",
@@ -320,16 +330,6 @@
           "wordCount": null,
           "title": "Von Kármán vortices behind an airplane wing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RccLrhdjjkM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RccLrhdjjkM",
-          "publishedOn": "2023-02-17T10:00:13.000Z",
-          "wordCount": null,
-          "title": "Step polymerization",
-          "imageUrl": null
         }
       ]
     },
@@ -351,7 +351,7 @@
           "link": "https://www.youtube.com/watch?v=M-K7mxdN62M",
           "publishedOn": "2023-02-28T14:59:23.000Z",
           "wordCount": null,
-          "title": "Your Immune System is More Dangerous than You Think",
+          "title": "The Best Way to Boost Your Immune System (With Science!)",
           "imageUrl": null
         },
         {
@@ -401,6 +401,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pAq_dilfB_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pAq_dilfB_0",
+          "publishedOn": "2023-03-03T11:00:40.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L06: Analytic Functions and Cauchy-Riemann Conditions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=bzCDvK3NNuk",
           "author": null,
@@ -540,16 +550,6 @@
           "wordCount": null,
           "title": "Numerical Integration of ODEs with Forward Euler and Backward Euler in Python and Matlab",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RdXCGnTT6UY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RdXCGnTT6UY",
-          "publishedOn": "2022-12-12T11:00:12.000Z",
-          "wordCount": null,
-          "title": "Stability of Forward Euler and Backward Euler Integration Schemes for Differential Equations",
-          "imageUrl": null
         }
       ]
     },
@@ -581,6 +581,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_q1c8v0_udM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_q1c8v0_udM",
+          "publishedOn": "2023-03-03T15:09:25.000Z",
+          "wordCount": null,
+          "title": "Artificial Intelligence | Scientific Controversies",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Q80TlGeQrIU",
           "author": null,

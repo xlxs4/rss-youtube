@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T02:35:02.525Z</id>
+    <id>urn:2023-03-04T00:40:36.952Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-03T02:35:02.525Z</updated>
+    <updated>2023-03-04T00:40:36.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Artificial Intelligence | Scientific Controversies]]></title>
+        <id>https://www.youtube.com/watch?v=_q1c8v0_udM</id>
+        <link href="https://www.youtube.com/watch?v=_q1c8v0_udM"/>
+        <updated>2023-03-03T15:09:25.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex Analysis L06: Analytic Functions and Cauchy-Riemann Conditions]]></title>
+        <id>https://www.youtube.com/watch?v=pAq_dilfB_0</id>
+        <link href="https://www.youtube.com/watch?v=pAq_dilfB_0"/>
+        <updated>2023-03-03T11:00:40.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing the beam direction in a phased array]]></title>
+        <id>https://www.youtube.com/watch?v=5A3aA1z-JGk</id>
+        <link href="https://www.youtube.com/watch?v=5A3aA1z-JGk"/>
+        <updated>2023-03-03T10:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A compressible Euler flow in a funnel]]></title>
         <id>https://www.youtube.com/watch?v=m-lXsoH1Xpg</id>
@@ -33,7 +60,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Immune System is More Dangerous than You Think]]></title>
+        <title type="html"><![CDATA[The Best Way to Boost Your Immune System (With Science!)]]></title>
         <id>https://www.youtube.com/watch?v=M-K7mxdN62M</id>
         <link href="https://www.youtube.com/watch?v=M-K7mxdN62M"/>
         <updated>2023-02-28T14:59:23.000Z</updated>
@@ -192,15 +219,6 @@
         <updated>2023-02-17T11:00:16.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step polymerization]]></title>
-        <id>https://www.youtube.com/watch?v=RccLrhdjjkM</id>
-        <link href="https://www.youtube.com/watch?v=RccLrhdjjkM"/>
-        <updated>2023-02-17T10:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -703,15 +721,6 @@
         <id>https://www.youtube.com/watch?v=ITFolyl_66U</id>
         <link href="https://www.youtube.com/watch?v=ITFolyl_66U"/>
         <updated>2022-12-14T11:00:09.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stability of Forward Euler and Backward Euler Integration Schemes for Differential Equations]]></title>
-        <id>https://www.youtube.com/watch?v=RdXCGnTT6UY</id>
-        <link href="https://www.youtube.com/watch?v=RdXCGnTT6UY"/>
-        <updated>2022-12-12T11:00:12.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
