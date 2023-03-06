@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T00:47:10.095Z</id>
+    <id>urn:2023-03-06T00:42:47.486Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-05T00:47:10.095Z</updated>
+    <updated>2023-03-06T00:42:47.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Brain Criticality - Optimizing Neural Computations]]></title>
+        <id>https://www.youtube.com/watch?v=vwLb3XlPCB4</id>
+        <link href="https://www.youtube.com/watch?v=vwLb3XlPCB4"/>
+        <updated>2023-03-05T22:02:39.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Particle distribution in a honeycomb maze with rounded cells]]></title>
+        <id>https://www.youtube.com/watch?v=9uItN1d0L58</id>
+        <link href="https://www.youtube.com/watch?v=9uItN1d0L58"/>
+        <updated>2023-03-05T10:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ellipse reminds you of its focal points]]></title>
         <id>https://www.youtube.com/watch?v=uFgl2qk5xKY</id>
@@ -199,15 +217,6 @@
         <id>https://www.youtube.com/watch?v=eoVzYc-MiBY</id>
         <link href="https://www.youtube.com/watch?v=eoVzYc-MiBY"/>
         <updated>2023-02-20T10:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A phased array seen from a larger distance]]></title>
-        <id>https://www.youtube.com/watch?v=yS_0OVuigVE</id>
-        <link href="https://www.youtube.com/watch?v=yS_0OVuigVE"/>
-        <updated>2023-02-19T10:00:36.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
