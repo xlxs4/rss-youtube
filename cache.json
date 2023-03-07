@@ -70,16 +70,6 @@
           "wordCount": null,
           "title": "I use PowerPoint to edit all* videos (and hit 100k subs!)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g4ecBFmvAYU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g4ecBFmvAYU",
-          "publishedOn": "2022-12-06T15:00:31.000Z",
-          "wordCount": null,
-          "title": "The deeper meaning of matrix transpose",
-          "imageUrl": null
         }
       ]
     },
@@ -201,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vu3_uEs9jxI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vu3_uEs9jxI",
+          "publishedOn": "2023-03-06T10:00:34.000Z",
+          "wordCount": null,
+          "title": "A compressible Euler flow in a funnel: Vorticity and direction of flow",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9uItN1d0L58",
           "author": null,
@@ -330,16 +330,6 @@
           "wordCount": null,
           "title": "A heterogeneous chemical reaction",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eoVzYc-MiBY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eoVzYc-MiBY",
-          "publishedOn": "2023-02-20T10:00:32.000Z",
-          "wordCount": null,
-          "title": "Particles escaping from a large honeycomb maze",
-          "imageUrl": null
         }
       ]
     },
@@ -392,16 +382,6 @@
           "publishedOn": "2022-12-11T15:00:09.000Z",
           "wordCount": null,
           "title": "How To Terraform Mars - WITH LASERS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Qsbe1pD8ocE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Qsbe1pD8ocE",
-          "publishedOn": "2022-12-06T15:52:00.000Z",
-          "wordCount": null,
-          "title": "The Horror of the Slaver Ant",
           "imageUrl": null
         }
       ]
@@ -837,16 +817,6 @@
           "publishedOn": "2022-12-22T14:04:23.000Z",
           "wordCount": null,
           "title": "The Flaws of Inheritance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CFRhGnuXG-4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CFRhGnuXG-4",
-          "publishedOn": "2022-12-06T16:00:11.000Z",
-          "wordCount": null,
-          "title": "Why You Shouldn't Nest Your Code",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T00:42:47.486Z</id>
+    <id>urn:2023-03-07T00:45:14.797Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-06T00:42:47.486Z</updated>
+    <updated>2023-03-07T00:45:14.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A compressible Euler flow in a funnel: Vorticity and direction of flow]]></title>
+        <id>https://www.youtube.com/watch?v=vu3_uEs9jxI</id>
+        <link href="https://www.youtube.com/watch?v=vu3_uEs9jxI"/>
+        <updated>2023-03-06T10:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brain Criticality - Optimizing Neural Computations]]></title>
         <id>https://www.youtube.com/watch?v=vwLb3XlPCB4</id>
@@ -210,15 +219,6 @@
         <updated>2023-02-21T05:45:00.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Particles escaping from a large honeycomb maze]]></title>
-        <id>https://www.youtube.com/watch?v=eoVzYc-MiBY</id>
-        <link href="https://www.youtube.com/watch?v=eoVzYc-MiBY"/>
-        <updated>2023-02-20T10:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -768,33 +768,6 @@
         <updated>2022-12-07T19:00:08.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Shouldn't Nest Your Code]]></title>
-        <id>https://www.youtube.com/watch?v=CFRhGnuXG-4</id>
-        <link href="https://www.youtube.com/watch?v=CFRhGnuXG-4"/>
-        <updated>2022-12-06T16:00:11.000Z</updated>
-        <author>
-            <name>CodeAesthetic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Horror of the Slaver Ant]]></title>
-        <id>https://www.youtube.com/watch?v=Qsbe1pD8ocE</id>
-        <link href="https://www.youtube.com/watch?v=Qsbe1pD8ocE"/>
-        <updated>2022-12-06T15:52:00.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The deeper meaning of matrix transpose]]></title>
-        <id>https://www.youtube.com/watch?v=g4ecBFmvAYU</id>
-        <link href="https://www.youtube.com/watch?v=g4ecBFmvAYU"/>
-        <updated>2022-12-06T15:00:31.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>
