@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0LhbohYPji4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0LhbohYPji4",
+          "publishedOn": "2023-03-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Bloopers 7: Boundary value issues with coherent waves",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vu3_uEs9jxI",
           "author": null,
           "description": "",
@@ -319,16 +329,6 @@
           "publishedOn": "2023-02-22T10:00:11.000Z",
           "wordCount": null,
           "title": "Von Kármán vortices behind an airplane wing, at smaller speed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AnL8xV7sdzQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AnL8xV7sdzQ",
-          "publishedOn": "2023-02-21T10:00:07.000Z",
-          "wordCount": null,
-          "title": "A heterogeneous chemical reaction",
           "imageUrl": null
         }
       ]
@@ -771,18 +771,7 @@
       "title": "Freya Holmér",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA",
       "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=jvPPXbo87ds",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jvPPXbo87ds",
-          "publishedOn": "2022-12-07T19:00:08.000Z",
-          "wordCount": null,
-          "title": "The Continuity of Splines",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CodeAesthetic",
@@ -859,6 +848,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NuAxN1mGCPs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NuAxN1mGCPs",
+          "publishedOn": "2023-03-07T10:45:02.000Z",
+          "wordCount": null,
+          "title": "Introduction to Control Analysis and Design in Julia: 7. LQR and LQG design",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=etOzqXNmzp0",
           "author": null,
