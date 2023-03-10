@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T00:43:11.820Z</id>
+    <id>urn:2023-03-10T00:42:39.613Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-09T00:43:11.820Z</updated>
+    <updated>2023-03-10T00:42:39.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Rewiring the Brain: The Promise and Peril of Neuroplasticity]]></title>
         <id>https://www.youtube.com/watch?v=RDVgfFzZVsA</id>
         <link href="https://www.youtube.com/watch?v=RDVgfFzZVsA"/>
-        <updated>2023-03-08T15:06:41.000Z</updated>
+        <updated>2023-03-09T20:00:09.000Z</updated>
         <author>
             <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laser beams in a maze with octagonal and square cells]]></title>
+        <id>https://www.youtube.com/watch?v=BZ-YIi2gTQ8</id>
+        <link href="https://www.youtube.com/watch?v=BZ-YIi2gTQ8"/>
+        <updated>2023-03-09T10:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -768,15 +777,6 @@
         <updated>2022-12-11T15:00:09.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Science of Consciousness | Scientific Controversies]]></title>
-        <id>https://www.youtube.com/watch?v=kCKD0tMgS8M</id>
-        <link href="https://www.youtube.com/watch?v=kCKD0tMgS8M"/>
-        <updated>2022-12-09T16:42:43.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
