@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T00:42:30.634Z</id>
+    <id>urn:2023-03-13T00:40:46.244Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-12T00:42:30.634Z</updated>
+    <updated>2023-03-13T00:40:46.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stadium-, circle-, and ellipse probability densities]]></title>
+        <id>https://www.youtube.com/watch?v=16G-iOARRog</id>
+        <link href="https://www.youtube.com/watch?v=16G-iOARRog"/>
+        <updated>2023-03-12T21:13:12.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A reversible exothermic chemical reaction]]></title>
+        <id>https://www.youtube.com/watch?v=eAND-0luoZw</id>
+        <link href="https://www.youtube.com/watch?v=eAND-0luoZw"/>
+        <updated>2023-03-12T10:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A phased array with more emitters]]></title>
         <id>https://www.youtube.com/watch?v=UfzSzFMzhjA</id>
@@ -235,15 +253,6 @@
         <id>https://www.youtube.com/watch?v=XptnkvZF_Es</id>
         <link href="https://www.youtube.com/watch?v=XptnkvZF_Es"/>
         <updated>2023-02-26T10:00:17.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Histogram of particle distribution in a maze]]></title>
-        <id>https://www.youtube.com/watch?v=3Q7ghTfOiBE</id>
-        <link href="https://www.youtube.com/watch?v=3Q7ghTfOiBE"/>
-        <updated>2023-02-25T10:00:05.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
