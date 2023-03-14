@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-13T00:40:46.244Z</id>
+    <id>urn:2023-03-14T00:36:28.292Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-13T00:40:46.244Z</updated>
+    <updated>2023-03-14T00:36:28.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Laser beams in a large maze with octagonal and square cells]]></title>
+        <id>https://www.youtube.com/watch?v=OSxjmKsLzjo</id>
+        <link href="https://www.youtube.com/watch?v=OSxjmKsLzjo"/>
+        <updated>2023-03-13T10:00:12.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stadium-, circle-, and ellipse probability densities]]></title>
         <id>https://www.youtube.com/watch?v=16G-iOARRog</id>
@@ -33,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Computer Scientist Taking on Big Tech: Privacy, Lies and AI]]></title>
+        <title type="html"><![CDATA[Taking on Big Tech: A Computer Scientist's Battle for Privacy, Truth, and AI]]></title>
         <id>https://www.youtube.com/watch?v=oKkzVII_wHQ</id>
         <link href="https://www.youtube.com/watch?v=oKkzVII_wHQ"/>
         <updated>2023-03-10T15:20:04.000Z</updated>
@@ -244,15 +253,6 @@
         <id>https://www.youtube.com/watch?v=8TBi9eafNII</id>
         <link href="https://www.youtube.com/watch?v=8TBi9eafNII"/>
         <updated>2023-02-27T10:00:04.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Von Kármán vortices behind an accelerating airplane wing]]></title>
-        <id>https://www.youtube.com/watch?v=XptnkvZF_Es</id>
-        <link href="https://www.youtube.com/watch?v=XptnkvZF_Es"/>
-        <updated>2023-02-26T10:00:17.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>

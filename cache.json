@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=oKkzVII_wHQ",
           "publishedOn": "2023-03-10T15:20:04.000Z",
           "wordCount": null,
-          "title": "The Computer Scientist Taking on Big Tech: Privacy, Lies and AI",
+          "title": "Taking on Big Tech: A Computer Scientist's Battle for Privacy, Truth, and AI",
           "imageUrl": null
         },
         {
@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OSxjmKsLzjo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OSxjmKsLzjo",
+          "publishedOn": "2023-03-13T10:00:12.000Z",
+          "wordCount": null,
+          "title": "Laser beams in a large maze with octagonal and square cells",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eAND-0luoZw",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2023-02-27T10:00:04.000Z",
           "wordCount": null,
           "title": "Coherence of waves with random sources",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XptnkvZF_Es",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XptnkvZF_Es",
-          "publishedOn": "2023-02-26T10:00:17.000Z",
-          "wordCount": null,
-          "title": "Von Kármán vortices behind an accelerating airplane wing",
           "imageUrl": null
         }
       ]
