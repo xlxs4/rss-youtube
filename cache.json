@@ -64,7 +64,18 @@
       "title": "3Blue1Brown",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zeJD6dqJ5lo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zeJD6dqJ5lo",
+          "publishedOn": "2023-03-14T18:36:36.000Z",
+          "wordCount": null,
+          "title": "But what is the Central Limit Theorem?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Mathemaniac",
@@ -212,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eeFaSkqJGQA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eeFaSkqJGQA",
+          "publishedOn": "2023-03-14T10:00:21.000Z",
+          "wordCount": null,
+          "title": "Solving a (tiny) maze with an Euler flow",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OSxjmKsLzjo",
           "author": null,
           "description": "",
@@ -349,16 +370,6 @@
           "publishedOn": "2023-02-28T10:00:09.000Z",
           "wordCount": null,
           "title": "An endothermic chemical reaction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8TBi9eafNII",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8TBi9eafNII",
-          "publishedOn": "2023-02-27T10:00:04.000Z",
-          "wordCount": null,
-          "title": "Coherence of waves with random sources",
           "imageUrl": null
         }
       ]
@@ -574,6 +585,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=86siB9vQ1Z0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=86siB9vQ1Z0",
+          "publishedOn": "2023-03-14T23:18:34.000Z",
+          "wordCount": null,
+          "title": "Duhamel's Principle for Partial Differential Equations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=6AE5YjwlBfc",
           "author": null,
@@ -878,6 +899,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=huYRrn--AKc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=huYRrn--AKc",
+          "publishedOn": "2023-03-14T12:00:34.000Z",
+          "wordCount": null,
+          "title": "Introduction to Control Analysis and Design in Julia: 8. H-infinity Control Design",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NuAxN1mGCPs",
           "author": null,
