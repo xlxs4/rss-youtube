@@ -223,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uuJC8BjEsc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uuJC8BjEsc0",
+          "publishedOn": "2023-03-15T10:00:39.000Z",
+          "wordCount": null,
+          "title": "Waves in a rotating medium with periodic index of refraction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eeFaSkqJGQA",
           "author": null,
           "description": "",
@@ -361,16 +371,6 @@
           "wordCount": null,
           "title": "Particle distribution in a circular maze",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9pyVUyVK3Og",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9pyVUyVK3Og",
-          "publishedOn": "2023-02-28T10:00:09.000Z",
-          "wordCount": null,
-          "title": "An endothermic chemical reaction",
-          "imageUrl": null
         }
       ]
     },
@@ -403,16 +403,6 @@
           "publishedOn": "2023-02-14T14:59:37.000Z",
           "wordCount": null,
           "title": "The Most Complex Language in the World",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aeWyp2vXxqA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aeWyp2vXxqA",
-          "publishedOn": "2022-12-15T15:00:12.000Z",
-          "wordCount": null,
-          "title": "Black Hole Star – The Star That Shouldn't Exist",
           "imageUrl": null
         }
       ]
@@ -560,16 +550,6 @@
           "publishedOn": "2022-12-19T11:00:26.000Z",
           "wordCount": null,
           "title": "Coding a Fourth-Order Runge-Kutta Integrator in Python and Matlab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HOWJp8NV5xU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HOWJp8NV5xU",
-          "publishedOn": "2022-12-16T11:00:18.000Z",
-          "wordCount": null,
-          "title": "Runge-Kutta Integrator Overview:  All Purpose Numerical Integration of Differential Equations",
           "imageUrl": null
         }
       ]

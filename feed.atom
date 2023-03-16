@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T00:41:06.623Z</id>
+    <id>urn:2023-03-16T00:42:44.110Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-15T00:41:06.623Z</updated>
+    <updated>2023-03-16T00:42:44.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Waves in a rotating medium with periodic index of refraction]]></title>
+        <id>https://www.youtube.com/watch?v=uuJC8BjEsc0</id>
+        <link href="https://www.youtube.com/watch?v=uuJC8BjEsc0"/>
+        <updated>2023-03-15T10:00:39.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Duhamel's Principle for Partial Differential Equations]]></title>
         <id>https://www.youtube.com/watch?v=86siB9vQ1Z0</id>
@@ -273,15 +282,6 @@
         <updated>2023-02-28T14:46:24.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An endothermic chemical reaction]]></title>
-        <id>https://www.youtube.com/watch?v=9pyVUyVK3Og</id>
-        <link href="https://www.youtube.com/watch?v=9pyVUyVK3Og"/>
-        <updated>2023-02-28T10:00:09.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -804,24 +804,6 @@
         <updated>2022-12-16T15:05:08.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runge-Kutta Integrator Overview:  All Purpose Numerical Integration of Differential Equations]]></title>
-        <id>https://www.youtube.com/watch?v=HOWJp8NV5xU</id>
-        <link href="https://www.youtube.com/watch?v=HOWJp8NV5xU"/>
-        <updated>2022-12-16T11:00:18.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Hole Star – The Star That Shouldn't Exist]]></title>
-        <id>https://www.youtube.com/watch?v=aeWyp2vXxqA</id>
-        <link href="https://www.youtube.com/watch?v=aeWyp2vXxqA"/>
-        <updated>2022-12-15T15:00:12.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
