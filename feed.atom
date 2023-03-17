@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T00:42:44.110Z</id>
+    <id>urn:2023-03-17T00:40:21.589Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-16T00:42:44.110Z</updated>
+    <updated>2023-03-17T00:40:21.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A heterogeneous reversible exothermic chemical reaction]]></title>
+        <id>https://www.youtube.com/watch?v=gB6ilM-wKUo</id>
+        <link href="https://www.youtube.com/watch?v=gB6ilM-wKUo"/>
+        <updated>2023-03-16T10:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waves in a rotating medium with periodic index of refraction]]></title>
         <id>https://www.youtube.com/watch?v=uuJC8BjEsc0</id>
@@ -255,15 +264,6 @@
         <updated>2023-03-01T19:13:49.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Particle distribution in a circular maze]]></title>
-        <id>https://www.youtube.com/watch?v=8ozPCJBmLQQ</id>
-        <link href="https://www.youtube.com/watch?v=8ozPCJBmLQQ"/>
-        <updated>2023-03-01T10:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -795,15 +795,6 @@
         <updated>2022-12-19T11:00:26.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicist Sean Carroll on "The Biggest Ideas in the Universe"]]></title>
-        <id>https://www.youtube.com/watch?v=CH39SDlxon4</id>
-        <link href="https://www.youtube.com/watch?v=CH39SDlxon4"/>
-        <updated>2022-12-16T15:05:08.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
