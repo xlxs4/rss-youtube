@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T00:40:21.589Z</id>
+    <id>urn:2023-03-18T00:39:05.659Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-17T00:40:21.589Z</updated>
+    <updated>2023-03-18T00:39:05.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[James Webb Space Telescope Images of the Ring Nebula]]></title>
+        <id>https://www.youtube.com/watch?v=L9MzlY7MVW0</id>
+        <link href="https://www.youtube.com/watch?v=L9MzlY7MVW0"/>
+        <updated>2023-03-17T14:41:57.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the James Webb Space Telescope Tells Us About Black Holes]]></title>
+        <id>https://www.youtube.com/watch?v=pNYrvua4JmM</id>
+        <link href="https://www.youtube.com/watch?v=pNYrvua4JmM"/>
+        <updated>2023-03-17T14:40:04.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Mather on the Unfolding of the James Webb Space Telescope]]></title>
+        <id>https://www.youtube.com/watch?v=3eVTNIOROxQ</id>
+        <link href="https://www.youtube.com/watch?v=3eVTNIOROxQ"/>
+        <updated>2023-03-17T14:35:58.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hubble Deep Space vs. James Webb Field Image]]></title>
+        <id>https://www.youtube.com/watch?v=P0sTqHmpkHo</id>
+        <link href="https://www.youtube.com/watch?v=P0sTqHmpkHo"/>
+        <updated>2023-03-17T14:31:47.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex Analysis L08: Integrals in the Complex Plane]]></title>
+        <id>https://www.youtube.com/watch?v=m1KoOqvuxN8</id>
+        <link href="https://www.youtube.com/watch?v=m1KoOqvuxN8"/>
+        <updated>2023-03-17T10:00:29.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Particle density in a maze with octagonal and square cells]]></title>
+        <id>https://www.youtube.com/watch?v=2Mu5hNjett8</id>
+        <link href="https://www.youtube.com/watch?v=2Mu5hNjett8"/>
+        <updated>2023-03-17T10:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A heterogeneous reversible exothermic chemical reaction]]></title>
         <id>https://www.youtube.com/watch?v=gB6ilM-wKUo</id>
@@ -244,15 +298,6 @@
         <id>https://www.youtube.com/watch?v=5A3aA1z-JGk</id>
         <link href="https://www.youtube.com/watch?v=5A3aA1z-JGk"/>
         <updated>2023-03-03T10:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A compressible Euler flow in a funnel]]></title>
-        <id>https://www.youtube.com/watch?v=m-lXsoH1Xpg</id>
-        <link href="https://www.youtube.com/watch?v=m-lXsoH1Xpg"/>
-        <updated>2023-03-02T10:00:34.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -669,15 +714,6 @@
         <updated>2023-01-09T11:00:37.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beach Fossils Live at Pioneer Works]]></title>
-        <id>https://www.youtube.com/watch?v=yKxb9JUN_BE</id>
-        <link href="https://www.youtube.com/watch?v=yKxb9JUN_BE"/>
-        <updated>2023-01-06T18:24:39.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
