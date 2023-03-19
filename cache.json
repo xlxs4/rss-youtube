@@ -223,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4SkClSJUjD4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4SkClSJUjD4",
+          "publishedOn": "2023-03-18T10:00:03.000Z",
+          "wordCount": null,
+          "title": "A Tesla valve",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2Mu5hNjett8",
           "author": null,
           "description": "",
@@ -360,16 +370,6 @@
           "publishedOn": "2023-03-04T10:00:10.000Z",
           "wordCount": null,
           "title": "An autocatalytic chemical reaction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5A3aA1z-JGk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5A3aA1z-JGk",
-          "publishedOn": "2023-03-03T10:00:03.000Z",
-          "wordCount": null,
-          "title": "Changing the beam direction in a phased array",
           "imageUrl": null
         }
       ]
@@ -550,16 +550,6 @@
           "publishedOn": "2022-12-23T11:00:22.000Z",
           "wordCount": null,
           "title": "Numerical Integration of Chaotic Dynamics: Uncertainty Propagation & Vectorized Integration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vNoFdtcPFdk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vNoFdtcPFdk",
-          "publishedOn": "2022-12-19T11:00:26.000Z",
-          "wordCount": null,
-          "title": "Coding a Fourth-Order Runge-Kutta Integrator in Python and Matlab",
           "imageUrl": null
         }
       ]

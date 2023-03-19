@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T00:39:05.659Z</id>
+    <id>urn:2023-03-19T00:43:48.903Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-18T00:39:05.659Z</updated>
+    <updated>2023-03-19T00:43:48.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Tesla valve]]></title>
+        <id>https://www.youtube.com/watch?v=4SkClSJUjD4</id>
+        <link href="https://www.youtube.com/watch?v=4SkClSJUjD4"/>
+        <updated>2023-03-18T10:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[James Webb Space Telescope Images of the Ring Nebula]]></title>
         <id>https://www.youtube.com/watch?v=L9MzlY7MVW0</id>
@@ -291,15 +300,6 @@
         <updated>2023-03-03T11:00:40.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changing the beam direction in a phased array]]></title>
-        <id>https://www.youtube.com/watch?v=5A3aA1z-JGk</id>
-        <link href="https://www.youtube.com/watch?v=5A3aA1z-JGk"/>
-        <updated>2023-03-03T10:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -822,15 +822,6 @@
         <updated>2022-12-22T14:04:23.000Z</updated>
         <author>
             <name>CodeAesthetic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding a Fourth-Order Runge-Kutta Integrator in Python and Matlab]]></title>
-        <id>https://www.youtube.com/watch?v=vNoFdtcPFdk</id>
-        <link href="https://www.youtube.com/watch?v=vNoFdtcPFdk"/>
-        <updated>2022-12-19T11:00:26.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
