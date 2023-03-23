@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T00:37:38.312Z</id>
+    <id>urn:2023-03-23T00:39:02.402Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-22T00:37:38.312Z</updated>
+    <updated>2023-03-23T00:39:02.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Butterfly effect in a circle but not in a parabola]]></title>
+        <id>https://www.youtube.com/watch?v=0zmWEzrtvJA</id>
+        <link href="https://www.youtube.com/watch?v=0zmWEzrtvJA"/>
+        <updated>2023-03-22T20:59:34.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a slightly larger maze with an Euler flow]]></title>
+        <id>https://www.youtube.com/watch?v=dcl0ZguBeaI</id>
+        <link href="https://www.youtube.com/watch?v=dcl0ZguBeaI"/>
+        <updated>2023-03-22T10:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 9. Time-delay Systems]]></title>
+        <id>https://www.youtube.com/watch?v=ER8_oHU2vZs</id>
+        <link href="https://www.youtube.com/watch?v=ER8_oHU2vZs"/>
+        <updated>2023-03-22T09:00:08.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starting off center in a circular maze]]></title>
         <id>https://www.youtube.com/watch?v=3cfYicGcPcU</id>
@@ -255,15 +282,6 @@
         <updated>2023-03-07T10:45:02.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloopers 7: Boundary value issues with coherent waves]]></title>
-        <id>https://www.youtube.com/watch?v=0LhbohYPji4</id>
-        <link href="https://www.youtube.com/watch?v=0LhbohYPji4"/>
-        <updated>2023-03-07T10:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -795,33 +813,6 @@
         <updated>2022-12-23T14:13:13.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numerical Integration of Chaotic Dynamics: Uncertainty Propagation & Vectorized Integration]]></title>
-        <id>https://www.youtube.com/watch?v=LRF4dGP4xeo</id>
-        <link href="https://www.youtube.com/watch?v=LRF4dGP4xeo"/>
-        <updated>2022-12-23T11:00:22.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Deep: Exploring Earth’s Last Frontier]]></title>
-        <id>https://www.youtube.com/watch?v=FiyyndtlHdQ</id>
-        <link href="https://www.youtube.com/watch?v=FiyyndtlHdQ"/>
-        <updated>2022-12-22T20:00:07.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Flaws of Inheritance]]></title>
-        <id>https://www.youtube.com/watch?v=hxGOiiR9ZKg</id>
-        <link href="https://www.youtube.com/watch?v=hxGOiiR9ZKg"/>
-        <updated>2022-12-22T14:04:23.000Z</updated>
-        <author>
-            <name>CodeAesthetic</name>
         </author>
     </entry>
 </feed>
