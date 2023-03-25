@@ -79,7 +79,7 @@
           "link": "https://www.youtube.com/watch?v=lPr5v7mwq34",
           "publishedOn": "2023-03-23T15:00:27.000Z",
           "wordCount": null,
-          "title": "The biggest misconception on spin 1/2 | Math of quantum mechanics",
+          "title": "The biggest misconception about quantum spin 1/2",
           "imageUrl": null
         },
         {
@@ -233,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1HIVBxSJsI4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1HIVBxSJsI4",
+          "publishedOn": "2023-03-24T10:00:01.000Z",
+          "wordCount": null,
+          "title": "A heterogeneous reversible reaction with two oxydation states",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EI8f8NzuhEI",
           "author": null,
           "description": "",
@@ -371,16 +381,6 @@
           "wordCount": null,
           "title": "Vorticity and flow direction of Von Kármán vortices behind an airplane wing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BZ-YIi2gTQ8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BZ-YIi2gTQ8",
-          "publishedOn": "2023-03-09T10:00:08.000Z",
-          "wordCount": null,
-          "title": "Laser beams in a maze with octagonal and square cells",
-          "imageUrl": null
         }
       ]
     },
@@ -422,6 +422,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ywAEVq9ULxs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ywAEVq9ULxs",
+          "publishedOn": "2023-03-24T14:45:04.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L09: Complex Residues",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=m1KoOqvuxN8",
           "author": null,
@@ -1034,16 +1044,6 @@
           "publishedOn": "2023-02-05T14:00:33.000Z",
           "wordCount": null,
           "title": "The math behind engineering living things (TMEB #3)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=elRbbdJUiTU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=elRbbdJUiTU",
-          "publishedOn": "2022-12-25T02:20:27.000Z",
-          "wordCount": null,
-          "title": "Decoding nature’s masterful engineering using math (TMEB #2)",
           "imageUrl": null
         }
       ]
