@@ -106,6 +106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yJMqteX7t5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yJMqteX7t5U",
+          "publishedOn": "2023-03-25T21:22:14.000Z",
+          "wordCount": null,
+          "title": "Butterfly effect in a circle, again",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0zmWEzrtvJA",
           "author": null,
           "description": "",
@@ -232,6 +242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fYEDPdeX7LI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fYEDPdeX7LI",
+          "publishedOn": "2023-03-25T10:00:34.000Z",
+          "wordCount": null,
+          "title": "[Epilepsy warning] A rotating laser beam in a maze with octagonal and square cells",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1HIVBxSJsI4",
           "author": null,
@@ -370,16 +390,6 @@
           "publishedOn": "2023-03-11T10:00:17.000Z",
           "wordCount": null,
           "title": "A phased array with more emitters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2f5TdWVYCNI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2f5TdWVYCNI",
-          "publishedOn": "2023-03-10T10:00:01.000Z",
-          "wordCount": null,
-          "title": "Vorticity and flow direction of Von Kármán vortices behind an airplane wing",
           "imageUrl": null
         }
       ]
@@ -804,16 +814,6 @@
           "publishedOn": "2023-01-29T20:23:03.000Z",
           "wordCount": null,
           "title": "Dendrites: Why Biological Neurons Are Deep Neural Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C00IR4IVRkg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C00IR4IVRkg",
-          "publishedOn": "2022-12-25T19:47:13.000Z",
-          "wordCount": null,
-          "title": "A Map of Social Space in Your Brain",
           "imageUrl": null
         }
       ]

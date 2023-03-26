@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T00:37:45.204Z</id>
+    <id>urn:2023-03-26T00:04:59.889Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-25T00:37:45.204Z</updated>
+    <updated>2023-03-26T00:04:59.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Butterfly effect in a circle, again]]></title>
+        <id>https://www.youtube.com/watch?v=yJMqteX7t5U</id>
+        <link href="https://www.youtube.com/watch?v=yJMqteX7t5U"/>
+        <updated>2023-03-25T21:22:14.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Epilepsy warning] A rotating laser beam in a maze with octagonal and square cells]]></title>
+        <id>https://www.youtube.com/watch?v=fYEDPdeX7LI</id>
+        <link href="https://www.youtube.com/watch?v=fYEDPdeX7LI"/>
+        <updated>2023-03-25T10:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Complex Analysis L09: Complex Residues]]></title>
         <id>https://www.youtube.com/watch?v=ywAEVq9ULxs</id>
@@ -273,15 +291,6 @@
         <updated>2023-03-10T11:00:22.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vorticity and flow direction of Von Kármán vortices behind an airplane wing]]></title>
-        <id>https://www.youtube.com/watch?v=2f5TdWVYCNI</id>
-        <link href="https://www.youtube.com/watch?v=2f5TdWVYCNI"/>
-        <updated>2023-03-10T10:00:01.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -804,15 +813,6 @@
         <updated>2022-12-29T22:30:51.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Map of Social Space in Your Brain]]></title>
-        <id>https://www.youtube.com/watch?v=C00IR4IVRkg</id>
-        <link href="https://www.youtube.com/watch?v=C00IR4IVRkg"/>
-        <updated>2022-12-25T19:47:13.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
         </author>
     </entry>
 </feed>
