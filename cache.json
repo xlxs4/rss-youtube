@@ -243,6 +243,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3AOlcxASZ_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3AOlcxASZ_4",
+          "publishedOn": "2023-03-27T09:00:02.000Z",
+          "wordCount": null,
+          "title": "3D rendering of a phased array",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SoM6Dl3VtE8",
           "author": null,
           "description": "",
@@ -380,16 +390,6 @@
           "publishedOn": "2023-03-13T10:00:12.000Z",
           "wordCount": null,
           "title": "Laser beams in a large maze with octagonal and square cells",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eAND-0luoZw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eAND-0luoZw",
-          "publishedOn": "2023-03-12T10:00:32.000Z",
-          "wordCount": null,
-          "title": "A reversible exothermic chemical reaction",
           "imageUrl": null
         }
       ]
@@ -613,6 +613,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=F74YsmI911A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F74YsmI911A",
+          "publishedOn": "2023-03-27T16:33:13.000Z",
+          "wordCount": null,
+          "title": "Drew McDowall Live at Pioneer Works (Full Set)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=L9MzlY7MVW0",
           "author": null,
           "description": "",
@@ -750,16 +760,6 @@
           "publishedOn": "2023-01-18T15:00:15.000Z",
           "wordCount": null,
           "title": "Extra Credit: Green Screen Collaging with Caroline Garcia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6c0JGQ28OM0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6c0JGQ28OM0",
-          "publishedOn": "2023-01-13T15:27:13.000Z",
-          "wordCount": null,
-          "title": "Is Math Invented or Discovered? | Scientific Controversies",
           "imageUrl": null
         }
       ]
@@ -1043,7 +1043,7 @@
           "link": "https://www.youtube.com/watch?v=sYWQK89zMcU",
           "publishedOn": "2023-03-26T13:00:09.000Z",
           "wordCount": null,
-          "title": "Decoding the program behind cell division using calculus (TMEB #4)",
+          "title": "Using math to crack the code behind cell division (TMEB #4)",
           "imageUrl": null
         },
         {
