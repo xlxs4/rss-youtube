@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yIxvtG_F_dg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yIxvtG_F_dg",
+          "publishedOn": "2023-03-29T09:00:45.000Z",
+          "wordCount": null,
+          "title": "A phased array (short version)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=J8ssIByIJWY",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2023-03-15T10:00:39.000Z",
           "wordCount": null,
           "title": "Waves in a rotating medium with periodic index of refraction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eeFaSkqJGQA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eeFaSkqJGQA",
-          "publishedOn": "2023-03-14T10:00:21.000Z",
-          "wordCount": null,
-          "title": "Solving a (tiny) maze with an Euler flow",
           "imageUrl": null
         }
       ]
@@ -580,16 +580,6 @@
           "publishedOn": "2023-01-04T11:00:22.000Z",
           "wordCount": null,
           "title": "Moore's Law, exponential growth, and extrapolation!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PDeN3iCtyNY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PDeN3iCtyNY",
-          "publishedOn": "2022-12-30T11:00:12.000Z",
-          "wordCount": null,
-          "title": "Chaotic Dynamical Systems",
           "imageUrl": null
         }
       ]
@@ -910,6 +900,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uQx192FyA5g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uQx192FyA5g",
+          "publishedOn": "2023-03-29T13:00:47.000Z",
+          "wordCount": null,
+          "title": "Introduction to Control Analysis and Design in Julia: 10. The benefit and Cost of Feedback",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ER8_oHU2vZs",
           "author": null,
           "description": "",
@@ -1037,16 +1037,6 @@
           "publishedOn": "2023-01-05T14:57:14.000Z",
           "wordCount": null,
           "title": "Fast and Accurate Simulation of 3D Buildings using the upcoming JuliaSim Buildings Library",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O0LpzwMlYQA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O0LpzwMlYQA",
-          "publishedOn": "2022-12-29T22:30:51.000Z",
-          "wordCount": null,
-          "title": "Density Functional Theory Surrogates with JuliaSim",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-29T00:04:44.480Z</id>
+    <id>urn:2023-03-30T00:04:12.078Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-29T00:04:44.480Z</updated>
+    <updated>2023-03-30T00:04:12.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 10. The benefit and Cost of Feedback]]></title>
+        <id>https://www.youtube.com/watch?v=uQx192FyA5g</id>
+        <link href="https://www.youtube.com/watch?v=uQx192FyA5g"/>
+        <updated>2023-03-29T13:00:47.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A phased array (short version)]]></title>
+        <id>https://www.youtube.com/watch?v=yIxvtG_F_dg</id>
+        <link href="https://www.youtube.com/watch?v=yIxvtG_F_dg"/>
+        <updated>2023-03-29T09:00:45.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balls dropped on a hyperbola]]></title>
         <id>https://www.youtube.com/watch?v=DzrD4YD_MXg</id>
@@ -282,15 +300,6 @@
         <updated>2023-03-14T12:00:34.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving a (tiny) maze with an Euler flow]]></title>
-        <id>https://www.youtube.com/watch?v=eeFaSkqJGQA</id>
-        <link href="https://www.youtube.com/watch?v=eeFaSkqJGQA"/>
-        <updated>2023-03-14T10:00:21.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -822,24 +831,6 @@
         <updated>2023-01-02T20:49:38.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaotic Dynamical Systems]]></title>
-        <id>https://www.youtube.com/watch?v=PDeN3iCtyNY</id>
-        <link href="https://www.youtube.com/watch?v=PDeN3iCtyNY"/>
-        <updated>2022-12-30T11:00:12.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Density Functional Theory Surrogates with JuliaSim]]></title>
-        <id>https://www.youtube.com/watch?v=O0LpzwMlYQA</id>
-        <link href="https://www.youtube.com/watch?v=O0LpzwMlYQA"/>
-        <updated>2022-12-29T22:30:51.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
