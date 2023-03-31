@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T00:04:12.078Z</id>
+    <id>urn:2023-03-31T00:04:23.835Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-30T00:04:12.078Z</updated>
+    <updated>2023-03-31T00:04:23.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Real Analysis: Introduction to Functions]]></title>
+        <id>https://www.youtube.com/watch?v=opCtwhwXeBk</id>
+        <link href="https://www.youtube.com/watch?v=opCtwhwXeBk"/>
+        <updated>2023-03-30T15:00:38.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tesla valve with a faster flow]]></title>
+        <id>https://www.youtube.com/watch?v=FXcPJpMRWdY</id>
+        <link href="https://www.youtube.com/watch?v=FXcPJpMRWdY"/>
+        <updated>2023-03-30T09:00:12.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 10. The benefit and Cost of Feedback]]></title>
         <id>https://www.youtube.com/watch?v=uQx192FyA5g</id>
@@ -262,15 +280,6 @@
         <id>https://www.youtube.com/watch?v=gB6ilM-wKUo</id>
         <link href="https://www.youtube.com/watch?v=gB6ilM-wKUo"/>
         <updated>2023-03-16T10:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves in a rotating medium with periodic index of refraction]]></title>
-        <id>https://www.youtube.com/watch?v=uuJC8BjEsc0</id>
-        <link href="https://www.youtube.com/watch?v=uuJC8BjEsc0"/>
-        <updated>2023-03-15T10:00:39.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>

@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FXcPJpMRWdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FXcPJpMRWdY",
+          "publishedOn": "2023-03-30T09:00:12.000Z",
+          "wordCount": null,
+          "title": "A Tesla valve with a faster flow",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yIxvtG_F_dg",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2023-03-16T10:00:34.000Z",
           "wordCount": null,
           "title": "A heterogeneous reversible exothermic chemical reaction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uuJC8BjEsc0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uuJC8BjEsc0",
-          "publishedOn": "2023-03-15T10:00:39.000Z",
-          "wordCount": null,
-          "title": "Waves in a rotating medium with periodic index of refraction",
           "imageUrl": null
         }
       ]
@@ -595,6 +595,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=opCtwhwXeBk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=opCtwhwXeBk",
+          "publishedOn": "2023-03-30T15:00:38.000Z",
+          "wordCount": null,
+          "title": "Real Analysis: Introduction to Functions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=86siB9vQ1Z0",
           "author": null,
