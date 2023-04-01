@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mRcN-4kzGFY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mRcN-4kzGFY",
+          "publishedOn": "2023-03-31T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Periodic oscillations in a modified Brusselator",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FXcPJpMRWdY",
           "author": null,
           "description": "",
@@ -391,16 +401,6 @@
           "wordCount": null,
           "title": "Particle density in a maze with octagonal and square cells",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gB6ilM-wKUo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gB6ilM-wKUo",
-          "publishedOn": "2023-03-16T10:00:34.000Z",
-          "wordCount": null,
-          "title": "A heterogeneous reversible exothermic chemical reaction",
-          "imageUrl": null
         }
       ]
     },
@@ -452,6 +452,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4epESGF3qcU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4epESGF3qcU",
+          "publishedOn": "2023-03-31T14:15:00.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L10: Cauchy Integral Formula",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ywAEVq9ULxs",
           "author": null,
@@ -633,6 +643,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MasutcQap38",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MasutcQap38",
+          "publishedOn": "2023-03-31T13:52:35.000Z",
+          "wordCount": null,
+          "title": "Physicist Alan Lightman on Spirituality in the Age of Science",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=F74YsmI911A",
           "author": null,
           "description": "",
@@ -771,16 +791,6 @@
           "wordCount": null,
           "title": "FUJI||||||||||TA Performs Live at Pioneer Works (Full Set)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SH1JQRusTp4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SH1JQRusTp4",
-          "publishedOn": "2023-01-18T15:00:15.000Z",
-          "wordCount": null,
-          "title": "Extra Credit: Green Screen Collaging with Caroline Garcia",
-          "imageUrl": null
         }
       ]
     },
@@ -816,6 +826,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9qOaII_PzGY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9qOaII_PzGY",
+          "publishedOn": "2023-03-31T21:03:30.000Z",
+          "wordCount": null,
+          "title": "How Your Brain Organizes Information",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vwLb3XlPCB4",
           "author": null,

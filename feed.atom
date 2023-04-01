@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T00:04:23.835Z</id>
+    <id>urn:2023-04-01T00:04:16.518Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-03-31T00:04:23.835Z</updated>
+    <updated>2023-04-01T00:04:16.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Your Brain Organizes Information]]></title>
+        <id>https://www.youtube.com/watch?v=9qOaII_PzGY</id>
+        <link href="https://www.youtube.com/watch?v=9qOaII_PzGY"/>
+        <updated>2023-03-31T21:03:30.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex Analysis L10: Cauchy Integral Formula]]></title>
+        <id>https://www.youtube.com/watch?v=4epESGF3qcU</id>
+        <link href="https://www.youtube.com/watch?v=4epESGF3qcU"/>
+        <updated>2023-03-31T14:15:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physicist Alan Lightman on Spirituality in the Age of Science]]></title>
+        <id>https://www.youtube.com/watch?v=MasutcQap38</id>
+        <link href="https://www.youtube.com/watch?v=MasutcQap38"/>
+        <updated>2023-03-31T13:52:35.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Periodic oscillations in a modified Brusselator]]></title>
+        <id>https://www.youtube.com/watch?v=mRcN-4kzGFY</id>
+        <link href="https://www.youtube.com/watch?v=mRcN-4kzGFY"/>
+        <updated>2023-03-31T09:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Real Analysis: Introduction to Functions]]></title>
         <id>https://www.youtube.com/watch?v=opCtwhwXeBk</id>
@@ -271,15 +307,6 @@
         <id>https://www.youtube.com/watch?v=2Mu5hNjett8</id>
         <link href="https://www.youtube.com/watch?v=2Mu5hNjett8"/>
         <updated>2023-03-17T10:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A heterogeneous reversible exothermic chemical reaction]]></title>
-        <id>https://www.youtube.com/watch?v=gB6ilM-wKUo</id>
-        <link href="https://www.youtube.com/watch?v=gB6ilM-wKUo"/>
-        <updated>2023-03-16T10:00:34.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -712,15 +739,6 @@
         <id>https://www.youtube.com/watch?v=sHxSvrEEEV4</id>
         <link href="https://www.youtube.com/watch?v=sHxSvrEEEV4"/>
         <updated>2023-01-20T15:20:59.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extra Credit: Green Screen Collaging with Caroline Garcia]]></title>
-        <id>https://www.youtube.com/watch?v=SH1JQRusTp4</id>
-        <link href="https://www.youtube.com/watch?v=SH1JQRusTp4"/>
-        <updated>2023-01-18T15:00:15.000Z</updated>
         <author>
             <name>Pioneer Works</name>
         </author>
