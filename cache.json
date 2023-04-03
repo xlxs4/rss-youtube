@@ -56,6 +56,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cy8r7WSuT1I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cy8r7WSuT1I",
+          "publishedOn": "2023-04-02T15:30:13.000Z",
+          "wordCount": null,
+          "title": "Why π is in the normal distribution (beyond integral tricks)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zeJD6dqJ5lo",
           "author": null,
           "description": "",
@@ -105,6 +115,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xdn26CYDD_o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xdn26CYDD_o",
+          "publishedOn": "2023-04-02T17:04:50.000Z",
+          "wordCount": null,
+          "title": "Balls symmetrically dropped in a parabola",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QyJYkqEsuRE",
           "author": null,
@@ -244,16 +264,6 @@
           "wordCount": null,
           "title": "Quantum moose billiard",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BViazPtkGmo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BViazPtkGmo",
-          "publishedOn": "2023-01-02T20:49:38.000Z",
-          "wordCount": null,
-          "title": "Orion Nebula obscured and warped by a black hole",
-          "imageUrl": null
         }
       ]
     },
@@ -262,6 +272,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vHiro_7N1TM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vHiro_7N1TM",
+          "publishedOn": "2023-04-02T09:00:29.000Z",
+          "wordCount": null,
+          "title": "Waves in a rotating medium, with fewer boundary effects",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JWb1ZoS9lNk",
           "author": null,
@@ -400,16 +420,6 @@
           "publishedOn": "2023-03-19T10:00:23.000Z",
           "wordCount": null,
           "title": "Changing the beam direction in a phased array with 25 emitters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4SkClSJUjD4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4SkClSJUjD4",
-          "publishedOn": "2023-03-18T10:00:03.000Z",
-          "wordCount": null,
-          "title": "A Tesla valve",
           "imageUrl": null
         }
       ]
@@ -1093,7 +1103,7 @@
           "link": "https://www.youtube.com/watch?v=sYWQK89zMcU",
           "publishedOn": "2023-03-26T13:00:09.000Z",
           "wordCount": null,
-          "title": "Using math to crack the code behind cell division (TMEB #4)",
+          "title": "Decoding the Cell: Exploring Oscillations that Control Life (TMEB #4)",
           "imageUrl": null
         },
         {
