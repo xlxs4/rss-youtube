@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lBLlYmM6tjU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lBLlYmM6tjU",
+          "publishedOn": "2023-04-03T09:00:24.000Z",
+          "wordCount": null,
+          "title": "An Euler flow in a maze with repelling walls",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vHiro_7N1TM",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2023-03-20T10:00:08.000Z",
           "wordCount": null,
           "title": "Bloopers 8: When reversibility breaks down due to a coding mistake",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=guqtye5HL10",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=guqtye5HL10",
-          "publishedOn": "2023-03-19T10:00:23.000Z",
-          "wordCount": null,
-          "title": "Changing the beam direction in a phased array with 25 emitters",
           "imageUrl": null
         }
       ]
@@ -600,16 +600,6 @@
           "publishedOn": "2023-01-09T11:00:37.000Z",
           "wordCount": null,
           "title": "Solving PDEs with the Laplace Transform: The Heat Equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iu-DgigiyeA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iu-DgigiyeA",
-          "publishedOn": "2023-01-04T11:00:22.000Z",
-          "wordCount": null,
-          "title": "Moore's Law, exponential growth, and extrapolation!",
           "imageUrl": null
         }
       ]
