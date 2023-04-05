@@ -116,6 +116,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UxMzfpzpD-o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UxMzfpzpD-o",
+          "publishedOn": "2023-04-04T11:23:07.000Z",
+          "wordCount": null,
+          "title": "Butterfly effect in a circle but not in a parabola, with graphs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xdn26CYDD_o",
           "author": null,
           "description": "",
@@ -254,16 +264,6 @@
           "wordCount": null,
           "title": "Optical illusion by Fourier epicycles",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dw5PIgNwnuU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dw5PIgNwnuU",
-          "publishedOn": "2023-01-04T21:48:57.000Z",
-          "wordCount": null,
-          "title": "Quantum moose billiard",
-          "imageUrl": null
         }
       ]
     },
@@ -272,6 +272,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nataPkvk_vc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nataPkvk_vc",
+          "publishedOn": "2023-04-04T09:00:35.000Z",
+          "wordCount": null,
+          "title": "A second attempt at simulating the Belousov-Zhabotinsky/oregonator reaction",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lBLlYmM6tjU",
           "author": null,
@@ -410,16 +420,6 @@
           "publishedOn": "2023-03-21T10:00:02.000Z",
           "wordCount": null,
           "title": "Starting off center in a circular maze",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KbU3PB2I5o4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KbU3PB2I5o4",
-          "publishedOn": "2023-03-20T10:00:08.000Z",
-          "wordCount": null,
-          "title": "Bloopers 8: When reversibility breaks down due to a coding mistake",
           "imageUrl": null
         }
       ]
