@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1hknIrnzyI4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1hknIrnzyI4",
+          "publishedOn": "2023-04-05T09:00:01.000Z",
+          "wordCount": null,
+          "title": "3D rendering of waves in a medium with random index of refraction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nataPkvk_vc",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2023-03-22T10:00:32.000Z",
           "wordCount": null,
           "title": "Solving a slightly larger maze with an Euler flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3cfYicGcPcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3cfYicGcPcU",
-          "publishedOn": "2023-03-21T10:00:02.000Z",
-          "wordCount": null,
-          "title": "Starting off center in a circular maze",
           "imageUrl": null
         }
       ]
@@ -1067,16 +1067,6 @@
           "publishedOn": "2023-01-10T05:00:11.000Z",
           "wordCount": null,
           "title": "How to Linearize a ModelingToolkit model",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mWseJEhcYjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mWseJEhcYjc",
-          "publishedOn": "2023-01-05T14:57:14.000Z",
-          "wordCount": null,
-          "title": "Fast and Accurate Simulation of 3D Buildings using the upcoming JuliaSim Buildings Library",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T00:04:19.901Z</id>
+    <id>urn:2023-04-06T00:04:16.919Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-05T00:04:19.901Z</updated>
+    <updated>2023-04-06T00:04:16.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3D rendering of waves in a medium with random index of refraction]]></title>
+        <id>https://www.youtube.com/watch?v=1hknIrnzyI4</id>
+        <link href="https://www.youtube.com/watch?v=1hknIrnzyI4"/>
+        <updated>2023-04-05T09:00:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Butterfly effect in a circle but not in a parabola, with graphs]]></title>
         <id>https://www.youtube.com/watch?v=UxMzfpzpD-o</id>
@@ -291,15 +300,6 @@
         <updated>2023-03-22T09:00:08.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starting off center in a circular maze]]></title>
-        <id>https://www.youtube.com/watch?v=3cfYicGcPcU</id>
-        <link href="https://www.youtube.com/watch?v=3cfYicGcPcU"/>
-        <updated>2023-03-21T10:00:02.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -858,15 +858,6 @@
         <updated>2023-01-09T11:00:37.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast and Accurate Simulation of 3D Buildings using the upcoming JuliaSim Buildings Library]]></title>
-        <id>https://www.youtube.com/watch?v=mWseJEhcYjc</id>
-        <link href="https://www.youtube.com/watch?v=mWseJEhcYjc"/>
-        <updated>2023-01-05T14:57:14.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
