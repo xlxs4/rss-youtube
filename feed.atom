@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T00:04:16.919Z</id>
+    <id>urn:2023-04-07T00:04:10.736Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-06T00:04:16.919Z</updated>
+    <updated>2023-04-07T00:04:10.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Tesla valve with improved boundary conditions]]></title>
+        <id>https://www.youtube.com/watch?v=f58L6_BhEeg</id>
+        <link href="https://www.youtube.com/watch?v=f58L6_BhEeg"/>
+        <updated>2023-04-06T09:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D rendering of waves in a medium with random index of refraction]]></title>
         <id>https://www.youtube.com/watch?v=1hknIrnzyI4</id>
@@ -282,15 +291,6 @@
         <updated>2023-03-22T20:59:34.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving a slightly larger maze with an Euler flow]]></title>
-        <id>https://www.youtube.com/watch?v=dcl0ZguBeaI</id>
-        <link href="https://www.youtube.com/watch?v=dcl0ZguBeaI"/>
-        <updated>2023-03-22T10:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

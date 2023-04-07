@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=f58L6_BhEeg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f58L6_BhEeg",
+          "publishedOn": "2023-04-06T09:00:31.000Z",
+          "wordCount": null,
+          "title": "A Tesla valve with improved boundary conditions",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1hknIrnzyI4",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2023-03-23T10:00:09.000Z",
           "wordCount": null,
           "title": "Waves in a rotating medium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dcl0ZguBeaI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dcl0ZguBeaI",
-          "publishedOn": "2023-03-22T10:00:32.000Z",
-          "wordCount": null,
-          "title": "Solving a slightly larger maze with an Euler flow",
           "imageUrl": null
         }
       ]
