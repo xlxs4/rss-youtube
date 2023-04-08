@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WfBaZf4LXuU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WfBaZf4LXuU",
+          "publishedOn": "2023-04-07T09:00:18.000Z",
+          "wordCount": null,
+          "title": "More periodic oscillations in a modified Brusselator",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=f58L6_BhEeg",
           "author": null,
           "description": "",
@@ -411,16 +421,6 @@
           "wordCount": null,
           "title": "A heterogeneous reversible reaction with two oxydation states",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EI8f8NzuhEI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EI8f8NzuhEI",
-          "publishedOn": "2023-03-23T10:00:09.000Z",
-          "wordCount": null,
-          "title": "Waves in a rotating medium",
-          "imageUrl": null
         }
       ]
     },
@@ -472,6 +472,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RYAHvV0JJaI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RYAHvV0JJaI",
+          "publishedOn": "2023-04-07T10:00:17.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L11: Examples of Cauchy-Integral Formula",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4epESGF3qcU",
           "author": null,
