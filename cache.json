@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Mmcc7EvHLTw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Mmcc7EvHLTw",
+          "publishedOn": "2023-04-08T09:00:14.000Z",
+          "wordCount": null,
+          "title": "3D render of waves in a random medium, shown in their index of refraction landscape",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WfBaZf4LXuU",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2023-03-25T10:00:34.000Z",
           "wordCount": null,
           "title": "[Epilepsy warning] A rotating laser beam in a maze with octagonal and square cells",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1HIVBxSJsI4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1HIVBxSJsI4",
-          "publishedOn": "2023-03-24T10:00:01.000Z",
-          "wordCount": null,
-          "title": "A heterogeneous reversible reaction with two oxydation states",
           "imageUrl": null
         }
       ]
@@ -600,16 +600,6 @@
           "publishedOn": "2023-01-13T11:00:35.000Z",
           "wordCount": null,
           "title": "Solving PDEs with the Laplace Transform: The Wave Equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xuBJFSh6Bu4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xuBJFSh6Bu4",
-          "publishedOn": "2023-01-09T11:00:37.000Z",
-          "wordCount": null,
-          "title": "Solving PDEs with the Laplace Transform: The Heat Equation",
           "imageUrl": null
         }
       ]
