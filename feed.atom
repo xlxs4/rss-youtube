@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T00:04:22.481Z</id>
+    <id>urn:2023-04-10T00:04:04.895Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-09T00:04:22.481Z</updated>
+    <updated>2023-04-10T00:04:04.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Complex analysis 101: imaginary numbers are real!]]></title>
+        <id>https://www.youtube.com/watch?v=QMa4K-gaaq4</id>
+        <link href="https://www.youtube.com/watch?v=QMa4K-gaaq4"/>
+        <updated>2023-04-09T17:52:56.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Approach to equilibrium of particle distribution in a maze with rounded corners]]></title>
+        <id>https://www.youtube.com/watch?v=0-cZMCUCsKg</id>
+        <link href="https://www.youtube.com/watch?v=0-cZMCUCsKg"/>
+        <updated>2023-04-09T09:00:00.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D render of waves in a random medium, shown in their index of refraction landscape]]></title>
         <id>https://www.youtube.com/watch?v=Mmcc7EvHLTw</id>
@@ -264,15 +282,6 @@
         <updated>2023-03-25T21:22:14.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Epilepsy warning] A rotating laser beam in a maze with octagonal and square cells]]></title>
-        <id>https://www.youtube.com/watch?v=fYEDPdeX7LI</id>
-        <link href="https://www.youtube.com/watch?v=fYEDPdeX7LI"/>
-        <updated>2023-03-25T10:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -849,15 +858,6 @@
         <updated>2023-01-10T15:00:22.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Linearize a ModelingToolkit model]]></title>
-        <id>https://www.youtube.com/watch?v=-XOux-2XDGI</id>
-        <link href="https://www.youtube.com/watch?v=-XOux-2XDGI"/>
-        <updated>2023-01-10T05:00:11.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
