@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T00:04:04.895Z</id>
+    <id>urn:2023-04-11T00:04:20.922Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-10T00:04:04.895Z</updated>
+    <updated>2023-04-11T00:04:20.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An Euler flow in a larger maze with repelling walls]]></title>
+        <id>https://www.youtube.com/watch?v=o0IFH3-I9Ig</id>
+        <link href="https://www.youtube.com/watch?v=o0IFH3-I9Ig"/>
+        <updated>2023-04-10T09:00:28.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Complex analysis 101: imaginary numbers are real!]]></title>
         <id>https://www.youtube.com/watch?v=QMa4K-gaaq4</id>
@@ -264,15 +273,6 @@
         <updated>2023-03-26T13:00:09.000Z</updated>
         <author>
             <name>NanoRooms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Tesla valve with a slower flow]]></title>
-        <id>https://www.youtube.com/watch?v=SoM6Dl3VtE8</id>
-        <link href="https://www.youtube.com/watch?v=SoM6Dl3VtE8"/>
-        <updated>2023-03-26T09:00:16.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -849,15 +849,6 @@
         <updated>2023-01-12T13:19:06.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I use PowerPoint to edit all* videos (and hit 100k subs!)]]></title>
-        <id>https://www.youtube.com/watch?v=hRTBVrEkb6A</id>
-        <link href="https://www.youtube.com/watch?v=hRTBVrEkb6A"/>
-        <updated>2023-01-10T15:00:22.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>

@@ -91,16 +91,6 @@
           "wordCount": null,
           "title": "The biggest misconception about quantum spin 1/2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
-          "publishedOn": "2023-01-10T15:00:22.000Z",
-          "wordCount": null,
-          "title": "I use PowerPoint to edit all* videos (and hit 100k subs!)",
-          "imageUrl": null
         }
       ]
     },
@@ -273,6 +263,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=o0IFH3-I9Ig",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o0IFH3-I9Ig",
+          "publishedOn": "2023-04-10T09:00:28.000Z",
+          "wordCount": null,
+          "title": "An Euler flow in a larger maze with repelling walls",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0-cZMCUCsKg",
           "author": null,
           "description": "",
@@ -410,16 +410,6 @@
           "publishedOn": "2023-03-27T09:00:02.000Z",
           "wordCount": null,
           "title": "3D rendering of a phased array",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SoM6Dl3VtE8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SoM6Dl3VtE8",
-          "publishedOn": "2023-03-26T09:00:16.000Z",
-          "wordCount": null,
-          "title": "A Tesla valve with a slower flow",
           "imageUrl": null
         }
       ]
