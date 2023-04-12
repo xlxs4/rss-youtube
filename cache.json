@@ -263,6 +263,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zI3IwYxuhtA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zI3IwYxuhtA",
+          "publishedOn": "2023-04-11T09:00:40.000Z",
+          "wordCount": null,
+          "title": "A continuous sweep in a phased array",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=o0IFH3-I9Ig",
           "author": null,
           "description": "",
@@ -401,16 +411,6 @@
           "wordCount": null,
           "title": "A first attempt at simulating the Belousov-Zhabotinsky reaction (Oregonator model)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3AOlcxASZ_4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3AOlcxASZ_4",
-          "publishedOn": "2023-03-27T09:00:02.000Z",
-          "wordCount": null,
-          "title": "3D rendering of a phased array",
-          "imageUrl": null
         }
       ]
     },
@@ -425,6 +425,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GDSf2h9_39I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GDSf2h9_39I",
+          "publishedOn": "2023-04-11T14:00:45.000Z",
+          "wordCount": null,
+          "title": "Why Aliens Might Already Be On Their Way To Us",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1x-i9z617z4",
           "author": null,
@@ -1073,7 +1083,7 @@
           "link": "https://www.youtube.com/watch?v=sYWQK89zMcU",
           "publishedOn": "2023-03-26T13:00:09.000Z",
           "wordCount": null,
-          "title": "Decoding the Cell: Exploring Oscillations that Control Life (TMEB #4)",
+          "title": "The math behind cell division (TMEB #4)",
           "imageUrl": null
         },
         {
