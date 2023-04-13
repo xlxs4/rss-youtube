@@ -106,6 +106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7Ae_-sL2kFw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Ae_-sL2kFw",
+          "publishedOn": "2023-04-12T18:54:26.000Z",
+          "wordCount": null,
+          "title": "Balls dropped on function |x|",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UxMzfpzpD-o",
           "author": null,
           "description": "",
@@ -244,16 +254,6 @@
           "wordCount": null,
           "title": "Yet another dull double pendulum video",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HnplDoa_QP8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HnplDoa_QP8",
-          "publishedOn": "2023-01-12T13:19:06.000Z",
-          "wordCount": null,
-          "title": "Optical illusion by Fourier epicycles",
-          "imageUrl": null
         }
       ]
     },
@@ -262,6 +262,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IusETSqpZeg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IusETSqpZeg",
+          "publishedOn": "2023-04-12T09:00:17.000Z",
+          "wordCount": null,
+          "title": "A Vicsek-type model for swarming",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zI3IwYxuhtA",
           "author": null,
@@ -400,16 +410,6 @@
           "publishedOn": "2023-03-29T09:00:45.000Z",
           "wordCount": null,
           "title": "A phased array (short version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J8ssIByIJWY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J8ssIByIJWY",
-          "publishedOn": "2023-03-28T09:00:19.000Z",
-          "wordCount": null,
-          "title": "A first attempt at simulating the Belousov-Zhabotinsky reaction (Oregonator model)",
           "imageUrl": null
         }
       ]
@@ -600,16 +600,6 @@
           "publishedOn": "2023-01-16T11:00:00.000Z",
           "wordCount": null,
           "title": "Topics in Dynamical Systems: Fixed Points, Linearization, Invariant Manifolds, Bifurcations & Chaos",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lG9NOHMy3YU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lG9NOHMy3YU",
-          "publishedOn": "2023-01-13T11:00:35.000Z",
-          "wordCount": null,
-          "title": "Solving PDEs with the Laplace Transform: The Wave Equation",
           "imageUrl": null
         }
       ]
