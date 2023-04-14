@@ -106,6 +106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wzkK5gwCPSU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wzkK5gwCPSU",
+          "publishedOn": "2023-04-13T19:30:12.000Z",
+          "wordCount": null,
+          "title": "Balls falling on cos(x)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7Ae_-sL2kFw",
           "author": null,
           "description": "",
@@ -244,16 +254,6 @@
           "wordCount": null,
           "title": "Moose eigenfunctions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GXVi0TFOxm8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GXVi0TFOxm8",
-          "publishedOn": "2023-01-17T11:06:29.000Z",
-          "wordCount": null,
-          "title": "Yet another dull double pendulum video",
-          "imageUrl": null
         }
       ]
     },
@@ -262,6 +262,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EIF7H6Ovunk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EIF7H6Ovunk",
+          "publishedOn": "2023-04-13T09:00:14.000Z",
+          "wordCount": null,
+          "title": "3D render of a Tesla valve",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IusETSqpZeg",
           "author": null,
@@ -401,16 +411,6 @@
           "wordCount": null,
           "title": "A Tesla valve with a faster flow",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yIxvtG_F_dg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yIxvtG_F_dg",
-          "publishedOn": "2023-03-29T09:00:45.000Z",
-          "wordCount": null,
-          "title": "A phased array (short version)",
-          "imageUrl": null
         }
       ]
     },
@@ -442,7 +442,7 @@
           "link": "https://www.youtube.com/watch?v=1x-i9z617z4",
           "publishedOn": "2023-03-28T14:00:05.000Z",
           "wordCount": null,
-          "title": "The Business Behind Kurzgesagt",
+          "title": "How to Make Money on YouTube with 20M Subs",
           "imageUrl": null
         },
         {
@@ -615,6 +615,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=368PoXE2Zjo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=368PoXE2Zjo",
+          "publishedOn": "2023-04-13T18:00:01.000Z",
+          "wordCount": null,
+          "title": "Real Analysis: The Natural Numbers and Mathematical Induction",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=opCtwhwXeBk",
           "author": null,

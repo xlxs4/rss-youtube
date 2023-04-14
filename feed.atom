@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T00:04:17.577Z</id>
+    <id>urn:2023-04-14T00:04:06.598Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-13T00:04:17.577Z</updated>
+    <updated>2023-04-14T00:04:06.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Balls falling on cos(x)]]></title>
+        <id>https://www.youtube.com/watch?v=wzkK5gwCPSU</id>
+        <link href="https://www.youtube.com/watch?v=wzkK5gwCPSU"/>
+        <updated>2023-04-13T19:30:12.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real Analysis: The Natural Numbers and Mathematical Induction]]></title>
+        <id>https://www.youtube.com/watch?v=368PoXE2Zjo</id>
+        <link href="https://www.youtube.com/watch?v=368PoXE2Zjo"/>
+        <updated>2023-04-13T18:00:01.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D render of a Tesla valve]]></title>
+        <id>https://www.youtube.com/watch?v=EIF7H6Ovunk</id>
+        <link href="https://www.youtube.com/watch?v=EIF7H6Ovunk"/>
+        <updated>2023-04-13T09:00:14.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balls dropped on function |x|]]></title>
         <id>https://www.youtube.com/watch?v=7Ae_-sL2kFw</id>
@@ -249,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A phased array (short version)]]></title>
-        <id>https://www.youtube.com/watch?v=yIxvtG_F_dg</id>
-        <link href="https://www.youtube.com/watch?v=yIxvtG_F_dg"/>
-        <updated>2023-03-29T09:00:45.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Balls dropped on a hyperbola]]></title>
         <id>https://www.youtube.com/watch?v=DzrD4YD_MXg</id>
         <link href="https://www.youtube.com/watch?v=DzrD4YD_MXg"/>
@@ -267,7 +285,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Business Behind Kurzgesagt]]></title>
+        <title type="html"><![CDATA[How to Make Money on YouTube with 20M Subs]]></title>
         <id>https://www.youtube.com/watch?v=1x-i9z617z4</id>
         <link href="https://www.youtube.com/watch?v=1x-i9z617z4"/>
         <updated>2023-03-28T14:00:05.000Z</updated>
@@ -813,15 +831,6 @@
         <updated>2023-01-20T15:20:59.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yet another dull double pendulum video]]></title>
-        <id>https://www.youtube.com/watch?v=GXVi0TFOxm8</id>
-        <link href="https://www.youtube.com/watch?v=GXVi0TFOxm8"/>
-        <updated>2023-01-17T11:06:29.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
     <entry>
