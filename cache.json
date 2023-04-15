@@ -263,6 +263,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2evMPNoWQDU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2evMPNoWQDU",
+          "publishedOn": "2023-04-14T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Everything is illuminable (well, almost, in a closed maze with right angles)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EIF7H6Ovunk",
           "author": null,
           "description": "",
@@ -401,16 +411,6 @@
           "wordCount": null,
           "title": "Periodic oscillations in a modified Brusselator",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FXcPJpMRWdY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FXcPJpMRWdY",
-          "publishedOn": "2023-03-30T09:00:12.000Z",
-          "wordCount": null,
-          "title": "A Tesla valve with a faster flow",
-          "imageUrl": null
         }
       ]
     },
@@ -472,6 +472,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WMmqxcgvo4Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WMmqxcgvo4Y",
+          "publishedOn": "2023-04-14T10:00:25.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L12: Examples of Complex Integrals",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QMa4K-gaaq4",
           "author": null,
@@ -663,6 +673,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nKuA6V6xpjA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nKuA6V6xpjA",
+          "publishedOn": "2023-04-14T13:59:42.000Z",
+          "wordCount": null,
+          "title": "YATTA | Residency Profile",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MasutcQap38",
           "author": null,
           "description": "",
@@ -800,16 +820,6 @@
           "publishedOn": "2023-01-27T14:25:46.000Z",
           "wordCount": null,
           "title": "black midi Live at Pioneer Works",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sHxSvrEEEV4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sHxSvrEEEV4",
-          "publishedOn": "2023-01-20T15:20:59.000Z",
-          "wordCount": null,
-          "title": "FUJI||||||||||TA Performs Live at Pioneer Works (Full Set)",
           "imageUrl": null
         }
       ]

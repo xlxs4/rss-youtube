@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T00:04:06.598Z</id>
+    <id>urn:2023-04-15T00:04:38.295Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-14T00:04:06.598Z</updated>
+    <updated>2023-04-15T00:04:38.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[YATTA | Residency Profile]]></title>
+        <id>https://www.youtube.com/watch?v=nKuA6V6xpjA</id>
+        <link href="https://www.youtube.com/watch?v=nKuA6V6xpjA"/>
+        <updated>2023-04-14T13:59:42.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex Analysis L12: Examples of Complex Integrals]]></title>
+        <id>https://www.youtube.com/watch?v=WMmqxcgvo4Y</id>
+        <link href="https://www.youtube.com/watch?v=WMmqxcgvo4Y"/>
+        <updated>2023-04-14T10:00:25.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything is illuminable (well, almost, in a closed maze with right angles)]]></title>
+        <id>https://www.youtube.com/watch?v=2evMPNoWQDU</id>
+        <link href="https://www.youtube.com/watch?v=2evMPNoWQDU"/>
+        <updated>2023-04-14T09:00:02.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balls falling on cos(x)]]></title>
         <id>https://www.youtube.com/watch?v=wzkK5gwCPSU</id>
@@ -255,15 +282,6 @@
         <updated>2023-03-30T15:00:38.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Tesla valve with a faster flow]]></title>
-        <id>https://www.youtube.com/watch?v=FXcPJpMRWdY</id>
-        <link href="https://www.youtube.com/watch?v=FXcPJpMRWdY"/>
-        <updated>2023-03-30T09:00:12.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -822,15 +840,6 @@
         <updated>2023-01-23T04:13:38.000Z</updated>
         <author>
             <name>Reducible</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUJI||||||||||TA Performs Live at Pioneer Works (Full Set)]]></title>
-        <id>https://www.youtube.com/watch?v=sHxSvrEEEV4</id>
-        <link href="https://www.youtube.com/watch?v=sHxSvrEEEV4"/>
-        <updated>2023-01-20T15:20:59.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
