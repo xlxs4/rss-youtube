@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T00:04:38.295Z</id>
+    <id>urn:2023-04-16T00:04:43.378Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-15T00:04:38.295Z</updated>
+    <updated>2023-04-16T00:04:43.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum and classical balls dropped on a parabola]]></title>
+        <id>https://www.youtube.com/watch?v=wOXHPCUwNPQ</id>
+        <link href="https://www.youtube.com/watch?v=wOXHPCUwNPQ"/>
+        <updated>2023-04-15T22:21:22.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A circular phased array]]></title>
+        <id>https://www.youtube.com/watch?v=DLmoyx4aJW8</id>
+        <link href="https://www.youtube.com/watch?v=DLmoyx4aJW8"/>
+        <updated>2023-04-15T09:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YATTA | Residency Profile]]></title>
         <id>https://www.youtube.com/watch?v=nKuA6V6xpjA</id>
@@ -267,15 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Periodic oscillations in a modified Brusselator]]></title>
-        <id>https://www.youtube.com/watch?v=mRcN-4kzGFY</id>
-        <link href="https://www.youtube.com/watch?v=mRcN-4kzGFY"/>
-        <updated>2023-03-31T09:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Real Analysis: Introduction to Functions]]></title>
         <id>https://www.youtube.com/watch?v=opCtwhwXeBk</id>
         <link href="https://www.youtube.com/watch?v=opCtwhwXeBk"/>
@@ -348,7 +357,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The biggest misconception about quantum spin 1/2]]></title>
+        <title type="html"><![CDATA[The math of quantum spin 1/2]]></title>
         <id>https://www.youtube.com/watch?v=lPr5v7mwq34</id>
         <link href="https://www.youtube.com/watch?v=lPr5v7mwq34"/>
         <updated>2023-03-23T15:00:27.000Z</updated>
@@ -825,15 +834,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moose eigenfunctions]]></title>
-        <id>https://www.youtube.com/watch?v=cdBoCo6Nvz4</id>
-        <link href="https://www.youtube.com/watch?v=cdBoCo6Nvz4"/>
-        <updated>2023-01-24T20:06:43.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Discrete Fourier Transform: Most Important Algorithm Ever?]]></title>
         <id>https://www.youtube.com/watch?v=yYEMxqreA10</id>
         <link href="https://www.youtube.com/watch?v=yYEMxqreA10"/>
@@ -858,15 +858,6 @@
         <updated>2023-01-16T12:30:04.000Z</updated>
         <author>
             <name>CodeAesthetic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topics in Dynamical Systems: Fixed Points, Linearization, Invariant Manifolds, Bifurcations & Chaos]]></title>
-        <id>https://www.youtube.com/watch?v=0H1gWTaWva4</id>
-        <link href="https://www.youtube.com/watch?v=0H1gWTaWva4"/>
-        <updated>2023-01-16T11:00:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>

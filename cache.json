@@ -89,7 +89,7 @@
           "link": "https://www.youtube.com/watch?v=lPr5v7mwq34",
           "publishedOn": "2023-03-23T15:00:27.000Z",
           "wordCount": null,
-          "title": "The biggest misconception about quantum spin 1/2",
+          "title": "The math of quantum spin 1/2",
           "imageUrl": null
         }
       ]
@@ -105,6 +105,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wOXHPCUwNPQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wOXHPCUwNPQ",
+          "publishedOn": "2023-04-15T22:21:22.000Z",
+          "wordCount": null,
+          "title": "Quantum and classical balls dropped on a parabola",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wzkK5gwCPSU",
           "author": null,
@@ -244,16 +254,6 @@
           "wordCount": null,
           "title": "Penrose unilluminable room eigenfunctions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cdBoCo6Nvz4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cdBoCo6Nvz4",
-          "publishedOn": "2023-01-24T20:06:43.000Z",
-          "wordCount": null,
-          "title": "Moose eigenfunctions",
-          "imageUrl": null
         }
       ]
     },
@@ -262,6 +262,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DLmoyx4aJW8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DLmoyx4aJW8",
+          "publishedOn": "2023-04-15T09:00:08.000Z",
+          "wordCount": null,
+          "title": "A circular phased array",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2evMPNoWQDU",
           "author": null,
@@ -400,16 +410,6 @@
           "publishedOn": "2023-04-01T09:00:18.000Z",
           "wordCount": null,
           "title": "Cleaning up a maze using artificial intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mRcN-4kzGFY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mRcN-4kzGFY",
-          "publishedOn": "2023-03-31T09:00:34.000Z",
-          "wordCount": null,
-          "title": "Periodic oscillations in a modified Brusselator",
           "imageUrl": null
         }
       ]
@@ -600,16 +600,6 @@
           "publishedOn": "2023-01-27T11:00:25.000Z",
           "wordCount": null,
           "title": "Complex Analysis L01: Overview & Motivation, Complex Arithmetic, Euler's Formula & Polar Coordinates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0H1gWTaWva4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0H1gWTaWva4",
-          "publishedOn": "2023-01-16T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Topics in Dynamical Systems: Fixed Points, Linearization, Invariant Manifolds, Bifurcations & Chaos",
           "imageUrl": null
         }
       ]
