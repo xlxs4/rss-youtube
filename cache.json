@@ -263,6 +263,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bcLY8friWeQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bcLY8friWeQ",
+          "publishedOn": "2023-04-16T09:00:16.000Z",
+          "wordCount": null,
+          "title": "A Vicsek-type model with weaker coupling",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DLmoyx4aJW8",
           "author": null,
           "description": "",
@@ -401,16 +411,6 @@
           "wordCount": null,
           "title": "Waves in a rotating medium, with fewer boundary effects",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JWb1ZoS9lNk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JWb1ZoS9lNk",
-          "publishedOn": "2023-04-01T09:00:18.000Z",
-          "wordCount": null,
-          "title": "Cleaning up a maze using artificial intelligence",
-          "imageUrl": null
         }
       ]
     },
@@ -425,6 +425,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XXoo_3nTtxQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XXoo_3nTtxQ",
+          "publishedOn": "2023-04-16T14:00:21.000Z",
+          "wordCount": null,
+          "title": "Our Very First Merch Drop – Cosmic Pioneers Edition",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GDSf2h9_39I",
           "author": null,
@@ -898,16 +908,6 @@
           "wordCount": null,
           "title": "Premature Optimization",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bf7vDBBOBUA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bf7vDBBOBUA",
-          "publishedOn": "2023-01-16T12:30:04.000Z",
-          "wordCount": null,
-          "title": "Don't Write Comments",
-          "imageUrl": null
         }
       ]
     },
@@ -1057,16 +1057,6 @@
           "publishedOn": "2023-01-31T06:30:07.000Z",
           "wordCount": null,
           "title": "Introduction to Control Analysis and Design in Julia: 2. Frequency-domain Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z8o83UORuqQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z8o83UORuqQ",
-          "publishedOn": "2023-01-17T05:00:08.000Z",
-          "wordCount": null,
-          "title": "System identification for Model-Predictive control using JuliaSim",
           "imageUrl": null
         }
       ]
