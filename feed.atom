@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T00:04:05.457Z</id>
+    <id>urn:2023-04-19T00:04:20.495Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-18T00:04:05.457Z</updated>
+    <updated>2023-04-19T00:04:20.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Balls dropped on functions 0.5*|x| and 2*|x| = chaos]]></title>
+        <id>https://www.youtube.com/watch?v=MvUebV-fM9M</id>
+        <link href="https://www.youtube.com/watch?v=MvUebV-fM9M"/>
+        <updated>2023-04-18T20:17:51.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A circular phased array with a slower rotation]]></title>
+        <id>https://www.youtube.com/watch?v=RE9NGc82k9Y</id>
+        <link href="https://www.youtube.com/watch?v=RE9NGc82k9Y"/>
+        <updated>2023-04-18T09:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMR-RMA : Svetlana Jitomirskaya]]></title>
         <id>https://www.youtube.com/watch?v=yNvDfpb95yI</id>
@@ -244,15 +262,6 @@
         <id>https://www.youtube.com/watch?v=nataPkvk_vc</id>
         <link href="https://www.youtube.com/watch?v=nataPkvk_vc"/>
         <updated>2023-04-04T09:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Euler flow in a maze with repelling walls]]></title>
-        <id>https://www.youtube.com/watch?v=lBLlYmM6tjU</id>
-        <link href="https://www.youtube.com/watch?v=lBLlYmM6tjU"/>
-        <updated>2023-04-03T09:00:24.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -822,15 +831,6 @@
         <updated>2023-01-29T20:23:03.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penrose unilluminable room eigenfunctions]]></title>
-        <id>https://www.youtube.com/watch?v=YT5OZDBsvJQ</id>
-        <link href="https://www.youtube.com/watch?v=YT5OZDBsvJQ"/>
-        <updated>2023-01-27T21:31:48.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
     <entry>
