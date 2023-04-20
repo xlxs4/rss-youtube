@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T00:04:20.495Z</id>
+    <id>urn:2023-04-20T00:04:21.196Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-19T00:04:20.495Z</updated>
+    <updated>2023-04-20T00:04:21.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5000 classical balls and quantum wave packet falling on |x|]]></title>
+        <id>https://www.youtube.com/watch?v=CKZ5dN9mvCI</id>
+        <link href="https://www.youtube.com/watch?v=CKZ5dN9mvCI"/>
+        <updated>2023-04-19T19:51:38.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Vicsek-type swarming model with weak repulsion]]></title>
+        <id>https://www.youtube.com/watch?v=L8u1nqpFpEQ</id>
+        <link href="https://www.youtube.com/watch?v=L8u1nqpFpEQ"/>
+        <updated>2023-04-19T09:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balls dropped on functions 0.5*|x| and 2*|x| = chaos]]></title>
         <id>https://www.youtube.com/watch?v=MvUebV-fM9M</id>
@@ -255,15 +273,6 @@
         <updated>2023-04-04T11:23:07.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A second attempt at simulating the Belousov-Zhabotinsky/oregonator reaction]]></title>
-        <id>https://www.youtube.com/watch?v=nataPkvk_vc</id>
-        <link href="https://www.youtube.com/watch?v=nataPkvk_vc"/>
-        <updated>2023-04-04T09:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -813,15 +822,6 @@
         <updated>2023-01-31T06:30:07.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eigenfunctions of an ellipse]]></title>
-        <id>https://www.youtube.com/watch?v=tHfVbk8BQ4g</id>
-        <link href="https://www.youtube.com/watch?v=tHfVbk8BQ4g"/>
-        <updated>2023-01-30T20:41:30.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
     <entry>
