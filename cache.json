@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=D3AV-U_kfZ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D3AV-U_kfZ0",
+          "publishedOn": "2023-04-21T09:00:09.000Z",
+          "wordCount": null,
+          "title": "3D render of a circular phased array",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E79TVahcssU",
           "author": null,
           "description": "",
@@ -411,16 +421,6 @@
           "wordCount": null,
           "title": "More periodic oscillations in a modified Brusselator",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f58L6_BhEeg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f58L6_BhEeg",
-          "publishedOn": "2023-04-06T09:00:31.000Z",
-          "wordCount": null,
-          "title": "A Tesla valve with improved boundary conditions",
-          "imageUrl": null
         }
       ]
     },
@@ -503,6 +503,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=r68zKdyIwVo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r68zKdyIwVo",
+          "publishedOn": "2023-04-21T10:00:46.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L13: Bromwich Integrals and the Inverse Laplace Transform",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WMmqxcgvo4Y",
           "author": null,
@@ -694,6 +704,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Al5FV1KzYIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Al5FV1KzYIY",
+          "publishedOn": "2023-04-21T14:07:07.000Z",
+          "wordCount": null,
+          "title": "The Future of Coastal Cities | Science and Society",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nKuA6V6xpjA",
           "author": null,
           "description": "",
@@ -831,16 +851,6 @@
           "publishedOn": "2023-02-03T15:03:25.000Z",
           "wordCount": null,
           "title": "Dark Energy | Scientific Controversies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=41461Yrotr4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=41461Yrotr4",
-          "publishedOn": "2023-01-27T14:25:46.000Z",
-          "wordCount": null,
-          "title": "black midi Live at Pioneer Works",
           "imageUrl": null
         }
       ]
