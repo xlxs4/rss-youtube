@@ -47,18 +47,7 @@
       "title": "Reducible",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8XIGR5kRidIw2fWqwyHRA",
       "siteUrl": "https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=yYEMxqreA10",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yYEMxqreA10",
-          "publishedOn": "2023-01-23T04:13:38.000Z",
-          "wordCount": null,
-          "title": "The Discrete Fourier Transform: Most Important Algorithm Ever?",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "3Blue1Brown",
@@ -115,6 +104,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uSZnv2bxgNw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uSZnv2bxgNw",
+          "publishedOn": "2023-04-22T21:43:08.000Z",
+          "wordCount": null,
+          "title": "10000 classical balls and quantum wave packet falling on 0.8|x|",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CKZ5dN9mvCI",
           "author": null,
@@ -254,16 +253,6 @@
           "wordCount": null,
           "title": "Billiard of expressions, fruits, symmetry, etc.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fALmZXCuS9Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fALmZXCuS9Y",
-          "publishedOn": "2023-02-15T20:55:41.000Z",
-          "wordCount": null,
-          "title": "Relatively unpopular double pendulum animation",
-          "imageUrl": null
         }
       ]
     },
@@ -272,6 +261,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rfs-wyvqCNU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rfs-wyvqCNU",
+          "publishedOn": "2023-04-22T09:00:35.000Z",
+          "wordCount": null,
+          "title": "Your aquarium simulator: A Vicsek-type model with speed alignment",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=D3AV-U_kfZ0",
           "author": null,
@@ -410,16 +409,6 @@
           "publishedOn": "2023-04-08T09:00:14.000Z",
           "wordCount": null,
           "title": "3D render of waves in a random medium, shown in their index of refraction landscape",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WfBaZf4LXuU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WfBaZf4LXuU",
-          "publishedOn": "2023-04-07T09:00:18.000Z",
-          "wordCount": null,
-          "title": "More periodic oscillations in a modified Brusselator",
           "imageUrl": null
         }
       ]
