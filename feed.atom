@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T00:04:51.851Z</id>
+    <id>urn:2023-04-24T00:04:07.897Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-23T00:04:51.851Z</updated>
+    <updated>2023-04-24T00:04:07.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3D view of an Euler flow solving a maze]]></title>
+        <id>https://www.youtube.com/watch?v=kyrUDEYplpY</id>
+        <link href="https://www.youtube.com/watch?v=kyrUDEYplpY"/>
+        <updated>2023-04-23T09:00:23.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10000 classical balls and quantum wave packet falling on 0.8|x|]]></title>
         <id>https://www.youtube.com/watch?v=uSZnv2bxgNw</id>
@@ -271,15 +280,6 @@
         <id>https://www.youtube.com/watch?v=0-cZMCUCsKg</id>
         <link href="https://www.youtube.com/watch?v=0-cZMCUCsKg"/>
         <updated>2023-04-09T09:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D render of waves in a random medium, shown in their index of refraction landscape]]></title>
-        <id>https://www.youtube.com/watch?v=Mmcc7EvHLTw</id>
-        <link href="https://www.youtube.com/watch?v=Mmcc7EvHLTw"/>
-        <updated>2023-04-08T09:00:14.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
