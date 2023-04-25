@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T00:04:07.897Z</id>
+    <id>urn:2023-04-25T00:04:20.512Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-24T00:04:07.897Z</updated>
+    <updated>2023-04-25T00:04:20.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3D render of waves in a periodic medium, shown in their index of refraction landscape]]></title>
+        <id>https://www.youtube.com/watch?v=L4zeW-rDmNk</id>
+        <link href="https://www.youtube.com/watch?v=L4zeW-rDmNk"/>
+        <updated>2023-04-24T09:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D view of an Euler flow solving a maze]]></title>
         <id>https://www.youtube.com/watch?v=kyrUDEYplpY</id>
@@ -273,15 +282,6 @@
         <updated>2023-04-09T17:52:56.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Approach to equilibrium of particle distribution in a maze with rounded corners]]></title>
-        <id>https://www.youtube.com/watch?v=0-cZMCUCsKg</id>
-        <link href="https://www.youtube.com/watch?v=0-cZMCUCsKg"/>
-        <updated>2023-04-09T09:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=L4zeW-rDmNk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L4zeW-rDmNk",
+          "publishedOn": "2023-04-24T09:00:10.000Z",
+          "wordCount": null,
+          "title": "3D render of waves in a periodic medium, shown in their index of refraction landscape",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kyrUDEYplpY",
           "author": null,
           "description": "",
@@ -399,16 +409,6 @@
           "publishedOn": "2023-04-10T09:00:28.000Z",
           "wordCount": null,
           "title": "An Euler flow in a larger maze with repelling walls",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0-cZMCUCsKg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0-cZMCUCsKg",
-          "publishedOn": "2023-04-09T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Approach to equilibrium of particle distribution in a maze with rounded corners",
           "imageUrl": null
         }
       ]
