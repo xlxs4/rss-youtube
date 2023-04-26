@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=VP0xD8zDUlU",
           "publishedOn": "2023-04-17T14:59:33.000Z",
           "wordCount": null,
-          "title": "She Tracks Wildlife eDNA on Everest and in the Andes",
+          "title": "From Microscopic to Majestic: eDNA Exposes the Wonders of Life on Everest and Andes",
           "imageUrl": null
         },
         {
@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=oKkzVII_wHQ",
           "publishedOn": "2023-03-10T15:20:04.000Z",
           "wordCount": null,
-          "title": "Taking on Big Tech: A Computer Scientist's Battle for Privacy, Truth, and AI",
+          "title": "Will Artificial Intelligence Predict Your Future? One Computer Scientists Sorts Fact from Fiction",
           "imageUrl": null
         },
         {
@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ggVAFdIF0O4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ggVAFdIF0O4",
+          "publishedOn": "2023-04-25T09:00:33.000Z",
+          "wordCount": null,
+          "title": "Bloopers 9: Solving a maze with fish is not so easy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=L4zeW-rDmNk",
           "author": null,
           "description": "",
@@ -399,16 +409,6 @@
           "publishedOn": "2023-04-11T09:00:40.000Z",
           "wordCount": null,
           "title": "A continuous sweep in a phased array",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o0IFH3-I9Ig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o0IFH3-I9Ig",
-          "publishedOn": "2023-04-10T09:00:28.000Z",
-          "wordCount": null,
-          "title": "An Euler flow in a larger maze with repelling walls",
           "imageUrl": null
         }
       ]
