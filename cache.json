@@ -82,13 +82,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
+          "publishedOn": "2023-04-26T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Why can't we have a perfect world map? | Theorema Egregium - a geometric proof",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lPr5v7mwq34",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=lPr5v7mwq34",
           "publishedOn": "2023-03-23T15:00:27.000Z",
           "wordCount": null,
-          "title": "The math of quantum spin 1/2",
+          "title": "The biggest misconception about quantum spin 1/2",
           "imageUrl": null
         }
       ]
@@ -262,6 +272,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rlwXnjin3Hs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rlwXnjin3Hs",
+          "publishedOn": "2023-04-26T09:00:38.000Z",
+          "wordCount": null,
+          "title": "Video #800: A rocket fueled by a chemical reaction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ggVAFdIF0O4",
           "author": null,
           "description": "",
@@ -399,16 +419,6 @@
           "publishedOn": "2023-04-12T09:00:17.000Z",
           "wordCount": null,
           "title": "A Vicsek-type model for swarming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zI3IwYxuhtA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zI3IwYxuhtA",
-          "publishedOn": "2023-04-11T09:00:40.000Z",
-          "wordCount": null,
-          "title": "A continuous sweep in a phased array",
           "imageUrl": null
         }
       ]
@@ -620,16 +630,6 @@
           "publishedOn": "2023-02-03T11:00:21.000Z",
           "wordCount": null,
           "title": "Complex Analysis L02: Euler's formula, one of the most important formulas in all of mathematics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_mv0q7-WF4E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_mv0q7-WF4E",
-          "publishedOn": "2023-01-27T11:00:25.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L01: Overview & Motivation, Complex Arithmetic, Euler's Formula & Polar Coordinates",
           "imageUrl": null
         }
       ]
