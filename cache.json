@@ -88,7 +88,7 @@
           "link": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
           "publishedOn": "2023-04-26T14:00:03.000Z",
           "wordCount": null,
-          "title": "Why can't we have a perfect world map? | Theorema Egregium - a geometric proof",
+          "title": "Why all maps are wrong - Theorema Egregium",
           "imageUrl": null
         },
         {
@@ -98,7 +98,7 @@
           "link": "https://www.youtube.com/watch?v=lPr5v7mwq34",
           "publishedOn": "2023-03-23T15:00:27.000Z",
           "wordCount": null,
-          "title": "The biggest misconception about quantum spin 1/2",
+          "title": "The biggest misconception about spin 1/2",
           "imageUrl": null
         }
       ]
@@ -272,6 +272,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
+          "publishedOn": "2023-04-27T09:56:48.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to make billiard simulations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MOkVO78oTbE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MOkVO78oTbE",
+          "publishedOn": "2023-04-27T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Tesla valves under a pressure gradient",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rlwXnjin3Hs",
           "author": null,
           "description": "",
@@ -399,26 +419,6 @@
           "publishedOn": "2023-04-14T09:00:02.000Z",
           "wordCount": null,
           "title": "Everything is illuminable (well, almost, in a closed maze with right angles)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EIF7H6Ovunk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EIF7H6Ovunk",
-          "publishedOn": "2023-04-13T09:00:14.000Z",
-          "wordCount": null,
-          "title": "3D render of a Tesla valve",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IusETSqpZeg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IusETSqpZeg",
-          "publishedOn": "2023-04-12T09:00:17.000Z",
-          "wordCount": null,
-          "title": "A Vicsek-type model for swarming",
           "imageUrl": null
         }
       ]
@@ -944,16 +944,6 @@
           "publishedOn": "2023-02-18T19:35:23.000Z",
           "wordCount": null,
           "title": "Join us at JuliaCon 2023!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FGT7Qe7XWnY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FGT7Qe7XWnY",
-          "publishedOn": "2023-01-27T18:02:59.000Z",
-          "wordCount": null,
-          "title": "ML Community Call (2023-01-27)",
           "imageUrl": null
         }
       ]
