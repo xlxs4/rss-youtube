@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T00:38:55.141Z</id>
+    <id>urn:2023-04-29T00:36:31.866Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-28T00:38:55.141Z</updated>
+    <updated>2023-04-29T00:36:31.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5000 balls falling in a circle and a parabola, plus a cute bug]]></title>
+        <id>https://www.youtube.com/watch?v=lf1PP6r8Ft4</id>
+        <link href="https://www.youtube.com/watch?v=lf1PP6r8Ft4"/>
+        <updated>2023-04-28T20:12:43.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves spilling from the Mandelbrot set]]></title>
+        <id>https://www.youtube.com/watch?v=YczpyMV94VA</id>
+        <link href="https://www.youtube.com/watch?v=YczpyMV94VA"/>
+        <updated>2023-04-28T09:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial: How to make billiard simulations]]></title>
         <id>https://www.youtube.com/watch?v=XFhFK1qG6R8</id>
@@ -237,15 +255,6 @@
         <updated>2023-04-14T10:00:25.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything is illuminable (well, almost, in a closed maze with right angles)]]></title>
-        <id>https://www.youtube.com/watch?v=2evMPNoWQDU</id>
-        <link href="https://www.youtube.com/watch?v=2evMPNoWQDU"/>
-        <updated>2023-04-14T09:00:02.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -624,15 +633,6 @@
         <updated>2023-03-03T11:00:40.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billiard of expressions, fruits, symmetry, etc.]]></title>
-        <id>https://www.youtube.com/watch?v=JSDdH-2HSe4</id>
-        <link href="https://www.youtube.com/watch?v=JSDdH-2HSe4"/>
-        <updated>2023-03-01T19:13:49.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
     <entry>

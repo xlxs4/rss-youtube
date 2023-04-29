@@ -115,6 +115,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lf1PP6r8Ft4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lf1PP6r8Ft4",
+          "publishedOn": "2023-04-28T20:12:43.000Z",
+          "wordCount": null,
+          "title": "5000 balls falling in a circle and a parabola, plus a cute bug",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uSZnv2bxgNw",
           "author": null,
           "description": "",
@@ -253,16 +263,6 @@
           "wordCount": null,
           "title": "Ellipse reminds you of its focal points",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JSDdH-2HSe4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JSDdH-2HSe4",
-          "publishedOn": "2023-03-01T19:13:49.000Z",
-          "wordCount": null,
-          "title": "Billiard of expressions, fruits, symmetry, etc.",
-          "imageUrl": null
         }
       ]
     },
@@ -271,6 +271,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YczpyMV94VA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YczpyMV94VA",
+          "publishedOn": "2023-04-28T09:00:31.000Z",
+          "wordCount": null,
+          "title": "Waves spilling from the Mandelbrot set",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
           "author": null,
@@ -409,16 +419,6 @@
           "publishedOn": "2023-04-15T09:00:08.000Z",
           "wordCount": null,
           "title": "A circular phased array",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2evMPNoWQDU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2evMPNoWQDU",
-          "publishedOn": "2023-04-14T09:00:02.000Z",
-          "wordCount": null,
-          "title": "Everything is illuminable (well, almost, in a closed maze with right angles)",
           "imageUrl": null
         }
       ]
