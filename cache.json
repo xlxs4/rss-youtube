@@ -88,7 +88,7 @@
           "link": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
           "publishedOn": "2023-04-26T14:00:03.000Z",
           "wordCount": null,
-          "title": "Why all maps are wrong - Theorema Egregium",
+          "title": "No map is perfect, but can we PROVE it?",
           "imageUrl": null
         },
         {
@@ -272,6 +272,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0BIvvgA5MOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0BIvvgA5MOc",
+          "publishedOn": "2023-04-29T09:00:01.000Z",
+          "wordCount": null,
+          "title": "A school of fish exploring a maze",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YczpyMV94VA",
           "author": null,
           "description": "",
@@ -409,16 +419,6 @@
           "publishedOn": "2023-04-16T09:00:16.000Z",
           "wordCount": null,
           "title": "A Vicsek-type model with weaker coupling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DLmoyx4aJW8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DLmoyx4aJW8",
-          "publishedOn": "2023-04-15T09:00:08.000Z",
-          "wordCount": null,
-          "title": "A circular phased array",
           "imageUrl": null
         }
       ]
@@ -895,16 +895,6 @@
           "wordCount": null,
           "title": "Brain Criticality - Optimizing Neural Computations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hmtQPrH-gC4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hmtQPrH-gC4",
-          "publishedOn": "2023-01-29T20:23:03.000Z",
-          "wordCount": null,
-          "title": "Dendrites: Why Biological Neurons Are Deep Neural Networks",
-          "imageUrl": null
         }
       ]
     },
@@ -936,6 +926,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=C6kat7QYjTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C6kat7QYjTM",
+          "publishedOn": "2023-04-29T13:50:01.000Z",
+          "wordCount": null,
+          "title": "Control, identification and estimation in Julia, an overview of the ecosystem | 2nd DigiWell Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Rj_9nKZdumU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rj_9nKZdumU",
+          "publishedOn": "2023-04-29T13:49:11.000Z",
+          "wordCount": null,
+          "title": "Bayesian inference for dynamical systems with Turing.jl | 2nd DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yYoINMNsWZM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yYoINMNsWZM",
+          "publishedOn": "2023-04-29T13:48:34.000Z",
+          "wordCount": null,
+          "title": "Structural identifiability of dynamical models using StructuralIdentifiability.jl | Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qM9NtiYlXck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qM9NtiYlXck",
+          "publishedOn": "2023-04-29T13:47:07.000Z",
+          "wordCount": null,
+          "title": "Julia: Workflow tips, and what is new in v1.9 |  2nd DigiWell Julia Seminar",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XFXhWM2WMa0",
           "author": null,

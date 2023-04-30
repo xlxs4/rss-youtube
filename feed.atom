@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T00:36:31.866Z</id>
+    <id>urn:2023-04-30T00:40:35.760Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-29T00:36:31.866Z</updated>
+    <updated>2023-04-30T00:40:35.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Control, identification and estimation in Julia, an overview of the ecosystem | 2nd DigiWell Julia]]></title>
+        <id>https://www.youtube.com/watch?v=C6kat7QYjTM</id>
+        <link href="https://www.youtube.com/watch?v=C6kat7QYjTM"/>
+        <updated>2023-04-29T13:50:01.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian inference for dynamical systems with Turing.jl | 2nd DigiWell Julia Seminar]]></title>
+        <id>https://www.youtube.com/watch?v=Rj_9nKZdumU</id>
+        <link href="https://www.youtube.com/watch?v=Rj_9nKZdumU"/>
+        <updated>2023-04-29T13:49:11.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structural identifiability of dynamical models using StructuralIdentifiability.jl | Julia Seminar]]></title>
+        <id>https://www.youtube.com/watch?v=yYoINMNsWZM</id>
+        <link href="https://www.youtube.com/watch?v=yYoINMNsWZM"/>
+        <updated>2023-04-29T13:48:34.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia: Workflow tips, and what is new in v1.9 |  2nd DigiWell Julia Seminar]]></title>
+        <id>https://www.youtube.com/watch?v=qM9NtiYlXck</id>
+        <link href="https://www.youtube.com/watch?v=qM9NtiYlXck"/>
+        <updated>2023-04-29T13:47:07.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A school of fish exploring a maze]]></title>
+        <id>https://www.youtube.com/watch?v=0BIvvgA5MOc</id>
+        <link href="https://www.youtube.com/watch?v=0BIvvgA5MOc"/>
+        <updated>2023-04-29T09:00:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5000 balls falling in a circle and a parabola, plus a cute bug]]></title>
         <id>https://www.youtube.com/watch?v=lf1PP6r8Ft4</id>
@@ -42,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why all maps are wrong - Theorema Egregium]]></title>
+        <title type="html"><![CDATA[No map is perfect, but can we PROVE it?]]></title>
         <id>https://www.youtube.com/watch?v=7Ju9f9odKX4</id>
         <link href="https://www.youtube.com/watch?v=7Ju9f9odKX4"/>
         <updated>2023-04-26T14:00:03.000Z</updated>
@@ -228,15 +273,6 @@
         <updated>2023-04-15T22:21:22.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A circular phased array]]></title>
-        <id>https://www.youtube.com/watch?v=DLmoyx4aJW8</id>
-        <link href="https://www.youtube.com/watch?v=DLmoyx4aJW8"/>
-        <updated>2023-04-15T09:00:08.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -849,15 +885,6 @@
         <updated>2023-01-31T06:30:07.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dendrites: Why Biological Neurons Are Deep Neural Networks]]></title>
-        <id>https://www.youtube.com/watch?v=hmtQPrH-gC4</id>
-        <link href="https://www.youtube.com/watch?v=hmtQPrH-gC4"/>
-        <updated>2023-01-29T20:23:03.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
         </author>
     </entry>
 </feed>
