@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T00:40:35.760Z</id>
+    <id>urn:2023-05-01T00:39:06.626Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-04-30T00:40:35.760Z</updated>
+    <updated>2023-05-01T00:39:06.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Unifying Framework For Memory and Abstraction]]></title>
+        <id>https://www.youtube.com/watch?v=cufOEzoVMVA</id>
+        <link href="https://www.youtube.com/watch?v=cufOEzoVMVA"/>
+        <updated>2023-04-30T16:48:19.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a maze with a pressure gradient]]></title>
+        <id>https://www.youtube.com/watch?v=z5bW8On7MP4</id>
+        <link href="https://www.youtube.com/watch?v=z5bW8On7MP4"/>
+        <updated>2023-04-30T09:00:39.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Control, identification and estimation in Julia, an overview of the ecosystem | 2nd DigiWell Julia]]></title>
         <id>https://www.youtube.com/watch?v=C6kat7QYjTM</id>
@@ -255,15 +273,6 @@
         <updated>2023-04-16T14:00:21.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Vicsek-type model with weaker coupling]]></title>
-        <id>https://www.youtube.com/watch?v=bcLY8friWeQ</id>
-        <link href="https://www.youtube.com/watch?v=bcLY8friWeQ"/>
-        <updated>2023-04-16T09:00:16.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -867,24 +876,6 @@
         <updated>2023-01-31T15:53:17.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 1. How to Create System Models]]></title>
-        <id>https://www.youtube.com/watch?v=ksrEyMNX_BY</id>
-        <link href="https://www.youtube.com/watch?v=ksrEyMNX_BY"/>
-        <updated>2023-01-31T11:34:10.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 2. Frequency-domain Analysis]]></title>
-        <id>https://www.youtube.com/watch?v=_ZvvRLpCLG0</id>
-        <link href="https://www.youtube.com/watch?v=_ZvvRLpCLG0"/>
-        <updated>2023-01-31T06:30:07.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>

@@ -272,6 +272,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z5bW8On7MP4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z5bW8On7MP4",
+          "publishedOn": "2023-04-30T09:00:39.000Z",
+          "wordCount": null,
+          "title": "Solving a maze with a pressure gradient",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0BIvvgA5MOc",
           "author": null,
           "description": "",
@@ -409,16 +419,6 @@
           "publishedOn": "2023-04-17T09:00:10.000Z",
           "wordCount": null,
           "title": "Several Tesla valves in series",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bcLY8friWeQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bcLY8friWeQ",
-          "publishedOn": "2023-04-16T09:00:16.000Z",
-          "wordCount": null,
-          "title": "A Vicsek-type model with weaker coupling",
           "imageUrl": null
         }
       ]
@@ -877,6 +877,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cufOEzoVMVA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cufOEzoVMVA",
+          "publishedOn": "2023-04-30T16:48:19.000Z",
+          "wordCount": null,
+          "title": "A Unifying Framework For Memory and Abstraction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9qOaII_PzGY",
           "author": null,
           "description": "",
@@ -1077,26 +1087,6 @@
           "publishedOn": "2023-02-07T07:00:22.000Z",
           "wordCount": null,
           "title": "Introduction to Control Analysis and Design in Julia: 3. Time Domain Simulations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ksrEyMNX_BY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ksrEyMNX_BY",
-          "publishedOn": "2023-01-31T11:34:10.000Z",
-          "wordCount": null,
-          "title": "Introduction to Control Analysis and Design in Julia: 1. How to Create System Models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_ZvvRLpCLG0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_ZvvRLpCLG0",
-          "publishedOn": "2023-01-31T06:30:07.000Z",
-          "wordCount": null,
-          "title": "Introduction to Control Analysis and Design in Julia: 2. Frequency-domain Analysis",
           "imageUrl": null
         }
       ]
