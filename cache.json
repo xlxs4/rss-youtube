@@ -24,16 +24,6 @@
           "wordCount": null,
           "title": "Will Artificial Intelligence Predict Your Future? One Computer Scientists Sorts Fact from Fiction",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hjGFp7lMi9A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hjGFp7lMi9A",
-          "publishedOn": "2023-01-31T15:53:17.000Z",
-          "wordCount": null,
-          "title": "Could One Physics Theory Unlock the Mysteries of the Brain?",
-          "imageUrl": null
         }
       ]
     },
@@ -272,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
+          "publishedOn": "2023-05-01T09:00:07.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to make billiard simulations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=z5bW8On7MP4",
           "author": null,
           "description": "",
@@ -292,6 +292,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=MZjTen1xzN0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MZjTen1xzN0",
+          "publishedOn": "2023-04-28T12:45:32.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Why Tokarsky's rooms are unilluminable",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YczpyMV94VA",
           "author": null,
           "description": "",
@@ -299,16 +309,6 @@
           "publishedOn": "2023-04-28T09:00:31.000Z",
           "wordCount": null,
           "title": "Waves spilling from the Mandelbrot set",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
-          "publishedOn": "2023-04-27T09:56:48.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to make billiard simulations",
           "imageUrl": null
         },
         {
@@ -409,16 +409,6 @@
           "publishedOn": "2023-04-18T09:00:16.000Z",
           "wordCount": null,
           "title": "A circular phased array with a slower rotation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L15pIFs0yrc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L15pIFs0yrc",
-          "publishedOn": "2023-04-17T09:00:10.000Z",
-          "wordCount": null,
-          "title": "Several Tesla valves in series",
           "imageUrl": null
         }
       ]
@@ -1103,7 +1093,7 @@
           "link": "https://www.youtube.com/watch?v=sYWQK89zMcU",
           "publishedOn": "2023-03-26T13:00:09.000Z",
           "wordCount": null,
-          "title": "The math behind cell division (TMEB #4)",
+          "title": "The math behind how cells perceive time (TMEB #4)",
           "imageUrl": null
         },
         {
