@@ -1,10 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T00:37:37.921Z</id>
+    <id>urn:2023-05-03T00:04:04.151Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-02T00:37:37.921Z</updated>
+    <updated>2023-05-03T00:04:04.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Visualizing PDE Solutions on Unstructured Meshes with Makie.jl - Max Koehler, Dennis Ogiermann]]></title>
+        <id>https://www.youtube.com/watch?v=dMQ-CCw9Lbk</id>
+        <link href="https://www.youtube.com/watch?v=dMQ-CCw9Lbk"/>
+        <updated>2023-05-02T11:12:26.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing Tabular Data - Bogumił Kamiński - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=xEEvmFXD9v0</id>
+        <link href="https://www.youtube.com/watch?v=xEEvmFXD9v0"/>
+        <updated>2023-05-02T10:41:20.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Makie Ecosystem - Simon Danisch - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=9L4G1Wyq8kw</id>
+        <link href="https://www.youtube.com/watch?v=9L4G1Wyq8kw"/>
+        <updated>2023-05-02T10:41:17.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MathTeXEngine.jl: reinventing the LaTeX wheel in Julia - Benoît Richard - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=nHKtKVjhbAc</id>
+        <link href="https://www.youtube.com/watch?v=nHKtKVjhbAc"/>
+        <updated>2023-05-02T10:41:14.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualization of EEG brain potentials - Benedikt Ehinger & Vladimir Mikheev - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=33D7saYvkLc</id>
+        <link href="https://www.youtube.com/watch?v=33D7saYvkLc"/>
+        <updated>2023-05-02T10:41:10.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design of Makie's layout system - Julius Krumbiegel - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=3Gp8vz9njb0</id>
+        <link href="https://www.youtube.com/watch?v=3Gp8vz9njb0"/>
+        <updated>2023-05-02T10:41:04.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Sensor to Insight: Data Visualization for IoT Applications - Iga Szczesniak - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=vTmL2I_wO1I</id>
+        <link href="https://www.youtube.com/watch?v=vTmL2I_wO1I"/>
+        <updated>2023-05-02T10:41:00.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing weather radar data with GeoMakie - Tabea Wilke - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=-Cg6AoymaM0</id>
+        <link href="https://www.youtube.com/watch?v=-Cg6AoymaM0"/>
+        <updated>2023-05-02T10:40:56.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pipeline for Fast, Accurate Visualization of Arbitrarily Large Datasets - James A. Bednar]]></title>
+        <id>https://www.youtube.com/watch?v=5ORTZQQ2NGQ</id>
+        <link href="https://www.youtube.com/watch?v=5ORTZQQ2NGQ"/>
+        <updated>2023-05-02T10:40:52.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science without viz is like the dark without a torch - Markus Reichstein - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=Z4gJd330f4o</id>
+        <link href="https://www.youtube.com/watch?v=Z4gJd330f4o"/>
+        <updated>2023-05-02T10:40:46.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building data visualizations interactively with Algebra of Graphics - Pietro Vertechi - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=2g4lwaBZndc</id>
+        <link href="https://www.youtube.com/watch?v=2g4lwaBZndc"/>
+        <updated>2023-05-02T10:40:40.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Makie to visualize Earth Observations Data - Lazaro Alonso - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=xqYZxYBYKkA</id>
+        <link href="https://www.youtube.com/watch?v=xqYZxYBYKkA"/>
+        <updated>2023-05-02T10:40:36.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The design of GeoMakie 2.0 - Anshul Singhvi - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=pF1lgJhtolY</id>
+        <link href="https://www.youtube.com/watch?v=pF1lgJhtolY"/>
+        <updated>2023-05-02T10:40:30.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composable geospatial workflows with the Makie and JuliaGeo ecosystem - Rafael Schouten - MakieCon23]]></title>
+        <id>https://www.youtube.com/watch?v=WPulAlbBKmc</id>
+        <link href="https://www.youtube.com/watch?v=WPulAlbBKmc"/>
+        <updated>2023-05-02T10:40:23.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BioMakie.jl - Daniel Kool - MakieCon 23]]></title>
+        <id>https://www.youtube.com/watch?v=DOrw_VG6jvw</id>
+        <link href="https://www.youtube.com/watch?v=DOrw_VG6jvw"/>
+        <updated>2023-05-02T10:40:19.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beam formation in an asymmetric circular phased array]]></title>
+        <id>https://www.youtube.com/watch?v=PQU6Z0x-HKk</id>
+        <link href="https://www.youtube.com/watch?v=PQU6Z0x-HKk"/>
+        <updated>2023-05-02T09:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial: How to make billiard simulations]]></title>
         <id>https://www.youtube.com/watch?v=XFhFK1qG6R8</id>
@@ -15,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Unifying Framework For Memory and Abstraction]]></title>
+        <title type="html"><![CDATA[Can We Build an Artificial Hippocampus?]]></title>
         <id>https://www.youtube.com/watch?v=cufOEzoVMVA</id>
         <link href="https://www.youtube.com/watch?v=cufOEzoVMVA"/>
         <updated>2023-04-30T16:48:19.000Z</updated>
@@ -30,42 +174,6 @@
         <updated>2023-04-30T09:00:39.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Control, identification and estimation in Julia, an overview of the ecosystem | 2nd DigiWell Julia]]></title>
-        <id>https://www.youtube.com/watch?v=C6kat7QYjTM</id>
-        <link href="https://www.youtube.com/watch?v=C6kat7QYjTM"/>
-        <updated>2023-04-29T13:50:01.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian inference for dynamical systems with Turing.jl | 2nd DigiWell Julia Seminar]]></title>
-        <id>https://www.youtube.com/watch?v=Rj_9nKZdumU</id>
-        <link href="https://www.youtube.com/watch?v=Rj_9nKZdumU"/>
-        <updated>2023-04-29T13:49:11.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structural identifiability of dynamical models using StructuralIdentifiability.jl | Julia Seminar]]></title>
-        <id>https://www.youtube.com/watch?v=yYoINMNsWZM</id>
-        <link href="https://www.youtube.com/watch?v=yYoINMNsWZM"/>
-        <updated>2023-04-29T13:48:34.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julia: Workflow tips, and what is new in v1.9 |  2nd DigiWell Julia Seminar]]></title>
-        <id>https://www.youtube.com/watch?v=qM9NtiYlXck</id>
-        <link href="https://www.youtube.com/watch?v=qM9NtiYlXck"/>
-        <updated>2023-04-29T13:47:07.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
         </author>
     </entry>
     <entry>
@@ -240,15 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A circular phased array with a slower rotation]]></title>
-        <id>https://www.youtube.com/watch?v=RE9NGc82k9Y</id>
-        <link href="https://www.youtube.com/watch?v=RE9NGc82k9Y"/>
-        <updated>2023-04-18T09:00:16.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMR-RMA : Svetlana Jitomirskaya]]></title>
         <id>https://www.youtube.com/watch?v=yNvDfpb95yI</id>
         <link href="https://www.youtube.com/watch?v=yNvDfpb95yI"/>
@@ -264,15 +363,6 @@
         <updated>2023-04-17T14:59:33.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Very First Merch Drop – Cosmic Pioneers Edition]]></title>
-        <id>https://www.youtube.com/watch?v=XXoo_3nTtxQ</id>
-        <link href="https://www.youtube.com/watch?v=XXoo_3nTtxQ"/>
-        <updated>2023-04-16T14:00:21.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>
@@ -723,15 +813,6 @@
         <updated>2023-02-21T05:45:00.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join us at JuliaCon 2023!]]></title>
-        <id>https://www.youtube.com/watch?v=XFXhWM2WMa0</id>
-        <link href="https://www.youtube.com/watch?v=XFXhWM2WMa0"/>
-        <updated>2023-02-18T19:35:23.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
         </author>
     </entry>
     <entry>

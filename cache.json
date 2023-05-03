@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PQU6Z0x-HKk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PQU6Z0x-HKk",
+          "publishedOn": "2023-05-02T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Beam formation in an asymmetric circular phased array",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
           "author": null,
           "description": "",
@@ -400,16 +410,6 @@
           "wordCount": null,
           "title": "A Vicsek-type swarming model with weak repulsion",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RE9NGc82k9Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RE9NGc82k9Y",
-          "publishedOn": "2023-04-18T09:00:16.000Z",
-          "wordCount": null,
-          "title": "A circular phased array with a slower rotation",
-          "imageUrl": null
         }
       ]
     },
@@ -435,16 +435,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=XXoo_3nTtxQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XXoo_3nTtxQ",
-          "publishedOn": "2023-04-16T14:00:21.000Z",
-          "wordCount": null,
-          "title": "Our Very First Merch Drop – Cosmic Pioneers Edition",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=GDSf2h9_39I",
           "author": null,
@@ -873,7 +863,7 @@
           "link": "https://www.youtube.com/watch?v=cufOEzoVMVA",
           "publishedOn": "2023-04-30T16:48:19.000Z",
           "wordCount": null,
-          "title": "A Unifying Framework For Memory and Abstraction",
+          "title": "Can We Build an Artificial Hippocampus?",
           "imageUrl": null
         },
         {
@@ -927,53 +917,153 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=C6kat7QYjTM",
+          "id": "https://www.youtube.com/watch?v=dMQ-CCw9Lbk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=C6kat7QYjTM",
-          "publishedOn": "2023-04-29T13:50:01.000Z",
+          "link": "https://www.youtube.com/watch?v=dMQ-CCw9Lbk",
+          "publishedOn": "2023-05-02T11:12:26.000Z",
           "wordCount": null,
-          "title": "Control, identification and estimation in Julia, an overview of the ecosystem | 2nd DigiWell Julia",
+          "title": "Visualizing PDE Solutions on Unstructured Meshes with Makie.jl - Max Koehler, Dennis Ogiermann",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Rj_9nKZdumU",
+          "id": "https://www.youtube.com/watch?v=xEEvmFXD9v0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Rj_9nKZdumU",
-          "publishedOn": "2023-04-29T13:49:11.000Z",
+          "link": "https://www.youtube.com/watch?v=xEEvmFXD9v0",
+          "publishedOn": "2023-05-02T10:41:20.000Z",
           "wordCount": null,
-          "title": "Bayesian inference for dynamical systems with Turing.jl | 2nd DigiWell Julia Seminar",
+          "title": "Visualizing Tabular Data - Bogumił Kamiński - MakieCon 23",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=yYoINMNsWZM",
+          "id": "https://www.youtube.com/watch?v=9L4G1Wyq8kw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=yYoINMNsWZM",
-          "publishedOn": "2023-04-29T13:48:34.000Z",
+          "link": "https://www.youtube.com/watch?v=9L4G1Wyq8kw",
+          "publishedOn": "2023-05-02T10:41:17.000Z",
           "wordCount": null,
-          "title": "Structural identifiability of dynamical models using StructuralIdentifiability.jl | Julia Seminar",
+          "title": "Makie Ecosystem - Simon Danisch - MakieCon 23",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=qM9NtiYlXck",
+          "id": "https://www.youtube.com/watch?v=nHKtKVjhbAc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=qM9NtiYlXck",
-          "publishedOn": "2023-04-29T13:47:07.000Z",
+          "link": "https://www.youtube.com/watch?v=nHKtKVjhbAc",
+          "publishedOn": "2023-05-02T10:41:14.000Z",
           "wordCount": null,
-          "title": "Julia: Workflow tips, and what is new in v1.9 |  2nd DigiWell Julia Seminar",
+          "title": "MathTeXEngine.jl: reinventing the LaTeX wheel in Julia - Benoît Richard - MakieCon 23",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=XFXhWM2WMa0",
+          "id": "https://www.youtube.com/watch?v=33D7saYvkLc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=XFXhWM2WMa0",
-          "publishedOn": "2023-02-18T19:35:23.000Z",
+          "link": "https://www.youtube.com/watch?v=33D7saYvkLc",
+          "publishedOn": "2023-05-02T10:41:10.000Z",
           "wordCount": null,
-          "title": "Join us at JuliaCon 2023!",
+          "title": "Visualization of EEG brain potentials - Benedikt Ehinger & Vladimir Mikheev - MakieCon 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3Gp8vz9njb0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3Gp8vz9njb0",
+          "publishedOn": "2023-05-02T10:41:04.000Z",
+          "wordCount": null,
+          "title": "Design of Makie's layout system - Julius Krumbiegel - MakieCon 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vTmL2I_wO1I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vTmL2I_wO1I",
+          "publishedOn": "2023-05-02T10:41:00.000Z",
+          "wordCount": null,
+          "title": "From Sensor to Insight: Data Visualization for IoT Applications - Iga Szczesniak - MakieCon 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-Cg6AoymaM0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-Cg6AoymaM0",
+          "publishedOn": "2023-05-02T10:40:56.000Z",
+          "wordCount": null,
+          "title": "Visualizing weather radar data with GeoMakie - Tabea Wilke - MakieCon 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5ORTZQQ2NGQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5ORTZQQ2NGQ",
+          "publishedOn": "2023-05-02T10:40:52.000Z",
+          "wordCount": null,
+          "title": "Pipeline for Fast, Accurate Visualization of Arbitrarily Large Datasets - James A. Bednar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Z4gJd330f4o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z4gJd330f4o",
+          "publishedOn": "2023-05-02T10:40:46.000Z",
+          "wordCount": null,
+          "title": "Science without viz is like the dark without a torch - Markus Reichstein - MakieCon 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2g4lwaBZndc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2g4lwaBZndc",
+          "publishedOn": "2023-05-02T10:40:40.000Z",
+          "wordCount": null,
+          "title": "Building data visualizations interactively with Algebra of Graphics - Pietro Vertechi - MakieCon 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xqYZxYBYKkA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xqYZxYBYKkA",
+          "publishedOn": "2023-05-02T10:40:36.000Z",
+          "wordCount": null,
+          "title": "Using Makie to visualize Earth Observations Data - Lazaro Alonso - MakieCon 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pF1lgJhtolY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pF1lgJhtolY",
+          "publishedOn": "2023-05-02T10:40:30.000Z",
+          "wordCount": null,
+          "title": "The design of GeoMakie 2.0 - Anshul Singhvi - MakieCon 23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WPulAlbBKmc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WPulAlbBKmc",
+          "publishedOn": "2023-05-02T10:40:23.000Z",
+          "wordCount": null,
+          "title": "Composable geospatial workflows with the Makie and JuliaGeo ecosystem - Rafael Schouten - MakieCon23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DOrw_VG6jvw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DOrw_VG6jvw",
+          "publishedOn": "2023-05-02T10:40:19.000Z",
+          "wordCount": null,
+          "title": "BioMakie.jl - Daniel Kool - MakieCon 23",
           "imageUrl": null
         }
       ]
