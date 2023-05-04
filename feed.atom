@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T00:04:04.151Z</id>
+    <id>urn:2023-05-04T00:04:07.472Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-03T00:04:04.151Z</updated>
+    <updated>2023-05-04T00:04:07.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A rocket gradually fueled by a chemical reaction]]></title>
+        <id>https://www.youtube.com/watch?v=xDpZqYXF_UI</id>
+        <link href="https://www.youtube.com/watch?v=xDpZqYXF_UI"/>
+        <updated>2023-05-03T09:00:37.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visualizing PDE Solutions on Unstructured Meshes with Makie.jl - Max Koehler, Dennis Ogiermann]]></title>
         <id>https://www.youtube.com/watch?v=dMQ-CCw9Lbk</id>
@@ -327,15 +336,6 @@
         <updated>2023-04-19T19:51:38.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Vicsek-type swarming model with weak repulsion]]></title>
-        <id>https://www.youtube.com/watch?v=L8u1nqpFpEQ</id>
-        <link href="https://www.youtube.com/watch?v=L8u1nqpFpEQ"/>
-        <updated>2023-04-19T09:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -930,24 +930,6 @@
         <updated>2023-02-03T15:03:25.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex Analysis L02: Euler's formula, one of the most important formulas in all of mathematics]]></title>
-        <id>https://www.youtube.com/watch?v=Rp-smPZLESc</id>
-        <link href="https://www.youtube.com/watch?v=Rp-smPZLESc"/>
-        <updated>2023-02-03T11:00:21.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Illusions: Catching the Brain Creating Reality]]></title>
-        <id>https://www.youtube.com/watch?v=MD-O4Gpx74s</id>
-        <link href="https://www.youtube.com/watch?v=MD-O4Gpx74s"/>
-        <updated>2023-02-02T20:00:11.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
