@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YXjv21Xojzo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YXjv21Xojzo",
+          "publishedOn": "2023-05-04T09:00:17.000Z",
+          "wordCount": null,
+          "title": "The Coriolis force stabilizes pressure systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xDpZqYXF_UI",
           "author": null,
           "description": "",
@@ -400,16 +410,6 @@
           "wordCount": null,
           "title": "3D render of a circular phased array",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E79TVahcssU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E79TVahcssU",
-          "publishedOn": "2023-04-20T09:00:07.000Z",
-          "wordCount": null,
-          "title": "Several Tesla valves in series - Pressure and vorticity",
-          "imageUrl": null
         }
       ]
     },
@@ -435,6 +435,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pb9g6osg2aY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pb9g6osg2aY",
+          "publishedOn": "2023-05-04T16:27:19.000Z",
+          "wordCount": null,
+          "title": "Why Is the Ocean Salty and Rivers Are Not? #shorts #kurzgesagt",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GDSf2h9_39I",
           "author": null,
@@ -791,26 +801,6 @@
           "wordCount": null,
           "title": "Hyd - Breaking Ground (Live at Pioneer Works)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F4w16VcRhMk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F4w16VcRhMk",
-          "publishedOn": "2023-02-03T15:04:13.000Z",
-          "wordCount": null,
-          "title": "Dark Matter | Scientific Controversies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cp4GPitNqP4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cp4GPitNqP4",
-          "publishedOn": "2023-02-03T15:03:25.000Z",
-          "wordCount": null,
-          "title": "Dark Energy | Scientific Controversies",
-          "imageUrl": null
         }
       ]
     },
@@ -819,6 +809,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5Iy5mt7F_N4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5Iy5mt7F_N4",
+          "publishedOn": "2023-05-04T19:00:10.000Z",
+          "wordCount": null,
+          "title": "Brave New Prehistoric World",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RDVgfFzZVsA",
           "author": null,
@@ -1052,7 +1052,18 @@
       "title": "Christopher Rackauckas",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCugBGdUbn6PeH03iPZtr-JQ",
       "siteUrl": "https://www.youtube.com/channel/UCugBGdUbn6PeH03iPZtr-JQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fm277BM3Y8M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fm277BM3Y8M",
+          "publishedOn": "2023-05-04T16:17:06.000Z",
+          "wordCount": null,
+          "title": "Extending Scientific Machine Learning (SciML) to Agent-Based Models (ICLR AI4ABM 2023)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JuliaHub",
