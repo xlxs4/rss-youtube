@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T00:03:51.462Z</id>
+    <id>urn:2023-05-07T00:04:42.949Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-06T00:03:51.462Z</updated>
+    <updated>2023-05-07T00:04:42.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Causal vs Acausal Modeling By Example: Why Julia ModelingToolkit.jl Scales (Chris Rackauckas, SciML)]]></title>
+        <id>https://www.youtube.com/watch?v=ZYkojUozeC4</id>
+        <link href="https://www.youtube.com/watch?v=ZYkojUozeC4"/>
+        <updated>2023-05-06T15:18:08.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A rocket using its fuel gradually]]></title>
+        <id>https://www.youtube.com/watch?v=UCZ5GlCwoto</id>
+        <link href="https://www.youtube.com/watch?v=UCZ5GlCwoto"/>
+        <updated>2023-05-06T09:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Dogs Play]]></title>
         <id>https://www.youtube.com/watch?v=gioroVjbaNY</id>
@@ -222,15 +240,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BioMakie.jl - Daniel Kool - MakieCon 23]]></title>
-        <id>https://www.youtube.com/watch?v=DOrw_VG6jvw</id>
-        <link href="https://www.youtube.com/watch?v=DOrw_VG6jvw"/>
-        <updated>2023-05-02T10:40:19.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beam formation in an asymmetric circular phased array]]></title>
         <id>https://www.youtube.com/watch?v=PQU6Z0x-HKk</id>
         <link href="https://www.youtube.com/watch?v=PQU6Z0x-HKk"/>
@@ -363,15 +372,6 @@
         <updated>2023-04-22T21:43:08.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your aquarium simulator: A Vicsek-type model with speed alignment]]></title>
-        <id>https://www.youtube.com/watch?v=rfs-wyvqCNU</id>
-        <link href="https://www.youtube.com/watch?v=rfs-wyvqCNU"/>
-        <updated>2023-04-22T09:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -948,15 +948,6 @@
         <updated>2023-02-07T07:00:22.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The math behind engineering living things (TMEB #3)]]></title>
-        <id>https://www.youtube.com/watch?v=oO3H1ZYZCz4</id>
-        <link href="https://www.youtube.com/watch?v=oO3H1ZYZCz4"/>
-        <updated>2023-02-05T14:00:33.000Z</updated>
-        <author>
-            <name>NanoRooms</name>
         </author>
     </entry>
 </feed>

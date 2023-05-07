@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UCZ5GlCwoto",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UCZ5GlCwoto",
+          "publishedOn": "2023-05-06T09:00:15.000Z",
+          "wordCount": null,
+          "title": "A rocket using its fuel gradually",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KjLbLh9vr-E",
           "author": null,
           "description": "",
@@ -399,16 +409,6 @@
           "publishedOn": "2023-04-23T09:00:23.000Z",
           "wordCount": null,
           "title": "3D view of an Euler flow solving a maze",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rfs-wyvqCNU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rfs-wyvqCNU",
-          "publishedOn": "2023-04-22T09:00:35.000Z",
-          "wordCount": null,
-          "title": "Your aquarium simulator: A Vicsek-type model with speed alignment",
           "imageUrl": null
         }
       ]
@@ -917,6 +917,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZYkojUozeC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZYkojUozeC4",
+          "publishedOn": "2023-05-06T15:18:08.000Z",
+          "wordCount": null,
+          "title": "Causal vs Acausal Modeling By Example: Why Julia ModelingToolkit.jl Scales (Chris Rackauckas, SciML)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dMQ-CCw9Lbk",
           "author": null,
           "description": "",
@@ -1055,16 +1065,6 @@
           "wordCount": null,
           "title": "Composable geospatial workflows with the Makie and JuliaGeo ecosystem - Rafael Schouten - MakieCon23",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DOrw_VG6jvw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DOrw_VG6jvw",
-          "publishedOn": "2023-05-02T10:40:19.000Z",
-          "wordCount": null,
-          "title": "BioMakie.jl - Daniel Kool - MakieCon 23",
-          "imageUrl": null
         }
       ]
     },
@@ -1195,16 +1195,6 @@
           "publishedOn": "2023-03-26T13:00:09.000Z",
           "wordCount": null,
           "title": "The math behind how cells perceive time (TMEB #4)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oO3H1ZYZCz4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oO3H1ZYZCz4",
-          "publishedOn": "2023-02-05T14:00:33.000Z",
-          "wordCount": null,
-          "title": "The math behind engineering living things (TMEB #3)",
           "imageUrl": null
         }
       ]
