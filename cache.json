@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6RuxEN76qfw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6RuxEN76qfw",
+          "publishedOn": "2023-05-07T09:00:03.000Z",
+          "wordCount": null,
+          "title": "The Coriolis force stabilizes pressure systems - Wind speed and vorticity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UCZ5GlCwoto",
           "author": null,
           "description": "",
@@ -399,16 +409,6 @@
           "publishedOn": "2023-04-24T09:00:10.000Z",
           "wordCount": null,
           "title": "3D render of waves in a periodic medium, shown in their index of refraction landscape",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kyrUDEYplpY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kyrUDEYplpY",
-          "publishedOn": "2023-04-23T09:00:23.000Z",
-          "wordCount": null,
-          "title": "3D view of an Euler flow solving a maze",
           "imageUrl": null
         }
       ]
@@ -1168,16 +1168,6 @@
           "publishedOn": "2023-02-14T05:45:00.000Z",
           "wordCount": null,
           "title": "Introduction to Control Analysis and Design in Julia: 4. Control-system Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ii86sg_8xGw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ii86sg_8xGw",
-          "publishedOn": "2023-02-07T07:00:22.000Z",
-          "wordCount": null,
-          "title": "Introduction to Control Analysis and Design in Julia: 3. Time Domain Simulations",
           "imageUrl": null
         }
       ]

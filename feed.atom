@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T00:04:42.949Z</id>
+    <id>urn:2023-05-08T00:04:03.147Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-07T00:04:42.949Z</updated>
+    <updated>2023-05-08T00:04:03.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Coriolis force stabilizes pressure systems - Wind speed and vorticity]]></title>
+        <id>https://www.youtube.com/watch?v=6RuxEN76qfw</id>
+        <link href="https://www.youtube.com/watch?v=6RuxEN76qfw"/>
+        <updated>2023-05-07T09:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Causal vs Acausal Modeling By Example: Why Julia ModelingToolkit.jl Scales (Chris Rackauckas, SciML)]]></title>
         <id>https://www.youtube.com/watch?v=ZYkojUozeC4</id>
@@ -352,15 +361,6 @@
         <id>https://www.youtube.com/watch?v=L4zeW-rDmNk</id>
         <link href="https://www.youtube.com/watch?v=L4zeW-rDmNk"/>
         <updated>2023-04-24T09:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D view of an Euler flow solving a maze]]></title>
-        <id>https://www.youtube.com/watch?v=kyrUDEYplpY</id>
-        <link href="https://www.youtube.com/watch?v=kyrUDEYplpY"/>
-        <updated>2023-04-23T09:00:23.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -939,15 +939,6 @@
         <updated>2023-02-10T11:00:10.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 3. Time Domain Simulations]]></title>
-        <id>https://www.youtube.com/watch?v=ii86sg_8xGw</id>
-        <link href="https://www.youtube.com/watch?v=ii86sg_8xGw"/>
-        <updated>2023-02-07T07:00:22.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
