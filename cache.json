@@ -105,6 +105,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=q66kwizsUvk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q66kwizsUvk",
+          "publishedOn": "2023-05-09T21:53:42.000Z",
+          "wordCount": null,
+          "title": "Mandelbrot set: simple equation - complex boundary",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lf1PP6r8Ft4",
           "author": null,
           "description": "",
@@ -243,16 +253,6 @@
           "wordCount": null,
           "title": "Stadium-, circle-, and ellipse probability densities",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uFgl2qk5xKY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uFgl2qk5xKY",
-          "publishedOn": "2023-03-04T21:03:19.000Z",
-          "wordCount": null,
-          "title": "Ellipse reminds you of its focal points",
-          "imageUrl": null
         }
       ]
     },
@@ -261,6 +261,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CPEPSBoY10M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CPEPSBoY10M",
+          "publishedOn": "2023-05-09T09:00:06.000Z",
+          "wordCount": null,
+          "title": "3D render of an asymmetric circular phased array",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=MZjTen1xzN0",
           "author": null,
@@ -400,16 +410,6 @@
           "wordCount": null,
           "title": "Video #800: A rocket fueled by a chemical reaction",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ggVAFdIF0O4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ggVAFdIF0O4",
-          "publishedOn": "2023-04-25T09:00:33.000Z",
-          "wordCount": null,
-          "title": "Bloopers 9: Solving a maze with fish is not so easy",
-          "imageUrl": null
         }
       ]
     },
@@ -435,6 +435,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zFhYJRqz_xk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zFhYJRqz_xk",
+          "publishedOn": "2023-05-09T14:00:42.000Z",
+          "wordCount": null,
+          "title": "Your Body Killed Cancer 5 Minutes Ago",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pb9g6osg2aY",
           "author": null,
