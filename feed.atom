@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T00:03:57.225Z</id>
+    <id>urn:2023-05-11T00:04:13.355Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-10T00:03:57.225Z</updated>
+    <updated>2023-05-11T00:04:13.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rocket comparison 13: Round vs square chamber, when fueled by a chemical reaction]]></title>
+        <id>https://www.youtube.com/watch?v=sK07eJmXlEQ</id>
+        <link href="https://www.youtube.com/watch?v=sK07eJmXlEQ"/>
+        <updated>2023-05-10T09:00:29.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mandelbrot set: simple equation - complex boundary]]></title>
         <id>https://www.youtube.com/watch?v=q66kwizsUvk</id>
@@ -375,15 +384,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video #800: A rocket fueled by a chemical reaction]]></title>
-        <id>https://www.youtube.com/watch?v=rlwXnjin3Hs</id>
-        <link href="https://www.youtube.com/watch?v=rlwXnjin3Hs"/>
-        <updated>2023-04-26T09:00:38.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10000 classical balls and quantum wave packet falling on 0.8|x|]]></title>
         <id>https://www.youtube.com/watch?v=uSZnv2bxgNw</id>
         <link href="https://www.youtube.com/watch?v=uSZnv2bxgNw"/>
@@ -438,7 +438,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Microscopic to Majestic: eDNA Exposes the Wonders of Life on Everest and Andes]]></title>
+        <title type="html"><![CDATA[She Tracks Wildlife eDNA on Everest and in the Andes]]></title>
         <id>https://www.youtube.com/watch?v=VP0xD8zDUlU</id>
         <link href="https://www.youtube.com/watch?v=VP0xD8zDUlU"/>
         <updated>2023-04-17T14:59:33.000Z</updated>
@@ -939,15 +939,6 @@
         <updated>2023-02-10T16:00:35.000Z</updated>
         <author>
             <name>CodeAesthetic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex Analysis L03: Functions of a complex variable, f(z)]]></title>
-        <id>https://www.youtube.com/watch?v=59huv1T_LJw</id>
-        <link href="https://www.youtube.com/watch?v=59huv1T_LJw"/>
-        <updated>2023-02-10T11:00:10.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
