@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T00:04:13.355Z</id>
+    <id>urn:2023-05-12T00:04:05.457Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-11T00:04:13.355Z</updated>
+    <updated>2023-05-12T00:04:05.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Tiny Can a Black Hole Be? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=UKOxj8oP59w</id>
+        <link href="https://www.youtube.com/watch?v=UKOxj8oP59w"/>
+        <updated>2023-05-11T14:00:15.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla valves: Comparison of the forward and backward flow]]></title>
+        <id>https://www.youtube.com/watch?v=XETeDcLbocI</id>
+        <link href="https://www.youtube.com/watch?v=XETeDcLbocI"/>
+        <updated>2023-05-11T09:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rocket comparison 13: Round vs square chamber, when fueled by a chemical reaction]]></title>
         <id>https://www.youtube.com/watch?v=sK07eJmXlEQ</id>
@@ -361,15 +379,6 @@
         <id>https://www.youtube.com/watch?v=YczpyMV94VA</id>
         <link href="https://www.youtube.com/watch?v=YczpyMV94VA"/>
         <updated>2023-04-28T09:00:31.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla valves under a pressure gradient]]></title>
-        <id>https://www.youtube.com/watch?v=MOkVO78oTbE</id>
-        <link href="https://www.youtube.com/watch?v=MOkVO78oTbE"/>
-        <updated>2023-04-27T09:00:21.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -930,15 +939,6 @@
         <updated>2023-02-14T05:45:00.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premature Optimization]]></title>
-        <id>https://www.youtube.com/watch?v=tKbV6BpH-C8</id>
-        <link href="https://www.youtube.com/watch?v=tKbV6BpH-C8"/>
-        <updated>2023-02-10T16:00:35.000Z</updated>
-        <author>
-            <name>CodeAesthetic</name>
         </author>
     </entry>
 </feed>
