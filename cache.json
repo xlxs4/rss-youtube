@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QOWbtenYRko",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QOWbtenYRko",
+          "publishedOn": "2023-05-12T09:00:15.000Z",
+          "wordCount": null,
+          "title": "A circular phased array with one main beam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XETeDcLbocI",
           "author": null,
           "description": "",
@@ -400,16 +410,6 @@
           "wordCount": null,
           "title": "A school of fish exploring a maze",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YczpyMV94VA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YczpyMV94VA",
-          "publishedOn": "2023-04-28T09:00:31.000Z",
-          "wordCount": null,
-          "title": "Waves spilling from the Mandelbrot set",
-          "imageUrl": null
         }
       ]
     },
@@ -442,7 +442,7 @@
           "link": "https://www.youtube.com/watch?v=UKOxj8oP59w",
           "publishedOn": "2023-05-11T14:00:15.000Z",
           "wordCount": null,
-          "title": "How Tiny Can a Black Hole Be? #shorts",
+          "title": "How Tiny Can a Black Hole Be? #shorts #kurzgesagt",
           "imageUrl": null
         },
         {
