@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-15T00:04:20.378Z</id>
+    <id>urn:2023-05-16T00:04:16.103Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-15T00:04:20.378Z</updated>
+    <updated>2023-05-16T00:04:16.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Balls dropped on a double well curve (~ x^4 - x^2)]]></title>
+        <id>https://www.youtube.com/watch?v=LQmyR-sC6GA</id>
+        <link href="https://www.youtube.com/watch?v=LQmyR-sC6GA"/>
+        <updated>2023-05-15T20:46:23.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Periodic trajectories in billiards - and where to find them]]></title>
+        <id>https://www.youtube.com/watch?v=f7-dvMBDSPc</id>
+        <link href="https://www.youtube.com/watch?v=f7-dvMBDSPc"/>
+        <updated>2023-05-15T18:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ultimate Fight: Tardigrade vs. Bird #shorts #kurzgesagt]]></title>
         <id>https://www.youtube.com/watch?v=o2afhMs0aUg</id>
@@ -28,6 +46,15 @@
         <id>https://www.youtube.com/watch?v=QCUFzLiBrYw</id>
         <link href="https://www.youtube.com/watch?v=QCUFzLiBrYw"/>
         <updated>2023-05-13T09:00:23.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: How to simulate reaction-diffusion equations]]></title>
+        <id>https://www.youtube.com/watch?v=KrdO-6B8Stg</id>
+        <link href="https://www.youtube.com/watch?v=KrdO-6B8Stg"/>
+        <updated>2023-05-12T15:12:23.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -156,15 +183,6 @@
         <updated>2023-05-05T14:58:15.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: Periodic trajectories in billiards - and where to find them]]></title>
-        <id>https://www.youtube.com/watch?v=f7-dvMBDSPc</id>
-        <link href="https://www.youtube.com/watch?v=f7-dvMBDSPc"/>
-        <updated>2023-05-05T14:55:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -361,15 +379,6 @@
         <id>https://www.youtube.com/watch?v=PQU6Z0x-HKk</id>
         <link href="https://www.youtube.com/watch?v=PQU6Z0x-HKk"/>
         <updated>2023-05-02T09:00:15.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: How to make billiard simulations]]></title>
-        <id>https://www.youtube.com/watch?v=XFhFK1qG6R8</id>
-        <link href="https://www.youtube.com/watch?v=XFhFK1qG6R8"/>
-        <updated>2023-05-01T09:00:07.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -780,15 +789,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stadium-, circle-, and ellipse probability densities]]></title>
-        <id>https://www.youtube.com/watch?v=16G-iOARRog</id>
-        <link href="https://www.youtube.com/watch?v=16G-iOARRog"/>
-        <updated>2023-03-12T21:13:12.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Will Artificial Intelligence Predict Your Future? One Computer Scientists Sorts Fact from Fiction]]></title>
         <id>https://www.youtube.com/watch?v=oKkzVII_wHQ</id>
         <link href="https://www.youtube.com/watch?v=oKkzVII_wHQ"/>
@@ -912,33 +912,6 @@
         <updated>2023-02-17T11:00:16.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving the Schrodinger Equation for the Quantum Harmonic Oscillator | Part 1]]></title>
-        <id>https://www.youtube.com/watch?v=6AE5YjwlBfc</id>
-        <link href="https://www.youtube.com/watch?v=6AE5YjwlBfc"/>
-        <updated>2023-02-14T23:33:26.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrating 11 Years of Julia love]]></title>
-        <id>https://www.youtube.com/watch?v=7rin1_J8ByE</id>
-        <link href="https://www.youtube.com/watch?v=7rin1_J8ByE"/>
-        <updated>2023-02-14T20:46:40.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Complex Language in the World]]></title>
-        <id>https://www.youtube.com/watch?v=TYPFenJQciw</id>
-        <link href="https://www.youtube.com/watch?v=TYPFenJQciw"/>
-        <updated>2023-02-14T14:59:37.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>

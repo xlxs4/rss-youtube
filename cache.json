@@ -105,6 +105,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LQmyR-sC6GA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LQmyR-sC6GA",
+          "publishedOn": "2023-05-15T20:46:23.000Z",
+          "wordCount": null,
+          "title": "Balls dropped on a double well curve (~ x^4 - x^2)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=q66kwizsUvk",
           "author": null,
           "description": "",
@@ -243,16 +253,6 @@
           "wordCount": null,
           "title": "Butterfly effect in a circle but not in a parabola",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=16G-iOARRog",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=16G-iOARRog",
-          "publishedOn": "2023-03-12T21:13:12.000Z",
-          "wordCount": null,
-          "title": "Stadium-, circle-, and ellipse probability densities",
-          "imageUrl": null
         }
       ]
     },
@@ -261,6 +261,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=f7-dvMBDSPc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f7-dvMBDSPc",
+          "publishedOn": "2023-05-15T18:00:09.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Periodic trajectories in billiards - and where to find them",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=b_3G4IcAQaQ",
           "author": null,
@@ -279,6 +289,16 @@
           "publishedOn": "2023-05-13T09:00:23.000Z",
           "wordCount": null,
           "title": "Fish swarm on a Klein bottle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KrdO-6B8Stg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KrdO-6B8Stg",
+          "publishedOn": "2023-05-12T15:12:23.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to simulate reaction-diffusion equations",
           "imageUrl": null
         },
         {
@@ -352,16 +372,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=f7-dvMBDSPc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f7-dvMBDSPc",
-          "publishedOn": "2023-05-05T14:55:20.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Periodic trajectories in billiards - and where to find them",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=KjLbLh9vr-E",
           "author": null,
           "description": "",
@@ -399,16 +409,6 @@
           "publishedOn": "2023-05-02T09:00:15.000Z",
           "wordCount": null,
           "title": "Beam formation in an asymmetric circular phased array",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XFhFK1qG6R8",
-          "publishedOn": "2023-05-01T09:00:07.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to make billiard simulations",
           "imageUrl": null
         }
       ]
@@ -503,16 +503,6 @@
           "publishedOn": "2023-02-28T14:59:23.000Z",
           "wordCount": null,
           "title": "The Best Way to Boost Your Immune System (With Science!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TYPFenJQciw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TYPFenJQciw",
-          "publishedOn": "2023-02-14T14:59:37.000Z",
-          "wordCount": null,
-          "title": "The Most Complex Language in the World",
           "imageUrl": null
         }
       ]
@@ -673,16 +663,6 @@
           "publishedOn": "2023-03-14T23:18:34.000Z",
           "wordCount": null,
           "title": "Duhamel's Principle for Partial Differential Equations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6AE5YjwlBfc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6AE5YjwlBfc",
-          "publishedOn": "2023-02-14T23:33:26.000Z",
-          "wordCount": null,
-          "title": "Solving the Schrodinger Equation for the Quantum Harmonic Oscillator | Part 1",
           "imageUrl": null
         }
       ]
@@ -1157,16 +1137,6 @@
           "publishedOn": "2023-02-21T05:45:00.000Z",
           "wordCount": null,
           "title": "Introduction to Control Analysis and Design in Julia: 5. PID-controller Design and Lead/lag Design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7rin1_J8ByE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7rin1_J8ByE",
-          "publishedOn": "2023-02-14T20:46:40.000Z",
-          "wordCount": null,
-          "title": "Celebrating 11 Years of Julia love",
           "imageUrl": null
         }
       ]
