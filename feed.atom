@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-16T00:04:16.103Z</id>
+    <id>urn:2023-05-17T00:04:05.807Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-16T00:04:16.103Z</updated>
+    <updated>2023-05-17T00:04:05.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quotient Law for Tensors and Levi-Civita Symbol]]></title>
+        <id>https://www.youtube.com/watch?v=u-ZyiehGhMs</id>
+        <link href="https://www.youtube.com/watch?v=u-ZyiehGhMs"/>
+        <updated>2023-05-16T13:31:18.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increasing the frequency of a circular phased array with one main beam]]></title>
+        <id>https://www.youtube.com/watch?v=XoF7nhwTbVA</id>
+        <link href="https://www.youtube.com/watch?v=XoF7nhwTbVA"/>
+        <updated>2023-05-16T09:00:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balls dropped on a double well curve (~ x^4 - x^2)]]></title>
         <id>https://www.youtube.com/watch?v=LQmyR-sC6GA</id>
@@ -375,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beam formation in an asymmetric circular phased array]]></title>
-        <id>https://www.youtube.com/watch?v=PQU6Z0x-HKk</id>
-        <link href="https://www.youtube.com/watch?v=PQU6Z0x-HKk"/>
-        <updated>2023-05-02T09:00:15.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can We Build an Artificial Hippocampus?]]></title>
         <id>https://www.youtube.com/watch?v=cufOEzoVMVA</id>
         <link href="https://www.youtube.com/watch?v=cufOEzoVMVA"/>
@@ -663,7 +672,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The math behind how cells perceive time (TMEB #4)]]></title>
+        <title type="html"><![CDATA[The math behind cell division (TMEB #4)]]></title>
         <id>https://www.youtube.com/watch?v=sYWQK89zMcU</id>
         <link href="https://www.youtube.com/watch?v=sYWQK89zMcU"/>
         <updated>2023-03-26T13:00:09.000Z</updated>

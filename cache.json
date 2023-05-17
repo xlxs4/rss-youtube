@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XoF7nhwTbVA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XoF7nhwTbVA",
+          "publishedOn": "2023-05-16T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Increasing the frequency of a circular phased array with one main beam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=f7-dvMBDSPc",
           "author": null,
           "description": "",
@@ -399,16 +409,6 @@
           "publishedOn": "2023-05-03T09:00:37.000Z",
           "wordCount": null,
           "title": "A rocket gradually fueled by a chemical reaction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PQU6Z0x-HKk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PQU6Z0x-HKk",
-          "publishedOn": "2023-05-02T09:00:15.000Z",
-          "wordCount": null,
-          "title": "Beam formation in an asymmetric circular phased array",
           "imageUrl": null
         }
       ]
@@ -635,6 +635,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=u-ZyiehGhMs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u-ZyiehGhMs",
+          "publishedOn": "2023-05-16T13:31:18.000Z",
+          "wordCount": null,
+          "title": "Quotient Law for Tensors and Levi-Civita Symbol",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=368PoXE2Zjo",
           "author": null,
@@ -1153,7 +1163,7 @@
           "link": "https://www.youtube.com/watch?v=sYWQK89zMcU",
           "publishedOn": "2023-03-26T13:00:09.000Z",
           "wordCount": null,
-          "title": "The math behind how cells perceive time (TMEB #4)",
+          "title": "The math behind cell division (TMEB #4)",
           "imageUrl": null
         }
       ]
