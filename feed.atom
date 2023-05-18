@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T00:04:05.807Z</id>
+    <id>urn:2023-05-18T00:04:12.658Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-17T00:04:05.807Z</updated>
+    <updated>2023-05-18T00:04:12.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Genius Algorithm Behind Correcting DNA Read Errors  (TMEB #5)]]></title>
+        <id>https://www.youtube.com/watch?v=IoyTqo237oo</id>
+        <link href="https://www.youtube.com/watch?v=IoyTqo237oo"/>
+        <updated>2023-05-17T14:00:07.000Z</updated>
+        <author>
+            <name>NanoRooms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarm formation in a Vicsek model]]></title>
+        <id>https://www.youtube.com/watch?v=m6uHMslILXc</id>
+        <link href="https://www.youtube.com/watch?v=m6uHMslILXc"/>
+        <updated>2023-05-17T09:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quotient Law for Tensors and Levi-Civita Symbol]]></title>
         <id>https://www.youtube.com/watch?v=u-ZyiehGhMs</id>
@@ -253,15 +271,6 @@
         <id>https://www.youtube.com/watch?v=YXjv21Xojzo</id>
         <link href="https://www.youtube.com/watch?v=YXjv21Xojzo"/>
         <updated>2023-05-04T09:00:17.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A rocket gradually fueled by a chemical reaction]]></title>
-        <id>https://www.youtube.com/watch?v=xDpZqYXF_UI</id>
-        <link href="https://www.youtube.com/watch?v=xDpZqYXF_UI"/>
-        <updated>2023-05-03T09:00:37.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -870,7 +879,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Way to Boost Your Immune System (With Science!)]]></title>
+        <title type="html"><![CDATA[What Actually Happens When You Are Sick?]]></title>
         <id>https://www.youtube.com/watch?v=M-K7mxdN62M</id>
         <link href="https://www.youtube.com/watch?v=M-K7mxdN62M"/>
         <updated>2023-02-28T14:59:23.000Z</updated>
@@ -912,15 +921,6 @@
         <updated>2023-02-21T05:45:00.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex Analysis L04: The Complex Logarithm, Log(z)]]></title>
-        <id>https://www.youtube.com/watch?v=CpKD9aYEdms</id>
-        <link href="https://www.youtube.com/watch?v=CpKD9aYEdms"/>
-        <updated>2023-02-17T11:00:16.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
