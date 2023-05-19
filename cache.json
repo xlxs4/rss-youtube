@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O6RPWy5_asY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O6RPWy5_asY",
+          "publishedOn": "2023-05-18T09:00:12.000Z",
+          "wordCount": null,
+          "title": "Interacting high- and low-pressure systems under a Coriolis force - Wind direction and vorticity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m6uHMslILXc",
           "author": null,
           "description": "",
@@ -400,16 +410,6 @@
           "wordCount": null,
           "title": "An asymmetric circular phased array with four beams",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YXjv21Xojzo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YXjv21Xojzo",
-          "publishedOn": "2023-05-04T09:00:17.000Z",
-          "wordCount": null,
-          "title": "The Coriolis force stabilizes pressure systems",
-          "imageUrl": null
         }
       ]
     },
@@ -435,6 +435,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IayvE_jFgrc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IayvE_jFgrc",
+          "publishedOn": "2023-05-18T14:00:20.000Z",
+          "wordCount": null,
+          "title": "Magnetic Pole Shift - A Doomsday Scenario? #shorts #kurzgesagt",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=o2afhMs0aUg",
           "author": null,
@@ -1153,7 +1163,7 @@
           "link": "https://www.youtube.com/watch?v=IoyTqo237oo",
           "publishedOn": "2023-05-17T14:00:07.000Z",
           "wordCount": null,
-          "title": "The Genius Algorithm Behind Correcting DNA Read Errors  (TMEB #5)",
+          "title": "How does life correct itself without any help (TMEB #5)",
           "imageUrl": null
         },
         {
