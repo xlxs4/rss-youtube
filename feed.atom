@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-19T00:03:59.820Z</id>
+    <id>urn:2023-05-20T00:04:21.740Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-19T00:03:59.820Z</updated>
+    <updated>2023-05-20T00:04:21.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lingua Ignota Performs "MAN IS LIKE A SPRING FLOWER" Live at Pioneer Works]]></title>
+        <id>https://www.youtube.com/watch?v=EmICYIPt07Q</id>
+        <link href="https://www.youtube.com/watch?v=EmICYIPt07Q"/>
+        <updated>2023-05-19T13:48:10.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotating the beam in a circular phased array]]></title>
+        <id>https://www.youtube.com/watch?v=iGIAq4ol9kU</id>
+        <link href="https://www.youtube.com/watch?v=iGIAq4ol9kU"/>
+        <updated>2023-05-19T09:00:24.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magnetic Pole Shift - A Doomsday Scenario? #shorts #kurzgesagt]]></title>
         <id>https://www.youtube.com/watch?v=IayvE_jFgrc</id>
@@ -24,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does life correct itself without any help (TMEB #5)]]></title>
+        <title type="html"><![CDATA[The genius algorithm behind DNA error correction (TMEB #5)]]></title>
         <id>https://www.youtube.com/watch?v=IoyTqo237oo</id>
         <link href="https://www.youtube.com/watch?v=IoyTqo237oo"/>
         <updated>2023-05-17T14:00:07.000Z</updated>
@@ -246,15 +264,6 @@
         <updated>2023-05-05T13:44:02.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An asymmetric circular phased array with four beams]]></title>
-        <id>https://www.youtube.com/watch?v=KjLbLh9vr-E</id>
-        <link href="https://www.youtube.com/watch?v=KjLbLh9vr-E"/>
-        <updated>2023-05-05T09:00:11.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -903,15 +912,6 @@
         <updated>2023-02-28T14:46:24.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darren Aronofsky on Storytelling, Science, Math, and God]]></title>
-        <id>https://www.youtube.com/watch?v=Q80TlGeQrIU</id>
-        <link href="https://www.youtube.com/watch?v=Q80TlGeQrIU"/>
-        <updated>2023-02-24T14:56:01.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>

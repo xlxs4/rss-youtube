@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iGIAq4ol9kU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iGIAq4ol9kU",
+          "publishedOn": "2023-05-19T09:00:24.000Z",
+          "wordCount": null,
+          "title": "Rotating the beam in a circular phased array",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O6RPWy5_asY",
           "author": null,
           "description": "",
@@ -399,16 +409,6 @@
           "publishedOn": "2023-05-06T09:00:15.000Z",
           "wordCount": null,
           "title": "A rocket using its fuel gradually",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KjLbLh9vr-E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KjLbLh9vr-E",
-          "publishedOn": "2023-05-05T09:00:11.000Z",
-          "wordCount": null,
-          "title": "An asymmetric circular phased array with four beams",
           "imageUrl": null
         }
       ]
@@ -683,6 +683,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EmICYIPt07Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EmICYIPt07Q",
+          "publishedOn": "2023-05-19T13:48:10.000Z",
+          "wordCount": null,
+          "title": "Lingua Ignota Performs \"MAN IS LIKE A SPRING FLOWER\" Live at Pioneer Works",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gioroVjbaNY",
           "author": null,
           "description": "",
@@ -820,16 +830,6 @@
           "publishedOn": "2023-03-03T15:09:25.000Z",
           "wordCount": null,
           "title": "Artificial Intelligence | Scientific Controversies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q80TlGeQrIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q80TlGeQrIU",
-          "publishedOn": "2023-02-24T14:56:01.000Z",
-          "wordCount": null,
-          "title": "Darren Aronofsky on Storytelling, Science, Math, and God",
           "imageUrl": null
         }
       ]
@@ -1163,7 +1163,7 @@
           "link": "https://www.youtube.com/watch?v=IoyTqo237oo",
           "publishedOn": "2023-05-17T14:00:07.000Z",
           "wordCount": null,
-          "title": "How does life correct itself without any help (TMEB #5)",
+          "title": "The genius algorithm behind DNA error correction (TMEB #5)",
           "imageUrl": null
         },
         {
