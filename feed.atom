@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-20T00:04:21.740Z</id>
+    <id>urn:2023-05-21T00:04:35.285Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-20T00:04:21.740Z</updated>
+    <updated>2023-05-21T00:04:35.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rocket comparison 14: Bell-shaped vs straight nozzle, when fueled by a chemical reaction]]></title>
+        <id>https://www.youtube.com/watch?v=A-zcmp_ZIAA</id>
+        <link href="https://www.youtube.com/watch?v=A-zcmp_ZIAA"/>
+        <updated>2023-05-20T09:00:11.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lingua Ignota Performs "MAN IS LIKE A SPRING FLOWER" Live at Pioneer Works]]></title>
         <id>https://www.youtube.com/watch?v=EmICYIPt07Q</id>
@@ -219,15 +228,6 @@
         <updated>2023-05-06T15:18:08.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A rocket using its fuel gradually]]></title>
-        <id>https://www.youtube.com/watch?v=UCZ5GlCwoto</id>
-        <link href="https://www.youtube.com/watch?v=UCZ5GlCwoto"/>
-        <updated>2023-05-06T09:00:15.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
