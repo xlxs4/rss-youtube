@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-21T00:04:35.285Z</id>
+    <id>urn:2023-05-22T00:04:24.500Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-21T00:04:35.285Z</updated>
+    <updated>2023-05-22T00:04:24.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: How to simulate reaction-diffusion equations]]></title>
+        <id>https://www.youtube.com/watch?v=KrdO-6B8Stg</id>
+        <link href="https://www.youtube.com/watch?v=KrdO-6B8Stg"/>
+        <updated>2023-05-21T18:00:07.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rocket comparison 14: Bell-shaped vs straight nozzle, when fueled by a chemical reaction]]></title>
         <id>https://www.youtube.com/watch?v=A-zcmp_ZIAA</id>
         <link href="https://www.youtube.com/watch?v=A-zcmp_ZIAA"/>
         <updated>2023-05-20T09:00:11.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: How to get answers that are certain using probability]]></title>
+        <id>https://www.youtube.com/watch?v=knNDIVXku6s</id>
+        <link href="https://www.youtube.com/watch?v=knNDIVXku6s"/>
+        <updated>2023-05-19T13:55:31.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -132,15 +150,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tutorial: How to simulate reaction-diffusion equations]]></title>
-        <id>https://www.youtube.com/watch?v=KrdO-6B8Stg</id>
-        <link href="https://www.youtube.com/watch?v=KrdO-6B8Stg"/>
-        <updated>2023-05-12T15:12:23.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A circular phased array with one main beam]]></title>
         <id>https://www.youtube.com/watch?v=QOWbtenYRko</id>
         <link href="https://www.youtube.com/watch?v=QOWbtenYRko"/>
@@ -208,15 +217,6 @@
         <id>https://www.youtube.com/watch?v=MZjTen1xzN0</id>
         <link href="https://www.youtube.com/watch?v=MZjTen1xzN0"/>
         <updated>2023-05-08T09:00:09.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Coriolis force stabilizes pressure systems - Wind speed and vorticity]]></title>
-        <id>https://www.youtube.com/watch?v=6RuxEN76qfw</id>
-        <link href="https://www.youtube.com/watch?v=6RuxEN76qfw"/>
-        <updated>2023-05-07T09:00:03.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -921,15 +921,6 @@
         <updated>2023-02-24T11:00:34.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 5. PID-controller Design and Lead/lag Design]]></title>
-        <id>https://www.youtube.com/watch?v=BolNmqYYIEg</id>
-        <link href="https://www.youtube.com/watch?v=BolNmqYYIEg"/>
-        <updated>2023-02-21T05:45:00.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
