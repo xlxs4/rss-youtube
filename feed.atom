@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-22T00:04:24.500Z</id>
+    <id>urn:2023-05-23T00:04:13.878Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-22T00:04:24.500Z</updated>
+    <updated>2023-05-23T00:04:13.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How a Computer Broke a 50-Year Math Record]]></title>
+        <id>https://www.youtube.com/watch?v=fDAPJ7rvcUw</id>
+        <link href="https://www.youtube.com/watch?v=fDAPJ7rvcUw"/>
+        <updated>2023-05-22T21:49:53.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many fish and one shark]]></title>
+        <id>https://www.youtube.com/watch?v=mWvd5XNIuJs</id>
+        <link href="https://www.youtube.com/watch?v=mWvd5XNIuJs"/>
+        <updated>2023-05-22T09:00:23.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial: How to simulate reaction-diffusion equations]]></title>
         <id>https://www.youtube.com/watch?v=KrdO-6B8Stg</id>
@@ -208,15 +226,6 @@
         <id>https://www.youtube.com/watch?v=CPEPSBoY10M</id>
         <link href="https://www.youtube.com/watch?v=CPEPSBoY10M"/>
         <updated>2023-05-09T09:00:06.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: Why Tokarsky's rooms are unilluminable]]></title>
-        <id>https://www.youtube.com/watch?v=MZjTen1xzN0</id>
-        <link href="https://www.youtube.com/watch?v=MZjTen1xzN0"/>
-        <updated>2023-05-08T09:00:09.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
