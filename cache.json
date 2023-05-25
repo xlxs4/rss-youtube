@@ -272,6 +272,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C41zjbMJnjA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C41zjbMJnjA",
+          "publishedOn": "2023-05-24T09:00:11.000Z",
+          "wordCount": null,
+          "title": "3D render of a rotating the beam in a circular phased array",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7eNHQDDNboQ",
           "author": null,
           "description": "",
@@ -409,16 +419,6 @@
           "publishedOn": "2023-05-11T09:00:20.000Z",
           "wordCount": null,
           "title": "Tesla valves: Comparison of the forward and backward flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sK07eJmXlEQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sK07eJmXlEQ",
-          "publishedOn": "2023-05-10T09:00:29.000Z",
-          "wordCount": null,
-          "title": "Rocket comparison 13: Round vs square chamber, when fueled by a chemical reaction",
           "imageUrl": null
         }
       ]
@@ -620,16 +620,6 @@
           "publishedOn": "2023-03-03T11:00:40.000Z",
           "wordCount": null,
           "title": "Complex Analysis L06: Analytic Functions and Cauchy-Riemann Conditions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bzCDvK3NNuk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bzCDvK3NNuk",
-          "publishedOn": "2023-02-24T11:00:34.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L05: Roots of Unity and Rational Powers of z",
           "imageUrl": null
         }
       ]
