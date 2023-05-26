@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=A7NTNkYPr9Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A7NTNkYPr9Q",
+          "publishedOn": "2023-05-25T15:34:20.000Z",
+          "wordCount": null,
+          "title": "The Digital Quest for Quantum Gravity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fDAPJ7rvcUw",
           "author": null,
           "description": "",
@@ -272,6 +282,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RCQ8kOsm_II",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RCQ8kOsm_II",
+          "publishedOn": "2023-05-25T09:00:22.000Z",
+          "wordCount": null,
+          "title": "A confused fish school on the projective plane",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C41zjbMJnjA",
           "author": null,
           "description": "",
@@ -410,16 +430,6 @@
           "wordCount": null,
           "title": "A circular phased array with one main beam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XETeDcLbocI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XETeDcLbocI",
-          "publishedOn": "2023-05-11T09:00:20.000Z",
-          "wordCount": null,
-          "title": "Tesla valves: Comparison of the forward and backward flow",
-          "imageUrl": null
         }
       ]
     },
@@ -445,6 +455,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hvmIZAvt3jE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hvmIZAvt3jE",
+          "publishedOn": "2023-05-25T14:00:28.000Z",
+          "wordCount": null,
+          "title": "How to Cut a Sandwich Perfectly – With Science #shorts #kurzgesagt",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IayvE_jFgrc",
           "author": null,

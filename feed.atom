@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-25T00:04:20.090Z</id>
+    <id>urn:2023-05-26T00:38:24.622Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-25T00:04:20.090Z</updated>
+    <updated>2023-05-26T00:38:24.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Digital Quest for Quantum Gravity]]></title>
+        <id>https://www.youtube.com/watch?v=A7NTNkYPr9Q</id>
+        <link href="https://www.youtube.com/watch?v=A7NTNkYPr9Q"/>
+        <updated>2023-05-25T15:34:20.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cut a Sandwich Perfectly – With Science #shorts #kurzgesagt]]></title>
+        <id>https://www.youtube.com/watch?v=hvmIZAvt3jE</id>
+        <link href="https://www.youtube.com/watch?v=hvmIZAvt3jE"/>
+        <updated>2023-05-25T14:00:28.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A confused fish school on the projective plane]]></title>
+        <id>https://www.youtube.com/watch?v=RCQ8kOsm_II</id>
+        <link href="https://www.youtube.com/watch?v=RCQ8kOsm_II"/>
+        <updated>2023-05-25T09:00:22.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D render of a rotating the beam in a circular phased array]]></title>
         <id>https://www.youtube.com/watch?v=C41zjbMJnjA</id>
@@ -201,15 +228,6 @@
         <updated>2023-05-11T14:00:15.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla valves: Comparison of the forward and backward flow]]></title>
-        <id>https://www.youtube.com/watch?v=XETeDcLbocI</id>
-        <link href="https://www.youtube.com/watch?v=XETeDcLbocI"/>
-        <updated>2023-05-11T09:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
