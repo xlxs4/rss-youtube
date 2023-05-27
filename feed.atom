@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-26T00:38:24.622Z</id>
+    <id>urn:2023-05-27T00:39:29.402Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-26T00:38:24.622Z</updated>
+    <updated>2023-05-27T00:39:29.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solving a maze with rounded corners with a pressure gradient - Vorticity and direction]]></title>
+        <id>https://www.youtube.com/watch?v=A-nDXVsc2i8</id>
+        <link href="https://www.youtube.com/watch?v=A-nDXVsc2i8"/>
+        <updated>2023-05-26T09:00:11.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Digital Quest for Quantum Gravity]]></title>
         <id>https://www.youtube.com/watch?v=A7NTNkYPr9Q</id>
@@ -208,15 +217,6 @@
         <id>https://www.youtube.com/watch?v=QCUFzLiBrYw</id>
         <link href="https://www.youtube.com/watch?v=QCUFzLiBrYw"/>
         <updated>2023-05-13T09:00:23.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A circular phased array with one main beam]]></title>
-        <id>https://www.youtube.com/watch?v=QOWbtenYRko</id>
-        <link href="https://www.youtube.com/watch?v=QOWbtenYRko"/>
-        <updated>2023-05-12T09:00:15.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
