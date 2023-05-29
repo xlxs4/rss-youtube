@@ -125,6 +125,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zncrSCGwzts",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zncrSCGwzts",
+          "publishedOn": "2023-05-28T20:14:55.000Z",
+          "wordCount": null,
+          "title": "Squircle billiard",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LQmyR-sC6GA",
           "author": null,
           "description": "",
@@ -263,16 +273,6 @@
           "wordCount": null,
           "title": "Butterfly effect in a circle, again",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0zmWEzrtvJA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0zmWEzrtvJA",
-          "publishedOn": "2023-03-22T20:59:34.000Z",
-          "wordCount": null,
-          "title": "Butterfly effect in a circle but not in a parabola",
-          "imageUrl": null
         }
       ]
     },
@@ -281,6 +281,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=knNDIVXku6s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=knNDIVXku6s",
+          "publishedOn": "2023-05-28T18:00:09.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to get answers that are certain using probability",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=YP_lMavQ-u0",
           "author": null,
@@ -362,13 +372,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=knNDIVXku6s",
+          "id": "https://www.youtube.com/watch?v=SZIWug14Trw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=knNDIVXku6s",
-          "publishedOn": "2023-05-19T13:55:31.000Z",
+          "link": "https://www.youtube.com/watch?v=SZIWug14Trw",
+          "publishedOn": "2023-05-19T15:06:46.000Z",
           "wordCount": null,
-          "title": "Tutorial: How to get answers that are certain using probability",
+          "title": "Tutorial: The mathematics of population extinction",
           "imageUrl": null
         },
         {
@@ -419,16 +429,6 @@
           "publishedOn": "2023-05-15T18:00:09.000Z",
           "wordCount": null,
           "title": "Tutorial: Periodic trajectories in billiards - and where to find them",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b_3G4IcAQaQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b_3G4IcAQaQ",
-          "publishedOn": "2023-05-14T09:00:19.000Z",
-          "wordCount": null,
-          "title": "Stormy weather: Interacting high- and low-pressure systems under a Coriolis force",
           "imageUrl": null
         }
       ]
