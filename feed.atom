@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-29T00:39:20.307Z</id>
+    <id>urn:2023-05-30T00:40:16.721Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-29T00:39:20.307Z</updated>
+    <updated>2023-05-30T00:40:16.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rocket comparison 15: Introducing the De Laval nozzle]]></title>
+        <id>https://www.youtube.com/watch?v=XSIIIZLpuGE</id>
+        <link href="https://www.youtube.com/watch?v=XSIIIZLpuGE"/>
+        <updated>2023-05-29T09:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Squircle billiard]]></title>
         <id>https://www.youtube.com/watch?v=zncrSCGwzts</id>
@@ -210,15 +219,6 @@
         <updated>2023-05-15T20:46:23.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: Periodic trajectories in billiards - and where to find them]]></title>
-        <id>https://www.youtube.com/watch?v=f7-dvMBDSPc</id>
-        <link href="https://www.youtube.com/watch?v=f7-dvMBDSPc"/>
-        <updated>2023-05-15T18:00:09.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -921,24 +921,6 @@
         <updated>2023-03-03T11:00:40.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Actually Happens When You Are Sick?]]></title>
-        <id>https://www.youtube.com/watch?v=M-K7mxdN62M</id>
-        <link href="https://www.youtube.com/watch?v=M-K7mxdN62M"/>
-        <updated>2023-02-28T14:59:23.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 6. Pole Placement Design]]></title>
-        <id>https://www.youtube.com/watch?v=etOzqXNmzp0</id>
-        <link href="https://www.youtube.com/watch?v=etOzqXNmzp0"/>
-        <updated>2023-02-28T14:46:24.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>

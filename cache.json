@@ -282,6 +282,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XSIIIZLpuGE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XSIIIZLpuGE",
+          "publishedOn": "2023-05-29T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Rocket comparison 15: Introducing the De Laval nozzle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=knNDIVXku6s",
           "author": null,
           "description": "",
@@ -420,16 +430,6 @@
           "wordCount": null,
           "title": "Increasing the frequency of a circular phased array with one main beam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f7-dvMBDSPc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f7-dvMBDSPc",
-          "publishedOn": "2023-05-15T18:00:09.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Periodic trajectories in billiards - and where to find them",
-          "imageUrl": null
         }
       ]
     },
@@ -533,16 +533,6 @@
           "publishedOn": "2023-03-28T14:00:05.000Z",
           "wordCount": null,
           "title": "How We Make Money on YouTube with 20M Subs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M-K7mxdN62M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M-K7mxdN62M",
-          "publishedOn": "2023-02-28T14:59:23.000Z",
-          "wordCount": null,
-          "title": "What Actually Happens When You Are Sick?",
           "imageUrl": null
         }
       ]
@@ -1147,16 +1137,6 @@
           "publishedOn": "2023-03-07T10:45:02.000Z",
           "wordCount": null,
           "title": "Introduction to Control Analysis and Design in Julia: 7. LQR and LQG design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=etOzqXNmzp0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=etOzqXNmzp0",
-          "publishedOn": "2023-02-28T14:46:24.000Z",
-          "wordCount": null,
-          "title": "Introduction to Control Analysis and Design in Julia: 6. Pole Placement Design",
           "imageUrl": null
         }
       ]
