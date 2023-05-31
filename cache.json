@@ -42,7 +42,7 @@
           "link": "https://www.youtube.com/watch?v=oKkzVII_wHQ",
           "publishedOn": "2023-03-10T15:20:04.000Z",
           "wordCount": null,
-          "title": "Will Artificial Intelligence Predict Your Future? One Computer Scientists Sorts Fact from Fiction",
+          "title": "Privacy, Truth, and AI: A Computer Scientist Battle's Big Tech",
           "imageUrl": null
         }
       ]
@@ -282,6 +282,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=11rONzkn_2A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=11rONzkn_2A",
+          "publishedOn": "2023-05-30T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Bloopers 10: Unstable interacting pressure systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XSIIIZLpuGE",
           "author": null,
           "description": "",
@@ -419,16 +429,6 @@
           "publishedOn": "2023-05-17T09:00:35.000Z",
           "wordCount": null,
           "title": "Swarm formation in a Vicsek model",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XoF7nhwTbVA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XoF7nhwTbVA",
-          "publishedOn": "2023-05-16T09:00:30.000Z",
-          "wordCount": null,
-          "title": "Increasing the frequency of a circular phased array with one main beam",
           "imageUrl": null
         }
       ]
