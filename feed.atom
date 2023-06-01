@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-31T00:42:47.620Z</id>
+    <id>urn:2023-06-01T00:53:27.246Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-05-31T00:42:47.620Z</updated>
+    <updated>2023-06-01T00:53:27.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The shallow water equations in a circular container]]></title>
+        <id>https://www.youtube.com/watch?v=r8JFpuo4gSg</id>
+        <link href="https://www.youtube.com/watch?v=r8JFpuo4gSg"/>
+        <updated>2023-05-31T09:00:29.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bloopers 10: Unstable interacting pressure systems]]></title>
         <id>https://www.youtube.com/watch?v=11rONzkn_2A</id>
@@ -192,15 +201,6 @@
         <updated>2023-05-17T14:00:07.000Z</updated>
         <author>
             <name>NanoRooms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swarm formation in a Vicsek model]]></title>
-        <id>https://www.youtube.com/watch?v=m6uHMslILXc</id>
-        <link href="https://www.youtube.com/watch?v=m6uHMslILXc"/>
-        <updated>2023-05-17T09:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -912,15 +912,6 @@
         <updated>2023-03-03T15:09:25.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex Analysis L06: Analytic Functions and Cauchy-Riemann Conditions]]></title>
-        <id>https://www.youtube.com/watch?v=pAq_dilfB_0</id>
-        <link href="https://www.youtube.com/watch?v=pAq_dilfB_0"/>
-        <updated>2023-03-03T11:00:40.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
