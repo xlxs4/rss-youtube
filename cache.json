@@ -42,7 +42,7 @@
           "link": "https://www.youtube.com/watch?v=oKkzVII_wHQ",
           "publishedOn": "2023-03-10T15:20:04.000Z",
           "wordCount": null,
-          "title": "Privacy, Truth, and AI: A Computer Scientist Battle's Big Tech",
+          "title": "Truth, Privacy and AI: The Computer Scientist Who Battles Big Tech",
           "imageUrl": null
         }
       ]
@@ -282,6 +282,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-YV77aeZnEA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-YV77aeZnEA",
+          "publishedOn": "2023-06-01T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Fish swarm on a surface of genus 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r8JFpuo4gSg",
           "author": null,
           "description": "",
@@ -420,16 +430,6 @@
           "wordCount": null,
           "title": "Rotating the beam in a circular phased array",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O6RPWy5_asY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O6RPWy5_asY",
-          "publishedOn": "2023-05-18T09:00:12.000Z",
-          "wordCount": null,
-          "title": "Interacting high- and low-pressure systems under a Coriolis force - Wind direction and vorticity",
-          "imageUrl": null
         }
       ]
     },
@@ -455,6 +455,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LNv4y3wPQA0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LNv4y3wPQA0",
+          "publishedOn": "2023-06-01T14:00:11.000Z",
+          "wordCount": null,
+          "title": "Earth as a Cube – What Would It Look Like? #shorts #kurzgesagt",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hvmIZAvt3jE",
           "author": null,
@@ -820,16 +830,6 @@
           "publishedOn": "2023-03-10T13:55:52.000Z",
           "wordCount": null,
           "title": "Nordra - Transcendence 2 (Live at Pioneer Works)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_q1c8v0_udM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_q1c8v0_udM",
-          "publishedOn": "2023-03-03T15:09:25.000Z",
-          "wordCount": null,
-          "title": "Artificial Intelligence | Scientific Controversies",
           "imageUrl": null
         }
       ]
