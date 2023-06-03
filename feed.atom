@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T00:43:00.496Z</id>
+    <id>urn:2023-06-03T00:42:06.103Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-02T00:43:00.496Z</updated>
+    <updated>2023-06-03T00:42:06.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: The mathematics of population extinction]]></title>
+        <id>https://www.youtube.com/watch?v=SZIWug14Trw</id>
+        <link href="https://www.youtube.com/watch?v=SZIWug14Trw"/>
+        <updated>2023-06-02T18:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primatologist Frans de Waal in Conversation with Isabella Rossellini]]></title>
+        <id>https://www.youtube.com/watch?v=_oZ2fYnFYmw</id>
+        <link href="https://www.youtube.com/watch?v=_oZ2fYnFYmw"/>
+        <updated>2023-06-02T14:17:17.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Earth as a Cube – What Would It Look Like? #shorts #kurzgesagt]]></title>
         <id>https://www.youtube.com/watch?v=LNv4y3wPQA0</id>
@@ -73,6 +91,15 @@
         <id>https://www.youtube.com/watch?v=YP_lMavQ-u0</id>
         <link href="https://www.youtube.com/watch?v=YP_lMavQ-u0"/>
         <updated>2023-05-27T09:00:21.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Stability of periodic orbits - and why phase space can look fractal]]></title>
+        <id>https://www.youtube.com/watch?v=ToBH2NylYgA</id>
+        <link href="https://www.youtube.com/watch?v=ToBH2NylYgA"/>
+        <updated>2023-05-26T15:17:42.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -168,30 +195,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tutorial: The mathematics of population extinction]]></title>
-        <id>https://www.youtube.com/watch?v=SZIWug14Trw</id>
-        <link href="https://www.youtube.com/watch?v=SZIWug14Trw"/>
-        <updated>2023-05-19T15:06:46.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lingua Ignota Performs "MAN IS LIKE A SPRING FLOWER" Live at Pioneer Works]]></title>
         <id>https://www.youtube.com/watch?v=EmICYIPt07Q</id>
         <link href="https://www.youtube.com/watch?v=EmICYIPt07Q"/>
         <updated>2023-05-19T13:48:10.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rotating the beam in a circular phased array]]></title>
-        <id>https://www.youtube.com/watch?v=iGIAq4ol9kU</id>
-        <link href="https://www.youtube.com/watch?v=iGIAq4ol9kU"/>
-        <updated>2023-05-19T09:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

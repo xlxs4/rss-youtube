@@ -282,6 +282,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SZIWug14Trw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SZIWug14Trw",
+          "publishedOn": "2023-06-02T18:00:08.000Z",
+          "wordCount": null,
+          "title": "Tutorial: The mathematics of population extinction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-YV77aeZnEA",
           "author": null,
           "description": "",
@@ -339,6 +349,16 @@
           "publishedOn": "2023-05-27T09:00:21.000Z",
           "wordCount": null,
           "title": "A first simulation of the shallow water equations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ToBH2NylYgA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ToBH2NylYgA",
+          "publishedOn": "2023-05-26T15:17:42.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Stability of periodic orbits - and why phase space can look fractal",
           "imageUrl": null
         },
         {
@@ -409,26 +429,6 @@
           "publishedOn": "2023-05-20T09:00:11.000Z",
           "wordCount": null,
           "title": "Rocket comparison 14: Bell-shaped vs straight nozzle, when fueled by a chemical reaction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SZIWug14Trw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SZIWug14Trw",
-          "publishedOn": "2023-05-19T15:06:46.000Z",
-          "wordCount": null,
-          "title": "Tutorial: The mathematics of population extinction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iGIAq4ol9kU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iGIAq4ol9kU",
-          "publishedOn": "2023-05-19T09:00:24.000Z",
-          "wordCount": null,
-          "title": "Rotating the beam in a circular phased array",
           "imageUrl": null
         }
       ]
@@ -692,6 +692,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_oZ2fYnFYmw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_oZ2fYnFYmw",
+          "publishedOn": "2023-06-02T14:17:17.000Z",
+          "wordCount": null,
+          "title": "Primatologist Frans de Waal in Conversation with Isabella Rossellini",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EmICYIPt07Q",
           "author": null,
