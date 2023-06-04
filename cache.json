@@ -282,6 +282,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EqkKWA7G9Fc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EqkKWA7G9Fc",
+          "publishedOn": "2023-06-03T09:00:11.000Z",
+          "wordCount": null,
+          "title": "Eight interacting pressure systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SZIWug14Trw",
           "author": null,
           "description": "",
@@ -419,16 +429,6 @@
           "publishedOn": "2023-05-21T18:00:07.000Z",
           "wordCount": null,
           "title": "Tutorial: How to simulate reaction-diffusion equations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A-zcmp_ZIAA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A-zcmp_ZIAA",
-          "publishedOn": "2023-05-20T09:00:11.000Z",
-          "wordCount": null,
-          "title": "Rocket comparison 14: Bell-shaped vs straight nozzle, when fueled by a chemical reaction",
           "imageUrl": null
         }
       ]
@@ -894,16 +894,6 @@
           "publishedOn": "2023-03-31T21:03:30.000Z",
           "wordCount": null,
           "title": "How Your Brain Organizes Information",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vwLb3XlPCB4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vwLb3XlPCB4",
-          "publishedOn": "2023-03-05T22:02:39.000Z",
-          "wordCount": null,
-          "title": "Brain Criticality - Optimizing Neural Computations",
           "imageUrl": null
         }
       ]
