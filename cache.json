@@ -125,6 +125,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-vlcAsNxTG4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-vlcAsNxTG4",
+          "publishedOn": "2023-06-04T10:29:05.000Z",
+          "wordCount": null,
+          "title": "Butterfly effect in an elliptic curve but not in an ellipse",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zncrSCGwzts",
           "author": null,
           "description": "",
@@ -263,16 +273,6 @@
           "wordCount": null,
           "title": "Balls dropped on a hyperbola",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yJMqteX7t5U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yJMqteX7t5U",
-          "publishedOn": "2023-03-25T21:22:14.000Z",
-          "wordCount": null,
-          "title": "Butterfly effect in a circle, again",
-          "imageUrl": null
         }
       ]
     },
@@ -281,6 +281,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ohrx0ZB9e0U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ohrx0ZB9e0U",
+          "publishedOn": "2023-06-04T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Sloshing water in a circular bucket: shallow water equation with weaker viscosity",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EqkKWA7G9Fc",
           "author": null,
@@ -419,16 +429,6 @@
           "publishedOn": "2023-05-22T09:00:23.000Z",
           "wordCount": null,
           "title": "Many fish and one shark",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KrdO-6B8Stg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KrdO-6B8Stg",
-          "publishedOn": "2023-05-21T18:00:07.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to simulate reaction-diffusion equations",
           "imageUrl": null
         }
       ]
@@ -1117,16 +1117,6 @@
           "publishedOn": "2023-03-14T12:00:34.000Z",
           "wordCount": null,
           "title": "Introduction to Control Analysis and Design in Julia: 8. H-infinity Control Design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NuAxN1mGCPs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NuAxN1mGCPs",
-          "publishedOn": "2023-03-07T10:45:02.000Z",
-          "wordCount": null,
-          "title": "Introduction to Control Analysis and Design in Julia: 7. LQR and LQG design",
           "imageUrl": null
         }
       ]

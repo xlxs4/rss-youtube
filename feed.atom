@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-04T00:50:10.616Z</id>
+    <id>urn:2023-06-05T00:43:13.729Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-04T00:50:10.616Z</updated>
+    <updated>2023-06-05T00:43:13.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Butterfly effect in an elliptic curve but not in an ellipse]]></title>
+        <id>https://www.youtube.com/watch?v=-vlcAsNxTG4</id>
+        <link href="https://www.youtube.com/watch?v=-vlcAsNxTG4"/>
+        <updated>2023-06-04T10:29:05.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sloshing water in a circular bucket: shallow water equation with weaker viscosity]]></title>
+        <id>https://www.youtube.com/watch?v=ohrx0ZB9e0U</id>
+        <link href="https://www.youtube.com/watch?v=ohrx0ZB9e0U"/>
+        <updated>2023-06-04T09:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eight interacting pressure systems]]></title>
         <id>https://www.youtube.com/watch?v=EqkKWA7G9Fc</id>
@@ -181,15 +199,6 @@
         <id>https://www.youtube.com/watch?v=mWvd5XNIuJs</id>
         <link href="https://www.youtube.com/watch?v=mWvd5XNIuJs"/>
         <updated>2023-05-22T09:00:23.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: How to simulate reaction-diffusion equations]]></title>
-        <id>https://www.youtube.com/watch?v=KrdO-6B8Stg</id>
-        <link href="https://www.youtube.com/watch?v=KrdO-6B8Stg"/>
-        <updated>2023-05-21T18:00:07.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -762,15 +771,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Butterfly effect in a circle, again]]></title>
-        <id>https://www.youtube.com/watch?v=yJMqteX7t5U</id>
-        <link href="https://www.youtube.com/watch?v=yJMqteX7t5U"/>
-        <updated>2023-03-25T21:22:14.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Complex Analysis L09: Complex Residues]]></title>
         <id>https://www.youtube.com/watch?v=ywAEVq9ULxs</id>
         <link href="https://www.youtube.com/watch?v=ywAEVq9ULxs"/>
@@ -903,15 +903,6 @@
         <updated>2023-03-09T20:00:09.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 7. LQR and LQG design]]></title>
-        <id>https://www.youtube.com/watch?v=NuAxN1mGCPs</id>
-        <link href="https://www.youtube.com/watch?v=NuAxN1mGCPs"/>
-        <updated>2023-03-07T10:45:02.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
