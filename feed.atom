@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-05T00:43:13.729Z</id>
+    <id>urn:2023-06-06T00:44:01.542Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-05T00:43:13.729Z</updated>
+    <updated>2023-06-06T00:44:01.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Many fish and one shark, with stronger interaction]]></title>
+        <id>https://www.youtube.com/watch?v=8mrF87GDj-I</id>
+        <link href="https://www.youtube.com/watch?v=8mrF87GDj-I"/>
+        <updated>2023-06-05T09:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Butterfly effect in an elliptic curve but not in an ellipse]]></title>
         <id>https://www.youtube.com/watch?v=-vlcAsNxTG4</id>
@@ -192,15 +201,6 @@
         <updated>2023-05-22T21:49:53.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many fish and one shark]]></title>
-        <id>https://www.youtube.com/watch?v=mWvd5XNIuJs</id>
-        <link href="https://www.youtube.com/watch?v=mWvd5XNIuJs"/>
-        <updated>2023-05-22T09:00:23.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
