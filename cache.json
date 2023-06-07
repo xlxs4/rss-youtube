@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yLOHdW7dLug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yLOHdW7dLug",
+          "publishedOn": "2023-06-06T13:53:42.000Z",
+          "wordCount": null,
+          "title": "Can a New Law of Physics Explain a Black Hole Paradox?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=A7NTNkYPr9Q",
           "author": null,
           "description": "",
@@ -282,6 +292,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=P-vQwfCrUh8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P-vQwfCrUh8",
+          "publishedOn": "2023-06-06T09:00:20.000Z",
+          "wordCount": null,
+          "title": "Comparison of two circular phased array",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8mrF87GDj-I",
           "author": null,
           "description": "",
@@ -419,16 +439,6 @@
           "publishedOn": "2023-05-24T09:00:11.000Z",
           "wordCount": null,
           "title": "3D render of a rotating the beam in a circular phased array",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7eNHQDDNboQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7eNHQDDNboQ",
-          "publishedOn": "2023-05-23T09:00:05.000Z",
-          "wordCount": null,
-          "title": "Solving a maze with rounded corners with a pressure gradient",
           "imageUrl": null
         }
       ]
