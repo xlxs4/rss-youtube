@@ -292,6 +292,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=106iqkX_0Ec",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=106iqkX_0Ec",
+          "publishedOn": "2023-06-07T09:00:01.000Z",
+          "wordCount": null,
+          "title": "Phase space representation of the billiard in Reuleaux-like pentagons, long version",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=P-vQwfCrUh8",
           "author": null,
           "description": "",
@@ -429,16 +439,6 @@
           "publishedOn": "2023-05-25T09:00:22.000Z",
           "wordCount": null,
           "title": "A confused fish school on the projective plane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C41zjbMJnjA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C41zjbMJnjA",
-          "publishedOn": "2023-05-24T09:00:11.000Z",
-          "wordCount": null,
-          "title": "3D render of a rotating the beam in a circular phased array",
           "imageUrl": null
         }
       ]
@@ -630,16 +630,6 @@
           "publishedOn": "2023-03-17T10:00:29.000Z",
           "wordCount": null,
           "title": "Complex Analysis L08: Integrals in the Complex Plane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TNR-d_4l09E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TNR-d_4l09E",
-          "publishedOn": "2023-03-10T11:00:22.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L07: Analytic Functions Solve Laplace's Equation",
           "imageUrl": null
         }
       ]
@@ -867,16 +857,6 @@
           "publishedOn": "2023-05-04T19:00:10.000Z",
           "wordCount": null,
           "title": "Brave New Prehistoric World",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RDVgfFzZVsA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RDVgfFzZVsA",
-          "publishedOn": "2023-03-09T20:00:09.000Z",
-          "wordCount": null,
-          "title": "Rewiring the Brain: The Promise and Peril of Neuroplasticity",
           "imageUrl": null
         }
       ]

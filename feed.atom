@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-07T00:44:55.257Z</id>
+    <id>urn:2023-06-08T00:43:37.112Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-07T00:44:55.257Z</updated>
+    <updated>2023-06-08T00:43:37.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of the billiard in Reuleaux-like pentagons, long version]]></title>
+        <id>https://www.youtube.com/watch?v=106iqkX_0Ec</id>
+        <link href="https://www.youtube.com/watch?v=106iqkX_0Ec"/>
+        <updated>2023-06-07T09:00:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can a New Law of Physics Explain a Black Hole Paradox?]]></title>
         <id>https://www.youtube.com/watch?v=yLOHdW7dLug</id>
@@ -190,15 +199,6 @@
         <id>https://www.youtube.com/watch?v=RCQ8kOsm_II</id>
         <link href="https://www.youtube.com/watch?v=RCQ8kOsm_II"/>
         <updated>2023-05-25T09:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D render of a rotating the beam in a circular phased array]]></title>
-        <id>https://www.youtube.com/watch?v=C41zjbMJnjA</id>
-        <link href="https://www.youtube.com/watch?v=C41zjbMJnjA"/>
-        <updated>2023-05-24T09:00:11.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -894,24 +894,6 @@
         <updated>2023-03-10T13:55:52.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex Analysis L07: Analytic Functions Solve Laplace's Equation]]></title>
-        <id>https://www.youtube.com/watch?v=TNR-d_4l09E</id>
-        <link href="https://www.youtube.com/watch?v=TNR-d_4l09E"/>
-        <updated>2023-03-10T11:00:22.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rewiring the Brain: The Promise and Peril of Neuroplasticity]]></title>
-        <id>https://www.youtube.com/watch?v=RDVgfFzZVsA</id>
-        <link href="https://www.youtube.com/watch?v=RDVgfFzZVsA"/>
-        <updated>2023-03-09T20:00:09.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
