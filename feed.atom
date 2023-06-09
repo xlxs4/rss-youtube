@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-08T00:43:37.112Z</id>
+    <id>urn:2023-06-09T00:46:53.184Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-08T00:43:37.112Z</updated>
+    <updated>2023-06-09T00:46:53.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How do Lasers Work? #shorts #kurzgesagt]]></title>
+        <id>https://www.youtube.com/watch?v=RzwaiFvyN6s</id>
+        <link href="https://www.youtube.com/watch?v=RzwaiFvyN6s"/>
+        <updated>2023-06-08T14:00:16.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shallow water in a circular bucket with four sources]]></title>
+        <id>https://www.youtube.com/watch?v=S8nJpxQfjtY</id>
+        <link href="https://www.youtube.com/watch?v=S8nJpxQfjtY"/>
+        <updated>2023-06-08T09:00:18.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phase space representation of the billiard in Reuleaux-like pentagons, long version]]></title>
         <id>https://www.youtube.com/watch?v=106iqkX_0Ec</id>
@@ -192,15 +210,6 @@
         <updated>2023-05-25T14:00:28.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A confused fish school on the projective plane]]></title>
-        <id>https://www.youtube.com/watch?v=RCQ8kOsm_II</id>
-        <link href="https://www.youtube.com/watch?v=RCQ8kOsm_II"/>
-        <updated>2023-05-25T09:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -876,24 +885,6 @@
         <updated>2023-03-14T12:00:34.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truth, Privacy and AI: The Computer Scientist Who Battles Big Tech]]></title>
-        <id>https://www.youtube.com/watch?v=oKkzVII_wHQ</id>
-        <link href="https://www.youtube.com/watch?v=oKkzVII_wHQ"/>
-        <updated>2023-03-10T15:20:04.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nordra - Transcendence 2 (Live at Pioneer Works)]]></title>
-        <id>https://www.youtube.com/watch?v=p7v7XEpxmLk</id>
-        <link href="https://www.youtube.com/watch?v=p7v7XEpxmLk"/>
-        <updated>2023-03-10T13:55:52.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
