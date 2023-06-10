@@ -282,6 +282,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=U6um6dFBeFY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U6um6dFBeFY",
+          "publishedOn": "2023-06-09T09:00:30.000Z",
+          "wordCount": null,
+          "title": "First attempt at simulating a branched flow in a random medium",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=S8nJpxQfjtY",
           "author": null,
           "description": "",
@@ -419,16 +429,6 @@
           "publishedOn": "2023-05-26T15:17:42.000Z",
           "wordCount": null,
           "title": "Tutorial: Stability of periodic orbits - and why phase space can look fractal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A-nDXVsc2i8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A-nDXVsc2i8",
-          "publishedOn": "2023-05-26T09:00:11.000Z",
-          "wordCount": null,
-          "title": "Solving a maze with rounded corners with a pressure gradient - Vorticity and direction",
           "imageUrl": null
         }
       ]
@@ -839,6 +839,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1f7jm3T_hao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1f7jm3T_hao",
+          "publishedOn": "2023-06-09T22:00:10.000Z",
+          "wordCount": null,
+          "title": "Rewriting the Story of Humankind",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5Iy5mt7F_N4",
           "author": null,

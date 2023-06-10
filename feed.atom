@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-09T00:46:53.184Z</id>
+    <id>urn:2023-06-10T00:40:47.305Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-09T00:46:53.184Z</updated>
+    <updated>2023-06-10T00:40:47.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rewriting the Story of Humankind]]></title>
+        <id>https://www.youtube.com/watch?v=1f7jm3T_hao</id>
+        <link href="https://www.youtube.com/watch?v=1f7jm3T_hao"/>
+        <updated>2023-06-09T22:00:10.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First attempt at simulating a branched flow in a random medium]]></title>
+        <id>https://www.youtube.com/watch?v=U6um6dFBeFY</id>
+        <link href="https://www.youtube.com/watch?v=U6um6dFBeFY"/>
+        <updated>2023-06-09T09:00:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How do Lasers Work? #shorts #kurzgesagt]]></title>
         <id>https://www.youtube.com/watch?v=RzwaiFvyN6s</id>
@@ -181,15 +199,6 @@
         <id>https://www.youtube.com/watch?v=ToBH2NylYgA</id>
         <link href="https://www.youtube.com/watch?v=ToBH2NylYgA"/>
         <updated>2023-05-26T15:17:42.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving a maze with rounded corners with a pressure gradient - Vorticity and direction]]></title>
-        <id>https://www.youtube.com/watch?v=A-nDXVsc2i8</id>
-        <link href="https://www.youtube.com/watch?v=A-nDXVsc2i8"/>
-        <updated>2023-05-26T09:00:11.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
