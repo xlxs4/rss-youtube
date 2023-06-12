@@ -282,6 +282,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ToBH2NylYgA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ToBH2NylYgA",
+          "publishedOn": "2023-06-11T18:00:09.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Stability of periodic orbits - and why phase space can look fractal",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sYLYvnWPjuU",
           "author": null,
           "description": "",
@@ -402,6 +412,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=4WlZZ8NhmF8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4WlZZ8NhmF8",
+          "publishedOn": "2023-05-29T15:12:45.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to get intro trouble with statistics",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XSIIIZLpuGE",
           "author": null,
           "description": "",
@@ -409,26 +429,6 @@
           "publishedOn": "2023-05-29T09:00:15.000Z",
           "wordCount": null,
           "title": "Rocket comparison 15: Introducing the De Laval nozzle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=knNDIVXku6s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=knNDIVXku6s",
-          "publishedOn": "2023-05-28T18:00:09.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to get answers that are certain using probability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ToBH2NylYgA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ToBH2NylYgA",
-          "publishedOn": "2023-05-26T15:17:42.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Stability of periodic orbits - and why phase space can look fractal",
           "imageUrl": null
         }
       ]
@@ -455,6 +455,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=V4Z8EdiJxgk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V4Z8EdiJxgk",
+          "publishedOn": "2023-06-11T12:59:39.000Z",
+          "wordCount": null,
+          "title": "The Black Hole That Kills Galaxies",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RzwaiFvyN6s",
           "author": null,
@@ -1097,16 +1107,6 @@
           "publishedOn": "2023-03-22T09:00:08.000Z",
           "wordCount": null,
           "title": "Introduction to Control Analysis and Design in Julia: 9. Time-delay Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=huYRrn--AKc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=huYRrn--AKc",
-          "publishedOn": "2023-03-14T12:00:34.000Z",
-          "wordCount": null,
-          "title": "Introduction to Control Analysis and Design in Julia: 8. H-infinity Control Design",
           "imageUrl": null
         }
       ]

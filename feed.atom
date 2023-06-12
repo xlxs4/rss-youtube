@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T00:47:49.354Z</id>
+    <id>urn:2023-06-12T00:45:45.223Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-11T00:47:49.354Z</updated>
+    <updated>2023-06-12T00:45:45.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Stability of periodic orbits - and why phase space can look fractal]]></title>
+        <id>https://www.youtube.com/watch?v=ToBH2NylYgA</id>
+        <link href="https://www.youtube.com/watch?v=ToBH2NylYgA"/>
+        <updated>2023-06-11T18:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Black Hole That Kills Galaxies]]></title>
+        <id>https://www.youtube.com/watch?v=V4Z8EdiJxgk</id>
+        <link href="https://www.youtube.com/watch?v=V4Z8EdiJxgk"/>
+        <updated>2023-06-11T12:59:39.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rocket comparison 16: The effect of the type of fuel]]></title>
         <id>https://www.youtube.com/watch?v=sYLYvnWPjuU</id>
@@ -168,6 +186,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tutorial: How to get intro trouble with statistics]]></title>
+        <id>https://www.youtube.com/watch?v=4WlZZ8NhmF8</id>
+        <link href="https://www.youtube.com/watch?v=4WlZZ8NhmF8"/>
+        <updated>2023-05-29T15:12:45.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rocket comparison 15: Introducing the De Laval nozzle]]></title>
         <id>https://www.youtube.com/watch?v=XSIIIZLpuGE</id>
         <link href="https://www.youtube.com/watch?v=XSIIIZLpuGE"/>
@@ -183,24 +210,6 @@
         <updated>2023-05-28T20:14:55.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: How to get answers that are certain using probability]]></title>
-        <id>https://www.youtube.com/watch?v=knNDIVXku6s</id>
-        <link href="https://www.youtube.com/watch?v=knNDIVXku6s"/>
-        <updated>2023-05-28T18:00:09.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: Stability of periodic orbits - and why phase space can look fractal]]></title>
-        <id>https://www.youtube.com/watch?v=ToBH2NylYgA</id>
-        <link href="https://www.youtube.com/watch?v=ToBH2NylYgA"/>
-        <updated>2023-05-26T15:17:42.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -885,15 +894,6 @@
         <updated>2023-03-14T18:36:36.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 8. H-infinity Control Design]]></title>
-        <id>https://www.youtube.com/watch?v=huYRrn--AKc</id>
-        <link href="https://www.youtube.com/watch?v=huYRrn--AKc"/>
-        <updated>2023-03-14T12:00:34.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
