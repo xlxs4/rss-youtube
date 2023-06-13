@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-12T00:45:45.223Z</id>
+    <id>urn:2023-06-13T00:43:13.305Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-12T00:45:45.223Z</updated>
+    <updated>2023-06-13T00:43:13.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Egg billiard]]></title>
+        <id>https://www.youtube.com/watch?v=r7ETTCINfeU</id>
+        <link href="https://www.youtube.com/watch?v=r7ETTCINfeU"/>
+        <updated>2023-06-12T22:11:08.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sloshing water in an elliptical container]]></title>
+        <id>https://www.youtube.com/watch?v=Xj4r35zSKRs</id>
+        <link href="https://www.youtube.com/watch?v=Xj4r35zSKRs"/>
+        <updated>2023-06-12T09:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial: Stability of periodic orbits - and why phase space can look fractal]]></title>
         <id>https://www.youtube.com/watch?v=ToBH2NylYgA</id>
@@ -186,19 +204,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tutorial: How to get intro trouble with statistics]]></title>
+        <title type="html"><![CDATA[Tutorial: How to get into trouble with statistics]]></title>
         <id>https://www.youtube.com/watch?v=4WlZZ8NhmF8</id>
         <link href="https://www.youtube.com/watch?v=4WlZZ8NhmF8"/>
         <updated>2023-05-29T15:12:45.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket comparison 15: Introducing the De Laval nozzle]]></title>
-        <id>https://www.youtube.com/watch?v=XSIIIZLpuGE</id>
-        <link href="https://www.youtube.com/watch?v=XSIIIZLpuGE"/>
-        <updated>2023-05-29T09:00:15.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -771,15 +780,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Balls dropped on a hyperbola]]></title>
-        <id>https://www.youtube.com/watch?v=DzrD4YD_MXg</id>
-        <link href="https://www.youtube.com/watch?v=DzrD4YD_MXg"/>
-        <updated>2023-03-28T21:03:55.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How We Make Money on YouTube with 20M Subs]]></title>
         <id>https://www.youtube.com/watch?v=1x-i9z617z4</id>
         <link href="https://www.youtube.com/watch?v=1x-i9z617z4"/>
@@ -876,24 +876,6 @@
         <updated>2023-03-17T10:00:29.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duhamel's Principle for Partial Differential Equations]]></title>
-        <id>https://www.youtube.com/watch?v=86siB9vQ1Z0</id>
-        <link href="https://www.youtube.com/watch?v=86siB9vQ1Z0"/>
-        <updated>2023-03-14T23:18:34.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[But what is the Central Limit Theorem?]]></title>
-        <id>https://www.youtube.com/watch?v=zeJD6dqJ5lo</id>
-        <link href="https://www.youtube.com/watch?v=zeJD6dqJ5lo"/>
-        <updated>2023-03-14T18:36:36.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>

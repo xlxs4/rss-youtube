@@ -73,16 +73,6 @@
           "wordCount": null,
           "title": "Why π is in the normal distribution (beyond integral tricks)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zeJD6dqJ5lo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zeJD6dqJ5lo",
-          "publishedOn": "2023-03-14T18:36:36.000Z",
-          "wordCount": null,
-          "title": "But what is the Central Limit Theorem?",
-          "imageUrl": null
         }
       ]
     },
@@ -124,6 +114,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=r7ETTCINfeU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r7ETTCINfeU",
+          "publishedOn": "2023-06-12T22:11:08.000Z",
+          "wordCount": null,
+          "title": "Egg billiard",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-vlcAsNxTG4",
           "author": null,
@@ -263,16 +263,6 @@
           "wordCount": null,
           "title": "Balls falling on a quartic function",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DzrD4YD_MXg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DzrD4YD_MXg",
-          "publishedOn": "2023-03-28T21:03:55.000Z",
-          "wordCount": null,
-          "title": "Balls dropped on a hyperbola",
-          "imageUrl": null
         }
       ]
     },
@@ -281,6 +271,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Xj4r35zSKRs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xj4r35zSKRs",
+          "publishedOn": "2023-06-12T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Sloshing water in an elliptical container",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ToBH2NylYgA",
           "author": null,
@@ -418,17 +418,7 @@
           "link": "https://www.youtube.com/watch?v=4WlZZ8NhmF8",
           "publishedOn": "2023-05-29T15:12:45.000Z",
           "wordCount": null,
-          "title": "Tutorial: How to get intro trouble with statistics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XSIIIZLpuGE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XSIIIZLpuGE",
-          "publishedOn": "2023-05-29T09:00:15.000Z",
-          "wordCount": null,
-          "title": "Rocket comparison 15: Introducing the De Laval nozzle",
+          "title": "Tutorial: How to get into trouble with statistics",
           "imageUrl": null
         }
       ]
@@ -683,16 +673,6 @@
           "publishedOn": "2023-03-30T15:00:38.000Z",
           "wordCount": null,
           "title": "Real Analysis: Introduction to Functions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=86siB9vQ1Z0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=86siB9vQ1Z0",
-          "publishedOn": "2023-03-14T23:18:34.000Z",
-          "wordCount": null,
-          "title": "Duhamel's Principle for Partial Differential Equations",
           "imageUrl": null
         }
       ]
