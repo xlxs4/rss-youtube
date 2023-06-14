@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-13T00:43:13.305Z</id>
+    <id>urn:2023-06-14T00:40:43.996Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-13T00:43:13.305Z</updated>
+    <updated>2023-06-14T00:40:43.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cumulative energy of a branched flow]]></title>
+        <id>https://www.youtube.com/watch?v=kOR6OiRlL8Y</id>
+        <link href="https://www.youtube.com/watch?v=kOR6OiRlL8Y"/>
+        <updated>2023-06-13T09:00:25.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Egg billiard]]></title>
         <id>https://www.youtube.com/watch?v=r7ETTCINfeU</id>
@@ -190,15 +199,6 @@
         <id>https://www.youtube.com/watch?v=r8JFpuo4gSg</id>
         <link href="https://www.youtube.com/watch?v=r8JFpuo4gSg"/>
         <updated>2023-05-31T09:00:29.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloopers 10: Unstable interacting pressure systems]]></title>
-        <id>https://www.youtube.com/watch?v=11rONzkn_2A</id>
-        <link href="https://www.youtube.com/watch?v=11rONzkn_2A"/>
-        <updated>2023-05-30T09:00:02.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
