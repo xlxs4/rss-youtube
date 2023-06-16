@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T00:42:45.317Z</id>
+    <id>urn:2023-06-16T00:43:41.176Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-15T00:42:45.317Z</updated>
+    <updated>2023-06-16T00:43:41.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Does Humanity Exist NOW? #shorts #kurzgesagt]]></title>
+        <id>https://www.youtube.com/watch?v=BNvL_uZhTsY</id>
+        <link href="https://www.youtube.com/watch?v=BNvL_uZhTsY"/>
+        <updated>2023-06-15T14:06:52.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shallow water in a maze]]></title>
+        <id>https://www.youtube.com/watch?v=dt3VcwSbI2w</id>
+        <link href="https://www.youtube.com/watch?v=dt3VcwSbI2w"/>
+        <updated>2023-06-15T09:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phase space representation of parabolic resonators, long version]]></title>
         <id>https://www.youtube.com/watch?v=NRHhmwdhdjk</id>
@@ -51,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Black Hole That Kills Galaxies]]></title>
+        <title type="html"><![CDATA[The Black Hole That Kills Galaxies - Quasars]]></title>
         <id>https://www.youtube.com/watch?v=V4Z8EdiJxgk</id>
         <link href="https://www.youtube.com/watch?v=V4Z8EdiJxgk"/>
         <updated>2023-06-11T12:59:39.000Z</updated>
@@ -192,15 +210,6 @@
         <updated>2023-06-01T14:00:11.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fish swarm on a surface of genus 2]]></title>
-        <id>https://www.youtube.com/watch?v=-YV77aeZnEA</id>
-        <link href="https://www.youtube.com/watch?v=-YV77aeZnEA"/>
-        <updated>2023-06-01T09:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -831,42 +840,6 @@
         <updated>2023-03-22T09:00:08.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[James Webb Space Telescope Images of the Ring Nebula]]></title>
-        <id>https://www.youtube.com/watch?v=L9MzlY7MVW0</id>
-        <link href="https://www.youtube.com/watch?v=L9MzlY7MVW0"/>
-        <updated>2023-03-17T14:41:57.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the James Webb Space Telescope Tells Us About Black Holes]]></title>
-        <id>https://www.youtube.com/watch?v=pNYrvua4JmM</id>
-        <link href="https://www.youtube.com/watch?v=pNYrvua4JmM"/>
-        <updated>2023-03-17T14:40:04.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Mather on the Unfolding of the James Webb Space Telescope]]></title>
-        <id>https://www.youtube.com/watch?v=3eVTNIOROxQ</id>
-        <link href="https://www.youtube.com/watch?v=3eVTNIOROxQ"/>
-        <updated>2023-03-17T14:35:58.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hubble Deep Space vs. James Webb Field Image]]></title>
-        <id>https://www.youtube.com/watch?v=P0sTqHmpkHo</id>
-        <link href="https://www.youtube.com/watch?v=P0sTqHmpkHo"/>
-        <updated>2023-03-17T14:31:47.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
