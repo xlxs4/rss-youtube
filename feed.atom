@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-16T00:43:41.176Z</id>
+    <id>urn:2023-06-17T00:40:17.303Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-16T00:43:41.176Z</updated>
+    <updated>2023-06-17T00:40:17.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ML Community Call (2023-06-16)]]></title>
+        <id>https://www.youtube.com/watch?v=2HCR1Lhad20</id>
+        <link href="https://www.youtube.com/watch?v=2HCR1Lhad20"/>
+        <updated>2023-06-16T17:24:28.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charles Atlas on The Mathematics of Consciousness]]></title>
+        <id>https://www.youtube.com/watch?v=R1QCgMb-VsI</id>
+        <link href="https://www.youtube.com/watch?v=R1QCgMb-VsI"/>
+        <updated>2023-06-16T14:02:25.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Book!!!  Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control]]></title>
+        <id>https://www.youtube.com/watch?v=oEXR9EnAtm4</id>
+        <link href="https://www.youtube.com/watch?v=oEXR9EnAtm4"/>
+        <updated>2023-06-16T10:00:44.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D render of a branched flow]]></title>
+        <id>https://www.youtube.com/watch?v=oWcr7CU8I-E</id>
+        <link href="https://www.youtube.com/watch?v=oWcr7CU8I-E"/>
+        <updated>2023-06-16T09:00:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Does Humanity Exist NOW? #shorts #kurzgesagt]]></title>
         <id>https://www.youtube.com/watch?v=BNvL_uZhTsY</id>
@@ -181,15 +217,6 @@
         <id>https://www.youtube.com/watch?v=EqkKWA7G9Fc</id>
         <link href="https://www.youtube.com/watch?v=EqkKWA7G9Fc"/>
         <updated>2023-06-03T09:00:11.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: The mathematics of population extinction]]></title>
-        <id>https://www.youtube.com/watch?v=SZIWug14Trw</id>
-        <link href="https://www.youtube.com/watch?v=SZIWug14Trw"/>
-        <updated>2023-06-02T18:00:08.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -523,15 +550,6 @@
         <id>https://www.youtube.com/watch?v=pF1lgJhtolY</id>
         <link href="https://www.youtube.com/watch?v=pF1lgJhtolY"/>
         <updated>2023-05-02T10:40:30.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composable geospatial workflows with the Makie and JuliaGeo ecosystem - Rafael Schouten - MakieCon23]]></title>
-        <id>https://www.youtube.com/watch?v=WPulAlbBKmc</id>
-        <link href="https://www.youtube.com/watch?v=WPulAlbBKmc"/>
-        <updated>2023-05-02T10:40:23.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
         </author>

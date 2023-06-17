@@ -272,6 +272,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oWcr7CU8I-E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oWcr7CU8I-E",
+          "publishedOn": "2023-06-16T09:00:30.000Z",
+          "wordCount": null,
+          "title": "3D render of a branched flow",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dt3VcwSbI2w",
           "author": null,
           "description": "",
@@ -399,16 +409,6 @@
           "publishedOn": "2023-06-03T09:00:11.000Z",
           "wordCount": null,
           "title": "Eight interacting pressure systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SZIWug14Trw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SZIWug14Trw",
-          "publishedOn": "2023-06-02T18:00:08.000Z",
-          "wordCount": null,
-          "title": "Tutorial: The mathematics of population extinction",
           "imageUrl": null
         },
         {
@@ -573,6 +573,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oEXR9EnAtm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oEXR9EnAtm4",
+          "publishedOn": "2023-06-16T10:00:44.000Z",
+          "wordCount": null,
+          "title": "New Book!!!  Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r68zKdyIwVo",
           "author": null,
           "description": "",
@@ -682,6 +692,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=R1QCgMb-VsI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R1QCgMb-VsI",
+          "publishedOn": "2023-06-16T14:02:25.000Z",
+          "wordCount": null,
+          "title": "Charles Atlas on The Mathematics of Consciousness",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_oZ2fYnFYmw",
           "author": null,
@@ -856,6 +876,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2HCR1Lhad20",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2HCR1Lhad20",
+          "publishedOn": "2023-06-16T17:24:28.000Z",
+          "wordCount": null,
+          "title": "ML Community Call (2023-06-16)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZYkojUozeC4",
           "author": null,
           "description": "",
@@ -993,16 +1023,6 @@
           "publishedOn": "2023-05-02T10:40:30.000Z",
           "wordCount": null,
           "title": "The design of GeoMakie 2.0 - Anshul Singhvi - MakieCon 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WPulAlbBKmc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WPulAlbBKmc",
-          "publishedOn": "2023-05-02T10:40:23.000Z",
-          "wordCount": null,
-          "title": "Composable geospatial workflows with the Makie and JuliaGeo ecosystem - Rafael Schouten - MakieCon23",
           "imageUrl": null
         }
       ]
