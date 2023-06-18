@@ -51,7 +51,18 @@
       "title": "Primer",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
       "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6YzrVUVO9M0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6YzrVUVO9M0",
+          "publishedOn": "2023-06-17T14:51:26.000Z",
+          "wordCount": null,
+          "title": "Overexplaining the Binomial Distribution Formula",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Reducible",
@@ -272,6 +283,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Zp2oYAteGhE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zp2oYAteGhE",
+          "publishedOn": "2023-06-17T09:00:19.000Z",
+          "wordCount": null,
+          "title": "Solving a maze with gravity and sand",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oWcr7CU8I-E",
           "author": null,
           "description": "",
@@ -399,16 +420,6 @@
           "publishedOn": "2023-06-04T09:00:34.000Z",
           "wordCount": null,
           "title": "Sloshing water in a circular bucket: shallow water equation with weaker viscosity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EqkKWA7G9Fc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EqkKWA7G9Fc",
-          "publishedOn": "2023-06-03T09:00:11.000Z",
-          "wordCount": null,
-          "title": "Eight interacting pressure systems",
           "imageUrl": null
         },
         {
