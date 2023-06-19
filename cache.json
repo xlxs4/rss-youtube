@@ -283,6 +283,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4WlZZ8NhmF8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4WlZZ8NhmF8",
+          "publishedOn": "2023-06-18T18:00:10.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to get into trouble with statistics",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Zp2oYAteGhE",
           "author": null,
           "description": "",
@@ -300,6 +310,16 @@
           "publishedOn": "2023-06-16T09:00:30.000Z",
           "wordCount": null,
           "title": "3D render of a branched flow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yIRppNOHDTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yIRppNOHDTo",
+          "publishedOn": "2023-06-16T08:47:47.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Feynman diagrams, Part 1",
           "imageUrl": null
         },
         {
@@ -411,26 +431,6 @@
           "wordCount": null,
           "title": "Many fish and one shark, with stronger interaction",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ohrx0ZB9e0U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ohrx0ZB9e0U",
-          "publishedOn": "2023-06-04T09:00:34.000Z",
-          "wordCount": null,
-          "title": "Sloshing water in a circular bucket: shallow water equation with weaker viscosity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4WlZZ8NhmF8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4WlZZ8NhmF8",
-          "publishedOn": "2023-05-29T15:12:45.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to get into trouble with statistics",
-          "imageUrl": null
         }
       ]
     },
@@ -456,6 +456,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uoJwt9l-XhQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uoJwt9l-XhQ",
+          "publishedOn": "2023-06-18T13:00:41.000Z",
+          "wordCount": null,
+          "title": "A New Way to Understand Cancer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BNvL_uZhTsY",
           "author": null,
