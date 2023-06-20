@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-19T00:42:54.620Z</id>
+    <id>urn:2023-06-20T00:42:45.426Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-19T00:42:54.620Z</updated>
+    <updated>2023-06-20T00:42:45.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A shallow wave flowing over a circular obstacle]]></title>
+        <id>https://www.youtube.com/watch?v=NEFI_mINm4s</id>
+        <link href="https://www.youtube.com/watch?v=NEFI_mINm4s"/>
+        <updated>2023-06-19T09:00:24.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial: How to get into trouble with statistics]]></title>
         <id>https://www.youtube.com/watch?v=4WlZZ8NhmF8</id>
@@ -15,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A New Way to Understand Cancer]]></title>
+        <title type="html"><![CDATA[The Reason Why Cancer is so Hard to Beat]]></title>
         <id>https://www.youtube.com/watch?v=uoJwt9l-XhQ</id>
         <link href="https://www.youtube.com/watch?v=uoJwt9l-XhQ"/>
         <updated>2023-06-18T13:00:41.000Z</updated>
@@ -24,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overexplaining the Binomial Distribution Formula]]></title>
+        <title type="html"><![CDATA[A Secret Weapon for Predicting Outcomes: The Binomial Distribution]]></title>
         <id>https://www.youtube.com/watch?v=6YzrVUVO9M0</id>
         <link href="https://www.youtube.com/watch?v=6YzrVUVO9M0"/>
         <updated>2023-06-17T14:51:26.000Z</updated>
@@ -226,15 +235,6 @@
         <id>https://www.youtube.com/watch?v=P-vQwfCrUh8</id>
         <link href="https://www.youtube.com/watch?v=P-vQwfCrUh8"/>
         <updated>2023-06-06T09:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many fish and one shark, with stronger interaction]]></title>
-        <id>https://www.youtube.com/watch?v=8mrF87GDj-I</id>
-        <link href="https://www.youtube.com/watch?v=8mrF87GDj-I"/>
-        <updated>2023-06-05T09:00:05.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -867,15 +867,6 @@
         <updated>2023-03-23T15:00:27.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Control Analysis and Design in Julia: 9. Time-delay Systems]]></title>
-        <id>https://www.youtube.com/watch?v=ER8_oHU2vZs</id>
-        <link href="https://www.youtube.com/watch?v=ER8_oHU2vZs"/>
-        <updated>2023-03-22T09:00:08.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>

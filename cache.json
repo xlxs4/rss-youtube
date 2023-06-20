@@ -59,7 +59,7 @@
           "link": "https://www.youtube.com/watch?v=6YzrVUVO9M0",
           "publishedOn": "2023-06-17T14:51:26.000Z",
           "wordCount": null,
-          "title": "Overexplaining the Binomial Distribution Formula",
+          "title": "A Secret Weapon for Predicting Outcomes: The Binomial Distribution",
           "imageUrl": null
         }
       ]
@@ -283,6 +283,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NEFI_mINm4s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NEFI_mINm4s",
+          "publishedOn": "2023-06-19T09:00:24.000Z",
+          "wordCount": null,
+          "title": "A shallow wave flowing over a circular obstacle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4WlZZ8NhmF8",
           "author": null,
           "description": "",
@@ -421,16 +431,6 @@
           "wordCount": null,
           "title": "Comparison of two circular phased array",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8mrF87GDj-I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8mrF87GDj-I",
-          "publishedOn": "2023-06-05T09:00:05.000Z",
-          "wordCount": null,
-          "title": "Many fish and one shark, with stronger interaction",
-          "imageUrl": null
         }
       ]
     },
@@ -463,7 +463,7 @@
           "link": "https://www.youtube.com/watch?v=uoJwt9l-XhQ",
           "publishedOn": "2023-06-18T13:00:41.000Z",
           "wordCount": null,
-          "title": "A New Way to Understand Cancer",
+          "title": "The Reason Why Cancer is so Hard to Beat",
           "imageUrl": null
         },
         {
@@ -1078,16 +1078,6 @@
           "publishedOn": "2023-03-29T13:00:47.000Z",
           "wordCount": null,
           "title": "Introduction to Control Analysis and Design in Julia: 10. The benefit and Cost of Feedback",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ER8_oHU2vZs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ER8_oHU2vZs",
-          "publishedOn": "2023-03-22T09:00:08.000Z",
-          "wordCount": null,
-          "title": "Introduction to Control Analysis and Design in Julia: 9. Time-delay Systems",
           "imageUrl": null
         }
       ]
