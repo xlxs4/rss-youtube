@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-20T00:42:45.426Z</id>
+    <id>urn:2023-06-21T00:42:45.690Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-20T00:42:45.426Z</updated>
+    <updated>2023-06-21T00:42:45.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A branched flow in Poisson disc/blue noise]]></title>
+        <id>https://www.youtube.com/watch?v=mVleSAcvcf0</id>
+        <link href="https://www.youtube.com/watch?v=mVleSAcvcf0"/>
+        <updated>2023-06-20T09:00:23.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A shallow wave flowing over a circular obstacle]]></title>
         <id>https://www.youtube.com/watch?v=NEFI_mINm4s</id>
@@ -228,15 +237,6 @@
         <updated>2023-06-06T13:53:42.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparison of two circular phased array]]></title>
-        <id>https://www.youtube.com/watch?v=P-vQwfCrUh8</id>
-        <link href="https://www.youtube.com/watch?v=P-vQwfCrUh8"/>
-        <updated>2023-06-06T09:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

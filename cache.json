@@ -283,6 +283,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mVleSAcvcf0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mVleSAcvcf0",
+          "publishedOn": "2023-06-20T09:00:23.000Z",
+          "wordCount": null,
+          "title": "A branched flow in Poisson disc/blue noise",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NEFI_mINm4s",
           "author": null,
           "description": "",
@@ -420,16 +430,6 @@
           "publishedOn": "2023-06-07T09:00:01.000Z",
           "wordCount": null,
           "title": "Phase space representation of the billiard in Reuleaux-like pentagons, long version",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P-vQwfCrUh8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P-vQwfCrUh8",
-          "publishedOn": "2023-06-06T09:00:20.000Z",
-          "wordCount": null,
-          "title": "Comparison of two circular phased array",
           "imageUrl": null
         }
       ]
