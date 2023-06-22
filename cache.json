@@ -101,16 +101,6 @@
           "wordCount": null,
           "title": "No map is perfect, but can we PROVE it?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lPr5v7mwq34",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lPr5v7mwq34",
-          "publishedOn": "2023-03-23T15:00:27.000Z",
-          "wordCount": null,
-          "title": "The biggest misconception about spin 1/2",
-          "imageUrl": null
         }
       ]
     },
@@ -283,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RISKYPSWs0g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RISKYPSWs0g",
+          "publishedOn": "2023-06-21T09:00:29.000Z",
+          "wordCount": null,
+          "title": "Solving a larger maze with gravity and sand",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mVleSAcvcf0",
           "author": null,
           "description": "",
@@ -420,16 +420,6 @@
           "publishedOn": "2023-06-08T09:00:18.000Z",
           "wordCount": null,
           "title": "Shallow water in a circular bucket with four sources",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=106iqkX_0Ec",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=106iqkX_0Ec",
-          "publishedOn": "2023-06-07T09:00:01.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of the billiard in Reuleaux-like pentagons, long version",
           "imageUrl": null
         }
       ]
@@ -1087,6 +1077,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g",
       "siteUrl": "https://www.youtube.com/channel/UCbHJVeS0ZIco7FTTqhvDg6g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MNzFcOaThIg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MNzFcOaThIg",
+          "publishedOn": "2023-06-21T15:32:04.000Z",
+          "wordCount": null,
+          "title": "Hacking Bacteria Programming Using Control Theory & Math",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IoyTqo237oo",
           "author": null,
