@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FVSRo4-oabg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FVSRo4-oabg",
+          "publishedOn": "2023-06-22T09:00:14.000Z",
+          "wordCount": null,
+          "title": "A linear wave flowing over a circular obstacle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RISKYPSWs0g",
           "author": null,
           "description": "",
@@ -411,16 +421,6 @@
           "wordCount": null,
           "title": "First attempt at simulating a branched flow in a random medium",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S8nJpxQfjtY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S8nJpxQfjtY",
-          "publishedOn": "2023-06-08T09:00:18.000Z",
-          "wordCount": null,
-          "title": "Shallow water in a circular bucket with four sources",
-          "imageUrl": null
         }
       ]
     },
@@ -446,6 +446,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XFM4tCakAXY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XFM4tCakAXY",
+          "publishedOn": "2023-06-22T14:00:21.000Z",
+          "wordCount": null,
+          "title": "Let's Make Earth Twice as Large! #shorts #kurzgesagt",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uoJwt9l-XhQ",
           "author": null,
@@ -642,16 +652,6 @@
           "wordCount": null,
           "title": "Complex Analysis L10: Cauchy Integral Formula",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ywAEVq9ULxs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ywAEVq9ULxs",
-          "publishedOn": "2023-03-24T14:45:04.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L09: Complex Residues",
-          "imageUrl": null
         }
       ]
     },
@@ -820,6 +820,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VzxI8Xjx1iw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VzxI8Xjx1iw",
+          "publishedOn": "2023-06-22T14:28:16.000Z",
+          "wordCount": null,
+          "title": "Memory: The Hidden Pathways That Make Us Human",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1f7jm3T_hao",
           "author": null,
