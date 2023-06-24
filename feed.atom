@@ -1,17 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-23T00:48:44.371Z</id>
+    <id>urn:2023-06-24T00:47:51.105Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-23T00:48:44.371Z</updated>
+    <updated>2023-06-24T00:47:51.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🤯🤯🤯 Integrating GPT-4 into Collimator.ai for Symbolic Modeling and Control 🔥🔥🔥]]></title>
+        <id>https://www.youtube.com/watch?v=IPQaJbWlUAo</id>
+        <link href="https://www.youtube.com/watch?v=IPQaJbWlUAo"/>
+        <updated>2023-06-23T23:15:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memory: The Hidden Pathways That Make Us Human]]></title>
         <id>https://www.youtube.com/watch?v=VzxI8Xjx1iw</id>
         <link href="https://www.youtube.com/watch?v=VzxI8Xjx1iw"/>
-        <updated>2023-06-22T14:28:16.000Z</updated>
+        <updated>2023-06-23T22:00:09.000Z</updated>
         <author>
             <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D render of a branched flow in Poisson disc/blue noise]]></title>
+        <id>https://www.youtube.com/watch?v=REppOSoorAA</id>
+        <link href="https://www.youtube.com/watch?v=REppOSoorAA"/>
+        <updated>2023-06-23T09:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -237,15 +255,6 @@
         <updated>2023-06-09T22:00:10.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First attempt at simulating a branched flow in a random medium]]></title>
-        <id>https://www.youtube.com/watch?v=U6um6dFBeFY</id>
-        <link href="https://www.youtube.com/watch?v=U6um6dFBeFY"/>
-        <updated>2023-06-09T09:00:30.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
