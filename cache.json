@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ihdAzhccolk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ihdAzhccolk",
+          "publishedOn": "2023-06-24T09:00:20.000Z",
+          "wordCount": null,
+          "title": "Particle flow through a maze with gravity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=REppOSoorAA",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2023-06-11T18:00:09.000Z",
           "wordCount": null,
           "title": "Tutorial: Stability of periodic orbits - and why phase space can look fractal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sYLYvnWPjuU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sYLYvnWPjuU",
-          "publishedOn": "2023-06-10T09:00:27.000Z",
-          "wordCount": null,
-          "title": "Rocket comparison 16: The effect of the type of fuel",
           "imageUrl": null
         }
       ]
@@ -600,7 +600,7 @@
           "link": "https://www.youtube.com/watch?v=IPQaJbWlUAo",
           "publishedOn": "2023-06-23T23:15:00.000Z",
           "wordCount": null,
-          "title": "🤯🤯🤯 Integrating GPT-4 into Collimator.ai for Symbolic Modeling and Control 🔥🔥🔥",
+          "title": "🤯🤯🤯 Integrating GPT-4 into Collimator.ai for Symbolic Modeling and Control** 🔥🔥🔥",
           "imageUrl": null
         },
         {
@@ -1115,16 +1115,6 @@
           "publishedOn": "2023-05-17T14:00:07.000Z",
           "wordCount": null,
           "title": "The genius algorithm behind DNA error correction (TMEB #5)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sYWQK89zMcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sYWQK89zMcU",
-          "publishedOn": "2023-03-26T13:00:09.000Z",
-          "wordCount": null,
-          "title": "The math behind cell division (TMEB #4)",
           "imageUrl": null
         }
       ]
