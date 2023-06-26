@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yIRppNOHDTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yIRppNOHDTo",
+          "publishedOn": "2023-06-25T18:00:07.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Feynman diagrams, Part 1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ihdAzhccolk",
           "author": null,
           "description": "",
@@ -333,6 +343,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=Umfa-TDkhhQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Umfa-TDkhhQ",
+          "publishedOn": "2023-06-19T08:50:44.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Feynman diagrams, Part 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4WlZZ8NhmF8",
           "author": null,
           "description": "",
@@ -360,16 +380,6 @@
           "publishedOn": "2023-06-16T09:00:30.000Z",
           "wordCount": null,
           "title": "3D render of a branched flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yIRppNOHDTo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yIRppNOHDTo",
-          "publishedOn": "2023-06-16T08:47:47.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Feynman diagrams, Part 1",
           "imageUrl": null
         },
         {
@@ -410,16 +420,6 @@
           "publishedOn": "2023-06-12T09:00:16.000Z",
           "wordCount": null,
           "title": "Sloshing water in an elliptical container",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ToBH2NylYgA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ToBH2NylYgA",
-          "publishedOn": "2023-06-11T18:00:09.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Stability of periodic orbits - and why phase space can look fractal",
           "imageUrl": null
         }
       ]
@@ -811,16 +811,6 @@
           "publishedOn": "2023-03-31T13:52:35.000Z",
           "wordCount": null,
           "title": "Physicist Alan Lightman on Spirituality in the Age of Science",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F74YsmI911A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F74YsmI911A",
-          "publishedOn": "2023-03-27T16:33:13.000Z",
-          "wordCount": null,
-          "title": "Drew McDowall Live at Pioneer Works (Full Set)",
           "imageUrl": null
         }
       ]
