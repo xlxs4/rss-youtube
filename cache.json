@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zawgZziFRjY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zawgZziFRjY",
+          "publishedOn": "2023-06-26T09:00:40.000Z",
+          "wordCount": null,
+          "title": "Phase space representation of the billiard in Reuleaux-like triangles, long version",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yIRppNOHDTo",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2023-06-13T09:00:25.000Z",
           "wordCount": null,
           "title": "Cumulative energy of a branched flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xj4r35zSKRs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xj4r35zSKRs",
-          "publishedOn": "2023-06-12T09:00:16.000Z",
-          "wordCount": null,
-          "title": "Sloshing water in an elliptical container",
           "imageUrl": null
         }
       ]
@@ -574,16 +574,6 @@
           "publishedOn": "2023-04-11T14:00:45.000Z",
           "wordCount": null,
           "title": "Why Aliens Might Already Be On Their Way To Us",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1x-i9z617z4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1x-i9z617z4",
-          "publishedOn": "2023-03-28T14:00:05.000Z",
-          "wordCount": null,
-          "title": "How We Make Money on YouTube with 20M Subs",
           "imageUrl": null
         }
       ]
@@ -1070,6 +1060,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xv1BFNSyTCA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xv1BFNSyTCA",
+          "publishedOn": "2023-06-26T16:30:28.000Z",
+          "wordCount": null,
+          "title": "Using Julia for Control Systems, Fredrik Carlson",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uQx192FyA5g",
           "author": null,
