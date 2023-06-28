@@ -76,6 +76,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IaSGqQa5O-M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IaSGqQa5O-M",
+          "publishedOn": "2023-06-27T15:08:14.000Z",
+          "wordCount": null,
+          "title": "X+Y, in probability, is a beautiful mess | Visualizing continuous convolutions",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cy8r7WSuT1I",
           "author": null,
           "description": "",
@@ -92,6 +102,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
+          "publishedOn": "2023-06-27T14:00:28.000Z",
+          "wordCount": null,
+          "title": "Queuing theory and Poisson process",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
           "author": null,
@@ -273,6 +293,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PE1TVXege6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PE1TVXege6M",
+          "publishedOn": "2023-06-27T09:00:17.000Z",
+          "wordCount": null,
+          "title": "A linear wave flowing over a square grid of circles",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zawgZziFRjY",
           "author": null,
           "description": "",
@@ -410,16 +440,6 @@
           "publishedOn": "2023-06-14T09:00:15.000Z",
           "wordCount": null,
           "title": "Phase space representation of parabolic resonators, long version",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kOR6OiRlL8Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kOR6OiRlL8Y",
-          "publishedOn": "2023-06-13T09:00:25.000Z",
-          "wordCount": null,
-          "title": "Cumulative energy of a branched flow",
           "imageUrl": null
         }
       ]
@@ -1067,17 +1087,7 @@
           "link": "https://www.youtube.com/watch?v=xv1BFNSyTCA",
           "publishedOn": "2023-06-26T16:30:28.000Z",
           "wordCount": null,
-          "title": "Using Julia for Control Systems, Fredrik Carlson",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uQx192FyA5g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uQx192FyA5g",
-          "publishedOn": "2023-03-29T13:00:47.000Z",
-          "wordCount": null,
-          "title": "Introduction to Control Analysis and Design in Julia: 10. The benefit and Cost of Feedback",
+          "title": "Using Julia for Control Systems, Fredrik Bagge Carlson",
           "imageUrl": null
         }
       ]
