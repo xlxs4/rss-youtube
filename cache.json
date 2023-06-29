@@ -76,13 +76,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NOCsdhzo6Jg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NOCsdhzo6Jg",
+          "publishedOn": "2023-06-28T19:17:11.000Z",
+          "wordCount": null,
+          "title": "How They Fool Ya (live) | Mathematical parody of Hallelujah",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IaSGqQa5O-M",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=IaSGqQa5O-M",
           "publishedOn": "2023-06-27T15:08:14.000Z",
           "wordCount": null,
-          "title": "X+Y, in probability, is a beautiful mess | Visualizing continuous convolutions",
+          "title": "Convolutions and adding random variables, visually explained",
           "imageUrl": null
         },
         {
@@ -293,6 +303,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OsPyfRV2XjQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OsPyfRV2XjQ",
+          "publishedOn": "2023-06-28T09:00:14.000Z",
+          "wordCount": null,
+          "title": "A branched flow (super short version, energy flow direction)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0yUiBrqAASQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0yUiBrqAASQ",
+          "publishedOn": "2023-06-28T09:00:00.000Z",
+          "wordCount": null,
+          "title": "A branched flow (super short version)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PE1TVXege6M",
           "author": null,
           "description": "",
@@ -420,26 +450,6 @@
           "publishedOn": "2023-06-16T09:00:30.000Z",
           "wordCount": null,
           "title": "3D render of a branched flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dt3VcwSbI2w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dt3VcwSbI2w",
-          "publishedOn": "2023-06-15T09:00:32.000Z",
-          "wordCount": null,
-          "title": "Shallow water in a maze",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NRHhmwdhdjk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NRHhmwdhdjk",
-          "publishedOn": "2023-06-14T09:00:15.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of parabolic resonators, long version",
           "imageUrl": null
         }
       ]
@@ -704,16 +714,6 @@
           "publishedOn": "2023-04-13T18:00:01.000Z",
           "wordCount": null,
           "title": "Real Analysis: The Natural Numbers and Mathematical Induction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=opCtwhwXeBk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=opCtwhwXeBk",
-          "publishedOn": "2023-03-30T15:00:38.000Z",
-          "wordCount": null,
-          "title": "Real Analysis: Introduction to Functions",
           "imageUrl": null
         }
       ]

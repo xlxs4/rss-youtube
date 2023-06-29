@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T00:49:28.871Z</id>
+    <id>urn:2023-06-29T00:47:01.681Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-28T00:49:28.871Z</updated>
+    <updated>2023-06-29T00:47:01.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[X+Y, in probability, is a beautiful mess | Visualizing continuous convolutions]]></title>
+        <title type="html"><![CDATA[How They Fool Ya (live) | Mathematical parody of Hallelujah]]></title>
+        <id>https://www.youtube.com/watch?v=NOCsdhzo6Jg</id>
+        <link href="https://www.youtube.com/watch?v=NOCsdhzo6Jg"/>
+        <updated>2023-06-28T19:17:11.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A branched flow (super short version, energy flow direction)]]></title>
+        <id>https://www.youtube.com/watch?v=OsPyfRV2XjQ</id>
+        <link href="https://www.youtube.com/watch?v=OsPyfRV2XjQ"/>
+        <updated>2023-06-28T09:00:14.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A branched flow (super short version)]]></title>
+        <id>https://www.youtube.com/watch?v=0yUiBrqAASQ</id>
+        <link href="https://www.youtube.com/watch?v=0yUiBrqAASQ"/>
+        <updated>2023-06-28T09:00:00.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convolutions and adding random variables, visually explained]]></title>
         <id>https://www.youtube.com/watch?v=IaSGqQa5O-M</id>
         <link href="https://www.youtube.com/watch?v=IaSGqQa5O-M"/>
         <updated>2023-06-27T15:08:14.000Z</updated>
@@ -237,24 +264,6 @@
         <updated>2023-06-15T14:06:52.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shallow water in a maze]]></title>
-        <id>https://www.youtube.com/watch?v=dt3VcwSbI2w</id>
-        <link href="https://www.youtube.com/watch?v=dt3VcwSbI2w"/>
-        <updated>2023-06-15T09:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phase space representation of parabolic resonators, long version]]></title>
-        <id>https://www.youtube.com/watch?v=NRHhmwdhdjk</id>
-        <link href="https://www.youtube.com/watch?v=NRHhmwdhdjk"/>
-        <updated>2023-06-14T09:00:15.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -867,15 +876,6 @@
         <updated>2023-03-31T13:52:35.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real Analysis: Introduction to Functions]]></title>
-        <id>https://www.youtube.com/watch?v=opCtwhwXeBk</id>
-        <link href="https://www.youtube.com/watch?v=opCtwhwXeBk"/>
-        <updated>2023-03-30T15:00:38.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
