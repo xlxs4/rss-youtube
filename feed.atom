@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-29T00:47:01.681Z</id>
+    <id>urn:2023-06-30T00:45:29.302Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-06-29T00:47:01.681Z</updated>
+    <updated>2023-06-30T00:45:29.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How They Fool Ya (live) | Mathematical parody of Hallelujah]]></title>
+        <title type="html"><![CDATA[Are Your Friends More Popular than You? #shorts #kurzgesagt]]></title>
+        <id>https://www.youtube.com/watch?v=_arb8Fu3LXo</id>
+        <link href="https://www.youtube.com/watch?v=_arb8Fu3LXo"/>
+        <updated>2023-06-29T14:00:31.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a maze with gravity and sand at smaller friction]]></title>
+        <id>https://www.youtube.com/watch?v=OrQ_Am7_6rM</id>
+        <link href="https://www.youtube.com/watch?v=OrQ_Am7_6rM"/>
+        <updated>2023-06-29T09:00:12.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How They Fool Ya (live) | Math parody of Hallelujah]]></title>
         <id>https://www.youtube.com/watch?v=NOCsdhzo6Jg</id>
         <link href="https://www.youtube.com/watch?v=NOCsdhzo6Jg"/>
         <updated>2023-06-28T19:17:11.000Z</updated>
@@ -246,15 +264,6 @@
         <updated>2023-06-16T10:00:44.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D render of a branched flow]]></title>
-        <id>https://www.youtube.com/watch?v=oWcr7CU8I-E</id>
-        <link href="https://www.youtube.com/watch?v=oWcr7CU8I-E"/>
-        <updated>2023-06-16T09:00:30.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -849,33 +858,6 @@
         <updated>2023-04-01T14:46:04.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Your Brain Organizes Information]]></title>
-        <id>https://www.youtube.com/watch?v=9qOaII_PzGY</id>
-        <link href="https://www.youtube.com/watch?v=9qOaII_PzGY"/>
-        <updated>2023-03-31T21:03:30.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex Analysis L10: Cauchy Integral Formula]]></title>
-        <id>https://www.youtube.com/watch?v=4epESGF3qcU</id>
-        <link href="https://www.youtube.com/watch?v=4epESGF3qcU"/>
-        <updated>2023-03-31T14:15:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicist Alan Lightman on Spirituality in the Age of Science]]></title>
-        <id>https://www.youtube.com/watch?v=MasutcQap38</id>
-        <link href="https://www.youtube.com/watch?v=MasutcQap38"/>
-        <updated>2023-03-31T13:52:35.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>

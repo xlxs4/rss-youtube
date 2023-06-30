@@ -82,7 +82,7 @@
           "link": "https://www.youtube.com/watch?v=NOCsdhzo6Jg",
           "publishedOn": "2023-06-28T19:17:11.000Z",
           "wordCount": null,
-          "title": "How They Fool Ya (live) | Mathematical parody of Hallelujah",
+          "title": "How They Fool Ya (live) | Math parody of Hallelujah",
           "imageUrl": null
         },
         {
@@ -303,6 +303,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OrQ_Am7_6rM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OrQ_Am7_6rM",
+          "publishedOn": "2023-06-29T09:00:12.000Z",
+          "wordCount": null,
+          "title": "Solving a maze with gravity and sand at smaller friction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OsPyfRV2XjQ",
           "author": null,
           "description": "",
@@ -441,16 +451,6 @@
           "wordCount": null,
           "title": "Solving a maze with gravity and sand",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oWcr7CU8I-E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oWcr7CU8I-E",
-          "publishedOn": "2023-06-16T09:00:30.000Z",
-          "wordCount": null,
-          "title": "3D render of a branched flow",
-          "imageUrl": null
         }
       ]
     },
@@ -476,6 +476,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_arb8Fu3LXo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_arb8Fu3LXo",
+          "publishedOn": "2023-06-29T14:00:31.000Z",
+          "wordCount": null,
+          "title": "Are Your Friends More Popular than You? #shorts #kurzgesagt",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XFM4tCakAXY",
           "author": null,
@@ -672,16 +682,6 @@
           "wordCount": null,
           "title": "Complex Analysis L11: Examples of Cauchy-Integral Formula",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4epESGF3qcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4epESGF3qcU",
-          "publishedOn": "2023-03-31T14:15:00.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L10: Cauchy Integral Formula",
-          "imageUrl": null
         }
       ]
     },
@@ -812,16 +812,6 @@
           "wordCount": null,
           "title": "YATTA | Residency Profile",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MasutcQap38",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MasutcQap38",
-          "publishedOn": "2023-03-31T13:52:35.000Z",
-          "wordCount": null,
-          "title": "Physicist Alan Lightman on Spirituality in the Age of Science",
-          "imageUrl": null
         }
       ]
     },
@@ -875,16 +865,6 @@
           "publishedOn": "2023-04-30T16:48:19.000Z",
           "wordCount": null,
           "title": "Can We Build an Artificial Hippocampus?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9qOaII_PzGY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9qOaII_PzGY",
-          "publishedOn": "2023-03-31T21:03:30.000Z",
-          "wordCount": null,
-          "title": "How Your Brain Organizes Information",
           "imageUrl": null
         }
       ]
