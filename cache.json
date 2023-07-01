@@ -129,7 +129,7 @@
           "link": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
           "publishedOn": "2023-04-26T14:00:03.000Z",
           "wordCount": null,
-          "title": "No map is perfect, but can we PROVE it?",
+          "title": "All maps are wrong - the gem in differential geometry",
           "imageUrl": null
         }
       ]
@@ -284,16 +284,6 @@
           "wordCount": null,
           "title": "Balls symmetrically dropped in a parabola",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QyJYkqEsuRE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QyJYkqEsuRE",
-          "publishedOn": "2023-04-01T14:46:04.000Z",
-          "wordCount": null,
-          "title": "Balls falling on a quartic function",
-          "imageUrl": null
         }
       ]
     },
@@ -302,6 +292,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=e0Qn5jzGH-8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e0Qn5jzGH-8",
+          "publishedOn": "2023-06-30T09:00:36.000Z",
+          "wordCount": null,
+          "title": "A linear wave flowing over a Poisson disc arrangement of obstacles",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OrQ_Am7_6rM",
           "author": null,
@@ -440,16 +440,6 @@
           "publishedOn": "2023-06-18T18:00:10.000Z",
           "wordCount": null,
           "title": "Tutorial: How to get into trouble with statistics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zp2oYAteGhE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zp2oYAteGhE",
-          "publishedOn": "2023-06-17T09:00:19.000Z",
-          "wordCount": null,
-          "title": "Solving a maze with gravity and sand",
           "imageUrl": null
         }
       ]
@@ -623,6 +613,86 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xSZb2UmpzO8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xSZb2UmpzO8",
+          "publishedOn": "2023-06-30T10:00:52.000Z",
+          "wordCount": null,
+          "title": "[5/8] Control for Societal-Scale Challenges: Road Map 2030 [Technology, Validation, and Transition]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=w5UrYC_OPIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w5UrYC_OPIk",
+          "publishedOn": "2023-06-30T10:00:49.000Z",
+          "wordCount": null,
+          "title": "[8/8] Control for Societal-Scale Challenges: Road Map 2030 [Recommendations]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vrIqsWIJR20",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vrIqsWIJR20",
+          "publishedOn": "2023-06-30T10:00:46.000Z",
+          "wordCount": null,
+          "title": "[2/8] Control for Societal-Scale Challenges: Road Map 2030 [Societal Drivers]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=btWyzKmU9wM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=btWyzKmU9wM",
+          "publishedOn": "2023-06-30T10:00:35.000Z",
+          "wordCount": null,
+          "title": "[1/8] Control for Societal-Scale Challenges: Road Map 2030 [Introduction]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VuAFZPwygyE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VuAFZPwygyE",
+          "publishedOn": "2023-06-30T10:00:31.000Z",
+          "wordCount": null,
+          "title": "[6/8] Control for Societal-Scale Challenges: Road Map 2030 [Education]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IEjVHdiWOPM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IEjVHdiWOPM",
+          "publishedOn": "2023-06-30T10:00:12.000Z",
+          "wordCount": null,
+          "title": "[3/8] Control for Societal-Scale Challenges: Road Map 2030 [Technological Trends]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0eeRKZt8n4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0eeRKZt8n4I",
+          "publishedOn": "2023-06-30T10:00:01.000Z",
+          "wordCount": null,
+          "title": "[4/8] Control for Societal-Scale Challenges: Road Map 2030 [Emerging Methodologies]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aOiAsphMsCI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aOiAsphMsCI",
+          "publishedOn": "2023-06-30T10:00:01.000Z",
+          "wordCount": null,
+          "title": "[7/8] Control for Societal-Scale Challenges: Road Map 2030 [Ethics, Fairness, & Regulatory Issues]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IPQaJbWlUAo",
           "author": null,
@@ -820,6 +890,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cm8OHGvl4Oc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cm8OHGvl4Oc",
+          "publishedOn": "2023-06-30T22:00:11.000Z",
+          "wordCount": null,
+          "title": "The Golden Age of Space Exploration",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VzxI8Xjx1iw",
           "author": null,
