@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T00:53:07.162Z</id>
+    <id>urn:2023-07-02T00:51:19.822Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-01T00:53:07.162Z</updated>
+    <updated>2023-07-02T00:51:19.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A branched flow in Poisson point process potential]]></title>
+        <id>https://www.youtube.com/watch?v=Af8WLvfDc5g</id>
+        <link href="https://www.youtube.com/watch?v=Af8WLvfDc5g"/>
+        <updated>2023-07-01T09:00:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Golden Age of Space Exploration]]></title>
         <id>https://www.youtube.com/watch?v=cm8OHGvl4Oc</id>
@@ -289,15 +298,6 @@
         <id>https://www.youtube.com/watch?v=Umfa-TDkhhQ</id>
         <link href="https://www.youtube.com/watch?v=Umfa-TDkhhQ"/>
         <updated>2023-06-19T08:50:44.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: How to get into trouble with statistics]]></title>
-        <id>https://www.youtube.com/watch?v=4WlZZ8NhmF8</id>
-        <link href="https://www.youtube.com/watch?v=4WlZZ8NhmF8"/>
-        <updated>2023-06-18T18:00:10.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -912,24 +912,6 @@
         <updated>2023-04-04T11:23:07.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balls symmetrically dropped in a parabola]]></title>
-        <id>https://www.youtube.com/watch?v=xdn26CYDD_o</id>
-        <link href="https://www.youtube.com/watch?v=xdn26CYDD_o"/>
-        <updated>2023-04-02T17:04:50.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why π is in the normal distribution (beyond integral tricks)]]></title>
-        <id>https://www.youtube.com/watch?v=cy8r7WSuT1I</id>
-        <link href="https://www.youtube.com/watch?v=cy8r7WSuT1I"/>
-        <updated>2023-04-02T15:30:13.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
