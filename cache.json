@@ -76,6 +76,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YtkIWDE36qU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YtkIWDE36qU",
+          "publishedOn": "2023-07-02T04:41:01.000Z",
+          "wordCount": null,
+          "title": "The absurd circle division pattern explained | Moser's circle problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NOCsdhzo6Jg",
           "author": null,
           "description": "",
@@ -119,7 +129,7 @@
           "link": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
           "publishedOn": "2023-04-26T14:00:03.000Z",
           "wordCount": null,
-          "title": "All maps are wrong - the gem in differential geometry",
+          "title": "Theorema Egregium: why all maps are wrong",
           "imageUrl": null
         }
       ]
@@ -254,16 +264,6 @@
           "wordCount": null,
           "title": "Balls dropped on function |x|",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UxMzfpzpD-o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UxMzfpzpD-o",
-          "publishedOn": "2023-04-04T11:23:07.000Z",
-          "wordCount": null,
-          "title": "Butterfly effect in a circle but not in a parabola, with graphs",
-          "imageUrl": null
         }
       ]
     },
@@ -272,6 +272,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Umfa-TDkhhQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Umfa-TDkhhQ",
+          "publishedOn": "2023-07-02T18:00:07.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Feynman diagrams, Part 2",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Af8WLvfDc5g",
           "author": null,
@@ -411,16 +421,6 @@
           "wordCount": null,
           "title": "A shallow wave flowing over a circular obstacle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Umfa-TDkhhQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Umfa-TDkhhQ",
-          "publishedOn": "2023-06-19T08:50:44.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Feynman diagrams, Part 2",
-          "imageUrl": null
         }
       ]
     },
@@ -446,6 +446,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9FppammO1zk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9FppammO1zk",
+          "publishedOn": "2023-07-02T13:00:42.000Z",
+          "wordCount": null,
+          "title": "The Most Dangerous Weapon is NOT Nuclear",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8Ey3_9N089k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8Ey3_9N089k",
+          "publishedOn": "2023-07-02T13:00:05.000Z",
+          "wordCount": null,
+          "title": "The Next Atomic Bomb Is Made of DNA #kurzgesagt #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_arb8Fu3LXo",
           "author": null,
@@ -574,16 +594,6 @@
           "publishedOn": "2023-05-04T16:27:19.000Z",
           "wordCount": null,
           "title": "Why Is the Ocean Salty and Rivers Are Not? #shorts #kurzgesagt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GDSf2h9_39I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GDSf2h9_39I",
-          "publishedOn": "2023-04-11T14:00:45.000Z",
-          "wordCount": null,
-          "title": "Why Aliens Might Already Be On Their Way To Us",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-02T00:51:19.822Z</id>
+    <id>urn:2023-07-03T00:49:01.160Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-02T00:51:19.822Z</updated>
+    <updated>2023-07-03T00:49:01.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Feynman diagrams, Part 2]]></title>
+        <id>https://www.youtube.com/watch?v=Umfa-TDkhhQ</id>
+        <link href="https://www.youtube.com/watch?v=Umfa-TDkhhQ"/>
+        <updated>2023-07-02T18:00:07.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Dangerous Weapon is NOT Nuclear]]></title>
+        <id>https://www.youtube.com/watch?v=9FppammO1zk</id>
+        <link href="https://www.youtube.com/watch?v=9FppammO1zk"/>
+        <updated>2023-07-02T13:00:42.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next Atomic Bomb Is Made of DNA #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=8Ey3_9N089k</id>
+        <link href="https://www.youtube.com/watch?v=8Ey3_9N089k"/>
+        <updated>2023-07-02T13:00:05.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The absurd circle division pattern explained | Moser's circle problem]]></title>
+        <id>https://www.youtube.com/watch?v=YtkIWDE36qU</id>
+        <link href="https://www.youtube.com/watch?v=YtkIWDE36qU"/>
+        <updated>2023-07-02T04:41:01.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A branched flow in Poisson point process potential]]></title>
         <id>https://www.youtube.com/watch?v=Af8WLvfDc5g</id>
@@ -289,15 +325,6 @@
         <id>https://www.youtube.com/watch?v=NEFI_mINm4s</id>
         <link href="https://www.youtube.com/watch?v=NEFI_mINm4s"/>
         <updated>2023-06-19T09:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: Feynman diagrams, Part 2]]></title>
-        <id>https://www.youtube.com/watch?v=Umfa-TDkhhQ</id>
-        <link href="https://www.youtube.com/watch?v=Umfa-TDkhhQ"/>
-        <updated>2023-06-19T08:50:44.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -753,7 +780,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All maps are wrong - the gem in differential geometry]]></title>
+        <title type="html"><![CDATA[Theorema Egregium: why all maps are wrong]]></title>
         <id>https://www.youtube.com/watch?v=7Ju9f9odKX4</id>
         <link href="https://www.youtube.com/watch?v=7Ju9f9odKX4"/>
         <updated>2023-04-26T14:00:03.000Z</updated>
@@ -879,15 +906,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Aliens Might Already Be On Their Way To Us]]></title>
-        <id>https://www.youtube.com/watch?v=GDSf2h9_39I</id>
-        <link href="https://www.youtube.com/watch?v=GDSf2h9_39I"/>
-        <updated>2023-04-11T14:00:45.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Complex analysis 101: imaginary numbers are real!]]></title>
         <id>https://www.youtube.com/watch?v=QMa4K-gaaq4</id>
         <link href="https://www.youtube.com/watch?v=QMa4K-gaaq4"/>
@@ -903,15 +921,6 @@
         <updated>2023-04-07T10:00:17.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Butterfly effect in a circle but not in a parabola, with graphs]]></title>
-        <id>https://www.youtube.com/watch?v=UxMzfpzpD-o</id>
-        <link href="https://www.youtube.com/watch?v=UxMzfpzpD-o"/>
-        <updated>2023-04-04T11:23:07.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
