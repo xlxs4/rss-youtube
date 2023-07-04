@@ -273,6 +273,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pN-gi_omIVE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pN-gi_omIVE",
+          "publishedOn": "2023-07-03T09:30:36.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to simulate the wave equation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PQvBQe_xEcY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PQvBQe_xEcY",
+          "publishedOn": "2023-07-03T09:00:28.000Z",
+          "wordCount": null,
+          "title": "Heavy particles solving a maze filled with lighter particles",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Umfa-TDkhhQ",
           "author": null,
           "description": "",
@@ -401,26 +421,6 @@
           "wordCount": null,
           "title": "Solving a larger maze with gravity and sand",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mVleSAcvcf0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mVleSAcvcf0",
-          "publishedOn": "2023-06-20T09:00:23.000Z",
-          "wordCount": null,
-          "title": "A branched flow in Poisson disc/blue noise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NEFI_mINm4s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NEFI_mINm4s",
-          "publishedOn": "2023-06-19T09:00:24.000Z",
-          "wordCount": null,
-          "title": "A shallow wave flowing over a circular obstacle",
-          "imageUrl": null
         }
       ]
     },
@@ -453,7 +453,7 @@
           "link": "https://www.youtube.com/watch?v=9FppammO1zk",
           "publishedOn": "2023-07-02T13:00:42.000Z",
           "wordCount": null,
-          "title": "The Most Dangerous Weapon is NOT Nuclear",
+          "title": "The Next Pandemic Will Be Man Made",
           "imageUrl": null
         },
         {
