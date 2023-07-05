@@ -102,7 +102,7 @@
           "link": "https://www.youtube.com/watch?v=IaSGqQa5O-M",
           "publishedOn": "2023-06-27T15:08:14.000Z",
           "wordCount": null,
-          "title": "Convolutions and adding random variables, visually explained",
+          "title": "Convolutions | Why X+Y in probability is a beautiful mess",
           "imageUrl": null
         }
       ]
@@ -119,7 +119,7 @@
           "link": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
           "publishedOn": "2023-06-27T14:00:28.000Z",
           "wordCount": null,
-          "title": "Queuing theory and Poisson process",
+          "title": "How can we model queues? | Poisson process, M/M/1 queue",
           "imageUrl": null
         },
         {
@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6w96VpQA2HI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6w96VpQA2HI",
+          "publishedOn": "2023-07-04T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Phase space representation of the billiard in a hexagon with convex and concave curved sides",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pN-gi_omIVE",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2023-06-22T09:00:14.000Z",
           "wordCount": null,
           "title": "A linear wave flowing over a circular obstacle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RISKYPSWs0g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RISKYPSWs0g",
-          "publishedOn": "2023-06-21T09:00:29.000Z",
-          "wordCount": null,
-          "title": "Solving a larger maze with gravity and sand",
           "imageUrl": null
         }
       ]
