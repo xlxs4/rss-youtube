@@ -82,7 +82,7 @@
           "link": "https://www.youtube.com/watch?v=YtkIWDE36qU",
           "publishedOn": "2023-07-02T04:41:01.000Z",
           "wordCount": null,
-          "title": "The absurd circle division pattern explained | Moser's circle problem",
+          "title": "The absurd circle division pattern (updated) | Moser's circle problem",
           "imageUrl": null
         },
         {
@@ -113,13 +113,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=u1taDXNzFto",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u1taDXNzFto",
+          "publishedOn": "2023-07-05T14:00:37.000Z",
+          "wordCount": null,
+          "title": "How many terms do we need in the exp series?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
           "publishedOn": "2023-06-27T14:00:28.000Z",
           "wordCount": null,
-          "title": "How can we model queues? | Poisson process, M/M/1 queue",
+          "title": "Queuing theory and Poisson process",
           "imageUrl": null
         },
         {
@@ -273,6 +283,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aJR-6mx-npw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aJR-6mx-npw",
+          "publishedOn": "2023-07-05T09:00:01.000Z",
+          "wordCount": null,
+          "title": "Shallow waves in an annulus",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6w96VpQA2HI",
           "author": null,
           "description": "",
@@ -410,16 +430,6 @@
           "publishedOn": "2023-06-23T09:00:15.000Z",
           "wordCount": null,
           "title": "3D render of a branched flow in Poisson disc/blue noise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FVSRo4-oabg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FVSRo4-oabg",
-          "publishedOn": "2023-06-22T09:00:14.000Z",
-          "wordCount": null,
-          "title": "A linear wave flowing over a circular obstacle",
           "imageUrl": null
         }
       ]
@@ -731,16 +741,6 @@
           "publishedOn": "2023-04-09T17:52:56.000Z",
           "wordCount": null,
           "title": "Complex analysis 101: imaginary numbers are real!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RYAHvV0JJaI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RYAHvV0JJaI",
-          "publishedOn": "2023-04-07T10:00:17.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L11: Examples of Cauchy-Integral Formula",
           "imageUrl": null
         }
       ]

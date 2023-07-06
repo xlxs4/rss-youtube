@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-05T00:49:25.962Z</id>
+    <id>urn:2023-07-06T00:50:36.933Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-05T00:49:25.962Z</updated>
+    <updated>2023-07-06T00:50:36.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How many terms do we need in the exp series?]]></title>
+        <id>https://www.youtube.com/watch?v=u1taDXNzFto</id>
+        <link href="https://www.youtube.com/watch?v=u1taDXNzFto"/>
+        <updated>2023-07-05T14:00:37.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shallow waves in an annulus]]></title>
+        <id>https://www.youtube.com/watch?v=aJR-6mx-npw</id>
+        <link href="https://www.youtube.com/watch?v=aJR-6mx-npw"/>
+        <updated>2023-07-05T09:00:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phase space representation of the billiard in a hexagon with convex and concave curved sides]]></title>
         <id>https://www.youtube.com/watch?v=6w96VpQA2HI</id>
@@ -60,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The absurd circle division pattern explained | Moser's circle problem]]></title>
+        <title type="html"><![CDATA[The absurd circle division pattern (updated) | Moser's circle problem]]></title>
         <id>https://www.youtube.com/watch?v=YtkIWDE36qU</id>
         <link href="https://www.youtube.com/watch?v=YtkIWDE36qU"/>
         <updated>2023-07-02T04:41:01.000Z</updated>
@@ -222,7 +240,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How can we model queues? | Poisson process, M/M/1 queue]]></title>
+        <title type="html"><![CDATA[Queuing theory and Poisson process]]></title>
         <id>https://www.youtube.com/watch?v=rBIQmwaoZfs</id>
         <link href="https://www.youtube.com/watch?v=rBIQmwaoZfs"/>
         <updated>2023-06-27T14:00:28.000Z</updated>
@@ -309,15 +327,6 @@
         <updated>2023-06-22T14:00:21.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A linear wave flowing over a circular obstacle]]></title>
-        <id>https://www.youtube.com/watch?v=FVSRo4-oabg</id>
-        <link href="https://www.youtube.com/watch?v=FVSRo4-oabg"/>
-        <updated>2023-06-22T09:00:14.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -910,15 +919,6 @@
         <id>https://www.youtube.com/watch?v=QMa4K-gaaq4</id>
         <link href="https://www.youtube.com/watch?v=QMa4K-gaaq4"/>
         <updated>2023-04-09T17:52:56.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex Analysis L11: Examples of Cauchy-Integral Formula]]></title>
-        <id>https://www.youtube.com/watch?v=RYAHvV0JJaI</id>
-        <link href="https://www.youtube.com/watch?v=RYAHvV0JJaI"/>
-        <updated>2023-04-07T10:00:17.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
