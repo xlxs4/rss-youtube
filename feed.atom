@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-06T00:50:36.933Z</id>
+    <id>urn:2023-07-07T00:50:07.788Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-06T00:50:36.933Z</updated>
+    <updated>2023-07-07T00:50:07.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Blocks of Memory in the Brain]]></title>
+        <id>https://www.youtube.com/watch?v=X5trRLX7PQY</id>
+        <link href="https://www.youtube.com/watch?v=X5trRLX7PQY"/>
+        <updated>2023-07-06T15:02:28.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earth's Hidden Gem: The Astonishing Diversity of Fauna and Flora #shorts #kurzgesagt]]></title>
+        <id>https://www.youtube.com/watch?v=FPKRFw2jrnU</id>
+        <link href="https://www.youtube.com/watch?v=FPKRFw2jrnU"/>
+        <updated>2023-07-06T14:00:12.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A granular material flowing around a disc]]></title>
+        <id>https://www.youtube.com/watch?v=racNwiyr_0I</id>
+        <link href="https://www.youtube.com/watch?v=racNwiyr_0I"/>
+        <updated>2023-07-06T09:00:38.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How many terms do we need in the exp series?]]></title>
         <id>https://www.youtube.com/watch?v=u1taDXNzFto</id>
@@ -60,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Next Pandemic Will Be Man Made]]></title>
+        <title type="html"><![CDATA[The Most Dangerous Weapon Is Not Nuclear]]></title>
         <id>https://www.youtube.com/watch?v=9FppammO1zk</id>
         <link href="https://www.youtube.com/watch?v=9FppammO1zk"/>
         <updated>2023-07-02T13:00:42.000Z</updated>
@@ -309,15 +336,6 @@
         <updated>2023-06-23T22:00:09.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D render of a branched flow in Poisson disc/blue noise]]></title>
-        <id>https://www.youtube.com/watch?v=REppOSoorAA</id>
-        <link href="https://www.youtube.com/watch?v=REppOSoorAA"/>
-        <updated>2023-06-23T09:00:15.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -633,15 +651,6 @@
         <updated>2023-05-04T19:00:10.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Is the Ocean Salty and Rivers Are Not? #shorts #kurzgesagt]]></title>
-        <id>https://www.youtube.com/watch?v=pb9g6osg2aY</id>
-        <link href="https://www.youtube.com/watch?v=pb9g6osg2aY"/>
-        <updated>2023-05-04T16:27:19.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>

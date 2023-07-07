@@ -283,6 +283,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=racNwiyr_0I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=racNwiyr_0I",
+          "publishedOn": "2023-07-06T09:00:38.000Z",
+          "wordCount": null,
+          "title": "A granular material flowing around a disc",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aJR-6mx-npw",
           "author": null,
           "description": "",
@@ -421,16 +431,6 @@
           "wordCount": null,
           "title": "Particle flow through a maze with gravity",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=REppOSoorAA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=REppOSoorAA",
-          "publishedOn": "2023-06-23T09:00:15.000Z",
-          "wordCount": null,
-          "title": "3D render of a branched flow in Poisson disc/blue noise",
-          "imageUrl": null
         }
       ]
     },
@@ -457,13 +457,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FPKRFw2jrnU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FPKRFw2jrnU",
+          "publishedOn": "2023-07-06T14:00:12.000Z",
+          "wordCount": null,
+          "title": "Earth's Hidden Gem: The Astonishing Diversity of Fauna and Flora #shorts #kurzgesagt",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9FppammO1zk",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=9FppammO1zk",
           "publishedOn": "2023-07-02T13:00:42.000Z",
           "wordCount": null,
-          "title": "The Next Pandemic Will Be Man Made",
+          "title": "The Most Dangerous Weapon Is Not Nuclear",
           "imageUrl": null
         },
         {
@@ -594,16 +604,6 @@
           "publishedOn": "2023-05-09T14:00:42.000Z",
           "wordCount": null,
           "title": "Your Body Killed Cancer 5 Minutes Ago",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pb9g6osg2aY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pb9g6osg2aY",
-          "publishedOn": "2023-05-04T16:27:19.000Z",
-          "wordCount": null,
-          "title": "Why Is the Ocean Salty and Rivers Are Not? #shorts #kurzgesagt",
           "imageUrl": null
         }
       ]
@@ -927,6 +927,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=X5trRLX7PQY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X5trRLX7PQY",
+          "publishedOn": "2023-07-06T15:02:28.000Z",
+          "wordCount": null,
+          "title": "Building Blocks of Memory in the Brain",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cufOEzoVMVA",
           "author": null,
