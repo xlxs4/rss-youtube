@@ -156,6 +156,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4VXkVZ6v0Dw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4VXkVZ6v0Dw",
+          "publishedOn": "2023-07-07T20:01:51.000Z",
+          "wordCount": null,
+          "title": "Hourglass billiard",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r7ETTCINfeU",
           "author": null,
           "description": "",
@@ -282,6 +292,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6MFvoJLFBE8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6MFvoJLFBE8",
+          "publishedOn": "2023-07-07T09:00:04.000Z",
+          "wordCount": null,
+          "title": "3D render of a branched flow in a Poisson point process potential",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=racNwiyr_0I",
           "author": null,
@@ -420,16 +440,6 @@
           "publishedOn": "2023-06-25T18:00:07.000Z",
           "wordCount": null,
           "title": "Tutorial: Feynman diagrams, Part 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ihdAzhccolk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ihdAzhccolk",
-          "publishedOn": "2023-06-24T09:00:20.000Z",
-          "wordCount": null,
-          "title": "Particle flow through a maze with gravity",
           "imageUrl": null
         }
       ]
@@ -784,6 +794,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qUKssfl-qoc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qUKssfl-qoc",
+          "publishedOn": "2023-07-07T13:48:03.000Z",
+          "wordCount": null,
+          "title": "Merve Emre, Sigrid Nunez, and Doreen St. Felix on Susan Sontag Now",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=R1QCgMb-VsI",
           "author": null,
           "description": "",
@@ -880,6 +900,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OcWEYDddJ7Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OcWEYDddJ7Q",
+          "publishedOn": "2023-07-07T22:00:10.000Z",
+          "wordCount": null,
+          "title": "Revealing the Cosmos: A Startling New View from the James Webb Space Telescope",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cm8OHGvl4Oc",
           "author": null,
