@@ -293,6 +293,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pN-gi_omIVE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pN-gi_omIVE",
+          "publishedOn": "2023-07-08T18:00:09.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to simulate the wave equation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KbZ9SiLLQpQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KbZ9SiLLQpQ",
+          "publishedOn": "2023-07-07T09:49:55.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Some examples of chaotic systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6MFvoJLFBE8",
           "author": null,
           "description": "",
@@ -330,16 +350,6 @@
           "publishedOn": "2023-07-04T09:00:08.000Z",
           "wordCount": null,
           "title": "Phase space representation of the billiard in a hexagon with convex and concave curved sides",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pN-gi_omIVE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pN-gi_omIVE",
-          "publishedOn": "2023-07-03T09:30:36.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to simulate the wave equation",
           "imageUrl": null
         },
         {
@@ -430,16 +440,6 @@
           "publishedOn": "2023-06-26T09:00:40.000Z",
           "wordCount": null,
           "title": "Phase space representation of the billiard in Reuleaux-like triangles, long version",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yIRppNOHDTo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yIRppNOHDTo",
-          "publishedOn": "2023-06-25T18:00:07.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Feynman diagrams, Part 1",
           "imageUrl": null
         }
       ]
@@ -741,16 +741,6 @@
           "publishedOn": "2023-04-14T10:00:25.000Z",
           "wordCount": null,
           "title": "Complex Analysis L12: Examples of Complex Integrals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QMa4K-gaaq4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QMa4K-gaaq4",
-          "publishedOn": "2023-04-09T17:52:56.000Z",
-          "wordCount": null,
-          "title": "Complex analysis 101: imaginary numbers are real!",
           "imageUrl": null
         }
       ]
