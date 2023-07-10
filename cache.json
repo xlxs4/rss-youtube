@@ -293,6 +293,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KrtOj2S0O3g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KrtOj2S0O3g",
+          "publishedOn": "2023-07-09T09:00:19.000Z",
+          "wordCount": null,
+          "title": "Bloopers 11: Jumpy particles in a maze",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pN-gi_omIVE",
           "author": null,
           "description": "",
@@ -430,16 +440,6 @@
           "publishedOn": "2023-06-27T09:00:17.000Z",
           "wordCount": null,
           "title": "A linear wave flowing over a square grid of circles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zawgZziFRjY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zawgZziFRjY",
-          "publishedOn": "2023-06-26T09:00:40.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of the billiard in Reuleaux-like triangles, long version",
           "imageUrl": null
         }
       ]
