@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-10T00:48:59.458Z</id>
+    <id>urn:2023-07-11T00:42:34.528Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-10T00:48:59.458Z</updated>
+    <updated>2023-07-11T00:42:34.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Bet Against Quantum Gravity]]></title>
+        <id>https://www.youtube.com/watch?v=DkRbNXILroI</id>
+        <link href="https://www.youtube.com/watch?v=DkRbNXILroI"/>
+        <updated>2023-07-10T14:45:54.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymmetric shallow waves in an annulus]]></title>
+        <id>https://www.youtube.com/watch?v=0qIBckNsrX8</id>
+        <link href="https://www.youtube.com/watch?v=0qIBckNsrX8"/>
+        <updated>2023-07-10T09:00:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bloopers 11: Jumpy particles in a maze]]></title>
         <id>https://www.youtube.com/watch?v=KrtOj2S0O3g</id>
@@ -327,15 +345,6 @@
         <updated>2023-06-27T14:00:28.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A linear wave flowing over a square grid of circles]]></title>
-        <id>https://www.youtube.com/watch?v=PE1TVXege6M</id>
-        <link href="https://www.youtube.com/watch?v=PE1TVXege6M"/>
-        <updated>2023-06-27T09:00:17.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
