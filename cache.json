@@ -86,6 +86,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=d_qvLDhkg00",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d_qvLDhkg00",
+          "publishedOn": "2023-07-11T15:53:09.000Z",
+          "wordCount": null,
+          "title": "So why is the \"central limit\" a normal distribution?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YtkIWDE36qU",
           "author": null,
           "description": "",
@@ -284,16 +294,6 @@
           "wordCount": null,
           "title": "Balls falling on cos(x)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7Ae_-sL2kFw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7Ae_-sL2kFw",
-          "publishedOn": "2023-04-12T18:54:26.000Z",
-          "wordCount": null,
-          "title": "Balls dropped on function |x|",
-          "imageUrl": null
         }
       ]
     },
@@ -302,6 +302,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=E6PpAuVNrtA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E6PpAuVNrtA",
+          "publishedOn": "2023-07-11T09:00:11.000Z",
+          "wordCount": null,
+          "title": "Heavy particles solving a larger maze filled with lighter particles",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0qIBckNsrX8",
           "author": null,
@@ -440,16 +450,6 @@
           "publishedOn": "2023-06-28T09:00:14.000Z",
           "wordCount": null,
           "title": "A branched flow (super short version, energy flow direction)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0yUiBrqAASQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0yUiBrqAASQ",
-          "publishedOn": "2023-06-28T09:00:00.000Z",
-          "wordCount": null,
-          "title": "A branched flow (super short version)",
           "imageUrl": null
         }
       ]
@@ -793,6 +793,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_FJe0RUqIi8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_FJe0RUqIi8",
+          "publishedOn": "2023-07-11T13:32:29.000Z",
+          "wordCount": null,
+          "title": "Dynasty Handbag's Titanic Depression: A Hellhole of Gratuitous Wealth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CM-6KUxbcqM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CM-6KUxbcqM",
+          "publishedOn": "2023-07-11T13:32:22.000Z",
+          "wordCount": null,
+          "title": "Dynasty Handbag's Titanic Depression: Draw Me Like One of Your French Horns",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=qUKssfl-qoc",
           "author": null,

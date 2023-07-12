@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T00:42:34.528Z</id>
+    <id>urn:2023-07-12T00:49:54.457Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-11T00:42:34.528Z</updated>
+    <updated>2023-07-12T00:49:54.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[So why is the "central limit" a normal distribution?]]></title>
+        <id>https://www.youtube.com/watch?v=d_qvLDhkg00</id>
+        <link href="https://www.youtube.com/watch?v=d_qvLDhkg00"/>
+        <updated>2023-07-11T15:53:09.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynasty Handbag's Titanic Depression: A Hellhole of Gratuitous Wealth]]></title>
+        <id>https://www.youtube.com/watch?v=_FJe0RUqIi8</id>
+        <link href="https://www.youtube.com/watch?v=_FJe0RUqIi8"/>
+        <updated>2023-07-11T13:32:29.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynasty Handbag's Titanic Depression: Draw Me Like One of Your French Horns]]></title>
+        <id>https://www.youtube.com/watch?v=CM-6KUxbcqM</id>
+        <link href="https://www.youtube.com/watch?v=CM-6KUxbcqM"/>
+        <updated>2023-07-11T13:32:22.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heavy particles solving a larger maze filled with lighter particles]]></title>
+        <id>https://www.youtube.com/watch?v=E6PpAuVNrtA</id>
+        <link href="https://www.youtube.com/watch?v=E6PpAuVNrtA"/>
+        <updated>2023-07-11T09:00:11.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Bet Against Quantum Gravity]]></title>
         <id>https://www.youtube.com/watch?v=DkRbNXILroI</id>
@@ -316,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=OsPyfRV2XjQ</id>
         <link href="https://www.youtube.com/watch?v=OsPyfRV2XjQ"/>
         <updated>2023-06-28T09:00:14.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A branched flow (super short version)]]></title>
-        <id>https://www.youtube.com/watch?v=0yUiBrqAASQ</id>
-        <link href="https://www.youtube.com/watch?v=0yUiBrqAASQ"/>
-        <updated>2023-06-28T09:00:00.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -948,15 +975,6 @@
         <updated>2023-04-13T18:00:01.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balls dropped on function |x|]]></title>
-        <id>https://www.youtube.com/watch?v=7Ae_-sL2kFw</id>
-        <link href="https://www.youtube.com/watch?v=7Ae_-sL2kFw"/>
-        <updated>2023-04-12T18:54:26.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
