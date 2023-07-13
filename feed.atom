@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T00:49:54.457Z</id>
+    <id>urn:2023-07-13T00:49:19.433Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-12T00:49:54.457Z</updated>
+    <updated>2023-07-13T00:49:19.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Classics revisited: A diffraction grating]]></title>
+        <id>https://www.youtube.com/watch?v=DSFEDUXTkBk</id>
+        <link href="https://www.youtube.com/watch?v=DSFEDUXTkBk"/>
+        <updated>2023-07-12T09:00:07.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[So why is the "central limit" a normal distribution?]]></title>
         <id>https://www.youtube.com/watch?v=d_qvLDhkg00</id>
@@ -150,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How many terms do we need in the exp series?]]></title>
+        <title type="html"><![CDATA[For 99% accuracy, how many terms do we need in the exp series?]]></title>
         <id>https://www.youtube.com/watch?v=u1taDXNzFto</id>
         <link href="https://www.youtube.com/watch?v=u1taDXNzFto"/>
         <updated>2023-07-05T14:00:37.000Z</updated>
@@ -345,15 +354,6 @@
         <updated>2023-06-28T19:17:11.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A branched flow (super short version, energy flow direction)]]></title>
-        <id>https://www.youtube.com/watch?v=OsPyfRV2XjQ</id>
-        <link href="https://www.youtube.com/watch?v=OsPyfRV2XjQ"/>
-        <updated>2023-06-28T09:00:14.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -948,33 +948,6 @@
         <updated>2023-04-14T13:59:42.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex Analysis L12: Examples of Complex Integrals]]></title>
-        <id>https://www.youtube.com/watch?v=WMmqxcgvo4Y</id>
-        <link href="https://www.youtube.com/watch?v=WMmqxcgvo4Y"/>
-        <updated>2023-04-14T10:00:25.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balls falling on cos(x)]]></title>
-        <id>https://www.youtube.com/watch?v=wzkK5gwCPSU</id>
-        <link href="https://www.youtube.com/watch?v=wzkK5gwCPSU"/>
-        <updated>2023-04-13T19:30:12.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real Analysis: The Natural Numbers and Mathematical Induction]]></title>
-        <id>https://www.youtube.com/watch?v=368PoXE2Zjo</id>
-        <link href="https://www.youtube.com/watch?v=368PoXE2Zjo"/>
-        <updated>2023-04-13T18:00:01.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>

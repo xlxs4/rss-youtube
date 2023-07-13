@@ -139,7 +139,7 @@
           "link": "https://www.youtube.com/watch?v=u1taDXNzFto",
           "publishedOn": "2023-07-05T14:00:37.000Z",
           "wordCount": null,
-          "title": "How many terms do we need in the exp series?",
+          "title": "For 99% accuracy, how many terms do we need in the exp series?",
           "imageUrl": null
         },
         {
@@ -284,16 +284,6 @@
           "wordCount": null,
           "title": "Quantum and classical balls dropped on a parabola",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wzkK5gwCPSU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wzkK5gwCPSU",
-          "publishedOn": "2023-04-13T19:30:12.000Z",
-          "wordCount": null,
-          "title": "Balls falling on cos(x)",
-          "imageUrl": null
         }
       ]
     },
@@ -302,6 +292,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DSFEDUXTkBk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DSFEDUXTkBk",
+          "publishedOn": "2023-07-12T09:00:07.000Z",
+          "wordCount": null,
+          "title": "Classics revisited: A diffraction grating",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=E6PpAuVNrtA",
           "author": null,
@@ -440,16 +440,6 @@
           "publishedOn": "2023-06-29T09:00:12.000Z",
           "wordCount": null,
           "title": "Solving a maze with gravity and sand at smaller friction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OsPyfRV2XjQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OsPyfRV2XjQ",
-          "publishedOn": "2023-06-28T09:00:14.000Z",
-          "wordCount": null,
-          "title": "A branched flow (super short version, energy flow direction)",
           "imageUrl": null
         }
       ]
@@ -742,16 +732,6 @@
           "wordCount": null,
           "title": "Complex Analysis L13: Bromwich Integrals and the Inverse Laplace Transform",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WMmqxcgvo4Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WMmqxcgvo4Y",
-          "publishedOn": "2023-04-14T10:00:25.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L12: Examples of Complex Integrals",
-          "imageUrl": null
         }
       ]
     },
@@ -774,16 +754,6 @@
           "publishedOn": "2023-05-16T13:31:18.000Z",
           "wordCount": null,
           "title": "Quotient Law for Tensors and Levi-Civita Symbol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=368PoXE2Zjo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=368PoXE2Zjo",
-          "publishedOn": "2023-04-13T18:00:01.000Z",
-          "wordCount": null,
-          "title": "Real Analysis: The Natural Numbers and Mathematical Induction",
           "imageUrl": null
         }
       ]
