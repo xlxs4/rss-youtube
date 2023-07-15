@@ -274,16 +274,6 @@
           "wordCount": null,
           "title": "Balls dropped on functions 0.5*|x| and 2*|x| = chaos",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wOXHPCUwNPQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wOXHPCUwNPQ",
-          "publishedOn": "2023-04-15T22:21:22.000Z",
-          "wordCount": null,
-          "title": "Quantum and classical balls dropped on a parabola",
-          "imageUrl": null
         }
       ]
     },
@@ -292,6 +282,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lgYW2nVn8vk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lgYW2nVn8vk",
+          "publishedOn": "2023-07-14T09:00:38.000Z",
+          "wordCount": null,
+          "title": "Why tsunami are so dangerous",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=v_2PMZG8uy4",
           "author": null,
@@ -430,16 +430,6 @@
           "publishedOn": "2023-07-01T09:00:06.000Z",
           "wordCount": null,
           "title": "A branched flow in Poisson point process potential",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e0Qn5jzGH-8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e0Qn5jzGH-8",
-          "publishedOn": "2023-06-30T09:00:36.000Z",
-          "wordCount": null,
-          "title": "A linear wave flowing over a Poisson disc arrangement of obstacles",
           "imageUrl": null
         }
       ]
@@ -881,6 +871,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xlyYipjw560",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xlyYipjw560",
+          "publishedOn": "2023-07-14T22:00:09.000Z",
+          "wordCount": null,
+          "title": "Until the End of Time: Mind, Matter and Meaning",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OcWEYDddJ7Q",
           "author": null,
           "description": "",
@@ -976,6 +976,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uQZZq5UTsmg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uQZZq5UTsmg",
+          "publishedOn": "2023-07-14T16:37:20.000Z",
+          "wordCount": null,
+          "title": "ML Community Call (2023-07-14)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2HCR1Lhad20",
           "author": null,
@@ -1114,16 +1124,6 @@
           "publishedOn": "2023-05-02T10:40:36.000Z",
           "wordCount": null,
           "title": "Using Makie to visualize Earth Observations Data - Lazaro Alonso - MakieCon 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pF1lgJhtolY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pF1lgJhtolY",
-          "publishedOn": "2023-05-02T10:40:30.000Z",
-          "wordCount": null,
-          "title": "The design of GeoMakie 2.0 - Anshul Singhvi - MakieCon 23",
           "imageUrl": null
         }
       ]
