@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-15T00:50:13.707Z</id>
+    <id>urn:2023-07-16T00:54:58.471Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-15T00:50:13.707Z</updated>
+    <updated>2023-07-16T00:54:58.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Who is the winner? Lennard-Jones particles bouncing in a maze, with gravity]]></title>
+        <id>https://www.youtube.com/watch?v=mBRGDhyeoXw</id>
+        <link href="https://www.youtube.com/watch?v=mBRGDhyeoXw"/>
+        <updated>2023-07-15T09:00:37.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Until the End of Time: Mind, Matter and Meaning]]></title>
         <id>https://www.youtube.com/watch?v=xlyYipjw560</id>
@@ -60,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So why is the "central limit" a normal distribution?]]></title>
+        <title type="html"><![CDATA[Why is the "central limit" a normal distribution?]]></title>
         <id>https://www.youtube.com/watch?v=d_qvLDhkg00</id>
         <link href="https://www.youtube.com/watch?v=d_qvLDhkg00"/>
         <updated>2023-07-11T15:53:09.000Z</updated>
@@ -273,15 +282,6 @@
         <updated>2023-07-02T04:41:01.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A branched flow in Poisson point process potential]]></title>
-        <id>https://www.youtube.com/watch?v=Af8WLvfDc5g</id>
-        <link href="https://www.youtube.com/watch?v=Af8WLvfDc5g"/>
-        <updated>2023-07-01T09:00:06.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

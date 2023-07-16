@@ -92,7 +92,7 @@
           "link": "https://www.youtube.com/watch?v=d_qvLDhkg00",
           "publishedOn": "2023-07-11T15:53:09.000Z",
           "wordCount": null,
-          "title": "So why is the \"central limit\" a normal distribution?",
+          "title": "Why is the \"central limit\" a normal distribution?",
           "imageUrl": null
         },
         {
@@ -283,6 +283,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mBRGDhyeoXw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mBRGDhyeoXw",
+          "publishedOn": "2023-07-15T09:00:37.000Z",
+          "wordCount": null,
+          "title": "Who is the winner? Lennard-Jones particles bouncing in a maze, with gravity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lgYW2nVn8vk",
           "author": null,
           "description": "",
@@ -420,16 +430,6 @@
           "publishedOn": "2023-07-02T18:00:07.000Z",
           "wordCount": null,
           "title": "Tutorial: Feynman diagrams, Part 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Af8WLvfDc5g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Af8WLvfDc5g",
-          "publishedOn": "2023-07-01T09:00:06.000Z",
-          "wordCount": null,
-          "title": "A branched flow in Poisson point process potential",
           "imageUrl": null
         }
       ]
