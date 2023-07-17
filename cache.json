@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "How a Computer Broke a 50-Year Math Record",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VP0xD8zDUlU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VP0xD8zDUlU",
-          "publishedOn": "2023-04-17T14:59:33.000Z",
-          "wordCount": null,
-          "title": "She Tracks Wildlife eDNA on Everest and in the Andes",
-          "imageUrl": null
         }
       ]
     },
@@ -283,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KbZ9SiLLQpQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KbZ9SiLLQpQ",
+          "publishedOn": "2023-07-16T18:00:07.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Some examples of chaotic systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mBRGDhyeoXw",
           "author": null,
           "description": "",
@@ -363,16 +363,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=KbZ9SiLLQpQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KbZ9SiLLQpQ",
-          "publishedOn": "2023-07-07T09:49:55.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Some examples of chaotic systems",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=6MFvoJLFBE8",
           "author": null,
           "description": "",
@@ -438,18 +428,7 @@
       "title": "Association for Mathematical Research",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
       "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=yNvDfpb95yI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yNvDfpb95yI",
-          "publishedOn": "2023-04-17T16:05:54.000Z",
-          "wordCount": null,
-          "title": "AMR-RMA : Svetlana Jitomirskaya",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kurzgesagt – In a Nutshell",

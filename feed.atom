@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-16T00:54:58.471Z</id>
+    <id>urn:2023-07-17T00:51:53.820Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-16T00:54:58.471Z</updated>
+    <updated>2023-07-17T00:51:53.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Some examples of chaotic systems]]></title>
+        <id>https://www.youtube.com/watch?v=KbZ9SiLLQpQ</id>
+        <link href="https://www.youtube.com/watch?v=KbZ9SiLLQpQ"/>
+        <updated>2023-07-16T18:00:07.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who is the winner? Lennard-Jones particles bouncing in a maze, with gravity]]></title>
         <id>https://www.youtube.com/watch?v=mBRGDhyeoXw</id>
@@ -165,15 +174,6 @@
         <updated>2023-07-07T13:48:03.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: Some examples of chaotic systems]]></title>
-        <id>https://www.youtube.com/watch?v=KbZ9SiLLQpQ</id>
-        <link href="https://www.youtube.com/watch?v=KbZ9SiLLQpQ"/>
-        <updated>2023-07-07T09:49:55.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -921,24 +921,6 @@
         <updated>2023-04-18T20:17:51.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMR-RMA : Svetlana Jitomirskaya]]></title>
-        <id>https://www.youtube.com/watch?v=yNvDfpb95yI</id>
-        <link href="https://www.youtube.com/watch?v=yNvDfpb95yI"/>
-        <updated>2023-04-17T16:05:54.000Z</updated>
-        <author>
-            <name>Association for Mathematical Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She Tracks Wildlife eDNA on Everest and in the Andes]]></title>
-        <id>https://www.youtube.com/watch?v=VP0xD8zDUlU</id>
-        <link href="https://www.youtube.com/watch?v=VP0xD8zDUlU"/>
-        <updated>2023-04-17T14:59:33.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
