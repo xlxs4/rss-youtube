@@ -254,16 +254,6 @@
           "wordCount": null,
           "title": "5000 classical balls and quantum wave packet falling on |x|",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MvUebV-fM9M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MvUebV-fM9M",
-          "publishedOn": "2023-04-18T20:17:51.000Z",
-          "wordCount": null,
-          "title": "Balls dropped on functions 0.5*|x| and 2*|x| = chaos",
-          "imageUrl": null
         }
       ]
     },
@@ -272,6 +262,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cvwJ4tP9LUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cvwJ4tP9LUY",
+          "publishedOn": "2023-07-17T09:00:30.000Z",
+          "wordCount": null,
+          "title": "A tsunami in shallower water",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KbZ9SiLLQpQ",
           "author": null,
@@ -410,16 +410,6 @@
           "publishedOn": "2023-07-03T09:00:28.000Z",
           "wordCount": null,
           "title": "Heavy particles solving a maze filled with lighter particles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Umfa-TDkhhQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Umfa-TDkhhQ",
-          "publishedOn": "2023-07-02T18:00:07.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Feynman diagrams, Part 2",
           "imageUrl": null
         }
       ]
@@ -1129,6 +1119,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HHyrkNHGL-U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HHyrkNHGL-U",
+          "publishedOn": "2023-07-17T09:45:01.000Z",
+          "wordCount": null,
+          "title": "Part 1: Control of rotary pendulum using Julia: Getting to know the system",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xv1BFNSyTCA",
           "author": null,
