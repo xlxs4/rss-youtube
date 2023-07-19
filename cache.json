@@ -244,16 +244,6 @@
           "wordCount": null,
           "title": "10000 classical balls and quantum wave packet falling on 0.8|x|",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CKZ5dN9mvCI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CKZ5dN9mvCI",
-          "publishedOn": "2023-04-19T19:51:38.000Z",
-          "wordCount": null,
-          "title": "5000 classical balls and quantum wave packet falling on |x|",
-          "imageUrl": null
         }
       ]
     },
@@ -262,6 +252,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=AuEl-1csLL4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AuEl-1csLL4",
+          "publishedOn": "2023-07-18T09:00:05.000Z",
+          "wordCount": null,
+          "title": "A granular material with square-symmetric interaction flowing around a disc",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cvwJ4tP9LUY",
           "author": null,
@@ -400,16 +400,6 @@
           "publishedOn": "2023-07-04T09:00:08.000Z",
           "wordCount": null,
           "title": "Phase space representation of the billiard in a hexagon with convex and concave curved sides",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PQvBQe_xEcY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PQvBQe_xEcY",
-          "publishedOn": "2023-07-03T09:00:28.000Z",
-          "wordCount": null,
-          "title": "Heavy particles solving a maze filled with lighter particles",
           "imageUrl": null
         }
       ]
@@ -1119,6 +1109,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=w9powTOKQs8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w9powTOKQs8",
+          "publishedOn": "2023-07-18T06:52:15.000Z",
+          "wordCount": null,
+          "title": "Part 2: Control of rotary pendulum using Julia: Interfacing the device",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HHyrkNHGL-U",
           "author": null,

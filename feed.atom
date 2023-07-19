@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-18T01:06:43.294Z</id>
+    <id>urn:2023-07-19T01:14:26.390Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-18T01:06:43.294Z</updated>
+    <updated>2023-07-19T01:14:26.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A granular material with square-symmetric interaction flowing around a disc]]></title>
+        <id>https://www.youtube.com/watch?v=AuEl-1csLL4</id>
+        <link href="https://www.youtube.com/watch?v=AuEl-1csLL4"/>
+        <updated>2023-07-18T09:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 2: Control of rotary pendulum using Julia: Interfacing the device]]></title>
+        <id>https://www.youtube.com/watch?v=w9powTOKQs8</id>
+        <link href="https://www.youtube.com/watch?v=w9powTOKQs8"/>
+        <updated>2023-07-18T06:52:15.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 1: Control of rotary pendulum using Julia: Getting to know the system]]></title>
         <id>https://www.youtube.com/watch?v=HHyrkNHGL-U</id>
@@ -253,15 +271,6 @@
         <id>https://www.youtube.com/watch?v=6w96VpQA2HI</id>
         <link href="https://www.youtube.com/watch?v=6w96VpQA2HI"/>
         <updated>2023-07-04T09:00:08.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heavy particles solving a maze filled with lighter particles]]></title>
-        <id>https://www.youtube.com/watch?v=PQvBQe_xEcY</id>
-        <link href="https://www.youtube.com/watch?v=PQvBQe_xEcY"/>
-        <updated>2023-07-03T09:00:28.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -912,15 +921,6 @@
         <updated>2023-04-21T10:00:46.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5000 classical balls and quantum wave packet falling on |x|]]></title>
-        <id>https://www.youtube.com/watch?v=CKZ5dN9mvCI</id>
-        <link href="https://www.youtube.com/watch?v=CKZ5dN9mvCI"/>
-        <updated>2023-04-19T19:51:38.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
