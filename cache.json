@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RKlujsMVCSE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RKlujsMVCSE",
+          "publishedOn": "2023-07-19T09:00:15.000Z",
+          "wordCount": null,
+          "title": "3D render of a diffraction grating",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AuEl-1csLL4",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2023-07-05T09:00:01.000Z",
           "wordCount": null,
           "title": "Shallow waves in an annulus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6w96VpQA2HI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6w96VpQA2HI",
-          "publishedOn": "2023-07-04T09:00:08.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of the billiard in a hexagon with convex and concave curved sides",
           "imageUrl": null
         }
       ]
@@ -671,16 +671,6 @@
           "wordCount": null,
           "title": "New Book!!!  Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r68zKdyIwVo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r68zKdyIwVo",
-          "publishedOn": "2023-04-21T10:00:46.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L13: Bromwich Integrals and the Inverse Laplace Transform",
-          "imageUrl": null
         }
       ]
     },
@@ -936,6 +926,86 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vG6ZLhe9Hns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vG6ZLhe9Hns",
+          "publishedOn": "2023-07-19T16:02:36.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 26-100 Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CrIAsPmG2a0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CrIAsPmG2a0",
+          "publishedOn": "2023-07-19T16:01:51.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-123 Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=G5YkdIM7QeE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G5YkdIM7QeE",
+          "publishedOn": "2023-07-19T15:57:46.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-123 Day 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gpo1FUXCcJE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gpo1FUXCcJE",
+          "publishedOn": "2023-07-19T15:10:15.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-D463 (Star) Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CoY5XwmFkF4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CoY5XwmFkF4",
+          "publishedOn": "2023-07-19T15:08:51.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=x9d6WtePul0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x9d6WtePul0",
+          "publishedOn": "2023-07-19T15:06:33.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-144 Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Hkta_AEv5sA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Hkta_AEv5sA",
+          "publishedOn": "2023-07-19T15:02:43.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-124 Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rMrHCM1Etng",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rMrHCM1Etng",
+          "publishedOn": "2023-07-19T14:49:41.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-082 Day 1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uQZZq5UTsmg",
           "author": null,
           "description": "",
@@ -1004,86 +1074,6 @@
           "wordCount": null,
           "title": "MathTeXEngine.jl: reinventing the LaTeX wheel in Julia - Benoît Richard - MakieCon 23",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=33D7saYvkLc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=33D7saYvkLc",
-          "publishedOn": "2023-05-02T10:41:10.000Z",
-          "wordCount": null,
-          "title": "Visualization of EEG brain potentials - Benedikt Ehinger & Vladimir Mikheev - MakieCon 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3Gp8vz9njb0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3Gp8vz9njb0",
-          "publishedOn": "2023-05-02T10:41:04.000Z",
-          "wordCount": null,
-          "title": "Design of Makie's layout system - Julius Krumbiegel - MakieCon 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vTmL2I_wO1I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vTmL2I_wO1I",
-          "publishedOn": "2023-05-02T10:41:00.000Z",
-          "wordCount": null,
-          "title": "From Sensor to Insight: Data Visualization for IoT Applications - Iga Szczesniak - MakieCon 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-Cg6AoymaM0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-Cg6AoymaM0",
-          "publishedOn": "2023-05-02T10:40:56.000Z",
-          "wordCount": null,
-          "title": "Visualizing weather radar data with GeoMakie - Tabea Wilke - MakieCon 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5ORTZQQ2NGQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5ORTZQQ2NGQ",
-          "publishedOn": "2023-05-02T10:40:52.000Z",
-          "wordCount": null,
-          "title": "Pipeline for Fast, Accurate Visualization of Arbitrarily Large Datasets - James A. Bednar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z4gJd330f4o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z4gJd330f4o",
-          "publishedOn": "2023-05-02T10:40:46.000Z",
-          "wordCount": null,
-          "title": "Science without viz is like the dark without a torch - Markus Reichstein - MakieCon 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2g4lwaBZndc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2g4lwaBZndc",
-          "publishedOn": "2023-05-02T10:40:40.000Z",
-          "wordCount": null,
-          "title": "Building data visualizations interactively with Algebra of Graphics - Pietro Vertechi - MakieCon 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xqYZxYBYKkA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xqYZxYBYKkA",
-          "publishedOn": "2023-05-02T10:40:36.000Z",
-          "wordCount": null,
-          "title": "Using Makie to visualize Earth Observations Data - Lazaro Alonso - MakieCon 23",
-          "imageUrl": null
         }
       ]
     },
@@ -1109,6 +1099,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=a7dLamjTbic",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a7dLamjTbic",
+          "publishedOn": "2023-07-19T04:39:38.000Z",
+          "wordCount": null,
+          "title": "Part 3: Control of rotary pendulum using Julia: Friction estimation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=w9powTOKQs8",
           "author": null,
@@ -1146,6 +1146,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g",
       "siteUrl": "https://www.youtube.com/channel/UCbHJVeS0ZIco7FTTqhvDg6g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=19z45Vac1uQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=19z45Vac1uQ",
+          "publishedOn": "2023-07-19T17:19:01.000Z",
+          "wordCount": null,
+          "title": "Hacking cells into doing math",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=MNzFcOaThIg",
           "author": null,
