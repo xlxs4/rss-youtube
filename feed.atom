@@ -1,10 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T00:42:22.664Z</id>
+    <id>urn:2023-07-21T00:41:29.618Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-20T00:42:22.664Z</updated>
+    <updated>2023-07-21T00:41:29.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Parvathy Baul | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=nQQBKkiPEQk</id>
+        <link href="https://www.youtube.com/watch?v=nQQBKkiPEQk"/>
+        <updated>2023-07-20T17:33:50.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khadija El Warzazia’s Bnat el Houariyat & Esraa Warda | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=Mpx1DP645bE</id>
+        <link href="https://www.youtube.com/watch?v=Mpx1DP645bE"/>
+        <updated>2023-07-20T17:33:47.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arun Ramamurthy Trio | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=f_A8lkokRYc</id>
+        <link href="https://www.youtube.com/watch?v=f_A8lkokRYc"/>
+        <updated>2023-07-20T17:33:45.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samir LanGus | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=cmvnSCat7P4</id>
+        <link href="https://www.youtube.com/watch?v=cmvnSCat7P4"/>
+        <updated>2023-07-20T17:33:42.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hamid Al Saadi | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=0P5hf08RXFI</id>
+        <link href="https://www.youtube.com/watch?v=0P5hf08RXFI"/>
+        <updated>2023-07-20T17:33:37.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vinay Desai & Vivek Pandya | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=e0FpNPfm0ME</id>
+        <link href="https://www.youtube.com/watch?v=e0FpNPfm0ME"/>
+        <updated>2023-07-20T17:33:31.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amir ElSaffar: Maqamodular | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=Won7kItmfr0</id>
+        <link href="https://www.youtube.com/watch?v=Won7kItmfr0"/>
+        <updated>2023-07-20T17:33:24.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jay Gandhi & Ehren Hanson | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=dCcQLy7RtM8</id>
+        <link href="https://www.youtube.com/watch?v=dCcQLy7RtM8"/>
+        <updated>2023-07-20T17:33:21.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abhik Mukherjee & Shank Lahiri | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=MxtXPJRhTxo</id>
+        <link href="https://www.youtube.com/watch?v=MxtXPJRhTxo"/>
+        <updated>2023-07-20T17:33:18.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samarth Nagarkar, Sohail Yusuf Khan & Shank Lahiri | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=-tPY7eG--rs</id>
+        <link href="https://www.youtube.com/watch?v=-tPY7eG--rs"/>
+        <updated>2023-07-20T17:33:16.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kroba | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=a0JIP_yMBa8</id>
+        <link href="https://www.youtube.com/watch?v=a0JIP_yMBa8"/>
+        <updated>2023-07-20T17:33:13.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suhail Yusuf Khan & Pranav Ghatraju | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=Oyy3s5-MaEM</id>
+        <link href="https://www.youtube.com/watch?v=Oyy3s5-MaEM"/>
+        <updated>2023-07-20T17:33:09.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qasim Naqvi | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=3bWHAnX-8o0</id>
+        <link href="https://www.youtube.com/watch?v=3bWHAnX-8o0"/>
+        <updated>2023-07-20T17:33:07.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manik Khan & Sudhakar Vaidyanathan (Tribute to Ali Akbar Khan)  |  Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=fwJxGl4bt9M</id>
+        <link href="https://www.youtube.com/watch?v=fwJxGl4bt9M"/>
+        <updated>2023-07-20T17:33:04.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyro Baptista, Tim Keiper, Brian Marsella & Shanir Ezra Blumenkranz | Ragas Live Festival 2022]]></title>
+        <id>https://www.youtube.com/watch?v=udTG9Fh1pls</id>
+        <link href="https://www.youtube.com/watch?v=udTG9Fh1pls"/>
+        <updated>2023-07-20T17:33:01.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If You’re in Space without a Spacesuit? #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=4TlyzKBm5yw</id>
+        <link href="https://www.youtube.com/watch?v=4TlyzKBm5yw"/>
+        <updated>2023-07-20T14:00:03.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: The irreversibility "paradox"]]></title>
+        <id>https://www.youtube.com/watch?v=zLJhUrNC_hI</id>
+        <link href="https://www.youtube.com/watch?v=zLJhUrNC_hI"/>
+        <updated>2023-07-20T09:20:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A denser granular material with square-symmetric interaction flowing around a disc]]></title>
+        <id>https://www.youtube.com/watch?v=-TC_LmepIvg</id>
+        <link href="https://www.youtube.com/watch?v=-TC_LmepIvg"/>
+        <updated>2023-07-20T09:00:00.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 4: Control of rotary pendulum using Julia: Chirp system identification]]></title>
+        <id>https://www.youtube.com/watch?v=HSx28O956kA</id>
+        <link href="https://www.youtube.com/watch?v=HSx28O956kA"/>
+        <updated>2023-07-20T04:48:12.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacking cells into doing math]]></title>
         <id>https://www.youtube.com/watch?v=19z45Vac1uQ</id>
@@ -222,24 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dynasty Handbag's Titanic Depression: A Hellhole of Gratuitous Wealth]]></title>
-        <id>https://www.youtube.com/watch?v=_FJe0RUqIi8</id>
-        <link href="https://www.youtube.com/watch?v=_FJe0RUqIi8"/>
-        <updated>2023-07-11T13:32:29.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynasty Handbag's Titanic Depression: Draw Me Like One of Your French Horns]]></title>
-        <id>https://www.youtube.com/watch?v=CM-6KUxbcqM</id>
-        <link href="https://www.youtube.com/watch?v=CM-6KUxbcqM"/>
-        <updated>2023-07-11T13:32:22.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Heavy particles solving a larger maze filled with lighter particles]]></title>
         <id>https://www.youtube.com/watch?v=E6PpAuVNrtA</id>
         <link href="https://www.youtube.com/watch?v=E6PpAuVNrtA"/>
@@ -303,15 +456,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Merve Emre, Sigrid Nunez, and Doreen St. Felix on Susan Sontag Now]]></title>
-        <id>https://www.youtube.com/watch?v=qUKssfl-qoc</id>
-        <link href="https://www.youtube.com/watch?v=qUKssfl-qoc"/>
-        <updated>2023-07-07T13:48:03.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D render of a branched flow in a Poisson point process potential]]></title>
         <id>https://www.youtube.com/watch?v=6MFvoJLFBE8</id>
         <link href="https://www.youtube.com/watch?v=6MFvoJLFBE8"/>
@@ -339,30 +483,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A granular material flowing around a disc]]></title>
-        <id>https://www.youtube.com/watch?v=racNwiyr_0I</id>
-        <link href="https://www.youtube.com/watch?v=racNwiyr_0I"/>
-        <updated>2023-07-06T09:00:38.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[For 99% accuracy, how many terms do we need in the exp series?]]></title>
         <id>https://www.youtube.com/watch?v=u1taDXNzFto</id>
         <link href="https://www.youtube.com/watch?v=u1taDXNzFto"/>
         <updated>2023-07-05T14:00:37.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shallow waves in an annulus]]></title>
-        <id>https://www.youtube.com/watch?v=aJR-6mx-npw</id>
-        <link href="https://www.youtube.com/watch?v=aJR-6mx-npw"/>
-        <updated>2023-07-05T09:00:01.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -582,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Charles Atlas on The Mathematics of Consciousness]]></title>
-        <id>https://www.youtube.com/watch?v=R1QCgMb-VsI</id>
-        <link href="https://www.youtube.com/watch?v=R1QCgMb-VsI"/>
-        <updated>2023-06-16T14:02:25.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Book!!!  Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control]]></title>
         <id>https://www.youtube.com/watch?v=oEXR9EnAtm4</id>
         <link href="https://www.youtube.com/watch?v=oEXR9EnAtm4"/>
@@ -663,15 +780,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Primatologist Frans de Waal in Conversation with Isabella Rossellini]]></title>
-        <id>https://www.youtube.com/watch?v=_oZ2fYnFYmw</id>
-        <link href="https://www.youtube.com/watch?v=_oZ2fYnFYmw"/>
-        <updated>2023-06-02T14:17:17.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Earth as a Cube – What Would It Look Like? #shorts #kurzgesagt]]></title>
         <id>https://www.youtube.com/watch?v=LNv4y3wPQA0</id>
         <link href="https://www.youtube.com/watch?v=LNv4y3wPQA0"/>
@@ -714,15 +822,6 @@
         <updated>2023-05-22T21:49:53.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lingua Ignota Performs "MAN IS LIKE A SPRING FLOWER" Live at Pioneer Works]]></title>
-        <id>https://www.youtube.com/watch?v=EmICYIPt07Q</id>
-        <link href="https://www.youtube.com/watch?v=EmICYIPt07Q"/>
-        <updated>2023-05-19T13:48:10.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
@@ -771,15 +870,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Tiny Can a Black Hole Be? #shorts #kurzgesagt]]></title>
-        <id>https://www.youtube.com/watch?v=UKOxj8oP59w</id>
-        <link href="https://www.youtube.com/watch?v=UKOxj8oP59w"/>
-        <updated>2023-05-11T14:00:15.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mandelbrot set: simple equation - complex boundary]]></title>
         <id>https://www.youtube.com/watch?v=q66kwizsUvk</id>
         <link href="https://www.youtube.com/watch?v=q66kwizsUvk"/>
@@ -795,42 +885,6 @@
         <updated>2023-05-06T15:18:08.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Dogs Play]]></title>
-        <id>https://www.youtube.com/watch?v=gioroVjbaNY</id>
-        <link href="https://www.youtube.com/watch?v=gioroVjbaNY"/>
-        <updated>2023-05-05T14:59:23.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Survival of the Friendliest]]></title>
-        <id>https://www.youtube.com/watch?v=UPBMkHwF3fg</id>
-        <link href="https://www.youtube.com/watch?v=UPBMkHwF3fg"/>
-        <updated>2023-05-05T14:58:50.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution of The Guilty Look]]></title>
-        <id>https://www.youtube.com/watch?v=HLasCw-BHHU</id>
-        <link href="https://www.youtube.com/watch?v=HLasCw-BHHU"/>
-        <updated>2023-05-05T14:58:15.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Inner Life of Dogs | Scientific Controversies]]></title>
-        <id>https://www.youtube.com/watch?v=c9DVE1ecS7I</id>
-        <link href="https://www.youtube.com/watch?v=c9DVE1ecS7I"/>
-        <updated>2023-05-05T13:44:02.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
@@ -921,15 +975,6 @@
         <updated>2023-04-22T21:43:08.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Coastal Cities | Science and Society]]></title>
-        <id>https://www.youtube.com/watch?v=Al5FV1KzYIY</id>
-        <link href="https://www.youtube.com/watch?v=Al5FV1KzYIY"/>
-        <updated>2023-04-21T14:07:07.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>

@@ -253,6 +253,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zLJhUrNC_hI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zLJhUrNC_hI",
+          "publishedOn": "2023-07-20T09:20:06.000Z",
+          "wordCount": null,
+          "title": "Tutorial: The irreversibility \"paradox\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-TC_LmepIvg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-TC_LmepIvg",
+          "publishedOn": "2023-07-20T09:00:00.000Z",
+          "wordCount": null,
+          "title": "A denser granular material with square-symmetric interaction flowing around a disc",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RKlujsMVCSE",
           "author": null,
           "description": "",
@@ -381,26 +401,6 @@
           "wordCount": null,
           "title": "3D render of a branched flow in a Poisson point process potential",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=racNwiyr_0I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=racNwiyr_0I",
-          "publishedOn": "2023-07-06T09:00:38.000Z",
-          "wordCount": null,
-          "title": "A granular material flowing around a disc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aJR-6mx-npw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aJR-6mx-npw",
-          "publishedOn": "2023-07-05T09:00:01.000Z",
-          "wordCount": null,
-          "title": "Shallow waves in an annulus",
-          "imageUrl": null
         }
       ]
     },
@@ -415,6 +415,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4TlyzKBm5yw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4TlyzKBm5yw",
+          "publishedOn": "2023-07-20T14:00:03.000Z",
+          "wordCount": null,
+          "title": "What If You’re in Space without a Spacesuit? #kurzgesagt #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kblSnj0p6bE",
           "author": null,
@@ -553,16 +563,6 @@
           "publishedOn": "2023-05-14T14:00:26.000Z",
           "wordCount": null,
           "title": "The Ultimate Fight: Tardigrade vs. Bird #shorts #kurzgesagt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UKOxj8oP59w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UKOxj8oP59w",
-          "publishedOn": "2023-05-11T14:00:15.000Z",
-          "wordCount": null,
-          "title": "How Tiny Can a Black Hole Be? #shorts #kurzgesagt",
           "imageUrl": null
         }
       ]
@@ -703,113 +703,153 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=_FJe0RUqIi8",
+          "id": "https://www.youtube.com/watch?v=nQQBKkiPEQk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=_FJe0RUqIi8",
-          "publishedOn": "2023-07-11T13:32:29.000Z",
+          "link": "https://www.youtube.com/watch?v=nQQBKkiPEQk",
+          "publishedOn": "2023-07-20T17:33:50.000Z",
           "wordCount": null,
-          "title": "Dynasty Handbag's Titanic Depression: A Hellhole of Gratuitous Wealth",
+          "title": "Parvathy Baul | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=CM-6KUxbcqM",
+          "id": "https://www.youtube.com/watch?v=Mpx1DP645bE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=CM-6KUxbcqM",
-          "publishedOn": "2023-07-11T13:32:22.000Z",
+          "link": "https://www.youtube.com/watch?v=Mpx1DP645bE",
+          "publishedOn": "2023-07-20T17:33:47.000Z",
           "wordCount": null,
-          "title": "Dynasty Handbag's Titanic Depression: Draw Me Like One of Your French Horns",
+          "title": "Khadija El Warzazia’s Bnat el Houariyat & Esraa Warda | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=qUKssfl-qoc",
+          "id": "https://www.youtube.com/watch?v=f_A8lkokRYc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=qUKssfl-qoc",
-          "publishedOn": "2023-07-07T13:48:03.000Z",
+          "link": "https://www.youtube.com/watch?v=f_A8lkokRYc",
+          "publishedOn": "2023-07-20T17:33:45.000Z",
           "wordCount": null,
-          "title": "Merve Emre, Sigrid Nunez, and Doreen St. Felix on Susan Sontag Now",
+          "title": "Arun Ramamurthy Trio | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=R1QCgMb-VsI",
+          "id": "https://www.youtube.com/watch?v=cmvnSCat7P4",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=R1QCgMb-VsI",
-          "publishedOn": "2023-06-16T14:02:25.000Z",
+          "link": "https://www.youtube.com/watch?v=cmvnSCat7P4",
+          "publishedOn": "2023-07-20T17:33:42.000Z",
           "wordCount": null,
-          "title": "Charles Atlas on The Mathematics of Consciousness",
+          "title": "Samir LanGus | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=_oZ2fYnFYmw",
+          "id": "https://www.youtube.com/watch?v=0P5hf08RXFI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=_oZ2fYnFYmw",
-          "publishedOn": "2023-06-02T14:17:17.000Z",
+          "link": "https://www.youtube.com/watch?v=0P5hf08RXFI",
+          "publishedOn": "2023-07-20T17:33:37.000Z",
           "wordCount": null,
-          "title": "Primatologist Frans de Waal in Conversation with Isabella Rossellini",
+          "title": "Hamid Al Saadi | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=EmICYIPt07Q",
+          "id": "https://www.youtube.com/watch?v=e0FpNPfm0ME",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=EmICYIPt07Q",
-          "publishedOn": "2023-05-19T13:48:10.000Z",
+          "link": "https://www.youtube.com/watch?v=e0FpNPfm0ME",
+          "publishedOn": "2023-07-20T17:33:31.000Z",
           "wordCount": null,
-          "title": "Lingua Ignota Performs \"MAN IS LIKE A SPRING FLOWER\" Live at Pioneer Works",
+          "title": "Vinay Desai & Vivek Pandya | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=gioroVjbaNY",
+          "id": "https://www.youtube.com/watch?v=Won7kItmfr0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=gioroVjbaNY",
-          "publishedOn": "2023-05-05T14:59:23.000Z",
+          "link": "https://www.youtube.com/watch?v=Won7kItmfr0",
+          "publishedOn": "2023-07-20T17:33:24.000Z",
           "wordCount": null,
-          "title": "How Dogs Play",
+          "title": "Amir ElSaffar: Maqamodular | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=UPBMkHwF3fg",
+          "id": "https://www.youtube.com/watch?v=dCcQLy7RtM8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=UPBMkHwF3fg",
-          "publishedOn": "2023-05-05T14:58:50.000Z",
+          "link": "https://www.youtube.com/watch?v=dCcQLy7RtM8",
+          "publishedOn": "2023-07-20T17:33:21.000Z",
           "wordCount": null,
-          "title": "Survival of the Friendliest",
+          "title": "Jay Gandhi & Ehren Hanson | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=HLasCw-BHHU",
+          "id": "https://www.youtube.com/watch?v=MxtXPJRhTxo",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=HLasCw-BHHU",
-          "publishedOn": "2023-05-05T14:58:15.000Z",
+          "link": "https://www.youtube.com/watch?v=MxtXPJRhTxo",
+          "publishedOn": "2023-07-20T17:33:18.000Z",
           "wordCount": null,
-          "title": "The Evolution of The Guilty Look",
+          "title": "Abhik Mukherjee & Shank Lahiri | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=c9DVE1ecS7I",
+          "id": "https://www.youtube.com/watch?v=-tPY7eG--rs",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=c9DVE1ecS7I",
-          "publishedOn": "2023-05-05T13:44:02.000Z",
+          "link": "https://www.youtube.com/watch?v=-tPY7eG--rs",
+          "publishedOn": "2023-07-20T17:33:16.000Z",
           "wordCount": null,
-          "title": "The Inner Life of Dogs | Scientific Controversies",
+          "title": "Samarth Nagarkar, Sohail Yusuf Khan & Shank Lahiri | Ragas Live Festival 2022",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Al5FV1KzYIY",
+          "id": "https://www.youtube.com/watch?v=a0JIP_yMBa8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Al5FV1KzYIY",
-          "publishedOn": "2023-04-21T14:07:07.000Z",
+          "link": "https://www.youtube.com/watch?v=a0JIP_yMBa8",
+          "publishedOn": "2023-07-20T17:33:13.000Z",
           "wordCount": null,
-          "title": "The Future of Coastal Cities | Science and Society",
+          "title": "Kroba | Ragas Live Festival 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Oyy3s5-MaEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Oyy3s5-MaEM",
+          "publishedOn": "2023-07-20T17:33:09.000Z",
+          "wordCount": null,
+          "title": "Suhail Yusuf Khan & Pranav Ghatraju | Ragas Live Festival 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3bWHAnX-8o0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3bWHAnX-8o0",
+          "publishedOn": "2023-07-20T17:33:07.000Z",
+          "wordCount": null,
+          "title": "Qasim Naqvi | Ragas Live Festival 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fwJxGl4bt9M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fwJxGl4bt9M",
+          "publishedOn": "2023-07-20T17:33:04.000Z",
+          "wordCount": null,
+          "title": "Manik Khan & Sudhakar Vaidyanathan (Tribute to Ali Akbar Khan)  |  Ragas Live Festival 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=udTG9Fh1pls",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=udTG9Fh1pls",
+          "publishedOn": "2023-07-20T17:33:01.000Z",
+          "wordCount": null,
+          "title": "Cyro Baptista, Tim Keiper, Brian Marsella & Shanir Ezra Blumenkranz | Ragas Live Festival 2022",
           "imageUrl": null
         }
       ]
@@ -1099,6 +1139,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HSx28O956kA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HSx28O956kA",
+          "publishedOn": "2023-07-20T04:48:12.000Z",
+          "wordCount": null,
+          "title": "Part 4: Control of rotary pendulum using Julia: Chirp system identification",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=a7dLamjTbic",
           "author": null,
