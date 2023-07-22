@@ -234,16 +234,6 @@
           "wordCount": null,
           "title": "5000 balls falling in a circle and a parabola, plus a cute bug",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uSZnv2bxgNw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uSZnv2bxgNw",
-          "publishedOn": "2023-04-22T21:43:08.000Z",
-          "wordCount": null,
-          "title": "10000 classical balls and quantum wave packet falling on 0.8|x|",
-          "imageUrl": null
         }
       ]
     },
@@ -252,6 +242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nGp6PEbVWLM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nGp6PEbVWLM",
+          "publishedOn": "2023-07-21T09:00:27.000Z",
+          "wordCount": null,
+          "title": "A tsunami with improved boundary conditions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zLJhUrNC_hI",
           "author": null,
@@ -390,16 +390,6 @@
           "publishedOn": "2023-07-08T18:00:09.000Z",
           "wordCount": null,
           "title": "Tutorial: How to simulate the wave equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6MFvoJLFBE8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6MFvoJLFBE8",
-          "publishedOn": "2023-07-07T09:00:04.000Z",
-          "wordCount": null,
-          "title": "3D render of a branched flow in a Poisson point process potential",
           "imageUrl": null
         }
       ]
@@ -860,6 +850,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YJuOQWCyMAc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YJuOQWCyMAc",
+          "publishedOn": "2023-07-21T20:26:55.000Z",
+          "wordCount": null,
+          "title": "Gravitational Waves and the Dark Universe",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xlyYipjw560",
           "author": null,
           "description": "",
@@ -1042,7 +1042,7 @@
           "link": "https://www.youtube.com/watch?v=rMrHCM1Etng",
           "publishedOn": "2023-07-19T14:49:41.000Z",
           "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-082 Day 1",
+          "title": "JuliaCon 2023 Room 32-141 Day 1",
           "imageUrl": null
         },
         {
@@ -1140,6 +1140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0RxQwepVsoM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0RxQwepVsoM",
+          "publishedOn": "2023-07-21T03:45:44.000Z",
+          "wordCount": null,
+          "title": "Part 5: Control of rotary pendulum using Julia: Estimating parameters",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HSx28O956kA",
           "author": null,
           "description": "",
@@ -1203,7 +1213,7 @@
           "link": "https://www.youtube.com/watch?v=19z45Vac1uQ",
           "publishedOn": "2023-07-19T17:19:01.000Z",
           "wordCount": null,
-          "title": "Hacking cells into doing math",
+          "title": "From Silicon to Cells: Full-Adder Circuits in Biological Computing",
           "imageUrl": null
         },
         {

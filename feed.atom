@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T00:41:29.618Z</id>
+    <id>urn:2023-07-22T00:42:04.333Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-21T00:41:29.618Z</updated>
+    <updated>2023-07-22T00:42:04.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gravitational Waves and the Dark Universe]]></title>
+        <id>https://www.youtube.com/watch?v=YJuOQWCyMAc</id>
+        <link href="https://www.youtube.com/watch?v=YJuOQWCyMAc"/>
+        <updated>2023-07-21T20:26:55.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A tsunami with improved boundary conditions]]></title>
+        <id>https://www.youtube.com/watch?v=nGp6PEbVWLM</id>
+        <link href="https://www.youtube.com/watch?v=nGp6PEbVWLM"/>
+        <updated>2023-07-21T09:00:27.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 5: Control of rotary pendulum using Julia: Estimating parameters]]></title>
+        <id>https://www.youtube.com/watch?v=0RxQwepVsoM</id>
+        <link href="https://www.youtube.com/watch?v=0RxQwepVsoM"/>
+        <updated>2023-07-21T03:45:44.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parvathy Baul | Ragas Live Festival 2022]]></title>
         <id>https://www.youtube.com/watch?v=nQQBKkiPEQk</id>
@@ -177,7 +204,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hacking cells into doing math]]></title>
+        <title type="html"><![CDATA[From Silicon to Cells: Full-Adder Circuits in Biological Computing]]></title>
         <id>https://www.youtube.com/watch?v=19z45Vac1uQ</id>
         <link href="https://www.youtube.com/watch?v=19z45Vac1uQ"/>
         <updated>2023-07-19T17:19:01.000Z</updated>
@@ -249,7 +276,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 32-082 Day 1]]></title>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-141 Day 1]]></title>
         <id>https://www.youtube.com/watch?v=rMrHCM1Etng</id>
         <link href="https://www.youtube.com/watch?v=rMrHCM1Etng"/>
         <updated>2023-07-19T14:49:41.000Z</updated>
@@ -453,15 +480,6 @@
         <updated>2023-07-07T20:01:51.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D render of a branched flow in a Poisson point process potential]]></title>
-        <id>https://www.youtube.com/watch?v=6MFvoJLFBE8</id>
-        <link href="https://www.youtube.com/watch?v=6MFvoJLFBE8"/>
-        <updated>2023-07-07T09:00:04.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -966,15 +984,6 @@
         <updated>2023-04-26T14:00:03.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10000 classical balls and quantum wave packet falling on 0.8|x|]]></title>
-        <id>https://www.youtube.com/watch?v=uSZnv2bxgNw</id>
-        <link href="https://www.youtube.com/watch?v=uSZnv2bxgNw"/>
-        <updated>2023-04-22T21:43:08.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
