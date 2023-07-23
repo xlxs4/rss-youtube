@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-22T00:42:04.333Z</id>
+    <id>urn:2023-07-23T00:44:37.715Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-22T00:42:04.333Z</updated>
+    <updated>2023-07-23T00:44:37.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Part 6: Control of rotary pendulum using Julia: LQR Stabilization control]]></title>
+        <id>https://www.youtube.com/watch?v=96hHEWN1sIM</id>
+        <link href="https://www.youtube.com/watch?v=96hHEWN1sIM"/>
+        <updated>2023-07-22T10:26:34.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A linear wave hitting a diffraction grating]]></title>
+        <id>https://www.youtube.com/watch?v=2D7eDFDelUc</id>
+        <link href="https://www.youtube.com/watch?v=2D7eDFDelUc"/>
+        <updated>2023-07-22T09:00:04.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gravitational Waves and the Dark Universe]]></title>
         <id>https://www.youtube.com/watch?v=YJuOQWCyMAc</id>
@@ -451,15 +469,6 @@
         <id>https://www.youtube.com/watch?v=KrtOj2S0O3g</id>
         <link href="https://www.youtube.com/watch?v=KrtOj2S0O3g"/>
         <updated>2023-07-09T09:00:19.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: How to simulate the wave equation]]></title>
-        <id>https://www.youtube.com/watch?v=pN-gi_omIVE</id>
-        <link href="https://www.youtube.com/watch?v=pN-gi_omIVE"/>
-        <updated>2023-07-08T18:00:09.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>

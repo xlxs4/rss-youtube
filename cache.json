@@ -243,6 +243,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2D7eDFDelUc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2D7eDFDelUc",
+          "publishedOn": "2023-07-22T09:00:04.000Z",
+          "wordCount": null,
+          "title": "A linear wave hitting a diffraction grating",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nGp6PEbVWLM",
           "author": null,
           "description": "",
@@ -380,16 +390,6 @@
           "publishedOn": "2023-07-09T09:00:19.000Z",
           "wordCount": null,
           "title": "Bloopers 11: Jumpy particles in a maze",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pN-gi_omIVE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pN-gi_omIVE",
-          "publishedOn": "2023-07-08T18:00:09.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to simulate the wave equation",
           "imageUrl": null
         }
       ]
@@ -1139,6 +1139,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=96hHEWN1sIM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=96hHEWN1sIM",
+          "publishedOn": "2023-07-22T10:26:34.000Z",
+          "wordCount": null,
+          "title": "Part 6: Control of rotary pendulum using Julia: LQR Stabilization control",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0RxQwepVsoM",
           "author": null,
