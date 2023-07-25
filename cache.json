@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uLSCm33-lWY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uLSCm33-lWY",
+          "publishedOn": "2023-07-24T09:00:29.000Z",
+          "wordCount": null,
+          "title": "Beyond the jamming transition: Phonons in a granular material",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zLJhUrNC_hI",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2023-07-10T09:00:01.000Z",
           "wordCount": null,
           "title": "Asymmetric shallow waves in an annulus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KrtOj2S0O3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KrtOj2S0O3g",
-          "publishedOn": "2023-07-09T09:00:19.000Z",
-          "wordCount": null,
-          "title": "Bloopers 11: Jumpy particles in a maze",
           "imageUrl": null
         }
       ]
@@ -1149,6 +1149,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RE-6UsNFXow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RE-6UsNFXow",
+          "publishedOn": "2023-07-24T08:59:15.000Z",
+          "wordCount": null,
+          "title": "Part 8: Control of rotary pendulum using Julia: Sliding Mode Control",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RhF2NMCYoiw",
           "author": null,

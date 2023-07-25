@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-24T00:43:25.490Z</id>
+    <id>urn:2023-07-25T00:44:53.001Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-24T00:43:25.490Z</updated>
+    <updated>2023-07-25T00:44:53.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond the jamming transition: Phonons in a granular material]]></title>
+        <id>https://www.youtube.com/watch?v=uLSCm33-lWY</id>
+        <link href="https://www.youtube.com/watch?v=uLSCm33-lWY"/>
+        <updated>2023-07-24T09:00:29.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 8: Control of rotary pendulum using Julia: Sliding Mode Control]]></title>
+        <id>https://www.youtube.com/watch?v=RE-6UsNFXow</id>
+        <link href="https://www.youtube.com/watch?v=RE-6UsNFXow"/>
+        <updated>2023-07-24T08:59:15.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial: The irreversibility "paradox"]]></title>
         <id>https://www.youtube.com/watch?v=zLJhUrNC_hI</id>
@@ -478,15 +496,6 @@
         <id>https://www.youtube.com/watch?v=0qIBckNsrX8</id>
         <link href="https://www.youtube.com/watch?v=0qIBckNsrX8"/>
         <updated>2023-07-10T09:00:01.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloopers 11: Jumpy particles in a maze]]></title>
-        <id>https://www.youtube.com/watch?v=KrtOj2S0O3g</id>
-        <link href="https://www.youtube.com/watch?v=KrtOj2S0O3g"/>
-        <updated>2023-07-09T09:00:19.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
