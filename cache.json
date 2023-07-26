@@ -151,16 +151,6 @@
           "wordCount": null,
           "title": "Queuing theory and Poisson process",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
-          "publishedOn": "2023-04-26T14:00:03.000Z",
-          "wordCount": null,
-          "title": "Theorema Egregium: why all maps are wrong",
-          "imageUrl": null
         }
       ]
     },
@@ -252,6 +242,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2TerLHM6Ugg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2TerLHM6Ugg",
+          "publishedOn": "2023-07-25T09:00:03.000Z",
+          "wordCount": null,
+          "title": "A linear wave hitting a diffraction grating 2: slightly larger angle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CcefNoSTQio",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CcefNoSTQio",
+          "publishedOn": "2023-07-24T14:51:22.000Z",
+          "wordCount": null,
+          "title": "Tutorial: KAM theory and the stability of the Solar System",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uLSCm33-lWY",
           "author": null,
@@ -380,26 +390,6 @@
           "publishedOn": "2023-07-12T09:00:07.000Z",
           "wordCount": null,
           "title": "Classics revisited: A diffraction grating",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E6PpAuVNrtA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E6PpAuVNrtA",
-          "publishedOn": "2023-07-11T09:00:11.000Z",
-          "wordCount": null,
-          "title": "Heavy particles solving a larger maze filled with lighter particles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0qIBckNsrX8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0qIBckNsrX8",
-          "publishedOn": "2023-07-10T09:00:01.000Z",
-          "wordCount": null,
-          "title": "Asymmetric shallow waves in an annulus",
           "imageUrl": null
         }
       ]
@@ -976,6 +966,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7a2MqqvyoEc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7a2MqqvyoEc",
+          "publishedOn": "2023-07-25T21:19:11.000Z",
+          "wordCount": null,
+          "title": "Wrapping Up Offline RL as part of AutoMLPipeline Workflow | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vG6ZLhe9Hns",
           "author": null,
           "description": "",
@@ -1114,16 +1114,6 @@
           "wordCount": null,
           "title": "Makie Ecosystem - Simon Danisch - MakieCon 23",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nHKtKVjhbAc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nHKtKVjhbAc",
-          "publishedOn": "2023-05-02T10:41:14.000Z",
-          "wordCount": null,
-          "title": "MathTeXEngine.jl: reinventing the LaTeX wheel in Julia - Benoît Richard - MakieCon 23",
-          "imageUrl": null
         }
       ]
     },
@@ -1149,6 +1139,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pHRCwg8nDEA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pHRCwg8nDEA",
+          "publishedOn": "2023-07-25T13:29:54.000Z",
+          "wordCount": null,
+          "title": "Part 9: Control of rotary pendulum using Julia: Linear MPC",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RE-6UsNFXow",
           "author": null,
