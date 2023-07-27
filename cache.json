@@ -243,6 +243,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GBzvPrFKTMw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GBzvPrFKTMw",
+          "publishedOn": "2023-07-26T09:00:22.000Z",
+          "wordCount": null,
+          "title": "Faraday waves in a shallow water \"resonator\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2TerLHM6Ugg",
           "author": null,
           "description": "",
@@ -380,16 +390,6 @@
           "publishedOn": "2023-07-13T09:00:41.000Z",
           "wordCount": null,
           "title": "A granular material with pentagon-symmetric interaction flowing around a disc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DSFEDUXTkBk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DSFEDUXTkBk",
-          "publishedOn": "2023-07-12T09:00:07.000Z",
-          "wordCount": null,
-          "title": "Classics revisited: A diffraction grating",
           "imageUrl": null
         }
       ]
@@ -966,73 +966,13 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=7a2MqqvyoEc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7a2MqqvyoEc",
-          "publishedOn": "2023-07-25T21:19:11.000Z",
-          "wordCount": null,
-          "title": "Wrapping Up Offline RL as part of AutoMLPipeline Workflow | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=vG6ZLhe9Hns",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=vG6ZLhe9Hns",
-          "publishedOn": "2023-07-19T16:02:36.000Z",
+          "publishedOn": "2023-07-26T22:30:25.000Z",
           "wordCount": null,
           "title": "JuliaCon 2023 Room 26-100 Day 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CrIAsPmG2a0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CrIAsPmG2a0",
-          "publishedOn": "2023-07-19T16:01:51.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-123 Day 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G5YkdIM7QeE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G5YkdIM7QeE",
-          "publishedOn": "2023-07-19T15:57:46.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-123 Day 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gpo1FUXCcJE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gpo1FUXCcJE",
-          "publishedOn": "2023-07-19T15:10:15.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-D463 (Star) Day 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CoY5XwmFkF4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CoY5XwmFkF4",
-          "publishedOn": "2023-07-19T15:08:51.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x9d6WtePul0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x9d6WtePul0",
-          "publishedOn": "2023-07-19T15:06:33.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-144 Day 1",
           "imageUrl": null
         },
         {
@@ -1040,7 +980,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=Hkta_AEv5sA",
-          "publishedOn": "2023-07-19T15:02:43.000Z",
+          "publishedOn": "2023-07-26T22:23:56.000Z",
           "wordCount": null,
           "title": "JuliaCon 2023 Room 32-124 Day 1",
           "imageUrl": null
@@ -1050,69 +990,129 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=rMrHCM1Etng",
-          "publishedOn": "2023-07-19T14:49:41.000Z",
+          "publishedOn": "2023-07-26T21:45:49.000Z",
           "wordCount": null,
           "title": "JuliaCon 2023 Room 32-141 Day 1",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=uQZZq5UTsmg",
+          "id": "https://www.youtube.com/watch?v=gpo1FUXCcJE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=uQZZq5UTsmg",
-          "publishedOn": "2023-07-14T16:37:20.000Z",
+          "link": "https://www.youtube.com/watch?v=gpo1FUXCcJE",
+          "publishedOn": "2023-07-26T21:39:25.000Z",
           "wordCount": null,
-          "title": "ML Community Call (2023-07-14)",
+          "title": "JuliaCon 2023 Room 32-D463 (Star) Day 1",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=2HCR1Lhad20",
+          "id": "https://www.youtube.com/watch?v=x9d6WtePul0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=2HCR1Lhad20",
-          "publishedOn": "2023-06-16T17:24:28.000Z",
+          "link": "https://www.youtube.com/watch?v=x9d6WtePul0",
+          "publishedOn": "2023-07-26T21:31:35.000Z",
           "wordCount": null,
-          "title": "ML Community Call (2023-06-16)",
+          "title": "JuliaCon 2023 Room 32-144 Day 1",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=ZYkojUozeC4",
+          "id": "https://www.youtube.com/watch?v=CrIAsPmG2a0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=ZYkojUozeC4",
-          "publishedOn": "2023-05-06T15:18:08.000Z",
+          "link": "https://www.youtube.com/watch?v=CrIAsPmG2a0",
+          "publishedOn": "2023-07-26T21:19:30.000Z",
           "wordCount": null,
-          "title": "Causal vs Acausal Modeling By Example: Why Julia ModelingToolkit.jl Scales (Chris Rackauckas, SciML)",
+          "title": "JuliaCon 2023 Room 32-123 Day 1",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=dMQ-CCw9Lbk",
+          "id": "https://www.youtube.com/watch?v=A7JuCEy_mGI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=dMQ-CCw9Lbk",
-          "publishedOn": "2023-05-02T11:12:26.000Z",
+          "link": "https://www.youtube.com/watch?v=A7JuCEy_mGI",
+          "publishedOn": "2023-07-26T21:13:33.000Z",
           "wordCount": null,
-          "title": "Visualizing PDE Solutions on Unstructured Meshes with Makie.jl - Max Koehler, Dennis Ogiermann",
+          "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 1",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=xEEvmFXD9v0",
+          "id": "https://www.youtube.com/watch?v=V8wiKuApmKU",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=xEEvmFXD9v0",
-          "publishedOn": "2023-05-02T10:41:20.000Z",
+          "link": "https://www.youtube.com/watch?v=V8wiKuApmKU",
+          "publishedOn": "2023-07-26T21:07:06.000Z",
           "wordCount": null,
-          "title": "Visualizing Tabular Data - Bogumił Kamiński - MakieCon 23",
+          "title": "JuliaCon 2023 Room 32-D463 (Star) Day 2",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=9L4G1Wyq8kw",
+          "id": "https://www.youtube.com/watch?v=3AFiBLHlG1A",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=9L4G1Wyq8kw",
-          "publishedOn": "2023-05-02T10:41:17.000Z",
+          "link": "https://www.youtube.com/watch?v=3AFiBLHlG1A",
+          "publishedOn": "2023-07-26T21:06:32.000Z",
           "wordCount": null,
-          "title": "Makie Ecosystem - Simon Danisch - MakieCon 23",
+          "title": "JuliaCon 2023 Room 26-100 Day 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xT_OEfmwgEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xT_OEfmwgEM",
+          "publishedOn": "2023-07-26T21:06:08.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 32-G449 Star Room -2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jIlRpohTr4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jIlRpohTr4U",
+          "publishedOn": "2023-07-26T21:03:00.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-141 Day 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CoY5XwmFkF4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CoY5XwmFkF4",
+          "publishedOn": "2023-07-26T21:02:10.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6JBCCLVREwk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6JBCCLVREwk",
+          "publishedOn": "2023-07-26T21:01:11.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=imZE2k7gJ0Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=imZE2k7gJ0Q",
+          "publishedOn": "2023-07-26T20:59:04.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-144 Day 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=m0HETIoEBtE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m0HETIoEBtE",
+          "publishedOn": "2023-07-26T20:39:35.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 32-G449 Star Room -2",
           "imageUrl": null
         }
       ]
