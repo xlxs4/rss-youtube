@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-27T00:38:27.911Z</id>
+    <id>urn:2023-07-28T00:38:31.527Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-27T00:38:27.911Z</updated>
+    <updated>2023-07-28T00:38:31.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 26-100 Day 2]]></title>
+        <id>https://www.youtube.com/watch?v=3AFiBLHlG1A</id>
+        <link href="https://www.youtube.com/watch?v=3AFiBLHlG1A"/>
+        <updated>2023-07-27T22:40:20.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-D463 (Star) Day 2]]></title>
+        <id>https://www.youtube.com/watch?v=V8wiKuApmKU</id>
+        <link href="https://www.youtube.com/watch?v=V8wiKuApmKU"/>
+        <updated>2023-07-27T21:09:14.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-123 Day 2]]></title>
+        <id>https://www.youtube.com/watch?v=5i48gvpqJYY</id>
+        <link href="https://www.youtube.com/watch?v=5i48gvpqJYY"/>
+        <updated>2023-07-27T21:02:28.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-G449 (Kiva) Day 2]]></title>
+        <id>https://www.youtube.com/watch?v=6JBCCLVREwk</id>
+        <link href="https://www.youtube.com/watch?v=6JBCCLVREwk"/>
+        <updated>2023-07-27T20:59:58.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-082 Day 2]]></title>
+        <id>https://www.youtube.com/watch?v=jIlRpohTr4U</id>
+        <link href="https://www.youtube.com/watch?v=jIlRpohTr4U"/>
+        <updated>2023-07-27T20:32:26.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-124 Day 2]]></title>
+        <id>https://www.youtube.com/watch?v=-rtaL3qavBA</id>
+        <link href="https://www.youtube.com/watch?v=-rtaL3qavBA"/>
+        <updated>2023-07-27T20:31:27.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-144 Day 2]]></title>
+        <id>https://www.youtube.com/watch?v=imZE2k7gJ0Q</id>
+        <link href="https://www.youtube.com/watch?v=imZE2k7gJ0Q"/>
+        <updated>2023-07-27T20:25:41.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cryptographer Working to Protect Computations]]></title>
+        <id>https://www.youtube.com/watch?v=EMrpHQehRmY</id>
+        <link href="https://www.youtube.com/watch?v=EMrpHQehRmY"/>
+        <updated>2023-07-27T14:23:26.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Moons Could Earth Handle? #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=28T91fgkpkA</id>
+        <link href="https://www.youtube.com/watch?v=28T91fgkpkA"/>
+        <updated>2023-07-27T14:03:48.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-G449 (Kiva) Day 1]]></title>
+        <id>https://www.youtube.com/watch?v=A7JuCEy_mGI</id>
+        <link href="https://www.youtube.com/watch?v=A7JuCEy_mGI"/>
+        <updated>2023-07-27T10:06:37.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 32-G449 Star Room -2]]></title>
+        <id>https://www.youtube.com/watch?v=m0HETIoEBtE</id>
+        <link href="https://www.youtube.com/watch?v=m0HETIoEBtE"/>
+        <updated>2023-07-27T09:09:55.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phonons in a flowing granular material]]></title>
+        <id>https://www.youtube.com/watch?v=ie3mDJq50Xo</id>
+        <link href="https://www.youtube.com/watch?v=ie3mDJq50Xo"/>
+        <updated>2023-07-27T09:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-123 Day 2]]></title>
+        <id>https://www.youtube.com/watch?v=G5YkdIM7QeE</id>
+        <link href="https://www.youtube.com/watch?v=G5YkdIM7QeE"/>
+        <updated>2023-07-27T01:34:43.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JuliaCon 2023 Room 26-100 Day 1]]></title>
         <id>https://www.youtube.com/watch?v=vG6ZLhe9Hns</id>
@@ -46,96 +163,6 @@
         <id>https://www.youtube.com/watch?v=x9d6WtePul0</id>
         <link href="https://www.youtube.com/watch?v=x9d6WtePul0"/>
         <updated>2023-07-26T21:31:35.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 32-123 Day 1]]></title>
-        <id>https://www.youtube.com/watch?v=CrIAsPmG2a0</id>
-        <link href="https://www.youtube.com/watch?v=CrIAsPmG2a0"/>
-        <updated>2023-07-26T21:19:30.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 32-G449 (Kiva) Day 1]]></title>
-        <id>https://www.youtube.com/watch?v=A7JuCEy_mGI</id>
-        <link href="https://www.youtube.com/watch?v=A7JuCEy_mGI"/>
-        <updated>2023-07-26T21:13:33.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 32-D463 (Star) Day 2]]></title>
-        <id>https://www.youtube.com/watch?v=V8wiKuApmKU</id>
-        <link href="https://www.youtube.com/watch?v=V8wiKuApmKU"/>
-        <updated>2023-07-26T21:07:06.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 26-100 Day 2]]></title>
-        <id>https://www.youtube.com/watch?v=3AFiBLHlG1A</id>
-        <link href="https://www.youtube.com/watch?v=3AFiBLHlG1A"/>
-        <updated>2023-07-26T21:06:32.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 32-G449 Star Room -2]]></title>
-        <id>https://www.youtube.com/watch?v=xT_OEfmwgEM</id>
-        <link href="https://www.youtube.com/watch?v=xT_OEfmwgEM"/>
-        <updated>2023-07-26T21:06:08.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 32-141 Day 2]]></title>
-        <id>https://www.youtube.com/watch?v=jIlRpohTr4U</id>
-        <link href="https://www.youtube.com/watch?v=jIlRpohTr4U"/>
-        <updated>2023-07-26T21:03:00.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 32-G449 (Kiva) Day 1]]></title>
-        <id>https://www.youtube.com/watch?v=CoY5XwmFkF4</id>
-        <link href="https://www.youtube.com/watch?v=CoY5XwmFkF4"/>
-        <updated>2023-07-26T21:02:10.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 32-G449 (Kiva) Day 2]]></title>
-        <id>https://www.youtube.com/watch?v=6JBCCLVREwk</id>
-        <link href="https://www.youtube.com/watch?v=6JBCCLVREwk"/>
-        <updated>2023-07-26T21:01:11.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 32-144 Day 2]]></title>
-        <id>https://www.youtube.com/watch?v=imZE2k7gJ0Q</id>
-        <link href="https://www.youtube.com/watch?v=imZE2k7gJ0Q"/>
-        <updated>2023-07-26T20:59:04.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 32-G449 Star Room -2]]></title>
-        <id>https://www.youtube.com/watch?v=m0HETIoEBtE</id>
-        <link href="https://www.youtube.com/watch?v=m0HETIoEBtE"/>
-        <updated>2023-07-26T20:39:35.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
         </author>
@@ -534,15 +561,6 @@
         <updated>2023-07-13T14:00:34.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A granular material with pentagon-symmetric interaction flowing around a disc]]></title>
-        <id>https://www.youtube.com/watch?v=v_2PMZG8uy4</id>
-        <link href="https://www.youtube.com/watch?v=v_2PMZG8uy4"/>
-        <updated>2023-07-13T09:00:41.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -969,15 +987,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ultimate Fight: Tardigrade vs. Bird #shorts #kurzgesagt]]></title>
-        <id>https://www.youtube.com/watch?v=o2afhMs0aUg</id>
-        <link href="https://www.youtube.com/watch?v=o2afhMs0aUg"/>
-        <updated>2023-05-14T14:00:26.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mandelbrot set: simple equation - complex boundary]]></title>
         <id>https://www.youtube.com/watch?v=q66kwizsUvk</id>
         <link href="https://www.youtube.com/watch?v=q66kwizsUvk"/>
@@ -1011,15 +1020,6 @@
         <updated>2023-04-30T16:48:19.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5000 balls falling in a circle and a parabola, plus a cute bug]]></title>
-        <id>https://www.youtube.com/watch?v=lf1PP6r8Ft4</id>
-        <link href="https://www.youtube.com/watch?v=lf1PP6r8Ft4"/>
-        <updated>2023-04-28T20:12:43.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
