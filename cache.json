@@ -243,6 +243,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GPslf47e1FA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GPslf47e1FA",
+          "publishedOn": "2023-07-28T09:00:08.000Z",
+          "wordCount": null,
+          "title": "A linear wave hitting a diffraction grating 3: large angle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ie3mDJq50Xo",
           "author": null,
           "description": "",
@@ -380,16 +390,6 @@
           "publishedOn": "2023-07-15T09:00:37.000Z",
           "wordCount": null,
           "title": "Who is the winner? Lennard-Jones particles bouncing in a maze, with gravity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lgYW2nVn8vk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lgYW2nVn8vk",
-          "publishedOn": "2023-07-14T09:00:38.000Z",
-          "wordCount": null,
-          "title": "Why tsunami are so dangerous",
           "imageUrl": null
         }
       ]
@@ -693,6 +693,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jxCDu0p7ZYc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jxCDu0p7ZYc",
+          "publishedOn": "2023-07-28T14:09:01.000Z",
+          "wordCount": null,
+          "title": "Scientific Controversies: The Goddamn Particle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nQQBKkiPEQk",
           "author": null,
           "description": "",
@@ -831,16 +841,6 @@
           "wordCount": null,
           "title": "Manik Khan & Sudhakar Vaidyanathan (Tribute to Ali Akbar Khan)  |  Ragas Live Festival 2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=udTG9Fh1pls",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=udTG9Fh1pls",
-          "publishedOn": "2023-07-20T17:33:01.000Z",
-          "wordCount": null,
-          "title": "Cyro Baptista, Tim Keiper, Brian Marsella & Shanir Ezra Blumenkranz | Ragas Live Festival 2022",
-          "imageUrl": null
         }
       ]
     },
@@ -966,6 +966,76 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2D8oRtDJEeg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2D8oRtDJEeg",
+          "publishedOn": "2023-07-28T22:14:06.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 26-100 Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gyufVG56TEQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gyufVG56TEQ",
+          "publishedOn": "2023-07-28T21:42:17.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-D463 (Star) Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yJE3FYpHe18",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yJE3FYpHe18",
+          "publishedOn": "2023-07-28T21:40:47.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-123 Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gjQE5mSPZZg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gjQE5mSPZZg",
+          "publishedOn": "2023-07-28T21:39:42.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-144 Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FIeO1yenQ6Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FIeO1yenQ6Y",
+          "publishedOn": "2023-07-28T21:35:13.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-124 Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1oNN5S0qhHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1oNN5S0qhHI",
+          "publishedOn": "2023-07-28T21:28:39.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DsC_gb9MFMs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DsC_gb9MFMs",
+          "publishedOn": "2023-07-28T20:05:02.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Room 32-155  Day 3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3AFiBLHlG1A",
           "author": null,
           "description": "",
@@ -1043,76 +1113,6 @@
           "publishedOn": "2023-07-27T10:06:37.000Z",
           "wordCount": null,
           "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m0HETIoEBtE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m0HETIoEBtE",
-          "publishedOn": "2023-07-27T09:09:55.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 32-G449 Star Room -2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G5YkdIM7QeE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G5YkdIM7QeE",
-          "publishedOn": "2023-07-27T01:34:43.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-123 Day 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vG6ZLhe9Hns",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vG6ZLhe9Hns",
-          "publishedOn": "2023-07-26T22:30:25.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 26-100 Day 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Hkta_AEv5sA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Hkta_AEv5sA",
-          "publishedOn": "2023-07-26T22:23:56.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-124 Day 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rMrHCM1Etng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rMrHCM1Etng",
-          "publishedOn": "2023-07-26T21:45:49.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-141 Day 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gpo1FUXCcJE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gpo1FUXCcJE",
-          "publishedOn": "2023-07-26T21:39:25.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-D463 (Star) Day 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x9d6WtePul0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x9d6WtePul0",
-          "publishedOn": "2023-07-26T21:31:35.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-144 Day 1",
           "imageUrl": null
         }
       ]
