@@ -133,6 +133,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=erA0jb9dSm0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=erA0jb9dSm0",
+          "publishedOn": "2023-07-29T14:00:22.000Z",
+          "wordCount": null,
+          "title": "How can we rotate in higher dimensions? Complex? | Lie groups, algebras, brackets #2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IlqVo3sJFLE",
           "author": null,
           "description": "",
@@ -242,6 +252,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-eD94SAgefc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-eD94SAgefc",
+          "publishedOn": "2023-07-29T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Faraday waves with heptagonal symmetry",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GPslf47e1FA",
           "author": null,
@@ -380,16 +400,6 @@
           "publishedOn": "2023-07-16T18:00:07.000Z",
           "wordCount": null,
           "title": "Tutorial: Some examples of chaotic systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mBRGDhyeoXw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mBRGDhyeoXw",
-          "publishedOn": "2023-07-15T09:00:37.000Z",
-          "wordCount": null,
-          "title": "Who is the winner? Lennard-Jones particles bouncing in a maze, with gravity",
           "imageUrl": null
         }
       ]
@@ -935,16 +945,6 @@
           "wordCount": null,
           "title": "Building Blocks of Memory in the Brain",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cufOEzoVMVA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cufOEzoVMVA",
-          "publishedOn": "2023-04-30T16:48:19.000Z",
-          "wordCount": null,
-          "title": "Can We Build an Artificial Hippocampus?",
-          "imageUrl": null
         }
       ]
     },
@@ -1026,16 +1026,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=DsC_gb9MFMs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DsC_gb9MFMs",
-          "publishedOn": "2023-07-28T20:05:02.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-155  Day 3",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=3AFiBLHlG1A",
           "author": null,
           "description": "",
@@ -1113,6 +1103,16 @@
           "publishedOn": "2023-07-27T10:06:37.000Z",
           "wordCount": null,
           "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=m0HETIoEBtE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m0HETIoEBtE",
+          "publishedOn": "2023-07-27T09:09:55.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 32-G449 Star Room -2",
           "imageUrl": null
         }
       ]
