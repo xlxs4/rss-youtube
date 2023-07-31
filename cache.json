@@ -139,7 +139,7 @@
           "link": "https://www.youtube.com/watch?v=erA0jb9dSm0",
           "publishedOn": "2023-07-29T14:00:22.000Z",
           "wordCount": null,
-          "title": "How can we rotate in higher dimensions? Complex? | Lie groups, algebras, brackets #2",
+          "title": "What does it mean to rotate complex vectors? | Lie groups, algebras, brackets #2",
           "imageUrl": null
         },
         {
@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CcefNoSTQio",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CcefNoSTQio",
+          "publishedOn": "2023-07-30T18:00:11.000Z",
+          "wordCount": null,
+          "title": "Tutorial: KAM theory and the stability of the Solar System",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-eD94SAgefc",
           "author": null,
           "description": "",
@@ -300,16 +310,6 @@
           "publishedOn": "2023-07-25T09:00:03.000Z",
           "wordCount": null,
           "title": "A linear wave hitting a diffraction grating 2: slightly larger angle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CcefNoSTQio",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CcefNoSTQio",
-          "publishedOn": "2023-07-24T14:51:22.000Z",
-          "wordCount": null,
-          "title": "Tutorial: KAM theory and the stability of the Solar System",
           "imageUrl": null
         },
         {
