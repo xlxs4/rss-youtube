@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-31T00:43:17.222Z</id>
+    <id>urn:2023-08-01T00:45:55.681Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-07-31T00:43:17.222Z</updated>
+    <updated>2023-08-01T00:45:55.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Time-averaged energy flow through a maze]]></title>
+        <id>https://www.youtube.com/watch?v=1WpOLCJA5ao</id>
+        <link href="https://www.youtube.com/watch?v=1WpOLCJA5ao"/>
+        <updated>2023-07-31T09:00:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial: KAM theory and the stability of the Solar System]]></title>
         <id>https://www.youtube.com/watch?v=CcefNoSTQio</id>
@@ -15,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What does it mean to rotate complex vectors? | Lie groups, algebras, brackets #2]]></title>
+        <title type="html"><![CDATA[Higher-dimensional and complex rotations | Lie groups, algebras, brackets #2]]></title>
         <id>https://www.youtube.com/watch?v=erA0jb9dSm0</id>
         <link href="https://www.youtube.com/watch?v=erA0jb9dSm0"/>
         <updated>2023-07-29T14:00:22.000Z</updated>
@@ -82,6 +91,15 @@
         <id>https://www.youtube.com/watch?v=1oNN5S0qhHI</id>
         <link href="https://www.youtube.com/watch?v=1oNN5S0qhHI"/>
         <updated>2023-07-28T21:28:39.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Room 32-155  Day 3]]></title>
+        <id>https://www.youtube.com/watch?v=DsC_gb9MFMs</id>
+        <link href="https://www.youtube.com/watch?v=DsC_gb9MFMs"/>
+        <updated>2023-07-28T20:05:02.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
         </author>
@@ -190,15 +208,6 @@
         <id>https://www.youtube.com/watch?v=A7JuCEy_mGI</id>
         <link href="https://www.youtube.com/watch?v=A7JuCEy_mGI"/>
         <updated>2023-07-27T10:06:37.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 32-G449 Star Room -2]]></title>
-        <id>https://www.youtube.com/watch?v=m0HETIoEBtE</id>
-        <link href="https://www.youtube.com/watch?v=m0HETIoEBtE"/>
-        <updated>2023-07-27T09:09:55.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
         </author>
@@ -541,15 +550,6 @@
         <id>https://www.youtube.com/watch?v=cvwJ4tP9LUY</id>
         <link href="https://www.youtube.com/watch?v=cvwJ4tP9LUY"/>
         <updated>2023-07-17T09:00:30.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: Some examples of chaotic systems]]></title>
-        <id>https://www.youtube.com/watch?v=KbZ9SiLLQpQ</id>
-        <link href="https://www.youtube.com/watch?v=KbZ9SiLLQpQ"/>
-        <updated>2023-07-16T18:00:07.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
