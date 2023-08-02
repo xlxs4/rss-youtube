@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-01T00:45:55.681Z</id>
+    <id>urn:2023-08-02T00:39:58.991Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-01T00:45:55.681Z</updated>
+    <updated>2023-08-02T00:39:58.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Some simple climate models, part 1 - deterministic models]]></title>
+        <id>https://www.youtube.com/watch?v=p6iZ1Gurn-E</id>
+        <link href="https://www.youtube.com/watch?v=p6iZ1Gurn-E"/>
+        <updated>2023-08-01T09:50:01.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bragg diffraction]]></title>
+        <id>https://www.youtube.com/watch?v=ryhWsQSRMyQ</id>
+        <link href="https://www.youtube.com/watch?v=ryhWsQSRMyQ"/>
+        <updated>2023-08-01T09:00:37.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Time-averaged energy flow through a maze]]></title>
         <id>https://www.youtube.com/watch?v=1WpOLCJA5ao</id>
@@ -519,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A granular material with square-symmetric interaction flowing around a disc]]></title>
-        <id>https://www.youtube.com/watch?v=AuEl-1csLL4</id>
-        <link href="https://www.youtube.com/watch?v=AuEl-1csLL4"/>
-        <updated>2023-07-18T09:00:05.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Part 2: Control of rotary pendulum using Julia: Interfacing the device]]></title>
         <id>https://www.youtube.com/watch?v=w9powTOKQs8</id>
         <link href="https://www.youtube.com/watch?v=w9powTOKQs8"/>
@@ -543,15 +552,6 @@
         <updated>2023-07-17T09:45:01.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A tsunami in shallower water]]></title>
-        <id>https://www.youtube.com/watch?v=cvwJ4tP9LUY</id>
-        <link href="https://www.youtube.com/watch?v=cvwJ4tP9LUY"/>
-        <updated>2023-07-17T09:00:30.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
