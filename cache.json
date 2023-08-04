@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IJ3JKR-fb_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IJ3JKR-fb_8",
+          "publishedOn": "2023-08-03T09:00:17.000Z",
+          "wordCount": null,
+          "title": "Video #900: A meteor impact on an ocean planet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j0rIMTVWins",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2023-07-21T09:00:27.000Z",
           "wordCount": null,
           "title": "A tsunami with improved boundary conditions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-TC_LmepIvg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-TC_LmepIvg",
-          "publishedOn": "2023-07-20T09:00:00.000Z",
-          "wordCount": null,
-          "title": "A denser granular material with square-symmetric interaction flowing around a disc",
           "imageUrl": null
         }
       ]
@@ -896,7 +896,7 @@
           "link": "https://www.youtube.com/watch?v=cm8OHGvl4Oc",
           "publishedOn": "2023-06-30T22:00:11.000Z",
           "wordCount": null,
-          "title": "The Golden Age of Space Exploration",
+          "title": "The New Golden Age of Space Exploration",
           "imageUrl": null
         },
         {
@@ -956,6 +956,126 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BDF6sj1x6W8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BDF6sj1x6W8",
+          "publishedOn": "2023-08-03T08:43:18.000Z",
+          "wordCount": null,
+          "title": "Nested Approaches for Multi-Stage Stochastic Planning Problems | A Shefaei, E Abraham | JuliaCon '23",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZlIuWcRTQ6I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZlIuWcRTQ6I",
+          "publishedOn": "2023-08-03T08:43:16.000Z",
+          "wordCount": null,
+          "title": "Sorting Gene Trees by Their Path Within a Species Network | Nathan Kolbow | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pYcs5lq3TdQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pYcs5lq3TdQ",
+          "publishedOn": "2023-08-03T08:43:14.000Z",
+          "wordCount": null,
+          "title": "VLLimitOrderBook.jl, Simulation of Electronic Order Book Dynamics | Ruize Ren | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3XNsaPbLpoE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3XNsaPbLpoE",
+          "publishedOn": "2023-08-03T08:43:12.000Z",
+          "wordCount": null,
+          "title": "Streaming Real Time Financial Market Data with AWS Cloud | Ruize Ren | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4jJD4F40WBA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4jJD4F40WBA",
+          "publishedOn": "2023-08-03T08:43:10.000Z",
+          "wordCount": null,
+          "title": "NLP and Human Behavior with Julia (And a Bit of R) | Felipe Coelho Argolo | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-318ec-kCBM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-318ec-kCBM",
+          "publishedOn": "2023-08-03T08:43:07.000Z",
+          "wordCount": null,
+          "title": "Vahana.jl - A Framework for Large-Scale Agent-Based Models | Steffen Fürst | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1LPqoxw2h2o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1LPqoxw2h2o",
+          "publishedOn": "2023-08-03T08:37:00.000Z",
+          "wordCount": null,
+          "title": "Julia Usecases in Actuarial Science Related Fields | Yun-Tien Lee | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ewSrYgMQ60I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ewSrYgMQ60I",
+          "publishedOn": "2023-08-03T08:33:13.000Z",
+          "wordCount": null,
+          "title": "Julia at NCI | Yue Sun | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fxbxeoP_q-A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fxbxeoP_q-A",
+          "publishedOn": "2023-08-03T08:25:20.000Z",
+          "wordCount": null,
+          "title": "Becoming a Research Software Engineer with Julia | Branwen Snelling | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kU__xWBZvxw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kU__xWBZvxw",
+          "publishedOn": "2023-08-03T08:22:21.000Z",
+          "wordCount": null,
+          "title": "Ignite.jl: A Brighter Way to Train Neural Networks | Jon Doucette | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qXrvDVm_fnE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qXrvDVm_fnE",
+          "publishedOn": "2023-08-03T08:20:55.000Z",
+          "wordCount": null,
+          "title": "RxInfer.jl: A Package for Real-Time Bayesian Inference | Dmitry Bagaev | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wmCra6roZn4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wmCra6roZn4",
+          "publishedOn": "2023-08-03T08:19:31.000Z",
+          "wordCount": null,
+          "title": "Nerf.jl a Real-Time Neural 3D Scene Reconstruction in Pure Julia | Anton Smirnov | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2D8oRtDJEeg",
           "author": null,
           "description": "",
@@ -983,126 +1103,6 @@
           "publishedOn": "2023-07-28T21:40:47.000Z",
           "wordCount": null,
           "title": "JuliaCon 2023 Room 32-123 Day 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gjQE5mSPZZg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gjQE5mSPZZg",
-          "publishedOn": "2023-07-28T21:39:42.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-144 Day 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FIeO1yenQ6Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FIeO1yenQ6Y",
-          "publishedOn": "2023-07-28T21:35:13.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-124 Day 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1oNN5S0qhHI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1oNN5S0qhHI",
-          "publishedOn": "2023-07-28T21:28:39.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DsC_gb9MFMs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DsC_gb9MFMs",
-          "publishedOn": "2023-07-28T20:05:02.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-155  Day 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3AFiBLHlG1A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3AFiBLHlG1A",
-          "publishedOn": "2023-07-27T22:40:20.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 26-100 Day 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V8wiKuApmKU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V8wiKuApmKU",
-          "publishedOn": "2023-07-27T21:09:14.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-D463 (Star) Day 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5i48gvpqJYY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5i48gvpqJYY",
-          "publishedOn": "2023-07-27T21:02:28.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-123 Day 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6JBCCLVREwk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6JBCCLVREwk",
-          "publishedOn": "2023-07-27T20:59:58.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jIlRpohTr4U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jIlRpohTr4U",
-          "publishedOn": "2023-07-27T20:32:26.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-082 Day 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-rtaL3qavBA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-rtaL3qavBA",
-          "publishedOn": "2023-07-27T20:31:27.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-124 Day 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=imZE2k7gJ0Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=imZE2k7gJ0Q",
-          "publishedOn": "2023-07-27T20:25:41.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-144 Day 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A7JuCEy_mGI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A7JuCEy_mGI",
-          "publishedOn": "2023-07-27T10:06:37.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-G449 (Kiva) Day 1",
           "imageUrl": null
         }
       ]
