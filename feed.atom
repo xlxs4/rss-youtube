@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-04T00:40:36.118Z</id>
+    <id>urn:2023-08-05T00:38:57.849Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-04T00:40:36.118Z</updated>
+    <updated>2023-08-05T00:38:57.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[James Webb Space Telescope: Comets, Planets, and the Origin of Life]]></title>
+        <id>https://www.youtube.com/watch?v=rcLfAiXuZYU</id>
+        <link href="https://www.youtube.com/watch?v=rcLfAiXuZYU"/>
+        <updated>2023-08-04T22:00:11.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dependency Injection, The Best Pattern]]></title>
+        <id>https://www.youtube.com/watch?v=J1f5b4vcxCQ</id>
+        <link href="https://www.youtube.com/watch?v=J1f5b4vcxCQ"/>
+        <updated>2023-08-04T15:00:13.000Z</updated>
+        <author>
+            <name>CodeAesthetic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A granular material flowing around a triangle]]></title>
+        <id>https://www.youtube.com/watch?v=QZLJQusnt5k</id>
+        <link href="https://www.youtube.com/watch?v=QZLJQusnt5k"/>
+        <updated>2023-08-04T09:00:21.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Video #900: A meteor impact on an ocean planet]]></title>
         <id>https://www.youtube.com/watch?v=IJ3JKR-fb_8</id>
@@ -354,15 +381,6 @@
         <updated>2023-07-21T20:26:55.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A tsunami with improved boundary conditions]]></title>
-        <id>https://www.youtube.com/watch?v=nGp6PEbVWLM</id>
-        <link href="https://www.youtube.com/watch?v=nGp6PEbVWLM"/>
-        <updated>2023-07-21T09:00:27.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>

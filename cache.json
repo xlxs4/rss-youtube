@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QZLJQusnt5k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QZLJQusnt5k",
+          "publishedOn": "2023-08-04T09:00:21.000Z",
+          "wordCount": null,
+          "title": "A granular material flowing around a triangle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IJ3JKR-fb_8",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2023-07-22T09:00:04.000Z",
           "wordCount": null,
           "title": "A linear wave hitting a diffraction grating",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nGp6PEbVWLM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nGp6PEbVWLM",
-          "publishedOn": "2023-07-21T09:00:27.000Z",
-          "wordCount": null,
-          "title": "A tsunami with improved boundary conditions",
           "imageUrl": null
         }
       ]
@@ -860,6 +860,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rcLfAiXuZYU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rcLfAiXuZYU",
+          "publishedOn": "2023-08-04T22:00:11.000Z",
+          "wordCount": null,
+          "title": "James Webb Space Telescope: Comets, Planets, and the Origin of Life",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YJuOQWCyMAc",
           "author": null,
           "description": "",
@@ -948,7 +958,18 @@
       "title": "CodeAesthetic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaSCt8s_4nfkRglWCvNSDrg",
       "siteUrl": "https://www.youtube.com/channel/UCaSCt8s_4nfkRglWCvNSDrg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=J1f5b4vcxCQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J1f5b4vcxCQ",
+          "publishedOn": "2023-08-04T15:00:13.000Z",
+          "wordCount": null,
+          "title": "Dependency Injection, The Best Pattern",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "The Julia Programming Language",
