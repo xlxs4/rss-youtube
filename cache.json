@@ -139,7 +139,7 @@
           "link": "https://www.youtube.com/watch?v=erA0jb9dSm0",
           "publishedOn": "2023-07-29T14:00:22.000Z",
           "wordCount": null,
-          "title": "Higher-dimensional and complex rotations | Lie groups, algebras, brackets #2",
+          "title": "How to rotate in higher dimensions? Complex dimensions? | Lie groups, algebras, brackets #2",
           "imageUrl": null
         },
         {
@@ -252,6 +252,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=n4dHxVSdRt4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n4dHxVSdRt4",
+          "publishedOn": "2023-08-05T09:00:37.000Z",
+          "wordCount": null,
+          "title": "Faraday waves in an elliptical bucket",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QZLJQusnt5k",
           "author": null,
@@ -390,16 +400,6 @@
           "publishedOn": "2023-07-23T18:00:09.000Z",
           "wordCount": null,
           "title": "Tutorial: The irreversibility \"paradox\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2D7eDFDelUc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2D7eDFDelUc",
-          "publishedOn": "2023-07-22T09:00:04.000Z",
-          "wordCount": null,
-          "title": "A linear wave hitting a diffraction grating",
           "imageUrl": null
         }
       ]
