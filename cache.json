@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=p6iZ1Gurn-E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p6iZ1Gurn-E",
+          "publishedOn": "2023-08-06T18:00:08.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Some simple climate models, part 1 - deterministic models",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=n4dHxVSdRt4",
           "author": null,
           "description": "",
@@ -283,6 +293,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=FuCoIyWE-6E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FuCoIyWE-6E",
+          "publishedOn": "2023-08-02T10:05:31.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Some simple climate models, part 2 - stochastic models",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j0rIMTVWins",
           "author": null,
           "description": "",
@@ -290,16 +310,6 @@
           "publishedOn": "2023-08-02T09:00:35.000Z",
           "wordCount": null,
           "title": "Faraday waves with 14-fold symmetry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p6iZ1Gurn-E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p6iZ1Gurn-E",
-          "publishedOn": "2023-08-01T09:50:01.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Some simple climate models, part 1 - deterministic models",
           "imageUrl": null
         },
         {
@@ -390,16 +400,6 @@
           "publishedOn": "2023-07-24T09:00:29.000Z",
           "wordCount": null,
           "title": "Beyond the jamming transition: Phonons in a granular material",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zLJhUrNC_hI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zLJhUrNC_hI",
-          "publishedOn": "2023-07-23T18:00:09.000Z",
-          "wordCount": null,
-          "title": "Tutorial: The irreversibility \"paradox\"",
           "imageUrl": null
         }
       ]

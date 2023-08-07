@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-06T00:36:24.193Z</id>
+    <id>urn:2023-08-07T00:40:15.531Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-06T00:36:24.193Z</updated>
+    <updated>2023-08-07T00:40:15.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Some simple climate models, part 1 - deterministic models]]></title>
+        <id>https://www.youtube.com/watch?v=p6iZ1Gurn-E</id>
+        <link href="https://www.youtube.com/watch?v=p6iZ1Gurn-E"/>
+        <updated>2023-08-06T18:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faraday waves in an elliptical bucket]]></title>
         <id>https://www.youtube.com/watch?v=n4dHxVSdRt4</id>
@@ -159,19 +168,19 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faraday waves with 14-fold symmetry]]></title>
-        <id>https://www.youtube.com/watch?v=j0rIMTVWins</id>
-        <link href="https://www.youtube.com/watch?v=j0rIMTVWins"/>
-        <updated>2023-08-02T09:00:35.000Z</updated>
+        <title type="html"><![CDATA[Tutorial: Some simple climate models, part 2 - stochastic models]]></title>
+        <id>https://www.youtube.com/watch?v=FuCoIyWE-6E</id>
+        <link href="https://www.youtube.com/watch?v=FuCoIyWE-6E"/>
+        <updated>2023-08-02T10:05:31.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tutorial: Some simple climate models, part 1 - deterministic models]]></title>
-        <id>https://www.youtube.com/watch?v=p6iZ1Gurn-E</id>
-        <link href="https://www.youtube.com/watch?v=p6iZ1Gurn-E"/>
-        <updated>2023-08-01T09:50:01.000Z</updated>
+        <title type="html"><![CDATA[Faraday waves with 14-fold symmetry]]></title>
+        <id>https://www.youtube.com/watch?v=j0rIMTVWins</id>
+        <link href="https://www.youtube.com/watch?v=j0rIMTVWins"/>
+        <updated>2023-08-02T09:00:35.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -336,15 +345,6 @@
         <updated>2023-07-24T08:59:15.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: The irreversibility "paradox"]]></title>
-        <id>https://www.youtube.com/watch?v=zLJhUrNC_hI</id>
-        <link href="https://www.youtube.com/watch?v=zLJhUrNC_hI"/>
-        <updated>2023-07-23T18:00:09.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
