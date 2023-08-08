@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "The Cryptographer Working to Protect Computations",
+          "title": "Protecting Computations with Cryptography",
           "imageUrl": null
         },
         {
@@ -234,16 +234,6 @@
           "wordCount": null,
           "title": "Balls dropped on a double well curve (~ x^4 - x^2)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q66kwizsUvk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q66kwizsUvk",
-          "publishedOn": "2023-05-09T21:53:42.000Z",
-          "wordCount": null,
-          "title": "Mandelbrot set: simple equation - complex boundary",
-          "imageUrl": null
         }
       ]
     },
@@ -252,6 +242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mJt6vZysaK4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mJt6vZysaK4",
+          "publishedOn": "2023-08-07T09:00:35.000Z",
+          "wordCount": null,
+          "title": "A meteor impact on an ocean planet with two polar caps",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=p6iZ1Gurn-E",
           "author": null,
@@ -390,16 +390,6 @@
           "publishedOn": "2023-07-25T09:00:03.000Z",
           "wordCount": null,
           "title": "A linear wave hitting a diffraction grating 2: slightly larger angle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uLSCm33-lWY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uLSCm33-lWY",
-          "publishedOn": "2023-07-24T09:00:29.000Z",
-          "wordCount": null,
-          "title": "Beyond the jamming transition: Phonons in a granular material",
           "imageUrl": null
         }
       ]
@@ -936,6 +926,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yaa13eehgzo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yaa13eehgzo",
+          "publishedOn": "2023-08-07T10:21:58.000Z",
+          "wordCount": null,
+          "title": "How I make science animations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=X5trRLX7PQY",
           "author": null,
