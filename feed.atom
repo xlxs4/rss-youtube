@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-08T00:38:57.403Z</id>
+    <id>urn:2023-08-09T00:40:35.762Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-08T00:38:57.403Z</updated>
+    <updated>2023-08-09T00:40:35.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Math’s Famous Map Problem: The Four Color Theorem]]></title>
+        <id>https://www.youtube.com/watch?v=h7kqlYUV1l8</id>
+        <link href="https://www.youtube.com/watch?v=h7kqlYUV1l8"/>
+        <updated>2023-08-08T19:46:49.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The (Second) Most Deadliest Virus on Earth]]></title>
+        <id>https://www.youtube.com/watch?v=Kr57ax0OWMk</id>
+        <link href="https://www.youtube.com/watch?v=Kr57ax0OWMk"/>
+        <updated>2023-08-08T13:59:49.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A granular material flowing around a square]]></title>
+        <id>https://www.youtube.com/watch?v=g99s2BpZ7Pw</id>
+        <link href="https://www.youtube.com/watch?v=g99s2BpZ7Pw"/>
+        <updated>2023-08-08T09:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical Systems on a Circle | Nonlinear Dynamics]]></title>
+        <id>https://www.youtube.com/watch?v=M4-L8h-gHHE</id>
+        <link href="https://www.youtube.com/watch?v=M4-L8h-gHHE"/>
+        <updated>2023-08-08T02:21:50.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I make science animations]]></title>
         <id>https://www.youtube.com/watch?v=yaa13eehgzo</id>
@@ -336,15 +372,6 @@
         <updated>2023-07-25T13:29:54.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A linear wave hitting a diffraction grating 2: slightly larger angle]]></title>
-        <id>https://www.youtube.com/watch?v=2TerLHM6Ugg</id>
-        <link href="https://www.youtube.com/watch?v=2TerLHM6Ugg"/>
-        <updated>2023-07-25T09:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -984,15 +1011,6 @@
         <updated>2023-05-22T21:49:53.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnetic Pole Shift - A Doomsday Scenario? #shorts #kurzgesagt]]></title>
-        <id>https://www.youtube.com/watch?v=IayvE_jFgrc</id>
-        <link href="https://www.youtube.com/watch?v=IayvE_jFgrc"/>
-        <updated>2023-05-18T14:00:20.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>

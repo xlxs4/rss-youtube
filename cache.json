@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h7kqlYUV1l8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h7kqlYUV1l8",
+          "publishedOn": "2023-08-08T19:46:49.000Z",
+          "wordCount": null,
+          "title": "Math’s Famous Map Problem: The Four Color Theorem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "author": null,
           "description": "",
@@ -243,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=g99s2BpZ7Pw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g99s2BpZ7Pw",
+          "publishedOn": "2023-08-08T09:00:32.000Z",
+          "wordCount": null,
+          "title": "A granular material flowing around a square",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mJt6vZysaK4",
           "author": null,
           "description": "",
@@ -381,16 +401,6 @@
           "wordCount": null,
           "title": "Faraday waves in a shallow water \"resonator\"",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2TerLHM6Ugg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2TerLHM6Ugg",
-          "publishedOn": "2023-07-25T09:00:03.000Z",
-          "wordCount": null,
-          "title": "A linear wave hitting a diffraction grating 2: slightly larger angle",
-          "imageUrl": null
         }
       ]
     },
@@ -405,6 +415,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
+          "publishedOn": "2023-08-08T13:59:49.000Z",
+          "wordCount": null,
+          "title": "The (Second) Most Deadliest Virus on Earth",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=28T91fgkpkA",
           "author": null,
@@ -544,16 +564,6 @@
           "wordCount": null,
           "title": "How to Cut a Sandwich Perfectly – With Science #shorts #kurzgesagt",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IayvE_jFgrc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IayvE_jFgrc",
-          "publishedOn": "2023-05-18T14:00:20.000Z",
-          "wordCount": null,
-          "title": "Magnetic Pole Shift - A Doomsday Scenario? #shorts #kurzgesagt",
-          "imageUrl": null
         }
       ]
     },
@@ -675,6 +685,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=M4-L8h-gHHE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M4-L8h-gHHE",
+          "publishedOn": "2023-08-08T02:21:50.000Z",
+          "wordCount": null,
+          "title": "Dynamical Systems on a Circle | Nonlinear Dynamics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=u-ZyiehGhMs",
           "author": null,
