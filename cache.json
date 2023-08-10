@@ -253,6 +253,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zzWbB6TI3Dw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zzWbB6TI3Dw",
+          "publishedOn": "2023-08-09T09:00:42.000Z",
+          "wordCount": null,
+          "title": "Faraday waves (short version, amplitude)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NCl3A_6scCE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NCl3A_6scCE",
+          "publishedOn": "2023-08-09T09:00:19.000Z",
+          "wordCount": null,
+          "title": "Faraday waves (short version, velocity)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=g99s2BpZ7Pw",
           "author": null,
           "description": "",
@@ -381,26 +401,6 @@
           "wordCount": null,
           "title": "A linear wave hitting a diffraction grating 3: large angle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ie3mDJq50Xo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ie3mDJq50Xo",
-          "publishedOn": "2023-07-27T09:00:34.000Z",
-          "wordCount": null,
-          "title": "Phonons in a flowing granular material",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GBzvPrFKTMw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GBzvPrFKTMw",
-          "publishedOn": "2023-07-26T09:00:22.000Z",
-          "wordCount": null,
-          "title": "Faraday waves in a shallow water \"resonator\"",
-          "imageUrl": null
         }
       ]
     },
@@ -422,7 +422,7 @@
           "link": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
           "publishedOn": "2023-08-08T13:59:49.000Z",
           "wordCount": null,
-          "title": "The (Second) Most Deadliest Virus on Earth",
+          "title": "How This Bizarre Virus Killed 500 Million People",
           "imageUrl": null
         },
         {

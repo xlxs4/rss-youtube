@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T00:40:35.762Z</id>
+    <id>urn:2023-08-10T00:41:53.238Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-09T00:40:35.762Z</updated>
+    <updated>2023-08-10T00:41:53.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Faraday waves (short version, amplitude)]]></title>
+        <id>https://www.youtube.com/watch?v=zzWbB6TI3Dw</id>
+        <link href="https://www.youtube.com/watch?v=zzWbB6TI3Dw"/>
+        <updated>2023-08-09T09:00:42.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faraday waves (short version, velocity)]]></title>
+        <id>https://www.youtube.com/watch?v=NCl3A_6scCE</id>
+        <link href="https://www.youtube.com/watch?v=NCl3A_6scCE"/>
+        <updated>2023-08-09T09:00:19.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Math’s Famous Map Problem: The Four Color Theorem]]></title>
         <id>https://www.youtube.com/watch?v=h7kqlYUV1l8</id>
@@ -15,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The (Second) Most Deadliest Virus on Earth]]></title>
+        <title type="html"><![CDATA[How This Bizarre Virus Killed 500 Million People]]></title>
         <id>https://www.youtube.com/watch?v=Kr57ax0OWMk</id>
         <link href="https://www.youtube.com/watch?v=Kr57ax0OWMk"/>
         <updated>2023-08-08T13:59:49.000Z</updated>
@@ -345,24 +363,6 @@
         <updated>2023-07-27T14:03:48.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phonons in a flowing granular material]]></title>
-        <id>https://www.youtube.com/watch?v=ie3mDJq50Xo</id>
-        <link href="https://www.youtube.com/watch?v=ie3mDJq50Xo"/>
-        <updated>2023-07-27T09:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faraday waves in a shallow water "resonator"]]></title>
-        <id>https://www.youtube.com/watch?v=GBzvPrFKTMw</id>
-        <link href="https://www.youtube.com/watch?v=GBzvPrFKTMw"/>
-        <updated>2023-07-26T09:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
