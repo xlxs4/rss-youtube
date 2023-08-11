@@ -143,6 +143,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZRca3Ggpy_g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZRca3Ggpy_g",
+          "publishedOn": "2023-08-10T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Lie theory: an overview | Lie groups, algebras, brackets #3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=erA0jb9dSm0",
           "author": null,
           "description": "",
@@ -252,6 +262,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2V2AxLcl2Sw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2V2AxLcl2Sw",
+          "publishedOn": "2023-08-10T09:00:04.000Z",
+          "wordCount": null,
+          "title": "Bragg diffraction on a denser lattice",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zzWbB6TI3Dw",
           "author": null,
@@ -391,16 +411,6 @@
           "wordCount": null,
           "title": "Faraday waves with heptagonal symmetry",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GPslf47e1FA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GPslf47e1FA",
-          "publishedOn": "2023-07-28T09:00:08.000Z",
-          "wordCount": null,
-          "title": "A linear wave hitting a diffraction grating 3: large angle",
-          "imageUrl": null
         }
       ]
     },
@@ -422,7 +432,7 @@
           "link": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
           "publishedOn": "2023-08-08T13:59:49.000Z",
           "wordCount": null,
-          "title": "How This Bizarre Virus Killed 500 Million People",
+          "title": "The (Second) Deadliest Virus",
           "imageUrl": null
         },
         {
