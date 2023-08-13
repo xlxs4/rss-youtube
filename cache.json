@@ -149,7 +149,7 @@
           "link": "https://www.youtube.com/watch?v=ZRca3Ggpy_g",
           "publishedOn": "2023-08-10T14:00:34.000Z",
           "wordCount": null,
-          "title": "Lie theory: an overview | Lie groups, algebras, brackets #3",
+          "title": "What is Lie theory? Here is the big picture.",
           "imageUrl": null
         },
         {
@@ -262,6 +262,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Iozf33Wl-r8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Iozf33Wl-r8",
+          "publishedOn": "2023-08-12T09:00:12.000Z",
+          "wordCount": null,
+          "title": "Waves on a dodecahedron",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=p5n90maQAPE",
           "author": null,
@@ -400,16 +410,6 @@
           "publishedOn": "2023-07-31T09:00:01.000Z",
           "wordCount": null,
           "title": "Time-averaged energy flow through a maze",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CcefNoSTQio",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CcefNoSTQio",
-          "publishedOn": "2023-07-30T18:00:11.000Z",
-          "wordCount": null,
-          "title": "Tutorial: KAM theory and the stability of the Solar System",
           "imageUrl": null
         }
       ]
