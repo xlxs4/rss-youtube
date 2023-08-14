@@ -244,16 +244,6 @@
           "wordCount": null,
           "title": "Squircle billiard",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LQmyR-sC6GA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LQmyR-sC6GA",
-          "publishedOn": "2023-05-15T20:46:23.000Z",
-          "wordCount": null,
-          "title": "Balls dropped on a double well curve (~ x^4 - x^2)",
-          "imageUrl": null
         }
       ]
     },
@@ -262,6 +252,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FuCoIyWE-6E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FuCoIyWE-6E",
+          "publishedOn": "2023-08-13T18:00:09.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Some simple climate models, part 2 - stochastic models",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Iozf33Wl-r8",
           "author": null,
@@ -310,6 +310,16 @@
           "publishedOn": "2023-08-09T09:00:19.000Z",
           "wordCount": null,
           "title": "Faraday waves (short version, velocity)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=z9xSq73a0n4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z9xSq73a0n4",
+          "publishedOn": "2023-08-08T10:14:03.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to simulate interacting particle systems",
           "imageUrl": null
         },
         {
@@ -373,16 +383,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=FuCoIyWE-6E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FuCoIyWE-6E",
-          "publishedOn": "2023-08-02T10:05:31.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Some simple climate models, part 2 - stochastic models",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=j0rIMTVWins",
           "author": null,
           "description": "",
@@ -400,16 +400,6 @@
           "publishedOn": "2023-08-01T09:00:37.000Z",
           "wordCount": null,
           "title": "Bragg diffraction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1WpOLCJA5ao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1WpOLCJA5ao",
-          "publishedOn": "2023-07-31T09:00:01.000Z",
-          "wordCount": null,
-          "title": "Time-averaged energy flow through a maze",
           "imageUrl": null
         }
       ]
@@ -733,6 +723,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=xyWaAKSDZtI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xyWaAKSDZtI",
+          "publishedOn": "2023-08-07T17:15:36.000Z",
+          "wordCount": null,
+          "title": "PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jxCDu0p7ZYc",
           "author": null,
           "description": "",
@@ -860,16 +860,6 @@
           "publishedOn": "2023-07-20T17:33:09.000Z",
           "wordCount": null,
           "title": "Suhail Yusuf Khan & Pranav Ghatraju | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3bWHAnX-8o0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3bWHAnX-8o0",
-          "publishedOn": "2023-07-20T17:33:07.000Z",
-          "wordCount": null,
-          "title": "Qasim Naqvi | Ragas Live Festival 2022",
           "imageUrl": null
         }
       ]
