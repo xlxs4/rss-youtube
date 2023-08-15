@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tSzsrCHc3xc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tSzsrCHc3xc",
+          "publishedOn": "2023-08-14T09:00:38.000Z",
+          "wordCount": null,
+          "title": "Waves with dodecahedral symmetry on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FuCoIyWE-6E",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2023-08-02T09:00:35.000Z",
           "wordCount": null,
           "title": "Faraday waves with 14-fold symmetry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ryhWsQSRMyQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ryhWsQSRMyQ",
-          "publishedOn": "2023-08-01T09:00:37.000Z",
-          "wordCount": null,
-          "title": "Bragg diffraction",
           "imageUrl": null
         }
       ]
@@ -694,16 +694,6 @@
           "wordCount": null,
           "title": "Dynamical Systems on a Circle | Nonlinear Dynamics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u-ZyiehGhMs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u-ZyiehGhMs",
-          "publishedOn": "2023-05-16T13:31:18.000Z",
-          "wordCount": null,
-          "title": "Quotient Law for Tensors and Levi-Civita Symbol",
-          "imageUrl": null
         }
       ]
     },
@@ -713,6 +703,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xyWaAKSDZtI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xyWaAKSDZtI",
+          "publishedOn": "2023-08-14T09:01:12.000Z",
+          "wordCount": null,
+          "title": "PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MM5VrNOkyS4",
           "author": null,
           "description": "",
@@ -720,16 +720,6 @@
           "publishedOn": "2023-08-11T13:53:15.000Z",
           "wordCount": null,
           "title": "Hilton Als: My Pinup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xyWaAKSDZtI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xyWaAKSDZtI",
-          "publishedOn": "2023-08-07T17:15:36.000Z",
-          "wordCount": null,
-          "title": "PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays",
           "imageUrl": null
         },
         {

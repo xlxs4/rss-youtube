@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-14T00:32:52.181Z</id>
+    <id>urn:2023-08-15T00:32:11.522Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-14T00:32:52.181Z</updated>
+    <updated>2023-08-15T00:32:11.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays]]></title>
+        <id>https://www.youtube.com/watch?v=xyWaAKSDZtI</id>
+        <link href="https://www.youtube.com/watch?v=xyWaAKSDZtI"/>
+        <updated>2023-08-14T09:01:12.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves with dodecahedral symmetry on the sphere]]></title>
+        <id>https://www.youtube.com/watch?v=tSzsrCHc3xc</id>
+        <link href="https://www.youtube.com/watch?v=tSzsrCHc3xc"/>
+        <updated>2023-08-14T09:00:38.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial: Some simple climate models, part 2 - stochastic models]]></title>
         <id>https://www.youtube.com/watch?v=FuCoIyWE-6E</id>
@@ -129,15 +147,6 @@
         <updated>2023-08-08T02:21:50.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays]]></title>
-        <id>https://www.youtube.com/watch?v=xyWaAKSDZtI</id>
-        <link href="https://www.youtube.com/watch?v=xyWaAKSDZtI"/>
-        <updated>2023-08-07T17:15:36.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
@@ -325,15 +334,6 @@
         <id>https://www.youtube.com/watch?v=j0rIMTVWins</id>
         <link href="https://www.youtube.com/watch?v=j0rIMTVWins"/>
         <updated>2023-08-02T09:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bragg diffraction]]></title>
-        <id>https://www.youtube.com/watch?v=ryhWsQSRMyQ</id>
-        <link href="https://www.youtube.com/watch?v=ryhWsQSRMyQ"/>
-        <updated>2023-08-01T09:00:37.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -1029,15 +1029,6 @@
         <updated>2023-05-17T14:00:07.000Z</updated>
         <author>
             <name>NanoRooms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quotient Law for Tensors and Levi-Civita Symbol]]></title>
-        <id>https://www.youtube.com/watch?v=u-ZyiehGhMs</id>
-        <link href="https://www.youtube.com/watch?v=u-ZyiehGhMs"/>
-        <updated>2023-05-16T13:31:18.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
