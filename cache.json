@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BAKtT9N5q5w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BAKtT9N5q5w",
+          "publishedOn": "2023-08-15T09:00:06.000Z",
+          "wordCount": null,
+          "title": "The unjamming transition",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tSzsrCHc3xc",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2023-08-03T09:00:17.000Z",
           "wordCount": null,
           "title": "Video #900: A meteor impact on an ocean planet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=j0rIMTVWins",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=j0rIMTVWins",
-          "publishedOn": "2023-08-02T09:00:35.000Z",
-          "wordCount": null,
-          "title": "Faraday waves with 14-fold symmetry",
           "imageUrl": null
         }
       ]
@@ -1274,16 +1274,6 @@
           "publishedOn": "2023-06-21T15:32:04.000Z",
           "wordCount": null,
           "title": "Hacking Bacteria Programming Using Control Theory & Math",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IoyTqo237oo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IoyTqo237oo",
-          "publishedOn": "2023-05-17T14:00:07.000Z",
-          "wordCount": null,
-          "title": "The genius algorithm behind DNA error correction (TMEB #5)",
           "imageUrl": null
         }
       ]

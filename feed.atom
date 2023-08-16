@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-15T00:32:11.522Z</id>
+    <id>urn:2023-08-16T00:31:50.771Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-15T00:32:11.522Z</updated>
+    <updated>2023-08-16T00:31:50.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The unjamming transition]]></title>
+        <id>https://www.youtube.com/watch?v=BAKtT9N5q5w</id>
+        <link href="https://www.youtube.com/watch?v=BAKtT9N5q5w"/>
+        <updated>2023-08-15T09:00:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays]]></title>
         <id>https://www.youtube.com/watch?v=xyWaAKSDZtI</id>
@@ -327,15 +336,6 @@
         <updated>2023-08-03T08:19:31.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faraday waves with 14-fold symmetry]]></title>
-        <id>https://www.youtube.com/watch?v=j0rIMTVWins</id>
-        <link href="https://www.youtube.com/watch?v=j0rIMTVWins"/>
-        <updated>2023-08-02T09:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -1020,15 +1020,6 @@
         <updated>2023-05-22T21:49:53.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The genius algorithm behind DNA error correction (TMEB #5)]]></title>
-        <id>https://www.youtube.com/watch?v=IoyTqo237oo</id>
-        <link href="https://www.youtube.com/watch?v=IoyTqo237oo"/>
-        <updated>2023-05-17T14:00:07.000Z</updated>
-        <author>
-            <name>NanoRooms</name>
         </author>
     </entry>
 </feed>
