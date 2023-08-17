@@ -179,7 +179,7 @@
           "link": "https://www.youtube.com/watch?v=u1taDXNzFto",
           "publishedOn": "2023-07-05T14:00:37.000Z",
           "wordCount": null,
-          "title": "For 99% accuracy, how many terms do we need in the exp series?",
+          "title": "How many terms do we need in the exp series?",
           "imageUrl": null
         },
         {
@@ -252,6 +252,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=evKsauY4V4Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=evKsauY4V4Y",
+          "publishedOn": "2023-08-16T09:00:33.000Z",
+          "wordCount": null,
+          "title": "[Epilepsy warning] Bragg diffraction seen from a larger distance - with a plot of the wave profile",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BAKtT9N5q5w",
           "author": null,
@@ -391,16 +401,6 @@
           "wordCount": null,
           "title": "A granular material flowing around a triangle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IJ3JKR-fb_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IJ3JKR-fb_8",
-          "publishedOn": "2023-08-03T09:00:17.000Z",
-          "wordCount": null,
-          "title": "Video #900: A meteor impact on an ocean planet",
-          "imageUrl": null
         }
       ]
     },
@@ -415,6 +415,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cFslUSyfZPc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cFslUSyfZPc",
+          "publishedOn": "2023-08-16T13:59:54.000Z",
+          "wordCount": null,
+          "title": "What Happens If You Destroy A Black Hole?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
           "author": null,
@@ -553,16 +563,6 @@
           "publishedOn": "2023-06-01T14:00:11.000Z",
           "wordCount": null,
           "title": "Earth as a Cube – What Would It Look Like? #shorts #kurzgesagt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hvmIZAvt3jE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hvmIZAvt3jE",
-          "publishedOn": "2023-05-25T14:00:28.000Z",
-          "wordCount": null,
-          "title": "How to Cut a Sandwich Perfectly – With Science #shorts #kurzgesagt",
           "imageUrl": null
         }
       ]
@@ -1256,6 +1256,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g",
       "siteUrl": "https://www.youtube.com/channel/UCbHJVeS0ZIco7FTTqhvDg6g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0luZ4JqHg6w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0luZ4JqHg6w",
+          "publishedOn": "2023-08-16T14:30:29.000Z",
+          "wordCount": null,
+          "title": "Building An AI Using DNA #SoME3",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=19z45Vac1uQ",
           "author": null,
