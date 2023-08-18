@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T00:31:24.847Z</id>
+    <id>urn:2023-08-18T00:31:50.270Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-17T00:31:24.847Z</updated>
+    <updated>2023-08-18T00:31:50.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Building An AI Using DNA #SoME3]]></title>
+        <title type="html"><![CDATA[Faraday waves in a vibrating container]]></title>
+        <id>https://www.youtube.com/watch?v=LtRxnDj_3jY</id>
+        <link href="https://www.youtube.com/watch?v=LtRxnDj_3jY"/>
+        <updated>2023-08-17T09:00:11.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Math Behind Building An AI Using DNA #SoME3]]></title>
         <id>https://www.youtube.com/watch?v=0luZ4JqHg6w</id>
         <link href="https://www.youtube.com/watch?v=0luZ4JqHg6w"/>
         <updated>2023-08-16T14:30:29.000Z</updated>
@@ -237,15 +246,6 @@
         <updated>2023-08-04T15:00:13.000Z</updated>
         <author>
             <name>CodeAesthetic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A granular material flowing around a triangle]]></title>
-        <id>https://www.youtube.com/watch?v=QZLJQusnt5k</id>
-        <link href="https://www.youtube.com/watch?v=QZLJQusnt5k"/>
-        <updated>2023-08-04T09:00:21.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
