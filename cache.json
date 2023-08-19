@@ -96,6 +96,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7rqKcqx5WKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7rqKcqx5WKs",
+          "publishedOn": "2023-08-18T22:51:30.000Z",
+          "wordCount": null,
+          "title": "Wanna help judge SoME3?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=d_qvLDhkg00",
           "author": null,
           "description": "",
@@ -253,6 +263,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UN5DxISmeqY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UN5DxISmeqY",
+          "publishedOn": "2023-08-18T09:00:32.000Z",
+          "wordCount": null,
+          "title": "Waves with icosahedral symmetry on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LtRxnDj_3jY",
           "author": null,
           "description": "",
@@ -391,16 +411,6 @@
           "wordCount": null,
           "title": "Tutorial: Some simple climate models, part 1 - deterministic models",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n4dHxVSdRt4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n4dHxVSdRt4",
-          "publishedOn": "2023-08-05T09:00:37.000Z",
-          "wordCount": null,
-          "title": "Faraday waves in an elliptical bucket",
-          "imageUrl": null
         }
       ]
     },
@@ -415,6 +425,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=I325AQkzacI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I325AQkzacI",
+          "publishedOn": "2023-08-18T14:00:22.000Z",
+          "wordCount": null,
+          "title": "24 Hours Remaining.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cFslUSyfZPc",
           "author": null,
@@ -553,16 +573,6 @@
           "publishedOn": "2023-06-08T14:00:16.000Z",
           "wordCount": null,
           "title": "How do Lasers Work? #shorts #kurzgesagt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LNv4y3wPQA0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LNv4y3wPQA0",
-          "publishedOn": "2023-06-01T14:00:11.000Z",
-          "wordCount": null,
-          "title": "Earth as a Cube – What Would It Look Like? #shorts #kurzgesagt",
           "imageUrl": null
         }
       ]
