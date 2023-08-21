@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-20T00:33:55.568Z</id>
+    <id>urn:2023-08-21T00:32:19.111Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-20T00:33:55.568Z</updated>
+    <updated>2023-08-21T00:32:19.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: How to simulate interacting particle systems]]></title>
+        <id>https://www.youtube.com/watch?v=z9xSq73a0n4</id>
+        <link href="https://www.youtube.com/watch?v=z9xSq73a0n4"/>
+        <updated>2023-08-20T18:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A granular material flowing towards the tip of a wedge]]></title>
         <id>https://www.youtube.com/watch?v=BUy5_VFe0sM</id>
@@ -64,6 +73,15 @@
         <id>https://www.youtube.com/watch?v=evKsauY4V4Y</id>
         <link href="https://www.youtube.com/watch?v=evKsauY4V4Y"/>
         <updated>2023-08-16T09:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Continued fractions and the Farey tree]]></title>
+        <id>https://www.youtube.com/watch?v=hxo6tiy7Wlo</id>
+        <link href="https://www.youtube.com/watch?v=hxo6tiy7Wlo"/>
+        <updated>2023-08-15T10:30:32.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -195,15 +213,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tutorial: How to simulate interacting particle systems]]></title>
-        <id>https://www.youtube.com/watch?v=z9xSq73a0n4</id>
-        <link href="https://www.youtube.com/watch?v=z9xSq73a0n4"/>
-        <updated>2023-08-08T10:14:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A granular material flowing around a square]]></title>
         <id>https://www.youtube.com/watch?v=g99s2BpZ7Pw</id>
         <link href="https://www.youtube.com/watch?v=g99s2BpZ7Pw"/>
@@ -228,15 +237,6 @@
         <updated>2023-08-07T10:21:58.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A meteor impact on an ocean planet with two polar caps]]></title>
-        <id>https://www.youtube.com/watch?v=mJt6vZysaK4</id>
-        <link href="https://www.youtube.com/watch?v=mJt6vZysaK4"/>
-        <updated>2023-08-07T09:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -1027,15 +1027,6 @@
         <id>https://www.youtube.com/watch?v=A7NTNkYPr9Q</id>
         <link href="https://www.youtube.com/watch?v=A7NTNkYPr9Q"/>
         <updated>2023-05-25T15:34:20.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a Computer Broke a 50-Year Math Record]]></title>
-        <id>https://www.youtube.com/watch?v=fDAPJ7rvcUw</id>
-        <link href="https://www.youtube.com/watch?v=fDAPJ7rvcUw"/>
-        <updated>2023-05-22T21:49:53.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
         </author>

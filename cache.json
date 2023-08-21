@@ -54,16 +54,6 @@
           "wordCount": null,
           "title": "The Digital Quest for Quantum Gravity",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fDAPJ7rvcUw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fDAPJ7rvcUw",
-          "publishedOn": "2023-05-22T21:49:53.000Z",
-          "wordCount": null,
-          "title": "How a Computer Broke a 50-Year Math Record",
-          "imageUrl": null
         }
       ]
     },
@@ -263,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z9xSq73a0n4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z9xSq73a0n4",
+          "publishedOn": "2023-08-20T18:00:09.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to simulate interacting particle systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BUy5_VFe0sM",
           "author": null,
           "description": "",
@@ -300,6 +300,16 @@
           "publishedOn": "2023-08-16T09:00:33.000Z",
           "wordCount": null,
           "title": "[Epilepsy warning] Bragg diffraction seen from a larger distance - with a plot of the wave profile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hxo6tiy7Wlo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hxo6tiy7Wlo",
+          "publishedOn": "2023-08-15T10:30:32.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Continued fractions and the Farey tree",
           "imageUrl": null
         },
         {
@@ -383,16 +393,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=z9xSq73a0n4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z9xSq73a0n4",
-          "publishedOn": "2023-08-08T10:14:03.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to simulate interacting particle systems",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=g99s2BpZ7Pw",
           "author": null,
           "description": "",
@@ -400,16 +400,6 @@
           "publishedOn": "2023-08-08T09:00:32.000Z",
           "wordCount": null,
           "title": "A granular material flowing around a square",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mJt6vZysaK4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mJt6vZysaK4",
-          "publishedOn": "2023-08-07T09:00:35.000Z",
-          "wordCount": null,
-          "title": "A meteor impact on an ocean planet with two polar caps",
           "imageUrl": null
         }
       ]
