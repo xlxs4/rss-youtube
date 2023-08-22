@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "Protecting Computations with Cryptography",
+          "title": "The Cryptographer Working to Protect Computations",
           "imageUrl": null
         },
         {
@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8oqiTN0Silw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8oqiTN0Silw",
+          "publishedOn": "2023-08-21T09:00:10.000Z",
+          "wordCount": null,
+          "title": "Energy flux of waves with dodecahedral symmetry",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=z9xSq73a0n4",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2023-08-09T09:00:19.000Z",
           "wordCount": null,
           "title": "Faraday waves (short version, velocity)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g99s2BpZ7Pw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g99s2BpZ7Pw",
-          "publishedOn": "2023-08-08T09:00:32.000Z",
-          "wordCount": null,
-          "title": "A granular material flowing around a square",
           "imageUrl": null
         }
       ]
