@@ -86,16 +86,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=7rqKcqx5WKs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7rqKcqx5WKs",
-          "publishedOn": "2023-08-18T22:51:30.000Z",
-          "wordCount": null,
-          "title": "Wanna help judge SoME3?",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=d_qvLDhkg00",
           "author": null,
           "description": "",
@@ -253,6 +243,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4aIBlm-nU_Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4aIBlm-nU_Y",
+          "publishedOn": "2023-08-22T09:00:03.000Z",
+          "wordCount": null,
+          "title": "Faraday waves in a container vibrating at period 3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8oqiTN0Silw",
           "author": null,
           "description": "",
@@ -391,16 +391,6 @@
           "wordCount": null,
           "title": "Faraday waves (short version, amplitude)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NCl3A_6scCE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NCl3A_6scCE",
-          "publishedOn": "2023-08-09T09:00:19.000Z",
-          "wordCount": null,
-          "title": "Faraday waves (short version, velocity)",
-          "imageUrl": null
         }
       ]
     },
@@ -415,6 +405,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wmP3MBjsx20",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wmP3MBjsx20",
+          "publishedOn": "2023-08-22T14:00:08.000Z",
+          "wordCount": null,
+          "title": "How A Nuclear War Will Start - Minute by Minute",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cFslUSyfZPc",
           "author": null,
@@ -553,16 +553,6 @@
           "publishedOn": "2023-06-08T14:00:16.000Z",
           "wordCount": null,
           "title": "How do Lasers Work? #shorts #kurzgesagt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LNv4y3wPQA0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LNv4y3wPQA0",
-          "publishedOn": "2023-06-01T14:00:11.000Z",
-          "wordCount": null,
-          "title": "Earth as a Cube – What Would It Look Like? #shorts #kurzgesagt",
           "imageUrl": null
         }
       ]
@@ -703,6 +693,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0ft7K1ypdGc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0ft7K1ypdGc",
+          "publishedOn": "2023-08-22T18:11:25.000Z",
+          "wordCount": null,
+          "title": "Kelly Moran Performs in Tin Drum: Medusa",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xyWaAKSDZtI",
           "author": null,
           "description": "",
@@ -840,16 +840,6 @@
           "publishedOn": "2023-07-20T17:33:13.000Z",
           "wordCount": null,
           "title": "Kroba | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oyy3s5-MaEM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Oyy3s5-MaEM",
-          "publishedOn": "2023-07-20T17:33:09.000Z",
-          "wordCount": null,
-          "title": "Suhail Yusuf Khan & Pranav Ghatraju | Ragas Live Festival 2022",
           "imageUrl": null
         }
       ]
