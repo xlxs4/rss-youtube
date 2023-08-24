@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-23T00:32:17.371Z</id>
+    <id>urn:2023-08-24T00:04:14.066Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-23T00:32:17.371Z</updated>
+    <updated>2023-08-24T00:04:14.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A granular material flowing towards the back of a wedge]]></title>
+        <id>https://www.youtube.com/watch?v=A4d_j274ac0</id>
+        <link href="https://www.youtube.com/watch?v=A4d_j274ac0"/>
+        <updated>2023-08-23T09:00:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kelly Moran Performs in Tin Drum: Medusa]]></title>
         <id>https://www.youtube.com/watch?v=0ft7K1ypdGc</id>
@@ -199,15 +208,6 @@
         <id>https://www.youtube.com/watch?v=2V2AxLcl2Sw</id>
         <link href="https://www.youtube.com/watch?v=2V2AxLcl2Sw"/>
         <updated>2023-08-10T09:00:04.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faraday waves (short version, amplitude)]]></title>
-        <id>https://www.youtube.com/watch?v=zzWbB6TI3Dw</id>
-        <link href="https://www.youtube.com/watch?v=zzWbB6TI3Dw"/>
-        <updated>2023-08-09T09:00:42.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -1011,15 +1011,6 @@
         <updated>2023-05-28T20:14:55.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Digital Quest for Quantum Gravity]]></title>
-        <id>https://www.youtube.com/watch?v=A7NTNkYPr9Q</id>
-        <link href="https://www.youtube.com/watch?v=A7NTNkYPr9Q"/>
-        <updated>2023-05-25T15:34:20.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
