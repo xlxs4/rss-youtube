@@ -233,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5d4oaDTeWZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5d4oaDTeWZA",
+          "publishedOn": "2023-08-24T09:00:03.000Z",
+          "wordCount": null,
+          "title": "Waves on a planet with a fractal continent",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=A4d_j274ac0",
           "author": null,
           "description": "",
@@ -319,7 +329,7 @@
           "link": "https://www.youtube.com/watch?v=hxo6tiy7Wlo",
           "publishedOn": "2023-08-15T10:30:32.000Z",
           "wordCount": null,
-          "title": "Tutorial: Continued fractions and the Farey tree",
+          "title": "Tutorial: A bit of number theory - Continued fractions and the Farey tree",
           "imageUrl": null
         },
         {
@@ -370,16 +380,6 @@
           "publishedOn": "2023-08-11T09:00:44.000Z",
           "wordCount": null,
           "title": "Crossing the jamming transition",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2V2AxLcl2Sw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2V2AxLcl2Sw",
-          "publishedOn": "2023-08-10T09:00:04.000Z",
-          "wordCount": null,
-          "title": "Bragg diffraction on a denser lattice",
           "imageUrl": null
         }
       ]
@@ -1122,7 +1122,18 @@
       "title": "Christopher Rackauckas",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCugBGdUbn6PeH03iPZtr-JQ",
       "siteUrl": "https://www.youtube.com/channel/UCugBGdUbn6PeH03iPZtr-JQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_qmcEDezSI8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_qmcEDezSI8",
+          "publishedOn": "2023-08-24T09:13:03.000Z",
+          "wordCount": null,
+          "title": "Fast Neural ODE / UDE: Improved Parallelism and Memory Performance Differentiating Stiff ODEs",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JuliaHub",
