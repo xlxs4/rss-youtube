@@ -233,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=H2_fS3wHMIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H2_fS3wHMIk",
+          "publishedOn": "2023-08-25T09:00:11.000Z",
+          "wordCount": null,
+          "title": "A granular material flowing towards the tip of a wedge: Dislocations and mixing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5d4oaDTeWZA",
           "author": null,
           "description": "",
@@ -370,16 +380,6 @@
           "publishedOn": "2023-08-12T09:00:12.000Z",
           "wordCount": null,
           "title": "Waves on a dodecahedron",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p5n90maQAPE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p5n90maQAPE",
-          "publishedOn": "2023-08-11T09:00:44.000Z",
-          "wordCount": null,
-          "title": "Crossing the jamming transition",
           "imageUrl": null
         }
       ]
@@ -967,6 +967,76 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RWfAmIj4kS0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RWfAmIj4kS0",
+          "publishedOn": "2023-08-25T20:47:16.000Z",
+          "wordCount": null,
+          "title": "Image Processing in Julia Workshop | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Cjl1gfqVnLo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cjl1gfqVnLo",
+          "publishedOn": "2023-08-25T20:47:12.000Z",
+          "wordCount": null,
+          "title": "Hands on Lumped Parameter Models with CirculatorySystemModels.jl Workshop | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=X_u0KlZizD4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X_u0KlZizD4",
+          "publishedOn": "2023-08-25T20:47:08.000Z",
+          "wordCount": null,
+          "title": "Using NeuralODEs in Real Life Applications | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bM-UNIh7xt4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bM-UNIh7xt4",
+          "publishedOn": "2023-08-25T20:47:04.000Z",
+          "wordCount": null,
+          "title": "Working with DataFrames.jl Workshop Part 1 | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oorErKcAWIQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oorErKcAWIQ",
+          "publishedOn": "2023-08-25T20:47:01.000Z",
+          "wordCount": null,
+          "title": "Working with DataFrames.jl Workshop Part 2 | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vfXeEQhV0W8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vfXeEQhV0W8",
+          "publishedOn": "2023-08-25T20:46:58.000Z",
+          "wordCount": null,
+          "title": "WorldDynamics.jl Workshop | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dffZTCDpiRs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dffZTCDpiRs",
+          "publishedOn": "2023-08-25T20:46:54.000Z",
+          "wordCount": null,
+          "title": "Interactive Dashboards with Genie.jl | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oqfoW6kcI6k",
           "author": null,
           "description": "",
@@ -1044,76 +1114,6 @@
           "publishedOn": "2023-08-03T08:37:00.000Z",
           "wordCount": null,
           "title": "Julia Usecases in Actuarial Science Related Fields | Yun-Tien Lee | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ewSrYgMQ60I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ewSrYgMQ60I",
-          "publishedOn": "2023-08-03T08:33:13.000Z",
-          "wordCount": null,
-          "title": "Julia at NCI | Yue Sun | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fxbxeoP_q-A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fxbxeoP_q-A",
-          "publishedOn": "2023-08-03T08:25:20.000Z",
-          "wordCount": null,
-          "title": "Becoming a Research Software Engineer with Julia | Branwen Snelling | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kU__xWBZvxw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kU__xWBZvxw",
-          "publishedOn": "2023-08-03T08:22:21.000Z",
-          "wordCount": null,
-          "title": "Ignite.jl: A Brighter Way to Train Neural Networks | Jon Doucette | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qXrvDVm_fnE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qXrvDVm_fnE",
-          "publishedOn": "2023-08-03T08:20:55.000Z",
-          "wordCount": null,
-          "title": "RxInfer.jl: A Package for Real-Time Bayesian Inference | Dmitry Bagaev | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wmCra6roZn4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wmCra6roZn4",
-          "publishedOn": "2023-08-03T08:19:31.000Z",
-          "wordCount": null,
-          "title": "Nerf.jl a Real-Time Neural 3D Scene Reconstruction in Pure Julia | Anton Smirnov | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2D8oRtDJEeg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2D8oRtDJEeg",
-          "publishedOn": "2023-07-28T22:14:06.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 26-100 Day 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gyufVG56TEQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gyufVG56TEQ",
-          "publishedOn": "2023-07-28T21:42:17.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Room 32-D463 (Star) Day 3",
           "imageUrl": null
         }
       ]

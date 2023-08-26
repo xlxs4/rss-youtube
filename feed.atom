@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T00:04:14.771Z</id>
+    <id>urn:2023-08-26T00:04:37.790Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-25T00:04:14.771Z</updated>
+    <updated>2023-08-26T00:04:37.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Image Processing in Julia Workshop | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=RWfAmIj4kS0</id>
+        <link href="https://www.youtube.com/watch?v=RWfAmIj4kS0"/>
+        <updated>2023-08-25T20:47:16.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands on Lumped Parameter Models with CirculatorySystemModels.jl Workshop | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=Cjl1gfqVnLo</id>
+        <link href="https://www.youtube.com/watch?v=Cjl1gfqVnLo"/>
+        <updated>2023-08-25T20:47:12.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using NeuralODEs in Real Life Applications | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=X_u0KlZizD4</id>
+        <link href="https://www.youtube.com/watch?v=X_u0KlZizD4"/>
+        <updated>2023-08-25T20:47:08.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with DataFrames.jl Workshop Part 1 | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=bM-UNIh7xt4</id>
+        <link href="https://www.youtube.com/watch?v=bM-UNIh7xt4"/>
+        <updated>2023-08-25T20:47:04.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with DataFrames.jl Workshop Part 2 | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=oorErKcAWIQ</id>
+        <link href="https://www.youtube.com/watch?v=oorErKcAWIQ"/>
+        <updated>2023-08-25T20:47:01.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WorldDynamics.jl Workshop | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=vfXeEQhV0W8</id>
+        <link href="https://www.youtube.com/watch?v=vfXeEQhV0W8"/>
+        <updated>2023-08-25T20:46:58.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Dashboards with Genie.jl | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=dffZTCDpiRs</id>
+        <link href="https://www.youtube.com/watch?v=dffZTCDpiRs"/>
+        <updated>2023-08-25T20:46:54.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A granular material flowing towards the tip of a wedge: Dislocations and mixing]]></title>
+        <id>https://www.youtube.com/watch?v=H2_fS3wHMIk</id>
+        <link href="https://www.youtube.com/watch?v=H2_fS3wHMIk"/>
+        <updated>2023-08-25T09:00:11.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fast Neural ODE / UDE: Improved Parallelism and Memory Performance Differentiating Stiff ODEs]]></title>
         <id>https://www.youtube.com/watch?v=_qmcEDezSI8</id>
@@ -204,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crossing the jamming transition]]></title>
-        <id>https://www.youtube.com/watch?v=p5n90maQAPE</id>
-        <link href="https://www.youtube.com/watch?v=p5n90maQAPE"/>
-        <updated>2023-08-11T09:00:44.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is Lie theory? Here is the big picture.]]></title>
         <id>https://www.youtube.com/watch?v=ZRca3Ggpy_g</id>
         <link href="https://www.youtube.com/watch?v=ZRca3Ggpy_g"/>
@@ -339,75 +402,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Julia at NCI | Yue Sun | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=ewSrYgMQ60I</id>
-        <link href="https://www.youtube.com/watch?v=ewSrYgMQ60I"/>
-        <updated>2023-08-03T08:33:13.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Becoming a Research Software Engineer with Julia | Branwen Snelling | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=fxbxeoP_q-A</id>
-        <link href="https://www.youtube.com/watch?v=fxbxeoP_q-A"/>
-        <updated>2023-08-03T08:25:20.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ignite.jl: A Brighter Way to Train Neural Networks | Jon Doucette | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=kU__xWBZvxw</id>
-        <link href="https://www.youtube.com/watch?v=kU__xWBZvxw"/>
-        <updated>2023-08-03T08:22:21.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RxInfer.jl: A Package for Real-Time Bayesian Inference | Dmitry Bagaev | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=qXrvDVm_fnE</id>
-        <link href="https://www.youtube.com/watch?v=qXrvDVm_fnE"/>
-        <updated>2023-08-03T08:20:55.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nerf.jl a Real-Time Neural 3D Scene Reconstruction in Pure Julia | Anton Smirnov | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=wmCra6roZn4</id>
-        <link href="https://www.youtube.com/watch?v=wmCra6roZn4"/>
-        <updated>2023-08-03T08:19:31.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to rotate in higher dimensions? Complex dimensions? | Lie groups, algebras, brackets #2]]></title>
         <id>https://www.youtube.com/watch?v=erA0jb9dSm0</id>
         <link href="https://www.youtube.com/watch?v=erA0jb9dSm0"/>
         <updated>2023-07-29T14:00:22.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 26-100 Day 3]]></title>
-        <id>https://www.youtube.com/watch?v=2D8oRtDJEeg</id>
-        <link href="https://www.youtube.com/watch?v=2D8oRtDJEeg"/>
-        <updated>2023-07-28T22:14:06.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaCon 2023 Room 32-D463 (Star) Day 3]]></title>
-        <id>https://www.youtube.com/watch?v=gyufVG56TEQ</id>
-        <link href="https://www.youtube.com/watch?v=gyufVG56TEQ"/>
-        <updated>2023-07-28T21:42:17.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
         </author>
     </entry>
     <entry>
