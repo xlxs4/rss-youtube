@@ -214,16 +214,6 @@
           "wordCount": null,
           "title": "Butterfly effect in an elliptic curve but not in an ellipse",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zncrSCGwzts",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zncrSCGwzts",
-          "publishedOn": "2023-05-28T20:14:55.000Z",
-          "wordCount": null,
-          "title": "Squircle billiard",
-          "imageUrl": null
         }
       ]
     },
@@ -232,6 +222,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PbQPNvJ1TSE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PbQPNvJ1TSE",
+          "publishedOn": "2023-08-26T09:00:12.000Z",
+          "wordCount": null,
+          "title": "[Epilepsy warning] Bragg diffraction on a square lattice",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=H2_fS3wHMIk",
           "author": null,
@@ -370,16 +370,6 @@
           "publishedOn": "2023-08-13T18:00:09.000Z",
           "wordCount": null,
           "title": "Tutorial: Some simple climate models, part 2 - stochastic models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Iozf33Wl-r8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Iozf33Wl-r8",
-          "publishedOn": "2023-08-12T09:00:12.000Z",
-          "wordCount": null,
-          "title": "Waves on a dodecahedron",
           "imageUrl": null
         }
       ]
@@ -967,6 +957,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6qviCIwvEng",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6qviCIwvEng",
+          "publishedOn": "2023-08-26T18:48:56.000Z",
+          "wordCount": null,
+          "title": "Differentiable Modeling on GPUs Workshop | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RWfAmIj4kS0",
           "author": null,
           "description": "",
@@ -1003,7 +1003,7 @@
           "link": "https://www.youtube.com/watch?v=bM-UNIh7xt4",
           "publishedOn": "2023-08-25T20:47:04.000Z",
           "wordCount": null,
-          "title": "Working with DataFrames.jl Workshop Part 1 | JuliaCon 2023",
+          "title": "Working with DataFrames.jl Workshop Part 2 | JuliaCon 2023",
           "imageUrl": null
         },
         {
@@ -1013,7 +1013,7 @@
           "link": "https://www.youtube.com/watch?v=oorErKcAWIQ",
           "publishedOn": "2023-08-25T20:47:01.000Z",
           "wordCount": null,
-          "title": "Working with DataFrames.jl Workshop Part 2 | JuliaCon 2023",
+          "title": "Working with DataFrames.jl Workshop Part 1 | JuliaCon 2023",
           "imageUrl": null
         },
         {
@@ -1104,16 +1104,6 @@
           "publishedOn": "2023-08-03T08:43:07.000Z",
           "wordCount": null,
           "title": "Vahana.jl - A Framework for Large-Scale Agent-Based Models | Steffen Fürst | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1LPqoxw2h2o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1LPqoxw2h2o",
-          "publishedOn": "2023-08-03T08:37:00.000Z",
-          "wordCount": null,
-          "title": "Julia Usecases in Actuarial Science Related Fields | Yun-Tien Lee | JuliaCon 2023",
           "imageUrl": null
         }
       ]
