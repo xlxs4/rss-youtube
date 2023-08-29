@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-28T00:04:29.522Z</id>
+    <id>urn:2023-08-29T00:04:29.640Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-28T00:04:29.522Z</updated>
+    <updated>2023-08-29T00:04:29.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Simulation of a meteor impact in the Atlantic Ocean]]></title>
+        <id>https://www.youtube.com/watch?v=mjSFAVcpglA</id>
+        <link href="https://www.youtube.com/watch?v=mjSFAVcpglA"/>
+        <updated>2023-08-28T09:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial: A bit of number theory - Continued fractions and the Farey tree]]></title>
         <id>https://www.youtube.com/watch?v=hxo6tiy7Wlo</id>
@@ -255,15 +264,6 @@
         <updated>2023-08-14T09:01:12.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves with dodecahedral symmetry on the sphere]]></title>
-        <id>https://www.youtube.com/watch?v=tSzsrCHc3xc</id>
-        <link href="https://www.youtube.com/watch?v=tSzsrCHc3xc"/>
-        <updated>2023-08-14T09:00:38.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
