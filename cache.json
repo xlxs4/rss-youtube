@@ -223,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QEYI270iCdA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QEYI270iCdA",
+          "publishedOn": "2023-08-30T09:00:32.000Z",
+          "wordCount": null,
+          "title": "Waves with octahedral symmetry on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zWdLF5gUKGo",
           "author": null,
           "description": "",
@@ -360,16 +370,6 @@
           "publishedOn": "2023-08-17T09:00:11.000Z",
           "wordCount": null,
           "title": "Faraday waves in a vibrating container",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=evKsauY4V4Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=evKsauY4V4Y",
-          "publishedOn": "2023-08-16T09:00:33.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] Bragg diffraction seen from a larger distance - with a plot of the wave profile",
           "imageUrl": null
         }
       ]
@@ -973,7 +973,7 @@
           "link": "https://www.youtube.com/watch?v=_Y6mNrN7eWA",
           "publishedOn": "2023-08-29T20:35:12.000Z",
           "wordCount": null,
-          "title": "Phoenix or cyborg: The anatomy of Earth system software in Julia | Gaël Forget | JuliaCon 2023",
+          "title": "Julia-Fortran interfaces with ClimateModels.jl | Gaël Forget | JuliaCon 2023",
           "imageUrl": null
         },
         {
@@ -983,7 +983,7 @@
           "link": "https://www.youtube.com/watch?v=tnw_BI2tRaA",
           "publishedOn": "2023-08-29T20:35:09.000Z",
           "wordCount": null,
-          "title": "Phoenix or cyborg: The anatomy of Earth system software in Julia | Julia Sloan | JuliaCon 2023",
+          "title": "ClimaCoupler.jl: An Extensible ESM Coupler in Julia| Julia Sloan | JuliaCon 2023",
           "imageUrl": null
         },
         {
@@ -993,7 +993,7 @@
           "link": "https://www.youtube.com/watch?v=qgmgg_Bzgyg",
           "publishedOn": "2023-08-29T20:35:05.000Z",
           "wordCount": null,
-          "title": "Phoenix or cyborg: The anatomy of Earth system software in Julia | Milan Klöwer | JuliaCon 2023",
+          "title": "Atmospheric modelling with SpeedyWeather.jl | Milan Klöwer | JuliaCon 2023",
           "imageUrl": null
         },
         {
@@ -1003,7 +1003,7 @@
           "link": "https://www.youtube.com/watch?v=Nlq3J7PCB_Q",
           "publishedOn": "2023-08-29T20:35:00.000Z",
           "wordCount": null,
-          "title": "Phoenix or cyborg: The anatomy of Earth system software in Julia | Gregory Wagner | JuliaCon 2023",
+          "title": "Ocean modelling with Oceananigans.jl | Gregory Wagner | JuliaCon 2023",
           "imageUrl": null
         },
         {

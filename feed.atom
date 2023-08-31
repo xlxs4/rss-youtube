@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-30T00:04:22.223Z</id>
+    <id>urn:2023-08-31T00:04:15.113Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-30T00:04:22.223Z</updated>
+    <updated>2023-08-31T00:04:15.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Waves with octahedral symmetry on the sphere]]></title>
+        <id>https://www.youtube.com/watch?v=QEYI270iCdA</id>
+        <link href="https://www.youtube.com/watch?v=QEYI270iCdA"/>
+        <updated>2023-08-30T09:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SARProcessing.jl: A flexible package for the SAR data processing | Iga Szczesniak | JuliaCon 2023]]></title>
         <id>https://www.youtube.com/watch?v=HONx0bzFneU</id>
@@ -15,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phoenix or cyborg: The anatomy of Earth system software in Julia | Gaël Forget | JuliaCon 2023]]></title>
+        <title type="html"><![CDATA[Julia-Fortran interfaces with ClimateModels.jl | Gaël Forget | JuliaCon 2023]]></title>
         <id>https://www.youtube.com/watch?v=_Y6mNrN7eWA</id>
         <link href="https://www.youtube.com/watch?v=_Y6mNrN7eWA"/>
         <updated>2023-08-29T20:35:12.000Z</updated>
@@ -24,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phoenix or cyborg: The anatomy of Earth system software in Julia | Julia Sloan | JuliaCon 2023]]></title>
+        <title type="html"><![CDATA[ClimaCoupler.jl: An Extensible ESM Coupler in Julia| Julia Sloan | JuliaCon 2023]]></title>
         <id>https://www.youtube.com/watch?v=tnw_BI2tRaA</id>
         <link href="https://www.youtube.com/watch?v=tnw_BI2tRaA"/>
         <updated>2023-08-29T20:35:09.000Z</updated>
@@ -33,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phoenix or cyborg: The anatomy of Earth system software in Julia | Milan Klöwer | JuliaCon 2023]]></title>
+        <title type="html"><![CDATA[Atmospheric modelling with SpeedyWeather.jl | Milan Klöwer | JuliaCon 2023]]></title>
         <id>https://www.youtube.com/watch?v=qgmgg_Bzgyg</id>
         <link href="https://www.youtube.com/watch?v=qgmgg_Bzgyg"/>
         <updated>2023-08-29T20:35:05.000Z</updated>
@@ -42,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phoenix or cyborg: The anatomy of Earth system software in Julia | Gregory Wagner | JuliaCon 2023]]></title>
+        <title type="html"><![CDATA[Ocean modelling with Oceananigans.jl | Gregory Wagner | JuliaCon 2023]]></title>
         <id>https://www.youtube.com/watch?v=Nlq3J7PCB_Q</id>
         <link href="https://www.youtube.com/watch?v=Nlq3J7PCB_Q"/>
         <updated>2023-08-29T20:35:00.000Z</updated>
@@ -309,15 +318,6 @@
         <updated>2023-08-16T13:59:54.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Epilepsy warning] Bragg diffraction seen from a larger distance - with a plot of the wave profile]]></title>
-        <id>https://www.youtube.com/watch?v=evKsauY4V4Y</id>
-        <link href="https://www.youtube.com/watch?v=evKsauY4V4Y"/>
-        <updated>2023-08-16T09:00:33.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
