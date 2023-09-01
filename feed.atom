@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-31T00:04:15.113Z</id>
+    <id>urn:2023-09-01T00:04:54.346Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-08-31T00:04:15.113Z</updated>
+    <updated>2023-09-01T00:04:54.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When Computers Write Proofs, What's the Point of Mathematicians?]]></title>
+        <id>https://www.youtube.com/watch?v=3l1RMiGeTfU</id>
+        <link href="https://www.youtube.com/watch?v=3l1RMiGeTfU"/>
+        <updated>2023-08-31T21:40:50.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faraday waves in a vibrating elliptical container]]></title>
+        <id>https://www.youtube.com/watch?v=8_mYChotnFU</id>
+        <link href="https://www.youtube.com/watch?v=8_mYChotnFU"/>
+        <updated>2023-08-31T09:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waves with octahedral symmetry on the sphere]]></title>
         <id>https://www.youtube.com/watch?v=QEYI270iCdA</id>
@@ -289,15 +307,6 @@
         <id>https://www.youtube.com/watch?v=UN5DxISmeqY</id>
         <link href="https://www.youtube.com/watch?v=UN5DxISmeqY"/>
         <updated>2023-08-18T09:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faraday waves in a vibrating container]]></title>
-        <id>https://www.youtube.com/watch?v=LtRxnDj_3jY</id>
-        <link href="https://www.youtube.com/watch?v=LtRxnDj_3jY"/>
-        <updated>2023-08-17T09:00:11.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>

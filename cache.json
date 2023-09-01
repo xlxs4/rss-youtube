@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3l1RMiGeTfU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3l1RMiGeTfU",
+          "publishedOn": "2023-08-31T21:40:50.000Z",
+          "wordCount": null,
+          "title": "When Computers Write Proofs, What's the Point of Mathematicians?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h7kqlYUV1l8",
           "author": null,
           "description": "",
@@ -223,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8_mYChotnFU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8_mYChotnFU",
+          "publishedOn": "2023-08-31T09:00:10.000Z",
+          "wordCount": null,
+          "title": "Faraday waves in a vibrating elliptical container",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QEYI270iCdA",
           "author": null,
           "description": "",
@@ -360,16 +380,6 @@
           "publishedOn": "2023-08-18T09:00:32.000Z",
           "wordCount": null,
           "title": "Waves with icosahedral symmetry on the sphere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LtRxnDj_3jY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LtRxnDj_3jY",
-          "publishedOn": "2023-08-17T09:00:11.000Z",
-          "wordCount": null,
-          "title": "Faraday waves in a vibrating container",
           "imageUrl": null
         }
       ]
