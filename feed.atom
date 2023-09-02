@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-01T00:04:54.346Z</id>
+    <id>urn:2023-09-02T00:03:59.854Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-01T00:04:54.346Z</updated>
+    <updated>2023-09-02T00:03:59.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Shedding Light on the Dark Universe]]></title>
+        <id>https://www.youtube.com/watch?v=rRWIcpZqnXQ</id>
+        <link href="https://www.youtube.com/watch?v=rRWIcpZqnXQ"/>
+        <updated>2023-09-01T22:00:09.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The origin of light, scattering, and polarization | Barber pole, part 2]]></title>
+        <id>https://www.youtube.com/watch?v=aXRTczANuIs</id>
+        <link href="https://www.youtube.com/watch?v=aXRTczANuIs"/>
+        <updated>2023-09-01T13:39:37.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This demo tests your understanding of light | Barber pole, part 1]]></title>
+        <id>https://www.youtube.com/watch?v=QCX62YJCmGk</id>
+        <link href="https://www.youtube.com/watch?v=QCX62YJCmGk"/>
+        <updated>2023-09-01T13:13:14.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulation of a meteor impact in the South Pacific Ocean, viewpoint moving west]]></title>
+        <id>https://www.youtube.com/watch?v=OZU8B4dRdq0</id>
+        <link href="https://www.youtube.com/watch?v=OZU8B4dRdq0"/>
+        <updated>2023-09-01T09:00:27.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When Computers Write Proofs, What's the Point of Mathematicians?]]></title>
         <id>https://www.youtube.com/watch?v=3l1RMiGeTfU</id>
@@ -298,15 +334,6 @@
         <id>https://www.youtube.com/watch?v=BUy5_VFe0sM</id>
         <link href="https://www.youtube.com/watch?v=BUy5_VFe0sM"/>
         <updated>2023-08-19T09:00:19.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves with icosahedral symmetry on the sphere]]></title>
-        <id>https://www.youtube.com/watch?v=UN5DxISmeqY</id>
-        <link href="https://www.youtube.com/watch?v=UN5DxISmeqY"/>
-        <updated>2023-08-18T09:00:32.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -1011,15 +1038,6 @@
         <updated>2023-06-06T13:53:42.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Butterfly effect in an elliptic curve but not in an ellipse]]></title>
-        <id>https://www.youtube.com/watch?v=-vlcAsNxTG4</id>
-        <link href="https://www.youtube.com/watch?v=-vlcAsNxTG4"/>
-        <updated>2023-06-04T10:29:05.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
