@@ -243,6 +243,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cUUKPMSZXDY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cUUKPMSZXDY",
+          "publishedOn": "2023-09-02T09:00:18.000Z",
+          "wordCount": null,
+          "title": "A rotating triangle in a granular medium",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OZU8B4dRdq0",
           "author": null,
           "description": "",
@@ -380,16 +390,6 @@
           "publishedOn": "2023-08-20T18:00:09.000Z",
           "wordCount": null,
           "title": "Tutorial: How to simulate interacting particle systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BUy5_VFe0sM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BUy5_VFe0sM",
-          "publishedOn": "2023-08-19T09:00:19.000Z",
-          "wordCount": null,
-          "title": "A granular material flowing towards the tip of a wedge",
           "imageUrl": null
         }
       ]
