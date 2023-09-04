@@ -243,6 +243,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M6ta3hr0y0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M6ta3hr0y0A",
+          "publishedOn": "2023-09-03T18:00:07.000Z",
+          "wordCount": null,
+          "title": "Tutorial: What is metastability? And what does Los Alamos have to do with it?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cUUKPMSZXDY",
           "author": null,
           "description": "",
@@ -270,6 +280,16 @@
           "publishedOn": "2023-08-31T09:00:10.000Z",
           "wordCount": null,
           "title": "Faraday waves in a vibrating elliptical container",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3zmjRFMHgTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3zmjRFMHgTo",
+          "publishedOn": "2023-08-30T09:54:50.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How to use my code",
           "imageUrl": null
         },
         {
@@ -353,16 +373,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=M6ta3hr0y0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M6ta3hr0y0A",
-          "publishedOn": "2023-08-22T09:03:47.000Z",
-          "wordCount": null,
-          "title": "Tutorial: What is metastability? And what does Los Alamos have to do with it?",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=4aIBlm-nU_Y",
           "author": null,
           "description": "",
@@ -380,16 +390,6 @@
           "publishedOn": "2023-08-21T09:00:10.000Z",
           "wordCount": null,
           "title": "Energy flux of waves with dodecahedral symmetry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z9xSq73a0n4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z9xSq73a0n4",
-          "publishedOn": "2023-08-20T18:00:09.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to simulate interacting particle systems",
           "imageUrl": null
         }
       ]
