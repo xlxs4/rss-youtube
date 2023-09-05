@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "A Bet Against Quantum Gravity",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yLOHdW7dLug",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yLOHdW7dLug",
-          "publishedOn": "2023-06-06T13:53:42.000Z",
-          "wordCount": null,
-          "title": "Can a New Law of Physics Explain a Black Hole Paradox?",
-          "imageUrl": null
         }
       ]
     },
@@ -243,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=twa8hiP4Cjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=twa8hiP4Cjc",
+          "publishedOn": "2023-09-04T09:00:39.000Z",
+          "wordCount": null,
+          "title": "Simulation of an asteroid impact in the South Pacific Ocean, viewpoint moving east",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=M6ta3hr0y0A",
           "author": null,
           "description": "",
@@ -380,16 +380,6 @@
           "publishedOn": "2023-08-22T09:00:03.000Z",
           "wordCount": null,
           "title": "Faraday waves in a container vibrating at period 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8oqiTN0Silw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8oqiTN0Silw",
-          "publishedOn": "2023-08-21T09:00:10.000Z",
-          "wordCount": null,
-          "title": "Energy flux of waves with dodecahedral symmetry",
           "imageUrl": null
         }
       ]
