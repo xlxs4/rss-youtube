@@ -233,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Cm4fVop8kbA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cm4fVop8kbA",
+          "publishedOn": "2023-09-07T09:00:13.000Z",
+          "wordCount": null,
+          "title": "Faraday waves in an elliptical container vibrating at period 1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PR0kGl76gNU",
           "author": null,
           "description": "",
@@ -370,16 +380,6 @@
           "publishedOn": "2023-08-25T09:00:11.000Z",
           "wordCount": null,
           "title": "A granular material flowing towards the tip of a wedge: Dislocations and mixing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5d4oaDTeWZA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5d4oaDTeWZA",
-          "publishedOn": "2023-08-24T09:00:03.000Z",
-          "wordCount": null,
-          "title": "Waves on a planet with a fractal continent",
           "imageUrl": null
         }
       ]
@@ -673,6 +673,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WuuYPPlF6uM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WuuYPPlF6uM",
+          "publishedOn": "2023-09-07T17:51:13.000Z",
+          "wordCount": null,
+          "title": "PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0ft7K1ypdGc",
           "author": null,
           "description": "",
@@ -811,16 +821,6 @@
           "wordCount": null,
           "title": "Samarth Nagarkar, Sohail Yusuf Khan & Shank Lahiri | Ragas Live Festival 2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a0JIP_yMBa8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a0JIP_yMBa8",
-          "publishedOn": "2023-07-20T17:33:13.000Z",
-          "wordCount": null,
-          "title": "Kroba | Ragas Live Festival 2022",
-          "imageUrl": null
         }
       ]
     },
@@ -898,16 +898,6 @@
           "wordCount": null,
           "title": "Memory: The Hidden Pathways That Make Us Human",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1f7jm3T_hao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1f7jm3T_hao",
-          "publishedOn": "2023-06-09T22:00:10.000Z",
-          "wordCount": null,
-          "title": "Rewriting the Story of Humankind",
-          "imageUrl": null
         }
       ]
     },
@@ -916,6 +906,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OZ7LEB44B3E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OZ7LEB44B3E",
+          "publishedOn": "2023-09-07T01:32:21.000Z",
+          "wordCount": null,
+          "title": "My Strategy To Consume Information Effectively",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yaa13eehgzo",
           "author": null,
