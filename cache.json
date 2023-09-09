@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=h7kqlYUV1l8",
           "publishedOn": "2023-08-08T19:46:49.000Z",
           "wordCount": null,
-          "title": "Math’s Famous Map Problem: The Four Color Theorem",
+          "title": "How Math’s Famous Map Theorem Was Solved With Computers",
           "imageUrl": null
         },
         {
@@ -233,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hE_JkbZOjyg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hE_JkbZOjyg",
+          "publishedOn": "2023-09-08T09:00:27.000Z",
+          "wordCount": null,
+          "title": "Simulation of a meteor impact in the Atlantic Ocean, 2D representation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Cm4fVop8kbA",
           "author": null,
           "description": "",
@@ -370,16 +380,6 @@
           "publishedOn": "2023-08-26T09:00:12.000Z",
           "wordCount": null,
           "title": "[Epilepsy warning] Bragg diffraction on a square lattice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H2_fS3wHMIk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H2_fS3wHMIk",
-          "publishedOn": "2023-08-25T09:00:11.000Z",
-          "wordCount": null,
-          "title": "A granular material flowing towards the tip of a wedge: Dislocations and mixing",
           "imageUrl": null
         }
       ]
