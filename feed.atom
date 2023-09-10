@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-09T00:04:03.838Z</id>
+    <id>urn:2023-09-10T00:05:16.935Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-09T00:04:03.838Z</updated>
+    <updated>2023-09-10T00:05:16.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A blender in a granular medium]]></title>
+        <id>https://www.youtube.com/watch?v=BJuz4rE36xc</id>
+        <link href="https://www.youtube.com/watch?v=BJuz4rE36xc"/>
+        <updated>2023-09-09T09:00:07.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simulation of a meteor impact in the Atlantic Ocean, 2D representation]]></title>
         <id>https://www.youtube.com/watch?v=hE_JkbZOjyg</id>
@@ -325,15 +334,6 @@
         <id>https://www.youtube.com/watch?v=hxo6tiy7Wlo</id>
         <link href="https://www.youtube.com/watch?v=hxo6tiy7Wlo"/>
         <updated>2023-08-27T18:00:09.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Epilepsy warning] Bragg diffraction on a square lattice]]></title>
-        <id>https://www.youtube.com/watch?v=PbQPNvJ1TSE</id>
-        <link href="https://www.youtube.com/watch?v=PbQPNvJ1TSE"/>
-        <updated>2023-08-26T09:00:12.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -1020,15 +1020,6 @@
         <updated>2023-06-12T22:11:08.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Black Hole That Kills Galaxies - Quasars]]></title>
-        <id>https://www.youtube.com/watch?v=V4Z8EdiJxgk</id>
-        <link href="https://www.youtube.com/watch?v=V4Z8EdiJxgk"/>
-        <updated>2023-06-11T12:59:39.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>

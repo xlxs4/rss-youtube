@@ -233,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BJuz4rE36xc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BJuz4rE36xc",
+          "publishedOn": "2023-09-09T09:00:07.000Z",
+          "wordCount": null,
+          "title": "A blender in a granular medium",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hE_JkbZOjyg",
           "author": null,
           "description": "",
@@ -370,16 +380,6 @@
           "publishedOn": "2023-08-27T18:00:09.000Z",
           "wordCount": null,
           "title": "Tutorial: A bit of number theory - Continued fractions and the Farey tree",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PbQPNvJ1TSE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PbQPNvJ1TSE",
-          "publishedOn": "2023-08-26T09:00:12.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] Bragg diffraction on a square lattice",
           "imageUrl": null
         }
       ]
@@ -523,16 +523,6 @@
           "publishedOn": "2023-06-15T14:06:52.000Z",
           "wordCount": null,
           "title": "Why Does Humanity Exist NOW? #shorts #kurzgesagt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V4Z8EdiJxgk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V4Z8EdiJxgk",
-          "publishedOn": "2023-06-11T12:59:39.000Z",
-          "wordCount": null,
-          "title": "The Black Hole That Kills Galaxies - Quasars",
           "imageUrl": null
         }
       ]
