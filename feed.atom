@@ -1,10 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-11T00:04:16.710Z</id>
+    <id>urn:2023-09-12T00:04:13.920Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-11T00:04:16.710Z</updated>
+    <updated>2023-09-12T00:04:13.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MathOpt: solver independent modeling in Google's OR-Tools | Ross Anderson | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=L5b4YQowXBg</id>
+        <link href="https://www.youtube.com/watch?v=L5b4YQowXBg"/>
+        <updated>2023-09-11T21:02:20.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LotteryTickets.jl: Sparsify your Flux Models | Marco Cognetta | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=ZmcaUyZLi4Q</id>
+        <link href="https://www.youtube.com/watch?v=ZmcaUyZLi4Q"/>
+        <updated>2023-09-11T21:01:57.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving the precision GLM | Mousum Dutta | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=kRTkMUseUQk</id>
+        <link href="https://www.youtube.com/watch?v=kRTkMUseUQk"/>
+        <updated>2023-09-11T21:01:55.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal Network analysis with SciML and DotProductGraphs | Connor Stirling Smith | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=JGnEHLNtF3s</id>
+        <link href="https://www.youtube.com/watch?v=JGnEHLNtF3s"/>
+        <updated>2023-09-11T21:01:51.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons learned from doing introductory econometrics with GLM.jl | Bogumil Kaminski | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=RqmAlTYc7QA</id>
+        <link href="https://www.youtube.com/watch?v=RqmAlTYc7QA"/>
+        <updated>2023-09-11T21:01:44.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimization solvers in JuliaSmoothOptimizers | Tangi Migot | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=x52QlIb8E9Y</id>
+        <link href="https://www.youtube.com/watch?v=x52QlIb8E9Y"/>
+        <updated>2023-09-11T21:01:33.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast Convex Optimization with GeNIOS.jl | Theo Diamandis | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=TrHk8sClc9s</id>
+        <link href="https://www.youtube.com/watch?v=TrHk8sClc9s"/>
+        <updated>2023-09-11T21:01:29.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Constructing Optimal Optimization Methods using BnB-PEP | Shuvomoy Das Gupta | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=akveigT7F7M</id>
+        <link href="https://www.youtube.com/watch?v=akveigT7F7M"/>
+        <updated>2023-09-11T21:01:25.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging JuMP optimization models using graph theory | Robert Parker | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=9IKXOnv3fAE</id>
+        <link href="https://www.youtube.com/watch?v=9IKXOnv3fAE"/>
+        <updated>2023-09-11T21:01:21.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving nonlinear programming support in JUMP | Oscar Dowson | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=6q76umkG-34</id>
+        <link href="https://www.youtube.com/watch?v=6q76umkG-34"/>
+        <updated>2023-09-11T21:01:18.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computable General Equilibrium (CGE) Models in Julia JuMP | Mitch Phillipson | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=NgO-1MTG9GQ</id>
+        <link href="https://www.youtube.com/watch?v=NgO-1MTG9GQ"/>
+        <updated>2023-09-11T21:01:15.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InfiniteOpt and DisjunctiveProgramming.jl | Joshua Pulsipher | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=RGMJube0pQg</id>
+        <link href="https://www.youtube.com/watch?v=RGMJube0pQg"/>
+        <updated>2023-09-11T21:01:12.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUBO.jl: Quadratic Unconstrained Binary Optimization | Joaquim Dias Garcia | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=gPapX51j_KQ</id>
+        <link href="https://www.youtube.com/watch?v=gPapX51j_KQ"/>
+        <updated>2023-09-11T21:01:07.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ConstraintLearning: Ever wanted to learn about constraints? | Jean-François BAFFIER | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=3xEsa9sveDM</id>
+        <link href="https://www.youtube.com/watch?v=3xEsa9sveDM"/>
+        <updated>2023-09-11T21:01:02.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predictive Uncertainty Quantification in Machine Learning | Patrick Altmeyer | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=99OmFVYvNAU</id>
+        <link href="https://www.youtube.com/watch?v=99OmFVYvNAU"/>
+        <updated>2023-09-11T21:00:59.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulation of an asteroid impact in the South Pacific Ocean, 2D representation]]></title>
+        <id>https://www.youtube.com/watch?v=G4kA-if7LQY</id>
+        <link href="https://www.youtube.com/watch?v=G4kA-if7LQY"/>
+        <updated>2023-09-11T09:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMR-RMA 2 : Victor Kac : Exceptional de Rham Complexes]]></title>
         <id>https://www.youtube.com/watch?v=ekUX8HTL1JI</id>
@@ -195,154 +339,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SARProcessing.jl: A flexible package for the SAR data processing | Iga Szczesniak | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=HONx0bzFneU</id>
-        <link href="https://www.youtube.com/watch?v=HONx0bzFneU"/>
-        <updated>2023-08-29T20:35:15.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julia-Fortran interfaces with ClimateModels.jl | Gaël Forget | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=_Y6mNrN7eWA</id>
-        <link href="https://www.youtube.com/watch?v=_Y6mNrN7eWA"/>
-        <updated>2023-08-29T20:35:12.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClimaCoupler.jl: An Extensible ESM Coupler in Julia| Julia Sloan | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=tnw_BI2tRaA</id>
-        <link href="https://www.youtube.com/watch?v=tnw_BI2tRaA"/>
-        <updated>2023-08-29T20:35:09.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atmospheric modelling with SpeedyWeather.jl | Milan Klöwer | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=qgmgg_Bzgyg</id>
-        <link href="https://www.youtube.com/watch?v=qgmgg_Bzgyg"/>
-        <updated>2023-08-29T20:35:05.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ocean modelling with Oceananigans.jl | Gregory Wagner | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=Nlq3J7PCB_Q</id>
-        <link href="https://www.youtube.com/watch?v=Nlq3J7PCB_Q"/>
-        <updated>2023-08-29T20:35:00.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaEO 2023: Outcomes, Overview & Impact | Forget, Szczesniak, Pinelo | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=JvdZi24Ph2Q</id>
-        <link href="https://www.youtube.com/watch?v=JvdZi24Ph2Q"/>
-        <updated>2023-08-29T20:34:58.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expronicon: a modern toolkit for meta-programming in Julia | Xiu-zhe (Roger) Luo | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=F_DjmwyD4O4</id>
-        <link href="https://www.youtube.com/watch?v=F_DjmwyD4O4"/>
-        <updated>2023-08-29T20:34:49.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SimpleMatch.jl, NotMacro.jl and ProxyInterfaces.jl | Stephan Sahm | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=pq3gpDMEI9w</id>
-        <link href="https://www.youtube.com/watch?v=pq3gpDMEI9w"/>
-        <updated>2023-08-29T20:34:46.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's new with JET.jl | Shuhei Kadowaki | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=PU3J-UJVjvs</id>
-        <link href="https://www.youtube.com/watch?v=PU3J-UJVjvs"/>
-        <updated>2023-08-29T20:34:43.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IsDef.jl: maintainable type inference | Stephan Sahm | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=2QLJOQNiZhI</id>
-        <link href="https://www.youtube.com/watch?v=2QLJOQNiZhI"/>
-        <updated>2023-08-29T20:34:40.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Profiling parallel Julia code with Nsight Systems and NVTX.jl | Simon Byrne | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=B7ZlScN_rk8</id>
-        <link href="https://www.youtube.com/watch?v=B7ZlScN_rk8"/>
-        <updated>2023-08-29T20:34:35.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's new in the Julia extension for VS Code | Sebastian Pfitzner | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=FdRyqKqAYHI</id>
-        <link href="https://www.youtube.com/watch?v=FdRyqKqAYHI"/>
-        <updated>2023-08-29T20:34:32.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julia meets the Intelligence Processing Unit | Mosè Giordano | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=-fxB0kmcCVE</id>
-        <link href="https://www.youtube.com/watch?v=-fxB0kmcCVE"/>
-        <updated>2023-08-29T20:34:29.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScratchQuickSort: a faster version of QuickSort | Lilith Hafner | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=RIhCBTx5TYA</id>
-        <link href="https://www.youtube.com/watch?v=RIhCBTx5TYA"/>
-        <updated>2023-08-29T20:34:25.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quickdraw: The simplest Julia package deployment system | Lilith Hafner | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=ruxYAY5_bfE</id>
-        <link href="https://www.youtube.com/watch?v=ruxYAY5_bfE"/>
-        <updated>2023-08-29T20:34:21.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A granular material flowing towards the back of a wedge: Defects and mixing]]></title>
         <id>https://www.youtube.com/watch?v=zWdLF5gUKGo</id>
         <link href="https://www.youtube.com/watch?v=zWdLF5gUKGo"/>
         <updated>2023-08-29T09:00:47.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulation of a meteor impact in the Atlantic Ocean]]></title>
-        <id>https://www.youtube.com/watch?v=mjSFAVcpglA</id>
-        <link href="https://www.youtube.com/watch?v=mjSFAVcpglA"/>
-        <updated>2023-08-28T09:00:35.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
