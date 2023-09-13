@@ -223,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lfJ6pn7UFfI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lfJ6pn7UFfI",
+          "publishedOn": "2023-09-12T09:00:27.000Z",
+          "wordCount": null,
+          "title": "Dislocation dynamics around a blender in a granular medium",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G4kA-if7LQY",
           "author": null,
           "description": "",
@@ -361,16 +371,6 @@
           "wordCount": null,
           "title": "Waves with octahedral symmetry on the sphere",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zWdLF5gUKGo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zWdLF5gUKGo",
-          "publishedOn": "2023-08-29T09:00:47.000Z",
-          "wordCount": null,
-          "title": "A granular material flowing towards the back of a wedge: Defects and mixing",
-          "imageUrl": null
         }
       ]
     },
@@ -386,7 +386,7 @@
           "link": "https://www.youtube.com/watch?v=ekUX8HTL1JI",
           "publishedOn": "2023-09-10T21:51:17.000Z",
           "wordCount": null,
-          "title": "AMR-RMA 2 : Victor Kac : Exceptional de Rham Complexes",
+          "title": "AMR-VDL 1 : Victor Kac : Exceptional de Rham Complexes",
           "imageUrl": null
         }
       ]
@@ -396,6 +396,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4Stzj2_Rlo4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4Stzj2_Rlo4",
+          "publishedOn": "2023-09-12T14:00:06.000Z",
+          "wordCount": null,
+          "title": "You're a Dream of the Universe (According to Science)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wmP3MBjsx20",
           "author": null,
@@ -958,153 +968,153 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=L5b4YQowXBg",
+          "id": "https://www.youtube.com/watch?v=yreW94n98eM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=L5b4YQowXBg",
-          "publishedOn": "2023-09-11T21:02:20.000Z",
+          "link": "https://www.youtube.com/watch?v=yreW94n98eM",
+          "publishedOn": "2023-09-12T17:36:34.000Z",
           "wordCount": null,
-          "title": "MathOpt: solver independent modeling in Google's OR-Tools | Ross Anderson | JuliaCon 2023",
+          "title": "Catalyst.jl, Modeling Chemical Reaction Networks | Torkel Loman | JuliaCon 2023",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=ZmcaUyZLi4Q",
+          "id": "https://www.youtube.com/watch?v=bjzbblYSAjY",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=ZmcaUyZLi4Q",
-          "publishedOn": "2023-09-11T21:01:57.000Z",
+          "link": "https://www.youtube.com/watch?v=bjzbblYSAjY",
+          "publishedOn": "2023-09-12T16:44:53.000Z",
           "wordCount": null,
-          "title": "LotteryTickets.jl: Sparsify your Flux Models | Marco Cognetta | JuliaCon 2023",
+          "title": "Declaratively imposing constraints using ValueConstraints.jl | Joris Kraak | JuliaCon 2023",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=kRTkMUseUQk",
+          "id": "https://www.youtube.com/watch?v=E3NdeUTdyFQ",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=kRTkMUseUQk",
-          "publishedOn": "2023-09-11T21:01:55.000Z",
+          "link": "https://www.youtube.com/watch?v=E3NdeUTdyFQ",
+          "publishedOn": "2023-09-12T15:52:49.000Z",
           "wordCount": null,
-          "title": "Improving the precision GLM | Mousum Dutta | JuliaCon 2023",
+          "title": "Multi-objective optimization with JuMP | Xavier Gandibleux | JuliaCon 2023",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=JGnEHLNtF3s",
+          "id": "https://www.youtube.com/watch?v=g3HLut4abC4",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=JGnEHLNtF3s",
-          "publishedOn": "2023-09-11T21:01:51.000Z",
+          "link": "https://www.youtube.com/watch?v=g3HLut4abC4",
+          "publishedOn": "2023-09-12T00:51:30.000Z",
           "wordCount": null,
-          "title": "Temporal Network analysis with SciML and DotProductGraphs | Connor Stirling Smith | JuliaCon 2023",
+          "title": "Avoiding Discretization Issues for Nonlinear Eigenvalue Problems | Alex Townsend | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=RqmAlTYc7QA",
+          "id": "https://www.youtube.com/watch?v=s_t6dIKjUUc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=RqmAlTYc7QA",
-          "publishedOn": "2023-09-11T21:01:44.000Z",
+          "link": "https://www.youtube.com/watch?v=s_t6dIKjUUc",
+          "publishedOn": "2023-09-12T00:50:18.000Z",
           "wordCount": null,
-          "title": "Lessons learned from doing introductory econometrics with GLM.jl | Bogumil Kaminski | JuliaCon 2023",
+          "title": "The Special Math of Translating Theory to Software in Differential Eqs | Chris Rackauckas | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=x52QlIb8E9Y",
+          "id": "https://www.youtube.com/watch?v=ZnZw_RIy-20",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=x52QlIb8E9Y",
-          "publishedOn": "2023-09-11T21:01:33.000Z",
+          "link": "https://www.youtube.com/watch?v=ZnZw_RIy-20",
+          "publishedOn": "2023-09-12T00:44:46.000Z",
           "wordCount": null,
-          "title": "Optimization solvers in JuliaSmoothOptimizers | Tangi Migot | JuliaCon 2023",
+          "title": "Unapologetically Beyond Universality | Folkmar Bornemann | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=TrHk8sClc9s",
+          "id": "https://www.youtube.com/watch?v=PpAlV57h5zY",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=TrHk8sClc9s",
-          "publishedOn": "2023-09-11T21:01:29.000Z",
+          "link": "https://www.youtube.com/watch?v=PpAlV57h5zY",
+          "publishedOn": "2023-09-12T00:42:51.000Z",
           "wordCount": null,
-          "title": "Fast Convex Optimization with GeNIOS.jl | Theo Diamandis | JuliaCon 2023",
+          "title": "Elimination and Factorization | Gil Strang | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=akveigT7F7M",
+          "id": "https://www.youtube.com/watch?v=Uwex6Alv4aA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=akveigT7F7M",
-          "publishedOn": "2023-09-11T21:01:25.000Z",
+          "link": "https://www.youtube.com/watch?v=Uwex6Alv4aA",
+          "publishedOn": "2023-09-12T00:41:18.000Z",
           "wordCount": null,
-          "title": "Constructing Optimal Optimization Methods using BnB-PEP | Shuvomoy Das Gupta | JuliaCon 2023",
+          "title": "Spotlight on Structure: from Matrix to Tensor Algebra for Approximation | Misha Kilmer | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=9IKXOnv3fAE",
+          "id": "https://www.youtube.com/watch?v=vcf9TVxnOWY",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=9IKXOnv3fAE",
-          "publishedOn": "2023-09-11T21:01:21.000Z",
+          "link": "https://www.youtube.com/watch?v=vcf9TVxnOWY",
+          "publishedOn": "2023-09-12T00:39:03.000Z",
           "wordCount": null,
-          "title": "Debugging JuMP optimization models using graph theory | Robert Parker | JuliaCon 2023",
+          "title": "Revisiting Grothendieck: Szemeredi Regularity, Random Submatrices | Roman Vershynin | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=6q76umkG-34",
+          "id": "https://www.youtube.com/watch?v=9t5wlyqbvmQ",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=6q76umkG-34",
-          "publishedOn": "2023-09-11T21:01:18.000Z",
+          "link": "https://www.youtube.com/watch?v=9t5wlyqbvmQ",
+          "publishedOn": "2023-09-12T00:37:21.000Z",
           "wordCount": null,
-          "title": "Improving nonlinear programming support in JUMP | Oscar Dowson | JuliaCon 2023",
+          "title": "Sparsity: Practice-to-Theory-to-Practice | Jeremy Kepner | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=NgO-1MTG9GQ",
+          "id": "https://www.youtube.com/watch?v=X2JEWdCFf70",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=NgO-1MTG9GQ",
-          "publishedOn": "2023-09-11T21:01:15.000Z",
+          "link": "https://www.youtube.com/watch?v=X2JEWdCFf70",
+          "publishedOn": "2023-09-12T00:36:05.000Z",
           "wordCount": null,
-          "title": "Computable General Equilibrium (CGE) Models in Julia JuMP | Mitch Phillipson | JuliaCon 2023",
+          "title": "Graphs, Matrices, and Programming: There and Back Again | John Gilbert | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=RGMJube0pQg",
+          "id": "https://www.youtube.com/watch?v=q4oWDobgDfI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=RGMJube0pQg",
-          "publishedOn": "2023-09-11T21:01:12.000Z",
+          "link": "https://www.youtube.com/watch?v=q4oWDobgDfI",
+          "publishedOn": "2023-09-12T00:34:05.000Z",
           "wordCount": null,
-          "title": "InfiniteOpt and DisjunctiveProgramming.jl | Joshua Pulsipher | JuliaCon 2023",
+          "title": "Modeling and Duality in Domain Specific Languages for Optimization | Juan Pablo Vielma | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=gPapX51j_KQ",
+          "id": "https://www.youtube.com/watch?v=nZZyTQqNqjI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=gPapX51j_KQ",
-          "publishedOn": "2023-09-11T21:01:07.000Z",
+          "link": "https://www.youtube.com/watch?v=nZZyTQqNqjI",
+          "publishedOn": "2023-09-12T00:32:25.000Z",
           "wordCount": null,
-          "title": "QUBO.jl: Quadratic Unconstrained Binary Optimization | Joaquim Dias Garcia | JuliaCon 2023",
+          "title": "Three Years of Computing with Alan",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=3xEsa9sveDM",
+          "id": "https://www.youtube.com/watch?v=YewjHMGdOHA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=3xEsa9sveDM",
-          "publishedOn": "2023-09-11T21:01:02.000Z",
+          "link": "https://www.youtube.com/watch?v=YewjHMGdOHA",
+          "publishedOn": "2023-09-12T00:29:52.000Z",
           "wordCount": null,
-          "title": "ConstraintLearning: Ever wanted to learn about constraints? | Jean-François BAFFIER | JuliaCon 2023",
+          "title": "Hidden Structures in Shape Optimization Problems | Justin Solomon | ASE60",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=99OmFVYvNAU",
+          "id": "https://www.youtube.com/watch?v=6W5l8YerAYo",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=99OmFVYvNAU",
-          "publishedOn": "2023-09-11T21:00:59.000Z",
+          "link": "https://www.youtube.com/watch?v=6W5l8YerAYo",
+          "publishedOn": "2023-09-12T00:13:51.000Z",
           "wordCount": null,
-          "title": "Predictive Uncertainty Quantification in Machine Learning | Patrick Altmeyer | JuliaCon 2023",
+          "title": "Eigenvalues and Condition Numbers of Random Quasimatrices | Nick Trefethen | ASE60",
           "imageUrl": null
         }
       ]
