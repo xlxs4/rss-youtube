@@ -223,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h-byhQKlocU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h-byhQKlocU",
+          "publishedOn": "2023-09-13T09:00:44.000Z",
+          "wordCount": null,
+          "title": "Waves on a planet with a fractal continent, 2D representation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lfJ6pn7UFfI",
           "author": null,
           "description": "",
@@ -360,16 +370,6 @@
           "publishedOn": "2023-08-31T09:00:10.000Z",
           "wordCount": null,
           "title": "Faraday waves in a vibrating elliptical container",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QEYI270iCdA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QEYI270iCdA",
-          "publishedOn": "2023-08-30T09:00:32.000Z",
-          "wordCount": null,
-          "title": "Waves with octahedral symmetry on the sphere",
           "imageUrl": null
         }
       ]
@@ -525,16 +525,6 @@
           "wordCount": null,
           "title": "The Reason Why Cancer is so Hard to Beat",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BNvL_uZhTsY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BNvL_uZhTsY",
-          "publishedOn": "2023-06-15T14:06:52.000Z",
-          "wordCount": null,
-          "title": "Why Does Humanity Exist NOW? #shorts #kurzgesagt",
-          "imageUrl": null
         }
       ]
     },
@@ -631,16 +621,6 @@
           "publishedOn": "2023-06-23T23:15:00.000Z",
           "wordCount": null,
           "title": "🤯🤯🤯 Integrating GPT-4 into Collimator.ai for Symbolic Modeling and Control** 🔥🔥🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oEXR9EnAtm4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oEXR9EnAtm4",
-          "publishedOn": "2023-06-16T10:00:44.000Z",
-          "wordCount": null,
-          "title": "New Book!!!  Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control",
           "imageUrl": null
         }
       ]
@@ -1151,6 +1131,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RnuHqkP4QTw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RnuHqkP4QTw",
+          "publishedOn": "2023-09-13T12:47:04.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 1 Intro",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pHRCwg8nDEA",
           "author": null,
