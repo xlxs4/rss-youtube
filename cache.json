@@ -223,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dejus2KhlwY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dejus2KhlwY",
+          "publishedOn": "2023-09-14T09:00:20.000Z",
+          "wordCount": null,
+          "title": "Waves with cubic symmetry on a sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h-byhQKlocU",
           "author": null,
           "description": "",
@@ -360,16 +370,6 @@
           "publishedOn": "2023-09-01T09:00:27.000Z",
           "wordCount": null,
           "title": "Simulation of a meteor impact in the South Pacific Ocean, viewpoint moving west",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8_mYChotnFU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8_mYChotnFU",
-          "publishedOn": "2023-08-31T09:00:10.000Z",
-          "wordCount": null,
-          "title": "Faraday waves in a vibrating elliptical container",
           "imageUrl": null
         }
       ]
@@ -1131,6 +1131,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ljrGtJPzlRk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ljrGtJPzlRk",
+          "publishedOn": "2023-09-14T14:42:18.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 2 Linear ARX models",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RnuHqkP4QTw",
           "author": null,

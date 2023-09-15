@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-14T00:04:13.662Z</id>
+    <id>urn:2023-09-15T00:04:15.331Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-14T00:04:13.662Z</updated>
+    <updated>2023-09-15T00:04:15.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[System identification with Julia: 2 Linear ARX models]]></title>
+        <id>https://www.youtube.com/watch?v=ljrGtJPzlRk</id>
+        <link href="https://www.youtube.com/watch?v=ljrGtJPzlRk"/>
+        <updated>2023-09-14T14:42:18.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves with cubic symmetry on a sphere]]></title>
+        <id>https://www.youtube.com/watch?v=dejus2KhlwY</id>
+        <link href="https://www.youtube.com/watch?v=dejus2KhlwY"/>
+        <updated>2023-09-14T09:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System identification with Julia: 1 Intro]]></title>
         <id>https://www.youtube.com/watch?v=RnuHqkP4QTw</id>
@@ -354,15 +372,6 @@
         <updated>2023-08-31T21:40:50.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faraday waves in a vibrating elliptical container]]></title>
-        <id>https://www.youtube.com/watch?v=8_mYChotnFU</id>
-        <link href="https://www.youtube.com/watch?v=8_mYChotnFU"/>
-        <updated>2023-08-31T09:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
