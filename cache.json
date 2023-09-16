@@ -51,18 +51,7 @@
       "title": "Primer",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
       "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=6YzrVUVO9M0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6YzrVUVO9M0",
-          "publishedOn": "2023-06-17T14:51:26.000Z",
-          "wordCount": null,
-          "title": "A Secret Weapon for Predicting Outcomes: The Binomial Distribution",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Reducible",
@@ -223,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DLs_xbOx81s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DLs_xbOx81s",
+          "publishedOn": "2023-09-15T09:00:06.000Z",
+          "wordCount": null,
+          "title": "A granular medium with two types of particles",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dejus2KhlwY",
           "author": null,
           "description": "",
@@ -360,16 +359,6 @@
           "publishedOn": "2023-09-02T09:00:18.000Z",
           "wordCount": null,
           "title": "A rotating triangle in a granular medium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OZU8B4dRdq0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OZU8B4dRdq0",
-          "publishedOn": "2023-09-01T09:00:27.000Z",
-          "wordCount": null,
-          "title": "Simulation of a meteor impact in the South Pacific Ocean, viewpoint moving west",
           "imageUrl": null
         }
       ]
@@ -811,6 +800,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WGN4Jv5sWQI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WGN4Jv5sWQI",
+          "publishedOn": "2023-09-15T23:55:11.000Z",
+          "wordCount": null,
+          "title": "Quantum to the Cosmos: A Brief Tour of Everything",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rRWIcpZqnXQ",
           "author": null,
           "description": "",
@@ -1131,6 +1130,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=l9oJKxKivW8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l9oJKxKivW8",
+          "publishedOn": "2023-09-15T12:55:00.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 3 Prediction vs. Simulation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ljrGtJPzlRk",
           "author": null,

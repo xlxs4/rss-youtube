@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-15T00:04:15.331Z</id>
+    <id>urn:2023-09-16T00:04:14.750Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-15T00:04:15.331Z</updated>
+    <updated>2023-09-16T00:04:14.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum to the Cosmos: A Brief Tour of Everything]]></title>
+        <id>https://www.youtube.com/watch?v=WGN4Jv5sWQI</id>
+        <link href="https://www.youtube.com/watch?v=WGN4Jv5sWQI"/>
+        <updated>2023-09-15T23:55:11.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System identification with Julia: 3 Prediction vs. Simulation]]></title>
+        <id>https://www.youtube.com/watch?v=l9oJKxKivW8</id>
+        <link href="https://www.youtube.com/watch?v=l9oJKxKivW8"/>
+        <updated>2023-09-15T12:55:00.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A granular medium with two types of particles]]></title>
+        <id>https://www.youtube.com/watch?v=DLs_xbOx81s</id>
+        <link href="https://www.youtube.com/watch?v=DLs_xbOx81s"/>
+        <updated>2023-09-15T09:00:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System identification with Julia: 2 Linear ARX models]]></title>
         <id>https://www.youtube.com/watch?v=ljrGtJPzlRk</id>
@@ -354,15 +381,6 @@
         <updated>2023-09-01T13:13:14.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulation of a meteor impact in the South Pacific Ocean, viewpoint moving west]]></title>
-        <id>https://www.youtube.com/watch?v=OZU8B4dRdq0</id>
-        <link href="https://www.youtube.com/watch?v=OZU8B4dRdq0"/>
-        <updated>2023-09-01T09:00:27.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -1020,15 +1038,6 @@
         <updated>2023-06-18T13:00:41.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Secret Weapon for Predicting Outcomes: The Binomial Distribution]]></title>
-        <id>https://www.youtube.com/watch?v=6YzrVUVO9M0</id>
-        <link href="https://www.youtube.com/watch?v=6YzrVUVO9M0"/>
-        <updated>2023-06-17T14:51:26.000Z</updated>
-        <author>
-            <name>Primer</name>
         </author>
     </entry>
 </feed>
