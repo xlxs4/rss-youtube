@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XXpHVG2udus",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XXpHVG2udus",
+          "publishedOn": "2023-09-16T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Simulation of an asteroid impact in the North Pacific Ocean, seen from a circular orbit",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DLs_xbOx81s",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2023-09-03T18:00:07.000Z",
           "wordCount": null,
           "title": "Tutorial: What is metastability? And what does Los Alamos have to do with it?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cUUKPMSZXDY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cUUKPMSZXDY",
-          "publishedOn": "2023-09-02T09:00:18.000Z",
-          "wordCount": null,
-          "title": "A rotating triangle in a granular medium",
           "imageUrl": null
         }
       ]
@@ -503,16 +503,6 @@
           "publishedOn": "2023-06-22T14:00:21.000Z",
           "wordCount": null,
           "title": "Let's Make Earth Twice as Large! #shorts #kurzgesagt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uoJwt9l-XhQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uoJwt9l-XhQ",
-          "publishedOn": "2023-06-18T13:00:41.000Z",
-          "wordCount": null,
-          "title": "The Reason Why Cancer is so Hard to Beat",
           "imageUrl": null
         }
       ]
@@ -1073,7 +1063,7 @@
           "link": "https://www.youtube.com/watch?v=nZZyTQqNqjI",
           "publishedOn": "2023-09-12T00:32:25.000Z",
           "wordCount": null,
-          "title": "Three Years of Computing with Alan",
+          "title": "Three Years of Computing with Alan | John Urschel | ASE60",
           "imageUrl": null
         },
         {
