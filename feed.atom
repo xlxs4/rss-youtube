@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-17T00:04:57.808Z</id>
+    <id>urn:2023-09-18T00:04:34.406Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-17T00:04:57.808Z</updated>
+    <updated>2023-09-18T00:04:34.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Introduction to bifurcation theory, part 1]]></title>
+        <id>https://www.youtube.com/watch?v=x3LxbftrLJM</id>
+        <link href="https://www.youtube.com/watch?v=x3LxbftrLJM"/>
+        <updated>2023-09-17T18:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simulation of an asteroid impact in the North Pacific Ocean, seen from a circular orbit]]></title>
         <id>https://www.youtube.com/watch?v=XXpHVG2udus</id>
@@ -267,6 +276,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tutorial: Introduction to bifurcation theory, part 2]]></title>
+        <id>https://www.youtube.com/watch?v=esuoC0P-Pu0</id>
+        <link href="https://www.youtube.com/watch?v=esuoC0P-Pu0"/>
+        <updated>2023-09-08T09:26:40.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Simulation of a meteor impact in the Atlantic Ocean, 2D representation]]></title>
         <id>https://www.youtube.com/watch?v=hE_JkbZOjyg</id>
         <link href="https://www.youtube.com/watch?v=hE_JkbZOjyg"/>
@@ -312,15 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tutorial: Introduction to bifurcation theory, part 1]]></title>
-        <id>https://www.youtube.com/watch?v=x3LxbftrLJM</id>
-        <link href="https://www.youtube.com/watch?v=x3LxbftrLJM"/>
-        <updated>2023-09-06T08:55:07.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improving Model Discovery with Imposed Structures in Scientific Machine Learning | ML4Science]]></title>
         <id>https://www.youtube.com/watch?v=5jat8moluUM</id>
         <link href="https://www.youtube.com/watch?v=5jat8moluUM"/>
@@ -343,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=twa8hiP4Cjc</id>
         <link href="https://www.youtube.com/watch?v=twa8hiP4Cjc"/>
         <updated>2023-09-04T09:00:39.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: What is metastability? And what does Los Alamos have to do with it?]]></title>
-        <id>https://www.youtube.com/watch?v=M6ta3hr0y0A</id>
-        <link href="https://www.youtube.com/watch?v=M6ta3hr0y0A"/>
-        <updated>2023-09-03T18:00:07.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>

@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x3LxbftrLJM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x3LxbftrLJM",
+          "publishedOn": "2023-09-17T18:00:10.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Introduction to bifurcation theory, part 1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XXpHVG2udus",
           "author": null,
           "description": "",
@@ -292,6 +302,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=esuoC0P-Pu0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=esuoC0P-Pu0",
+          "publishedOn": "2023-09-08T09:26:40.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Introduction to bifurcation theory, part 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hE_JkbZOjyg",
           "author": null,
           "description": "",
@@ -322,16 +342,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=x3LxbftrLJM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x3LxbftrLJM",
-          "publishedOn": "2023-09-06T08:55:07.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Introduction to bifurcation theory, part 1",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=jMMDf2nmEy8",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2023-09-04T09:00:39.000Z",
           "wordCount": null,
           "title": "Simulation of an asteroid impact in the South Pacific Ocean, viewpoint moving east",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M6ta3hr0y0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M6ta3hr0y0A",
-          "publishedOn": "2023-09-03T18:00:07.000Z",
-          "wordCount": null,
-          "title": "Tutorial: What is metastability? And what does Los Alamos have to do with it?",
           "imageUrl": null
         }
       ]
