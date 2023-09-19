@@ -81,7 +81,7 @@
           "link": "https://www.youtube.com/watch?v=QCX62YJCmGk",
           "publishedOn": "2023-09-01T13:13:14.000Z",
           "wordCount": null,
-          "title": "This demo tests your understanding of light | Barber pole, part 1",
+          "title": "This demo surprised me (a lot) | Barber pole, part 1",
           "imageUrl": null
         },
         {
@@ -101,7 +101,7 @@
           "link": "https://www.youtube.com/watch?v=YtkIWDE36qU",
           "publishedOn": "2023-07-02T04:41:01.000Z",
           "wordCount": null,
-          "title": "The absurd circle division pattern (updated) | Moser's circle problem",
+          "title": "This pattern breaks, but for a good reason | Moser's circle problem (updated)",
           "imageUrl": null
         },
         {
@@ -211,6 +211,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TujZw1AXpQQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TujZw1AXpQQ",
+          "publishedOn": "2023-09-18T09:00:14.000Z",
+          "wordCount": null,
+          "title": "Simulation of an asteroid impact in the North Pacific Ocean, 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=x3LxbftrLJM",
           "author": null,
@@ -349,16 +359,6 @@
           "publishedOn": "2023-09-05T09:00:35.000Z",
           "wordCount": null,
           "title": "A rotating triangle in a granular medium: kinetic energy and direction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=twa8hiP4Cjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=twa8hiP4Cjc",
-          "publishedOn": "2023-09-04T09:00:39.000Z",
-          "wordCount": null,
-          "title": "Simulation of an asteroid impact in the South Pacific Ocean, viewpoint moving east",
           "imageUrl": null
         }
       ]
@@ -1120,6 +1120,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LEZL7UjS2sY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LEZL7UjS2sY",
+          "publishedOn": "2023-09-18T12:03:55.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 4 Prediction-Error Method",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=l9oJKxKivW8",
           "author": null,
