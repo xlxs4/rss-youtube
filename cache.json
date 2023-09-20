@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NGCkRNC-RKI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NGCkRNC-RKI",
+          "publishedOn": "2023-09-19T09:00:14.000Z",
+          "wordCount": null,
+          "title": "A granular medium with two types of particles: mass ratio 20",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TujZw1AXpQQ",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2023-09-06T09:00:30.000Z",
           "wordCount": null,
           "title": "Waves on a planet with a fractal archipelago",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jMMDf2nmEy8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jMMDf2nmEy8",
-          "publishedOn": "2023-09-05T09:00:35.000Z",
-          "wordCount": null,
-          "title": "A rotating triangle in a granular medium: kinetic energy and direction",
           "imageUrl": null
         }
       ]
@@ -1121,6 +1121,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fP_ENSXURYA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fP_ENSXURYA",
+          "publishedOn": "2023-09-19T12:51:57.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 5 Prefiltering",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LEZL7UjS2sY",
           "author": null,
           "description": "",
@@ -1285,16 +1295,6 @@
           "publishedOn": "2023-07-19T17:19:01.000Z",
           "wordCount": null,
           "title": "From Silicon to Cells: Full-Adder Circuits in Biological Computing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MNzFcOaThIg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MNzFcOaThIg",
-          "publishedOn": "2023-06-21T15:32:04.000Z",
-          "wordCount": null,
-          "title": "Hacking Bacteria Programming Using Control Theory & Math",
           "imageUrl": null
         }
       ]
