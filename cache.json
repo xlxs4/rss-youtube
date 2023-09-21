@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
+          "publishedOn": "2023-09-20T15:06:42.000Z",
+          "wordCount": null,
+          "title": "How to Build a Telescope to See the Early Universe",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3l1RMiGeTfU",
           "author": null,
           "description": "",
@@ -71,7 +81,7 @@
           "link": "https://www.youtube.com/watch?v=aXRTczANuIs",
           "publishedOn": "2023-09-01T13:39:37.000Z",
           "wordCount": null,
-          "title": "The origin of light, scattering, and polarization | Barber pole, part 2",
+          "title": "But what is light? (Barber pole, part 2)",
           "imageUrl": null
         },
         {
@@ -101,7 +111,7 @@
           "link": "https://www.youtube.com/watch?v=YtkIWDE36qU",
           "publishedOn": "2023-07-02T04:41:01.000Z",
           "wordCount": null,
-          "title": "This pattern breaks, but for a good reason | Moser's circle problem (updated)",
+          "title": "This pattern breaks, but for a good reason | Moser's circle problem",
           "imageUrl": null
         },
         {
@@ -211,6 +221,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uogdaAaPZRc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uogdaAaPZRc",
+          "publishedOn": "2023-09-20T09:00:48.000Z",
+          "wordCount": null,
+          "title": "What will the Earth look like with rising sea levels?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NGCkRNC-RKI",
           "author": null,
@@ -350,16 +370,6 @@
           "wordCount": null,
           "title": "Faraday waves in an elliptical container vibrating at period 1",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PR0kGl76gNU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PR0kGl76gNU",
-          "publishedOn": "2023-09-06T09:00:30.000Z",
-          "wordCount": null,
-          "title": "Waves on a planet with a fractal archipelago",
-          "imageUrl": null
         }
       ]
     },
@@ -493,16 +503,6 @@
           "publishedOn": "2023-06-29T14:00:31.000Z",
           "wordCount": null,
           "title": "Are Your Friends More Popular than You? #shorts #kurzgesagt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XFM4tCakAXY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XFM4tCakAXY",
-          "publishedOn": "2023-06-22T14:00:21.000Z",
-          "wordCount": null,
-          "title": "Let's Make Earth Twice as Large! #shorts #kurzgesagt",
           "imageUrl": null
         }
       ]
@@ -1121,6 +1121,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QMO8cDpjw5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QMO8cDpjw5U",
+          "publishedOn": "2023-09-20T12:46:04.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 6 Experiments and excitation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fP_ENSXURYA",
           "author": null,
           "description": "",
@@ -1258,16 +1268,6 @@
           "publishedOn": "2023-07-17T09:45:01.000Z",
           "wordCount": null,
           "title": "Part 1: Control of rotary pendulum using Julia: Getting to know the system",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xv1BFNSyTCA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xv1BFNSyTCA",
-          "publishedOn": "2023-06-26T16:30:28.000Z",
-          "wordCount": null,
-          "title": "Using Julia for Control Systems, Fredrik Bagge Carlson",
           "imageUrl": null
         }
       ]
