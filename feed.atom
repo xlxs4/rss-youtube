@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-21T00:04:12.409Z</id>
+    <id>urn:2023-09-22T00:04:29.795Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-21T00:04:12.409Z</updated>
+    <updated>2023-09-22T00:04:29.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[System identification with Julia: 7 Validation]]></title>
+        <id>https://www.youtube.com/watch?v=MhTgXMn0bbo</id>
+        <link href="https://www.youtube.com/watch?v=MhTgXMn0bbo"/>
+        <updated>2023-09-21T12:24:44.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves with icosahedral symmetry on the sphere: 2D representation]]></title>
+        <id>https://www.youtube.com/watch?v=k8xEj1-_x7I</id>
+        <link href="https://www.youtube.com/watch?v=k8xEj1-_x7I"/>
+        <updated>2023-09-21T09:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Telescope to See the Early Universe]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
@@ -363,15 +381,6 @@
         <updated>2023-09-07T17:51:13.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faraday waves in an elliptical container vibrating at period 1]]></title>
-        <id>https://www.youtube.com/watch?v=Cm4fVop8kbA</id>
-        <link href="https://www.youtube.com/watch?v=Cm4fVop8kbA"/>
-        <updated>2023-09-07T09:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -789,15 +798,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Part 1: Control of rotary pendulum using Julia: Getting to know the system]]></title>
-        <id>https://www.youtube.com/watch?v=HHyrkNHGL-U</id>
-        <link href="https://www.youtube.com/watch?v=HHyrkNHGL-U"/>
-        <updated>2023-07-17T09:45:01.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Until the End of Time: Mind, Matter and Meaning]]></title>
         <id>https://www.youtube.com/watch?v=xlyYipjw560</id>
         <link href="https://www.youtube.com/watch?v=xlyYipjw560"/>
@@ -1020,24 +1020,6 @@
         <updated>2023-06-27T14:00:28.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤯🤯🤯 Integrating GPT-4 into Collimator.ai for Symbolic Modeling and Control** 🔥🔥🔥]]></title>
-        <id>https://www.youtube.com/watch?v=IPQaJbWlUAo</id>
-        <link href="https://www.youtube.com/watch?v=IPQaJbWlUAo"/>
-        <updated>2023-06-23T23:15:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory: The Hidden Pathways That Make Us Human]]></title>
-        <id>https://www.youtube.com/watch?v=VzxI8Xjx1iw</id>
-        <link href="https://www.youtube.com/watch?v=VzxI8Xjx1iw"/>
-        <updated>2023-06-23T22:00:09.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
