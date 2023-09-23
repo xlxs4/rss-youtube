@@ -101,7 +101,7 @@
           "link": "https://www.youtube.com/watch?v=d_qvLDhkg00",
           "publishedOn": "2023-07-11T15:53:09.000Z",
           "wordCount": null,
-          "title": "Why is the \"central limit\" a normal distribution?",
+          "title": "How the symmetry of normal distributions relates to the central limit theorem",
           "imageUrl": null
         },
         {
@@ -221,6 +221,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pUbSUynnoEg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pUbSUynnoEg",
+          "publishedOn": "2023-09-22T09:00:43.000Z",
+          "wordCount": null,
+          "title": "Trying to sort particles by mass in a granular medium flowing around a wedge",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=k8xEj1-_x7I",
           "author": null,
@@ -359,16 +369,6 @@
           "publishedOn": "2023-09-08T09:26:40.000Z",
           "wordCount": null,
           "title": "Tutorial: Introduction to bifurcation theory, part 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hE_JkbZOjyg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hE_JkbZOjyg",
-          "publishedOn": "2023-09-08T09:00:27.000Z",
-          "wordCount": null,
-          "title": "Simulation of a meteor impact in the Atlantic Ocean, 2D representation",
           "imageUrl": null
         }
       ]
@@ -1101,6 +1101,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GKl8Tz9n2gs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GKl8Tz9n2gs",
+          "publishedOn": "2023-09-22T14:37:28.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 9 Parameter calibration for nonlinear ODEs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4fzElP1xeAw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4fzElP1xeAw",
+          "publishedOn": "2023-09-22T08:07:51.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 8 Subspace-based identification",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MhTgXMn0bbo",
           "author": null,
           "description": "",
@@ -1228,26 +1248,6 @@
           "publishedOn": "2023-07-20T04:48:12.000Z",
           "wordCount": null,
           "title": "Part 4: Control of rotary pendulum using Julia: Chirp system identification",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a7dLamjTbic",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a7dLamjTbic",
-          "publishedOn": "2023-07-19T04:39:38.000Z",
-          "wordCount": null,
-          "title": "Part 3: Control of rotary pendulum using Julia: Friction estimation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w9powTOKQs8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w9powTOKQs8",
-          "publishedOn": "2023-07-18T06:52:15.000Z",
-          "wordCount": null,
-          "title": "Part 2: Control of rotary pendulum using Julia: Interfacing the device",
           "imageUrl": null
         }
       ]

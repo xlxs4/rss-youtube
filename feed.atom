@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T00:04:29.795Z</id>
+    <id>urn:2023-09-23T00:04:16.426Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-22T00:04:29.795Z</updated>
+    <updated>2023-09-23T00:04:16.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[System identification with Julia: 9 Parameter calibration for nonlinear ODEs]]></title>
+        <id>https://www.youtube.com/watch?v=GKl8Tz9n2gs</id>
+        <link href="https://www.youtube.com/watch?v=GKl8Tz9n2gs"/>
+        <updated>2023-09-22T14:37:28.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to sort particles by mass in a granular medium flowing around a wedge]]></title>
+        <id>https://www.youtube.com/watch?v=pUbSUynnoEg</id>
+        <link href="https://www.youtube.com/watch?v=pUbSUynnoEg"/>
+        <updated>2023-09-22T09:00:43.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System identification with Julia: 8 Subspace-based identification]]></title>
+        <id>https://www.youtube.com/watch?v=4fzElP1xeAw</id>
+        <link href="https://www.youtube.com/watch?v=4fzElP1xeAw"/>
+        <updated>2023-09-22T08:07:51.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System identification with Julia: 7 Validation]]></title>
         <id>https://www.youtube.com/watch?v=MhTgXMn0bbo</id>
@@ -361,15 +388,6 @@
         <id>https://www.youtube.com/watch?v=esuoC0P-Pu0</id>
         <link href="https://www.youtube.com/watch?v=esuoC0P-Pu0"/>
         <updated>2023-09-08T09:26:40.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulation of a meteor impact in the Atlantic Ocean, 2D representation]]></title>
-        <id>https://www.youtube.com/watch?v=hE_JkbZOjyg</id>
-        <link href="https://www.youtube.com/watch?v=hE_JkbZOjyg"/>
-        <updated>2023-09-08T09:00:27.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -780,24 +798,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Part 3: Control of rotary pendulum using Julia: Friction estimation]]></title>
-        <id>https://www.youtube.com/watch?v=a7dLamjTbic</id>
-        <link href="https://www.youtube.com/watch?v=a7dLamjTbic"/>
-        <updated>2023-07-19T04:39:38.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 2: Control of rotary pendulum using Julia: Interfacing the device]]></title>
-        <id>https://www.youtube.com/watch?v=w9powTOKQs8</id>
-        <link href="https://www.youtube.com/watch?v=w9powTOKQs8"/>
-        <updated>2023-07-18T06:52:15.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Until the End of Time: Mind, Matter and Meaning]]></title>
         <id>https://www.youtube.com/watch?v=xlyYipjw560</id>
         <link href="https://www.youtube.com/watch?v=xlyYipjw560"/>
@@ -816,7 +816,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why is the "central limit" a normal distribution?]]></title>
+        <title type="html"><![CDATA[How the symmetry of normal distributions relates to the central limit theorem]]></title>
         <id>https://www.youtube.com/watch?v=d_qvLDhkg00</id>
         <link href="https://www.youtube.com/watch?v=d_qvLDhkg00"/>
         <updated>2023-07-11T15:53:09.000Z</updated>
