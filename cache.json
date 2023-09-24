@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DRsKobzGCVk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DRsKobzGCVk",
+          "publishedOn": "2023-09-23T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Simulation of an asteroid impact in the Indian Ocean, seen from a circular orbit",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pUbSUynnoEg",
           "author": null,
           "description": "",
@@ -359,16 +369,6 @@
           "publishedOn": "2023-09-09T09:00:07.000Z",
           "wordCount": null,
           "title": "A blender in a granular medium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=esuoC0P-Pu0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=esuoC0P-Pu0",
-          "publishedOn": "2023-09-08T09:26:40.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Introduction to bifurcation theory, part 2",
           "imageUrl": null
         }
       ]
@@ -1101,6 +1101,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zJcOPPLqv4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zJcOPPLqv4A",
+          "publishedOn": "2023-09-23T06:32:10.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 10 Time-varying parameters",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GKl8Tz9n2gs",
           "author": null,
           "description": "",
@@ -1238,16 +1248,6 @@
           "publishedOn": "2023-07-21T03:45:44.000Z",
           "wordCount": null,
           "title": "Part 5: Control of rotary pendulum using Julia: Estimating parameters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HSx28O956kA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HSx28O956kA",
-          "publishedOn": "2023-07-20T04:48:12.000Z",
-          "wordCount": null,
-          "title": "Part 4: Control of rotary pendulum using Julia: Chirp system identification",
           "imageUrl": null
         }
       ]
