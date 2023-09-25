@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=esuoC0P-Pu0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=esuoC0P-Pu0",
+          "publishedOn": "2023-09-24T18:00:10.000Z",
+          "wordCount": null,
+          "title": "Tutorial: Introduction to bifurcation theory, part 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DRsKobzGCVk",
           "author": null,
           "description": "",
@@ -359,16 +369,6 @@
           "publishedOn": "2023-09-10T18:00:11.000Z",
           "wordCount": null,
           "title": "Tutorial: How to use my code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BJuz4rE36xc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BJuz4rE36xc",
-          "publishedOn": "2023-09-09T09:00:07.000Z",
-          "wordCount": null,
-          "title": "A blender in a granular medium",
           "imageUrl": null
         }
       ]
