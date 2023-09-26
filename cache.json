@@ -123,16 +123,6 @@
           "wordCount": null,
           "title": "How They Fool Ya (live) | Math parody of Hallelujah",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IaSGqQa5O-M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IaSGqQa5O-M",
-          "publishedOn": "2023-06-27T15:08:14.000Z",
-          "wordCount": null,
-          "title": "Convolutions | Why X+Y in probability is a beautiful mess",
-          "imageUrl": null
         }
       ]
     },
@@ -180,16 +170,6 @@
           "wordCount": null,
           "title": "How many terms do we need in the exp series?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
-          "publishedOn": "2023-06-27T14:00:28.000Z",
-          "wordCount": null,
-          "title": "Queuing theory and Poisson process",
-          "imageUrl": null
         }
       ]
     },
@@ -221,6 +201,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lZIcnWdkltU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lZIcnWdkltU",
+          "publishedOn": "2023-09-25T09:00:26.000Z",
+          "wordCount": null,
+          "title": "Simulation of an asteroid impact in the Indian Ocean, 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=esuoC0P-Pu0",
           "author": null,
@@ -359,16 +349,6 @@
           "publishedOn": "2023-09-11T09:00:13.000Z",
           "wordCount": null,
           "title": "Simulation of an asteroid impact in the South Pacific Ocean, 2D representation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3zmjRFMHgTo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3zmjRFMHgTo",
-          "publishedOn": "2023-09-10T18:00:11.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How to use my code",
           "imageUrl": null
         }
       ]
