@@ -113,16 +113,6 @@
           "wordCount": null,
           "title": "This pattern breaks, but for a good reason | Moser's circle problem",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NOCsdhzo6Jg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NOCsdhzo6Jg",
-          "publishedOn": "2023-06-28T19:17:11.000Z",
-          "wordCount": null,
-          "title": "How They Fool Ya (live) | Math parody of Hallelujah",
-          "imageUrl": null
         }
       ]
     },
@@ -201,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ak5SMbgzj3Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ak5SMbgzj3Y",
+          "publishedOn": "2023-09-26T09:00:03.000Z",
+          "wordCount": null,
+          "title": "Does an airfoil in a granular medium experience lift?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lZIcnWdkltU",
           "author": null,
@@ -339,16 +339,6 @@
           "publishedOn": "2023-09-12T09:00:27.000Z",
           "wordCount": null,
           "title": "Dislocation dynamics around a blender in a granular medium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G4kA-if7LQY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G4kA-if7LQY",
-          "publishedOn": "2023-09-11T09:00:13.000Z",
-          "wordCount": null,
-          "title": "Simulation of an asteroid impact in the South Pacific Ocean, 2D representation",
           "imageUrl": null
         }
       ]
