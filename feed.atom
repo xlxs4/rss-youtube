@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-27T00:04:20.160Z</id>
+    <id>urn:2023-09-28T00:04:23.937Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-27T00:04:20.160Z</updated>
+    <updated>2023-09-28T00:04:23.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Waves with dodecahedral symmetry on the sphere, 2D representation]]></title>
+        <id>https://www.youtube.com/watch?v=EotTpbkfn1s</id>
+        <link href="https://www.youtube.com/watch?v=EotTpbkfn1s"/>
+        <updated>2023-09-27T09:00:17.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does an airfoil in a granular medium experience lift?]]></title>
         <id>https://www.youtube.com/watch?v=ak5SMbgzj3Y</id>
@@ -273,15 +282,6 @@
         <updated>2023-09-12T14:00:06.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dislocation dynamics around a blender in a granular medium]]></title>
-        <id>https://www.youtube.com/watch?v=lfJ6pn7UFfI</id>
-        <link href="https://www.youtube.com/watch?v=lfJ6pn7UFfI"/>
-        <updated>2023-09-12T09:00:27.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -816,7 +816,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the symmetry of normal distributions relates to the central limit theorem]]></title>
+        <title type="html"><![CDATA[A pretty reason why Gaussian + Gaussian = Gaussian]]></title>
         <id>https://www.youtube.com/watch?v=d_qvLDhkg00</id>
         <link href="https://www.youtube.com/watch?v=d_qvLDhkg00"/>
         <updated>2023-07-11T15:53:09.000Z</updated>
@@ -912,87 +912,6 @@
         <updated>2023-06-30T22:00:11.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[5/8] Control for Societal-Scale Challenges: Road Map 2030 [Technology, Validation, and Transition]]]></title>
-        <id>https://www.youtube.com/watch?v=xSZb2UmpzO8</id>
-        <link href="https://www.youtube.com/watch?v=xSZb2UmpzO8"/>
-        <updated>2023-06-30T10:00:52.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[8/8] Control for Societal-Scale Challenges: Road Map 2030 [Recommendations]]]></title>
-        <id>https://www.youtube.com/watch?v=w5UrYC_OPIk</id>
-        <link href="https://www.youtube.com/watch?v=w5UrYC_OPIk"/>
-        <updated>2023-06-30T10:00:49.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2/8] Control for Societal-Scale Challenges: Road Map 2030 [Societal Drivers]]]></title>
-        <id>https://www.youtube.com/watch?v=vrIqsWIJR20</id>
-        <link href="https://www.youtube.com/watch?v=vrIqsWIJR20"/>
-        <updated>2023-06-30T10:00:46.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[1/8] Control for Societal-Scale Challenges: Road Map 2030 [Introduction]]]></title>
-        <id>https://www.youtube.com/watch?v=btWyzKmU9wM</id>
-        <link href="https://www.youtube.com/watch?v=btWyzKmU9wM"/>
-        <updated>2023-06-30T10:00:35.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[6/8] Control for Societal-Scale Challenges: Road Map 2030 [Education]]]></title>
-        <id>https://www.youtube.com/watch?v=VuAFZPwygyE</id>
-        <link href="https://www.youtube.com/watch?v=VuAFZPwygyE"/>
-        <updated>2023-06-30T10:00:31.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[3/8] Control for Societal-Scale Challenges: Road Map 2030 [Technological Trends]]]></title>
-        <id>https://www.youtube.com/watch?v=IEjVHdiWOPM</id>
-        <link href="https://www.youtube.com/watch?v=IEjVHdiWOPM"/>
-        <updated>2023-06-30T10:00:12.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4/8] Control for Societal-Scale Challenges: Road Map 2030 [Emerging Methodologies]]]></title>
-        <id>https://www.youtube.com/watch?v=0eeRKZt8n4I</id>
-        <link href="https://www.youtube.com/watch?v=0eeRKZt8n4I"/>
-        <updated>2023-06-30T10:00:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[7/8] Control for Societal-Scale Challenges: Road Map 2030 [Ethics, Fairness, & Regulatory Issues]]]></title>
-        <id>https://www.youtube.com/watch?v=aOiAsphMsCI</id>
-        <link href="https://www.youtube.com/watch?v=aOiAsphMsCI"/>
-        <updated>2023-06-30T10:00:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Your Friends More Popular than You? #shorts #kurzgesagt]]></title>
-        <id>https://www.youtube.com/watch?v=_arb8Fu3LXo</id>
-        <link href="https://www.youtube.com/watch?v=_arb8Fu3LXo"/>
-        <updated>2023-06-29T14:00:31.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>

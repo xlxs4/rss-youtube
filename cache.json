@@ -101,7 +101,7 @@
           "link": "https://www.youtube.com/watch?v=d_qvLDhkg00",
           "publishedOn": "2023-07-11T15:53:09.000Z",
           "wordCount": null,
-          "title": "How the symmetry of normal distributions relates to the central limit theorem",
+          "title": "A pretty reason why Gaussian + Gaussian = Gaussian",
           "imageUrl": null
         },
         {
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EotTpbkfn1s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EotTpbkfn1s",
+          "publishedOn": "2023-09-27T09:00:17.000Z",
+          "wordCount": null,
+          "title": "Waves with dodecahedral symmetry on the sphere, 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ak5SMbgzj3Y",
           "author": null,
@@ -330,16 +340,6 @@
           "wordCount": null,
           "title": "Waves on a planet with a fractal continent, 2D representation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lfJ6pn7UFfI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lfJ6pn7UFfI",
-          "publishedOn": "2023-09-12T09:00:27.000Z",
-          "wordCount": null,
-          "title": "Dislocation dynamics around a blender in a granular medium",
-          "imageUrl": null
         }
       ]
     },
@@ -464,16 +464,6 @@
           "wordCount": null,
           "title": "The Next Atomic Bomb Is Made of DNA #kurzgesagt #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_arb8Fu3LXo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_arb8Fu3LXo",
-          "publishedOn": "2023-06-29T14:00:31.000Z",
-          "wordCount": null,
-          "title": "Are Your Friends More Popular than You? #shorts #kurzgesagt",
-          "imageUrl": null
         }
       ]
     },
@@ -481,88 +471,7 @@
       "title": "Steve Brunton",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=xSZb2UmpzO8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xSZb2UmpzO8",
-          "publishedOn": "2023-06-30T10:00:52.000Z",
-          "wordCount": null,
-          "title": "[5/8] Control for Societal-Scale Challenges: Road Map 2030 [Technology, Validation, and Transition]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w5UrYC_OPIk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w5UrYC_OPIk",
-          "publishedOn": "2023-06-30T10:00:49.000Z",
-          "wordCount": null,
-          "title": "[8/8] Control for Societal-Scale Challenges: Road Map 2030 [Recommendations]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vrIqsWIJR20",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vrIqsWIJR20",
-          "publishedOn": "2023-06-30T10:00:46.000Z",
-          "wordCount": null,
-          "title": "[2/8] Control for Societal-Scale Challenges: Road Map 2030 [Societal Drivers]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=btWyzKmU9wM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=btWyzKmU9wM",
-          "publishedOn": "2023-06-30T10:00:35.000Z",
-          "wordCount": null,
-          "title": "[1/8] Control for Societal-Scale Challenges: Road Map 2030 [Introduction]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VuAFZPwygyE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VuAFZPwygyE",
-          "publishedOn": "2023-06-30T10:00:31.000Z",
-          "wordCount": null,
-          "title": "[6/8] Control for Societal-Scale Challenges: Road Map 2030 [Education]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IEjVHdiWOPM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IEjVHdiWOPM",
-          "publishedOn": "2023-06-30T10:00:12.000Z",
-          "wordCount": null,
-          "title": "[3/8] Control for Societal-Scale Challenges: Road Map 2030 [Technological Trends]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0eeRKZt8n4I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0eeRKZt8n4I",
-          "publishedOn": "2023-06-30T10:00:01.000Z",
-          "wordCount": null,
-          "title": "[4/8] Control for Societal-Scale Challenges: Road Map 2030 [Emerging Methodologies]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aOiAsphMsCI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aOiAsphMsCI",
-          "publishedOn": "2023-06-30T10:00:01.000Z",
-          "wordCount": null,
-          "title": "[7/8] Control for Societal-Scale Challenges: Road Map 2030 [Ethics, Fairness, & Regulatory Issues]",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Nemean",
