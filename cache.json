@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Build a Telescope to See the Early Universe",
+          "title": "How to Time Travel To The Earliest Universe",
           "imageUrl": null
         },
         {
@@ -81,7 +81,7 @@
           "link": "https://www.youtube.com/watch?v=aXRTczANuIs",
           "publishedOn": "2023-09-01T13:39:37.000Z",
           "wordCount": null,
-          "title": "But what is light? (Barber pole, part 2)",
+          "title": "But what is light? | Barber pole, part 2",
           "imageUrl": null
         },
         {
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=X5PGgtlCxqg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X5PGgtlCxqg",
+          "publishedOn": "2023-09-28T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Lift and drag on a rotating airfoil in a granular medium",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EotTpbkfn1s",
           "author": null,
@@ -329,16 +339,6 @@
           "publishedOn": "2023-09-14T09:00:20.000Z",
           "wordCount": null,
           "title": "Waves with cubic symmetry on a sphere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h-byhQKlocU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h-byhQKlocU",
-          "publishedOn": "2023-09-13T09:00:44.000Z",
-          "wordCount": null,
-          "title": "Waves on a planet with a fractal continent, 2D representation",
           "imageUrl": null
         }
       ]
@@ -717,16 +717,6 @@
           "wordCount": null,
           "title": "Revealing the Cosmos: A Startling New View from the James Webb Space Telescope",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cm8OHGvl4Oc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cm8OHGvl4Oc",
-          "publishedOn": "2023-06-30T22:00:11.000Z",
-          "wordCount": null,
-          "title": "The New Golden Age of Space Exploration",
-          "imageUrl": null
         }
       ]
     },
@@ -795,6 +785,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GKKpB07GHmU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GKKpB07GHmU",
+          "publishedOn": "2023-09-28T04:11:59.000Z",
+          "wordCount": null,
+          "title": "Running Julia Code Baremetal on an Arduino | Valentin Bogad | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zkAwQ_PIniY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zkAwQ_PIniY",
+          "publishedOn": "2023-09-28T03:58:00.000Z",
+          "wordCount": null,
+          "title": "The State of JuMP | Miles Lubin | JuliaCon 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yreW94n98eM",
           "author": null,
@@ -923,26 +933,6 @@
           "publishedOn": "2023-09-12T00:32:25.000Z",
           "wordCount": null,
           "title": "Three Years of Computing with Alan | John Urschel | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YewjHMGdOHA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YewjHMGdOHA",
-          "publishedOn": "2023-09-12T00:29:52.000Z",
-          "wordCount": null,
-          "title": "Hidden Structures in Shape Optimization Problems | Justin Solomon | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6W5l8YerAYo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6W5l8YerAYo",
-          "publishedOn": "2023-09-12T00:13:51.000Z",
-          "wordCount": null,
-          "title": "Eigenvalues and Condition Numbers of Random Quasimatrices | Nick Trefethen | ASE60",
           "imageUrl": null
         }
       ]

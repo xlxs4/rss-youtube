@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-28T00:04:23.937Z</id>
+    <id>urn:2023-09-29T00:04:25.073Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-28T00:04:23.937Z</updated>
+    <updated>2023-09-29T00:04:25.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lift and drag on a rotating airfoil in a granular medium]]></title>
+        <id>https://www.youtube.com/watch?v=X5PGgtlCxqg</id>
+        <link href="https://www.youtube.com/watch?v=X5PGgtlCxqg"/>
+        <updated>2023-09-28T09:00:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Julia Code Baremetal on an Arduino | Valentin Bogad | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=GKKpB07GHmU</id>
+        <link href="https://www.youtube.com/watch?v=GKKpB07GHmU"/>
+        <updated>2023-09-28T04:11:59.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State of JuMP | Miles Lubin | JuliaCon 2023]]></title>
+        <id>https://www.youtube.com/watch?v=zkAwQ_PIniY</id>
+        <link href="https://www.youtube.com/watch?v=zkAwQ_PIniY"/>
+        <updated>2023-09-28T03:58:00.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waves with dodecahedral symmetry on the sphere, 2D representation]]></title>
         <id>https://www.youtube.com/watch?v=EotTpbkfn1s</id>
@@ -105,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Telescope to See the Early Universe]]></title>
+        <title type="html"><![CDATA[How to Time Travel To The Earliest Universe]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
@@ -240,15 +267,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waves on a planet with a fractal continent, 2D representation]]></title>
-        <id>https://www.youtube.com/watch?v=h-byhQKlocU</id>
-        <link href="https://www.youtube.com/watch?v=h-byhQKlocU"/>
-        <updated>2023-09-13T09:00:44.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Catalyst.jl, Modeling Chemical Reaction Networks | Torkel Loman | JuliaCon 2023]]></title>
         <id>https://www.youtube.com/watch?v=yreW94n98eM</id>
         <link href="https://www.youtube.com/watch?v=yreW94n98eM"/>
@@ -375,24 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hidden Structures in Shape Optimization Problems | Justin Solomon | ASE60]]></title>
-        <id>https://www.youtube.com/watch?v=YewjHMGdOHA</id>
-        <link href="https://www.youtube.com/watch?v=YewjHMGdOHA"/>
-        <updated>2023-09-12T00:29:52.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eigenvalues and Condition Numbers of Random Quasimatrices | Nick Trefethen | ASE60]]></title>
-        <id>https://www.youtube.com/watch?v=6W5l8YerAYo</id>
-        <link href="https://www.youtube.com/watch?v=6W5l8YerAYo"/>
-        <updated>2023-09-12T00:13:51.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMR-VDL 1 : Victor Kac : Exceptional de Rham Complexes]]></title>
         <id>https://www.youtube.com/watch?v=ekUX8HTL1JI</id>
         <link href="https://www.youtube.com/watch?v=ekUX8HTL1JI"/>
@@ -438,7 +438,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[But what is light? (Barber pole, part 2)]]></title>
+        <title type="html"><![CDATA[But what is light? | Barber pole, part 2]]></title>
         <id>https://www.youtube.com/watch?v=aXRTczANuIs</id>
         <link href="https://www.youtube.com/watch?v=aXRTczANuIs"/>
         <updated>2023-09-01T13:39:37.000Z</updated>
@@ -903,15 +903,6 @@
         <updated>2023-07-02T04:41:01.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Golden Age of Space Exploration]]></title>
-        <id>https://www.youtube.com/watch?v=cm8OHGvl4Oc</id>
-        <link href="https://www.youtube.com/watch?v=cm8OHGvl4Oc"/>
-        <updated>2023-06-30T22:00:11.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
