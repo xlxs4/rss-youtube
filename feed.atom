@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-29T00:04:25.073Z</id>
+    <id>urn:2023-09-30T00:04:14.797Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-09-29T00:04:25.073Z</updated>
+    <updated>2023-09-30T00:04:14.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Lift and drag on a rotating airfoil in a granular medium]]></title>
+        <title type="html"><![CDATA[How can an earthquake in Japan cause a tsunami in Chile?]]></title>
+        <id>https://www.youtube.com/watch?v=R0mDB21XFVU</id>
+        <link href="https://www.youtube.com/watch?v=R0mDB21XFVU"/>
+        <updated>2023-09-29T09:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lift and drag vs angle of attack for an airfoil in a granular medium]]></title>
         <id>https://www.youtube.com/watch?v=X5PGgtlCxqg</id>
         <link href="https://www.youtube.com/watch?v=X5PGgtlCxqg"/>
         <updated>2023-09-28T09:00:30.000Z</updated>
@@ -249,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waves with cubic symmetry on a sphere]]></title>
-        <id>https://www.youtube.com/watch?v=dejus2KhlwY</id>
-        <link href="https://www.youtube.com/watch?v=dejus2KhlwY"/>
-        <updated>2023-09-14T09:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[System identification with Julia: 1 Intro]]></title>
         <id>https://www.youtube.com/watch?v=RnuHqkP4QTw</id>
         <link href="https://www.youtube.com/watch?v=RnuHqkP4QTw"/>
@@ -294,7 +294,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You're a Dream of the Universe (According to Science)]]></title>
+        <title type="html"><![CDATA[We Did The Math - You Are Dead!]]></title>
         <id>https://www.youtube.com/watch?v=4Stzj2_Rlo4</id>
         <link href="https://www.youtube.com/watch?v=4Stzj2_Rlo4"/>
         <updated>2023-09-12T14:00:06.000Z</updated>
@@ -894,15 +894,6 @@
         <updated>2023-07-02T13:00:05.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This pattern breaks, but for a good reason | Moser's circle problem]]></title>
-        <id>https://www.youtube.com/watch?v=YtkIWDE36qU</id>
-        <link href="https://www.youtube.com/watch?v=YtkIWDE36qU"/>
-        <updated>2023-07-02T04:41:01.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>

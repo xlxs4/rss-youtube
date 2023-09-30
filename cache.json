@@ -103,16 +103,6 @@
           "wordCount": null,
           "title": "A pretty reason why Gaussian + Gaussian = Gaussian",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YtkIWDE36qU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YtkIWDE36qU",
-          "publishedOn": "2023-07-02T04:41:01.000Z",
-          "wordCount": null,
-          "title": "This pattern breaks, but for a good reason | Moser's circle problem",
-          "imageUrl": null
         }
       ]
     },
@@ -192,13 +182,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R0mDB21XFVU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R0mDB21XFVU",
+          "publishedOn": "2023-09-29T09:00:31.000Z",
+          "wordCount": null,
+          "title": "How can an earthquake in Japan cause a tsunami in Chile?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X5PGgtlCxqg",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=X5PGgtlCxqg",
           "publishedOn": "2023-09-28T09:00:30.000Z",
           "wordCount": null,
-          "title": "Lift and drag on a rotating airfoil in a granular medium",
+          "title": "Lift and drag vs angle of attack for an airfoil in a granular medium",
           "imageUrl": null
         },
         {
@@ -330,16 +330,6 @@
           "wordCount": null,
           "title": "A granular medium with two types of particles",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dejus2KhlwY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dejus2KhlwY",
-          "publishedOn": "2023-09-14T09:00:20.000Z",
-          "wordCount": null,
-          "title": "Waves with cubic symmetry on a sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -372,7 +362,7 @@
           "link": "https://www.youtube.com/watch?v=4Stzj2_Rlo4",
           "publishedOn": "2023-09-12T14:00:06.000Z",
           "wordCount": null,
-          "title": "You're a Dream of the Universe (According to Science)",
+          "title": "We Did The Math - You Are Dead!",
           "imageUrl": null
         },
         {
