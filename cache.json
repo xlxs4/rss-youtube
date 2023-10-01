@@ -81,7 +81,7 @@
           "link": "https://www.youtube.com/watch?v=aXRTczANuIs",
           "publishedOn": "2023-09-01T13:39:37.000Z",
           "wordCount": null,
-          "title": "But what is light? | Barber pole, part 2",
+          "title": "This equation explains (nearly) all of optics | Barber pole, part 2",
           "imageUrl": null
         },
         {
@@ -181,6 +181,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7ZrPqggJSWM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7ZrPqggJSWM",
+          "publishedOn": "2023-09-30T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Waves on a planet with a fractal archipelago, 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=R0mDB21XFVU",
           "author": null,
@@ -320,16 +330,6 @@
           "wordCount": null,
           "title": "Simulation of an asteroid impact in the North Pacific Ocean, seen from a circular orbit",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DLs_xbOx81s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DLs_xbOx81s",
-          "publishedOn": "2023-09-15T09:00:06.000Z",
-          "wordCount": null,
-          "title": "A granular medium with two types of particles",
-          "imageUrl": null
         }
       ]
     },
@@ -433,26 +433,6 @@
           "publishedOn": "2023-07-06T14:00:12.000Z",
           "wordCount": null,
           "title": "Earth's Hidden Gem: The Astonishing Diversity of Fauna and Flora #shorts #kurzgesagt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9FppammO1zk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9FppammO1zk",
-          "publishedOn": "2023-07-02T13:00:42.000Z",
-          "wordCount": null,
-          "title": "The Most Dangerous Weapon Is Not Nuclear",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8Ey3_9N089k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8Ey3_9N089k",
-          "publishedOn": "2023-07-02T13:00:05.000Z",
-          "wordCount": null,
-          "title": "The Next Atomic Bomb Is Made of DNA #kurzgesagt #shorts",
           "imageUrl": null
         }
       ]
