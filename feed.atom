@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-01T00:05:01.005Z</id>
+    <id>urn:2023-10-02T00:04:48.737Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-01T00:05:01.005Z</updated>
+    <updated>2023-10-02T00:04:48.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How irreversible is the effect of a blender in a granular medium?]]></title>
+        <id>https://www.youtube.com/watch?v=hclvEZ4bwGk</id>
+        <link href="https://www.youtube.com/watch?v=hclvEZ4bwGk"/>
+        <updated>2023-10-01T09:00:24.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waves on a planet with a fractal archipelago, 2D representation]]></title>
         <id>https://www.youtube.com/watch?v=7ZrPqggJSWM</id>
@@ -217,15 +226,6 @@
         <id>https://www.youtube.com/watch?v=x3LxbftrLJM</id>
         <link href="https://www.youtube.com/watch?v=x3LxbftrLJM"/>
         <updated>2023-09-17T18:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulation of an asteroid impact in the North Pacific Ocean, seen from a circular orbit]]></title>
-        <id>https://www.youtube.com/watch?v=XXpHVG2udus</id>
-        <link href="https://www.youtube.com/watch?v=XXpHVG2udus"/>
-        <updated>2023-09-16T09:00:21.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
