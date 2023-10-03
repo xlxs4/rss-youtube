@@ -182,6 +182,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=n_rEnM1KaPw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n_rEnM1KaPw",
+          "publishedOn": "2023-10-02T09:00:37.000Z",
+          "wordCount": null,
+          "title": "Waves with octahedral symmetry on the sphere, 2D representation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hclvEZ4bwGk",
           "author": null,
           "description": "",
@@ -319,16 +329,6 @@
           "publishedOn": "2023-09-18T09:00:14.000Z",
           "wordCount": null,
           "title": "Simulation of an asteroid impact in the North Pacific Ocean, 2D representation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x3LxbftrLJM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x3LxbftrLJM",
-          "publishedOn": "2023-09-17T18:00:10.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Introduction to bifurcation theory, part 1",
           "imageUrl": null
         }
       ]
