@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel To The Earliest Universe",
+          "title": "How to Time Travel to the Early Universe",
           "imageUrl": null
         },
         {
@@ -140,16 +140,6 @@
           "wordCount": null,
           "title": "Why study Lie theory? | Lie groups, algebras, brackets #1",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u1taDXNzFto",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u1taDXNzFto",
-          "publishedOn": "2023-07-05T14:00:37.000Z",
-          "wordCount": null,
-          "title": "How many terms do we need in the exp series?",
-          "imageUrl": null
         }
       ]
     },
@@ -181,6 +171,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=bwjuST4sDz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bwjuST4sDz0",
+          "publishedOn": "2023-10-03T09:00:32.000Z",
+          "wordCount": null,
+          "title": "Dislocation dynamics around an irreversible blender in a granular medium",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=n_rEnM1KaPw",
           "author": null,
@@ -239,6 +239,16 @@
           "publishedOn": "2023-09-27T09:00:17.000Z",
           "wordCount": null,
           "title": "Waves with dodecahedral symmetry on the sphere, 2D representation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ReqxIP0yn7U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ReqxIP0yn7U",
+          "publishedOn": "2023-09-27T08:46:31.000Z",
+          "wordCount": null,
+          "title": "Tutorial: How can we measure the mean sea level with millimeter precision?",
           "imageUrl": null
         },
         {
@@ -309,26 +319,6 @@
           "publishedOn": "2023-09-20T09:00:48.000Z",
           "wordCount": null,
           "title": "What will the Earth look like with rising sea levels?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NGCkRNC-RKI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NGCkRNC-RKI",
-          "publishedOn": "2023-09-19T09:00:14.000Z",
-          "wordCount": null,
-          "title": "A granular medium with two types of particles: mass ratio 20",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TujZw1AXpQQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TujZw1AXpQQ",
-          "publishedOn": "2023-09-18T09:00:14.000Z",
-          "wordCount": null,
-          "title": "Simulation of an asteroid impact in the North Pacific Ocean, 2D representation",
           "imageUrl": null
         }
       ]
