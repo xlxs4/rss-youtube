@@ -172,6 +172,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s8Au8tIfv_s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s8Au8tIfv_s",
+          "publishedOn": "2023-10-04T09:00:30.000Z",
+          "wordCount": null,
+          "title": "How much flooding would an asteroid impact in the North Atlantic cause?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bwjuST4sDz0",
           "author": null,
           "description": "",
@@ -310,16 +320,6 @@
           "wordCount": null,
           "title": "Waves with icosahedral symmetry on the sphere: 2D representation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uogdaAaPZRc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uogdaAaPZRc",
-          "publishedOn": "2023-09-20T09:00:48.000Z",
-          "wordCount": null,
-          "title": "What will the Earth look like with rising sea levels?",
-          "imageUrl": null
         }
       ]
     },
@@ -345,6 +345,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LBudghsdByQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LBudghsdByQ",
+          "publishedOn": "2023-10-04T14:00:02.000Z",
+          "wordCount": null,
+          "title": "Why Korea is Dying Out",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4Stzj2_Rlo4",
           "author": null,
@@ -413,16 +423,6 @@
           "publishedOn": "2023-07-13T14:00:34.000Z",
           "wordCount": null,
           "title": "What Happens if Earth Suddenly Stops Rotating? #kurzgesagt #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FPKRFw2jrnU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FPKRFw2jrnU",
-          "publishedOn": "2023-07-06T14:00:12.000Z",
-          "wordCount": null,
-          "title": "Earth's Hidden Gem: The Astonishing Diversity of Fauna and Flora #shorts #kurzgesagt",
           "imageUrl": null
         }
       ]
@@ -704,16 +704,6 @@
           "wordCount": null,
           "title": "How I make science animations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X5trRLX7PQY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X5trRLX7PQY",
-          "publishedOn": "2023-07-06T15:02:28.000Z",
-          "wordCount": null,
-          "title": "Building Blocks of Memory in the Brain",
-          "imageUrl": null
         }
       ]
     },
@@ -745,6 +735,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9JWpHOk6OsU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9JWpHOk6OsU",
+          "publishedOn": "2023-10-04T16:27:29.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2023 Keynote: Dr. Stephen Wolfram",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GKKpB07GHmU",
           "author": null,
@@ -883,16 +883,6 @@
           "publishedOn": "2023-09-12T00:34:05.000Z",
           "wordCount": null,
           "title": "Modeling and Duality in Domain Specific Languages for Optimization | Juan Pablo Vielma | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nZZyTQqNqjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nZZyTQqNqjI",
-          "publishedOn": "2023-09-12T00:32:25.000Z",
-          "wordCount": null,
-          "title": "Three Years of Computing with Alan | John Urschel | ASE60",
           "imageUrl": null
         }
       ]

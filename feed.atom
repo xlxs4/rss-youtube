@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T00:04:28.453Z</id>
+    <id>urn:2023-10-05T00:04:24.429Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-04T00:04:28.453Z</updated>
+    <updated>2023-10-05T00:04:24.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2023 Keynote: Dr. Stephen Wolfram]]></title>
+        <id>https://www.youtube.com/watch?v=9JWpHOk6OsU</id>
+        <link href="https://www.youtube.com/watch?v=9JWpHOk6OsU"/>
+        <updated>2023-10-04T16:27:29.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Korea is Dying Out]]></title>
+        <id>https://www.youtube.com/watch?v=LBudghsdByQ</id>
+        <link href="https://www.youtube.com/watch?v=LBudghsdByQ"/>
+        <updated>2023-10-04T14:00:02.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much flooding would an asteroid impact in the North Atlantic cause?]]></title>
+        <id>https://www.youtube.com/watch?v=s8Au8tIfv_s</id>
+        <link href="https://www.youtube.com/watch?v=s8Au8tIfv_s"/>
+        <updated>2023-10-04T09:00:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dislocation dynamics around an irreversible blender in a granular medium]]></title>
         <id>https://www.youtube.com/watch?v=bwjuST4sDz0</id>
@@ -204,15 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What will the Earth look like with rising sea levels?]]></title>
-        <id>https://www.youtube.com/watch?v=uogdaAaPZRc</id>
-        <link href="https://www.youtube.com/watch?v=uogdaAaPZRc"/>
-        <updated>2023-09-20T09:00:48.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[System identification with Julia: 5 Prefiltering]]></title>
         <id>https://www.youtube.com/watch?v=fP_ENSXURYA</id>
         <link href="https://www.youtube.com/watch?v=fP_ENSXURYA"/>
@@ -379,15 +397,6 @@
         <id>https://www.youtube.com/watch?v=q4oWDobgDfI</id>
         <link href="https://www.youtube.com/watch?v=q4oWDobgDfI"/>
         <updated>2023-09-12T00:34:05.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Years of Computing with Alan | John Urschel | ASE60]]></title>
-        <id>https://www.youtube.com/watch?v=nZZyTQqNqjI</id>
-        <link href="https://www.youtube.com/watch?v=nZZyTQqNqjI"/>
-        <updated>2023-09-12T00:32:25.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
         </author>
@@ -849,24 +858,6 @@
         <updated>2023-07-07T20:01:51.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Blocks of Memory in the Brain]]></title>
-        <id>https://www.youtube.com/watch?v=X5trRLX7PQY</id>
-        <link href="https://www.youtube.com/watch?v=X5trRLX7PQY"/>
-        <updated>2023-07-06T15:02:28.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earth's Hidden Gem: The Astonishing Diversity of Fauna and Flora #shorts #kurzgesagt]]></title>
-        <id>https://www.youtube.com/watch?v=FPKRFw2jrnU</id>
-        <link href="https://www.youtube.com/watch?v=FPKRFw2jrnU"/>
-        <updated>2023-07-06T14:00:12.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
