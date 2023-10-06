@@ -153,24 +153,23 @@
       "title": "Alexander Gustafsson",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=4VXkVZ6v0Dw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4VXkVZ6v0Dw",
-          "publishedOn": "2023-07-07T20:01:51.000Z",
-          "wordCount": null,
-          "title": "Hourglass billiard",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Nils Berglund",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BX5Tt4gAl2U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BX5Tt4gAl2U",
+          "publishedOn": "2023-10-05T09:00:12.000Z",
+          "wordCount": null,
+          "title": "A blender rotating at higher speed (without gravity)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=s8Au8tIfv_s",
           "author": null,
@@ -309,16 +308,6 @@
           "publishedOn": "2023-09-22T09:00:43.000Z",
           "wordCount": null,
           "title": "Trying to sort particles by mass in a granular medium flowing around a wedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k8xEj1-_x7I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k8xEj1-_x7I",
-          "publishedOn": "2023-09-21T09:00:34.000Z",
-          "wordCount": null,
-          "title": "Waves with icosahedral symmetry on the sphere: 2D representation",
           "imageUrl": null
         }
       ]
@@ -666,16 +655,6 @@
           "publishedOn": "2023-07-14T22:00:09.000Z",
           "wordCount": null,
           "title": "Until the End of Time: Mind, Matter and Meaning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OcWEYDddJ7Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OcWEYDddJ7Q",
-          "publishedOn": "2023-07-07T22:00:10.000Z",
-          "wordCount": null,
-          "title": "Revealing the Cosmos: A Startling New View from the James Webb Space Telescope",
           "imageUrl": null
         }
       ]

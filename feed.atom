@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T00:04:24.429Z</id>
+    <id>urn:2023-10-06T00:04:28.152Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-05T00:04:24.429Z</updated>
+    <updated>2023-10-06T00:04:28.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A blender rotating at higher speed (without gravity)]]></title>
+        <id>https://www.youtube.com/watch?v=BX5Tt4gAl2U</id>
+        <link href="https://www.youtube.com/watch?v=BX5Tt4gAl2U"/>
+        <updated>2023-10-05T09:00:12.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JuliaCon 2023 Keynote: Dr. Stephen Wolfram]]></title>
         <id>https://www.youtube.com/watch?v=9JWpHOk6OsU</id>
@@ -201,15 +210,6 @@
         <updated>2023-09-21T12:24:44.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves with icosahedral symmetry on the sphere: 2D representation]]></title>
-        <id>https://www.youtube.com/watch?v=k8xEj1-_x7I</id>
-        <link href="https://www.youtube.com/watch?v=k8xEj1-_x7I"/>
-        <updated>2023-09-21T09:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -840,24 +840,6 @@
         <updated>2023-07-10T14:45:54.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revealing the Cosmos: A Startling New View from the James Webb Space Telescope]]></title>
-        <id>https://www.youtube.com/watch?v=OcWEYDddJ7Q</id>
-        <link href="https://www.youtube.com/watch?v=OcWEYDddJ7Q"/>
-        <updated>2023-07-07T22:00:10.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hourglass billiard]]></title>
-        <id>https://www.youtube.com/watch?v=4VXkVZ6v0Dw</id>
-        <link href="https://www.youtube.com/watch?v=4VXkVZ6v0Dw"/>
-        <updated>2023-07-07T20:01:51.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
