@@ -161,6 +161,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WWq8HAiCvCI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WWq8HAiCvCI",
+          "publishedOn": "2023-10-06T09:00:22.000Z",
+          "wordCount": null,
+          "title": "Waves on a planet with a cubic Julia set continent",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BX5Tt4gAl2U",
           "author": null,
           "description": "",
@@ -298,16 +308,6 @@
           "publishedOn": "2023-09-23T09:00:08.000Z",
           "wordCount": null,
           "title": "Simulation of an asteroid impact in the Indian Ocean, seen from a circular orbit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pUbSUynnoEg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pUbSUynnoEg",
-          "publishedOn": "2023-09-22T09:00:43.000Z",
-          "wordCount": null,
-          "title": "Trying to sort particles by mass in a granular medium flowing around a wedge",
           "imageUrl": null
         }
       ]

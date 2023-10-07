@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T00:04:28.152Z</id>
+    <id>urn:2023-10-07T00:04:18.963Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-06T00:04:28.152Z</updated>
+    <updated>2023-10-07T00:04:18.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Waves on a planet with a cubic Julia set continent]]></title>
+        <id>https://www.youtube.com/watch?v=WWq8HAiCvCI</id>
+        <link href="https://www.youtube.com/watch?v=WWq8HAiCvCI"/>
+        <updated>2023-10-06T09:00:22.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A blender rotating at higher speed (without gravity)]]></title>
         <id>https://www.youtube.com/watch?v=BX5Tt4gAl2U</id>
@@ -183,15 +192,6 @@
         <updated>2023-09-22T14:37:28.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trying to sort particles by mass in a granular medium flowing around a wedge]]></title>
-        <id>https://www.youtube.com/watch?v=pUbSUynnoEg</id>
-        <link href="https://www.youtube.com/watch?v=pUbSUynnoEg"/>
-        <updated>2023-09-22T09:00:43.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
