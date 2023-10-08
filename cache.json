@@ -75,6 +75,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6a1fLEToyvU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6a1fLEToyvU",
+          "publishedOn": "2023-10-07T14:28:37.000Z",
+          "wordCount": null,
+          "title": "25 Math explainers you may enjoy | SoME3 results",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aXRTczANuIs",
           "author": null,
           "description": "",
@@ -160,6 +170,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Wg1m13AS9Rk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Wg1m13AS9Rk",
+          "publishedOn": "2023-10-07T09:00:31.000Z",
+          "wordCount": null,
+          "title": "A granular material in a blender with a harmonic potential",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WWq8HAiCvCI",
           "author": null,
@@ -298,16 +318,6 @@
           "publishedOn": "2023-09-24T18:00:10.000Z",
           "wordCount": null,
           "title": "Tutorial: Introduction to bifurcation theory, part 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DRsKobzGCVk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DRsKobzGCVk",
-          "publishedOn": "2023-09-23T09:00:08.000Z",
-          "wordCount": null,
-          "title": "Simulation of an asteroid impact in the Indian Ocean, seen from a circular orbit",
           "imageUrl": null
         }
       ]
