@@ -93,16 +93,6 @@
           "wordCount": null,
           "title": "This demo surprised me (a lot) | Barber pole, part 1",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d_qvLDhkg00",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d_qvLDhkg00",
-          "publishedOn": "2023-07-11T15:53:09.000Z",
-          "wordCount": null,
-          "title": "A pretty reason why Gaussian + Gaussian = Gaussian",
-          "imageUrl": null
         }
       ]
     },
@@ -160,6 +150,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-q_OKFU7TvU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-q_OKFU7TvU",
+          "publishedOn": "2023-10-09T09:00:00.000Z",
+          "wordCount": null,
+          "title": "How much flooding would an asteroid impact in the North Atlantic cause? 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ReqxIP0yn7U",
           "author": null,
@@ -298,16 +298,6 @@
           "publishedOn": "2023-09-25T09:00:26.000Z",
           "wordCount": null,
           "title": "Simulation of an asteroid impact in the Indian Ocean, 2D representation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=esuoC0P-Pu0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=esuoC0P-Pu0",
-          "publishedOn": "2023-09-24T18:00:10.000Z",
-          "wordCount": null,
-          "title": "Tutorial: Introduction to bifurcation theory, part 2",
           "imageUrl": null
         }
       ]
@@ -455,7 +445,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=YXFyKcBYk14",
-          "publishedOn": "2023-10-08T19:50:36.000Z",
+          "publishedOn": "2023-10-09T09:12:35.000Z",
           "wordCount": null,
           "title": "PW Broadcast Radio Hour with Sasha Frere-Jones with Leon Dietsch Becker",
           "imageUrl": null
