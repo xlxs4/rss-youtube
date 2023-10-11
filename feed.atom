@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-10T00:04:28.641Z</id>
+    <id>urn:2023-10-11T00:04:41.250Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-10T00:04:28.641Z</updated>
+    <updated>2023-10-11T00:04:41.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unlocking the Secrets of Our Circadian Rhythms]]></title>
+        <id>https://www.youtube.com/watch?v=X_Mmfw3GSi8</id>
+        <link href="https://www.youtube.com/watch?v=X_Mmfw3GSi8"/>
+        <updated>2023-10-10T14:40:24.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient Life as Old as the Universe]]></title>
+        <id>https://www.youtube.com/watch?v=JOiGEI9pQBs</id>
+        <link href="https://www.youtube.com/watch?v=JOiGEI9pQBs"/>
+        <updated>2023-10-10T14:00:02.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase separation in a granular mixture starting from a chessboard configuration]]></title>
+        <id>https://www.youtube.com/watch?v=szbhWp8gA7c</id>
+        <link href="https://www.youtube.com/watch?v=szbhWp8gA7c"/>
+        <updated>2023-10-10T09:00:39.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PW Broadcast Radio Hour with Sasha Frere-Jones with Leon Dietsch Becker]]></title>
         <id>https://www.youtube.com/watch?v=YXFyKcBYk14</id>
@@ -181,15 +208,6 @@
         <id>https://www.youtube.com/watch?v=ak5SMbgzj3Y</id>
         <link href="https://www.youtube.com/watch?v=ak5SMbgzj3Y"/>
         <updated>2023-09-26T09:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulation of an asteroid impact in the Indian Ocean, 2D representation]]></title>
-        <id>https://www.youtube.com/watch?v=lZIcnWdkltU</id>
-        <link href="https://www.youtube.com/watch?v=lZIcnWdkltU"/>
-        <updated>2023-09-25T09:00:26.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
