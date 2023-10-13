@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-12T00:04:10.245Z</id>
+    <id>urn:2023-10-13T00:04:32.760Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-12T00:04:10.245Z</updated>
+    <updated>2023-10-13T00:04:32.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A simplified model for a plasma in an electric field]]></title>
+        <id>https://www.youtube.com/watch?v=m_c92TngWxU</id>
+        <link href="https://www.youtube.com/watch?v=m_c92TngWxU"/>
+        <updated>2023-10-12T09:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What kind of waves would a Campi Flegrei eruption cause in the Mediterranean?]]></title>
         <id>https://www.youtube.com/watch?v=k9LIzXlkh98</id>
@@ -201,15 +210,6 @@
         <updated>2023-09-28T03:58:00.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves with dodecahedral symmetry on the sphere, 2D representation]]></title>
-        <id>https://www.youtube.com/watch?v=EotTpbkfn1s</id>
-        <link href="https://www.youtube.com/watch?v=EotTpbkfn1s"/>
-        <updated>2023-09-27T09:00:17.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -831,15 +831,6 @@
         <updated>2023-07-19T17:19:01.000Z</updated>
         <author>
             <name>NanoRooms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Until the End of Time: Mind, Matter and Meaning]]></title>
-        <id>https://www.youtube.com/watch?v=xlyYipjw560</id>
-        <link href="https://www.youtube.com/watch?v=xlyYipjw560"/>
-        <updated>2023-07-14T22:00:09.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>

@@ -161,6 +161,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m_c92TngWxU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m_c92TngWxU",
+          "publishedOn": "2023-10-12T09:00:35.000Z",
+          "wordCount": null,
+          "title": "A simplified model for a plasma in an electric field",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k9LIzXlkh98",
           "author": null,
           "description": "",
@@ -298,16 +308,6 @@
           "publishedOn": "2023-09-28T09:00:30.000Z",
           "wordCount": null,
           "title": "Lift and drag vs angle of attack for an airfoil in a granular medium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EotTpbkfn1s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EotTpbkfn1s",
-          "publishedOn": "2023-09-27T09:00:17.000Z",
-          "wordCount": null,
-          "title": "Waves with dodecahedral symmetry on the sphere, 2D representation",
           "imageUrl": null
         }
       ]
@@ -645,16 +645,6 @@
           "publishedOn": "2023-07-21T20:26:55.000Z",
           "wordCount": null,
           "title": "Gravitational Waves and the Dark Universe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xlyYipjw560",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xlyYipjw560",
-          "publishedOn": "2023-07-14T22:00:09.000Z",
-          "wordCount": null,
-          "title": "Until the End of Time: Mind, Matter and Meaning",
           "imageUrl": null
         }
       ]
