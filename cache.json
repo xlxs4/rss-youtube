@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel to the Early Universe",
+          "title": "In Search of Cosmic Origins",
           "imageUrl": null
         },
         {
@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "The Cryptographer Working to Protect Computations",
+          "title": "How Computer Scientists are Inventing A Secure Digital Future",
           "imageUrl": null
         }
       ]
@@ -160,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hRKWKRsMgTY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hRKWKRsMgTY",
+          "publishedOn": "2023-10-13T09:00:33.000Z",
+          "wordCount": null,
+          "title": "How much flooding would an asteroid impact in the Indian Ocean cause?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=m_c92TngWxU",
           "author": null,
@@ -298,16 +308,6 @@
           "publishedOn": "2023-09-29T09:00:31.000Z",
           "wordCount": null,
           "title": "How can an earthquake in Japan cause a tsunami in Chile?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X5PGgtlCxqg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X5PGgtlCxqg",
-          "publishedOn": "2023-09-28T09:00:30.000Z",
-          "wordCount": null,
-          "title": "Lift and drag vs angle of attack for an airfoil in a granular medium",
           "imageUrl": null
         }
       ]
@@ -608,6 +608,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jwYHQ6YwwuY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jwYHQ6YwwuY",
+          "publishedOn": "2023-10-13T20:00:11.000Z",
+          "wordCount": null,
+          "title": "Standing on the Shoulders of Giants: John Mather",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WGN4Jv5sWQI",
           "author": null,
           "description": "",
@@ -704,6 +714,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CX4JowKKa_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CX4JowKKa_0",
+          "publishedOn": "2023-10-13T19:04:00.000Z",
+          "wordCount": null,
+          "title": "Accessing astronomy tools from Julia | Alexander (Sasha) Plavin | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NmSgl2iLQu8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NmSgl2iLQu8",
+          "publishedOn": "2023-10-13T19:03:57.000Z",
+          "wordCount": null,
+          "title": "Adaptive Radio Science with Julia | Frank Lind | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AzQCVWFI1bI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AzQCVWFI1bI",
+          "publishedOn": "2023-10-13T18:03:16.000Z",
+          "wordCount": null,
+          "title": "Imaging Black Holes with the Event Horizon Telescope | Paul Tiede | JuliaCon 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9JWpHOk6OsU",
           "author": null,
@@ -822,36 +862,6 @@
           "publishedOn": "2023-09-12T00:39:03.000Z",
           "wordCount": null,
           "title": "Revisiting Grothendieck: Szemeredi Regularity, Random Submatrices | Roman Vershynin | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9t5wlyqbvmQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9t5wlyqbvmQ",
-          "publishedOn": "2023-09-12T00:37:21.000Z",
-          "wordCount": null,
-          "title": "Sparsity: Practice-to-Theory-to-Practice | Jeremy Kepner | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X2JEWdCFf70",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X2JEWdCFf70",
-          "publishedOn": "2023-09-12T00:36:05.000Z",
-          "wordCount": null,
-          "title": "Graphs, Matrices, and Programming: There and Back Again | John Gilbert | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q4oWDobgDfI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q4oWDobgDfI",
-          "publishedOn": "2023-09-12T00:34:05.000Z",
-          "wordCount": null,
-          "title": "Modeling and Duality in Domain Specific Languages for Optimization | Juan Pablo Vielma | ASE60",
           "imageUrl": null
         }
       ]
