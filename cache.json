@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "In Search of Cosmic Origins",
+          "title": "How to Time Travel to the Early Universe",
           "imageUrl": null
         },
         {
@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "How Computer Scientists are Inventing A Secure Digital Future",
+          "title": "The Cryptographer Working to Protect Computations",
           "imageUrl": null
         }
       ]
@@ -160,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=z0RS5FVhn-g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z0RS5FVhn-g",
+          "publishedOn": "2023-10-14T09:00:42.000Z",
+          "wordCount": null,
+          "title": "A simplified model for a plasma in electric and magnetic fields",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hRKWKRsMgTY",
           "author": null,
@@ -298,16 +308,6 @@
           "publishedOn": "2023-09-30T09:00:08.000Z",
           "wordCount": null,
           "title": "Waves on a planet with a fractal archipelago, 2D representation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=R0mDB21XFVU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=R0mDB21XFVU",
-          "publishedOn": "2023-09-29T09:00:31.000Z",
-          "wordCount": null,
-          "title": "How can an earthquake in Japan cause a tsunami in Chile?",
           "imageUrl": null
         }
       ]
@@ -501,6 +501,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=bhhqnYwbla4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bhhqnYwbla4",
+          "publishedOn": "2023-08-07T17:22:05.000Z",
+          "wordCount": null,
+          "title": "Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jxCDu0p7ZYc",
           "author": null,
           "description": "",
@@ -588,16 +598,6 @@
           "publishedOn": "2023-07-20T17:33:21.000Z",
           "wordCount": null,
           "title": "Jay Gandhi & Ehren Hanson | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MxtXPJRhTxo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MxtXPJRhTxo",
-          "publishedOn": "2023-07-20T17:33:18.000Z",
-          "wordCount": null,
-          "title": "Abhik Mukherjee & Shank Lahiri | Ragas Live Festival 2022",
           "imageUrl": null
         }
       ]
