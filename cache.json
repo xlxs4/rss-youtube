@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel to the Early Universe",
+          "title": "In Search of Cosmic Origins",
           "imageUrl": null
         },
         {
@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "The Cryptographer Working to Protect Computations",
+          "title": "How Computer Scientists are Inventing A Secure Digital Future",
           "imageUrl": null
         }
       ]
@@ -160,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xbkmNus3Ksk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xbkmNus3Ksk",
+          "publishedOn": "2023-10-15T09:00:28.000Z",
+          "wordCount": null,
+          "title": "How rising sea levels would affect the seven continents",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=z0RS5FVhn-g",
           "author": null,
@@ -298,16 +308,6 @@
           "publishedOn": "2023-10-01T09:00:24.000Z",
           "wordCount": null,
           "title": "How irreversible is the effect of a blender in a granular medium?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7ZrPqggJSWM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7ZrPqggJSWM",
-          "publishedOn": "2023-09-30T09:00:08.000Z",
-          "wordCount": null,
-          "title": "Waves on a planet with a fractal archipelago, 2D representation",
           "imageUrl": null
         }
       ]
@@ -614,7 +614,7 @@
           "link": "https://www.youtube.com/watch?v=jwYHQ6YwwuY",
           "publishedOn": "2023-10-13T20:00:11.000Z",
           "wordCount": null,
-          "title": "Standing on the Shoulders of Giants: John Mather",
+          "title": "Seeing Further: Searching for the Echoes of Creation",
           "imageUrl": null
         },
         {
