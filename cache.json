@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "In Search of Cosmic Origins",
+          "title": "How to Time Travel to the Early Universe",
           "imageUrl": null
         },
         {
@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "How Computer Scientists are Inventing A Secure Digital Future",
+          "title": "The Cryptographer Working to Protect Computations",
           "imageUrl": null
         }
       ]
@@ -160,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oEfepAm5xo4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oEfepAm5xo4",
+          "publishedOn": "2023-10-16T09:00:35.000Z",
+          "wordCount": null,
+          "title": "A simplified model for a plasma in strong electric and magnetic fields",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xbkmNus3Ksk",
           "author": null,
@@ -298,16 +308,6 @@
           "publishedOn": "2023-10-02T09:00:37.000Z",
           "wordCount": null,
           "title": "Waves with octahedral symmetry on the sphere, 2D representation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hclvEZ4bwGk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hclvEZ4bwGk",
-          "publishedOn": "2023-10-01T09:00:24.000Z",
-          "wordCount": null,
-          "title": "How irreversible is the effect of a blender in a granular medium?",
           "imageUrl": null
         }
       ]
