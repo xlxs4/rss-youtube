@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "The Cryptographer Working to Protect Computations",
+          "title": "How Computer Scientists are Inventing A Secure Digital Future",
           "imageUrl": null
         }
       ]
@@ -160,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=z8DRGP5aoUg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z8DRGP5aoUg",
+          "publishedOn": "2023-10-17T09:00:44.000Z",
+          "wordCount": null,
+          "title": "How much flooding would an asteroid impact in the Indian Ocean cause? 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oEfepAm5xo4",
           "author": null,
@@ -299,16 +309,6 @@
           "wordCount": null,
           "title": "Dislocation dynamics around an irreversible blender in a granular medium",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n_rEnM1KaPw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n_rEnM1KaPw",
-          "publishedOn": "2023-10-02T09:00:37.000Z",
-          "wordCount": null,
-          "title": "Waves with octahedral symmetry on the sphere, 2D representation",
-          "imageUrl": null
         }
       ]
     },
@@ -334,6 +334,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Qtmrp_4BKRQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qtmrp_4BKRQ",
+          "publishedOn": "2023-10-17T14:04:14.000Z",
+          "wordCount": null,
+          "title": "A Glimpse Into Our Future",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JOiGEI9pQBs",
           "author": null,
@@ -1063,16 +1073,6 @@
           "publishedOn": "2023-08-16T14:30:29.000Z",
           "wordCount": null,
           "title": "The Math Behind Building An AI Using DNA #SoME3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=19z45Vac1uQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=19z45Vac1uQ",
-          "publishedOn": "2023-07-19T17:19:01.000Z",
-          "wordCount": null,
-          "title": "From Silicon to Cells: Full-Adder Circuits in Biological Computing",
           "imageUrl": null
         }
       ]

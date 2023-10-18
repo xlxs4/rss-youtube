@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-17T00:04:52.470Z</id>
+    <id>urn:2023-10-18T00:04:42.167Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-17T00:04:52.470Z</updated>
+    <updated>2023-10-18T00:04:42.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Glimpse Into Our Future]]></title>
+        <id>https://www.youtube.com/watch?v=Qtmrp_4BKRQ</id>
+        <link href="https://www.youtube.com/watch?v=Qtmrp_4BKRQ"/>
+        <updated>2023-10-17T14:04:14.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much flooding would an asteroid impact in the Indian Ocean cause? 2D representation]]></title>
+        <id>https://www.youtube.com/watch?v=z8DRGP5aoUg</id>
+        <link href="https://www.youtube.com/watch?v=z8DRGP5aoUg"/>
+        <updated>2023-10-17T09:00:44.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A simplified model for a plasma in strong electric and magnetic fields]]></title>
         <id>https://www.youtube.com/watch?v=oEfepAm5xo4</id>
@@ -217,15 +235,6 @@
         <id>https://www.youtube.com/watch?v=bwjuST4sDz0</id>
         <link href="https://www.youtube.com/watch?v=bwjuST4sDz0"/>
         <updated>2023-10-03T09:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waves with octahedral symmetry on the sphere, 2D representation]]></title>
-        <id>https://www.youtube.com/watch?v=n_rEnM1KaPw</id>
-        <link href="https://www.youtube.com/watch?v=n_rEnM1KaPw"/>
-        <updated>2023-10-02T09:00:37.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -672,7 +681,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cryptographer Working to Protect Computations]]></title>
+        <title type="html"><![CDATA[How Computer Scientists are Inventing A Secure Digital Future]]></title>
         <id>https://www.youtube.com/watch?v=EMrpHQehRmY</id>
         <link href="https://www.youtube.com/watch?v=EMrpHQehRmY"/>
         <updated>2023-07-27T14:23:26.000Z</updated>
@@ -831,15 +840,6 @@
         <updated>2023-07-20T14:00:03.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Silicon to Cells: Full-Adder Circuits in Biological Computing]]></title>
-        <id>https://www.youtube.com/watch?v=19z45Vac1uQ</id>
-        <link href="https://www.youtube.com/watch?v=19z45Vac1uQ"/>
-        <updated>2023-07-19T17:19:01.000Z</updated>
-        <author>
-            <name>NanoRooms</name>
         </author>
     </entry>
 </feed>
