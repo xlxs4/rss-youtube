@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel to the Early Universe",
+          "title": "In Search of Cosmic Origins",
           "imageUrl": null
         },
         {
@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "How Computer Scientists are Inventing A Secure Digital Future",
+          "title": "The Cryptographer Working to Protect Computations",
           "imageUrl": null
         }
       ]
@@ -160,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Pv1j5Xj1Sws",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pv1j5Xj1Sws",
+          "publishedOn": "2023-10-18T09:00:14.000Z",
+          "wordCount": null,
+          "title": "Pressure distribution around an airfoil in a granular medium",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=z8DRGP5aoUg",
           "author": null,
@@ -299,16 +309,6 @@
           "wordCount": null,
           "title": "How much flooding would an asteroid impact in the North Atlantic cause?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bwjuST4sDz0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bwjuST4sDz0",
-          "publishedOn": "2023-10-03T09:00:32.000Z",
-          "wordCount": null,
-          "title": "Dislocation dynamics around an irreversible blender in a granular medium",
-          "imageUrl": null
         }
       ]
     },
@@ -412,16 +412,6 @@
           "publishedOn": "2023-07-27T14:03:48.000Z",
           "wordCount": null,
           "title": "How Many Moons Could Earth Handle? #kurzgesagt #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4TlyzKBm5yw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4TlyzKBm5yw",
-          "publishedOn": "2023-07-20T14:00:03.000Z",
-          "wordCount": null,
-          "title": "What If You’re in Space without a Spacesuit? #kurzgesagt #shorts",
           "imageUrl": null
         }
       ]
@@ -528,86 +518,6 @@
           "publishedOn": "2023-07-28T14:09:01.000Z",
           "wordCount": null,
           "title": "Scientific Controversies: The Goddamn Particle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nQQBKkiPEQk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nQQBKkiPEQk",
-          "publishedOn": "2023-07-20T17:33:50.000Z",
-          "wordCount": null,
-          "title": "Parvathy Baul | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Mpx1DP645bE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Mpx1DP645bE",
-          "publishedOn": "2023-07-20T17:33:47.000Z",
-          "wordCount": null,
-          "title": "Khadija El Warzazia’s Bnat el Houariyat & Esraa Warda | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f_A8lkokRYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f_A8lkokRYc",
-          "publishedOn": "2023-07-20T17:33:45.000Z",
-          "wordCount": null,
-          "title": "Arun Ramamurthy Trio | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cmvnSCat7P4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cmvnSCat7P4",
-          "publishedOn": "2023-07-20T17:33:42.000Z",
-          "wordCount": null,
-          "title": "Samir LanGus | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0P5hf08RXFI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0P5hf08RXFI",
-          "publishedOn": "2023-07-20T17:33:37.000Z",
-          "wordCount": null,
-          "title": "Hamid Al Saadi | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e0FpNPfm0ME",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e0FpNPfm0ME",
-          "publishedOn": "2023-07-20T17:33:31.000Z",
-          "wordCount": null,
-          "title": "Vinay Desai & Vivek Pandya | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Won7kItmfr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Won7kItmfr0",
-          "publishedOn": "2023-07-20T17:33:24.000Z",
-          "wordCount": null,
-          "title": "Amir ElSaffar: Maqamodular | Ragas Live Festival 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dCcQLy7RtM8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dCcQLy7RtM8",
-          "publishedOn": "2023-07-20T17:33:21.000Z",
-          "wordCount": null,
-          "title": "Jay Gandhi & Ehren Hanson | Ragas Live Festival 2022",
           "imageUrl": null
         }
       ]
@@ -1046,16 +956,6 @@
           "publishedOn": "2023-07-22T10:26:34.000Z",
           "wordCount": null,
           "title": "Part 6: Control of rotary pendulum using Julia: LQR Stabilization control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0RxQwepVsoM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0RxQwepVsoM",
-          "publishedOn": "2023-07-21T03:45:44.000Z",
-          "wordCount": null,
-          "title": "Part 5: Control of rotary pendulum using Julia: Estimating parameters",
           "imageUrl": null
         }
       ]

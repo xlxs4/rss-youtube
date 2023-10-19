@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-18T00:04:42.167Z</id>
+    <id>urn:2023-10-19T00:04:40.982Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-18T00:04:42.167Z</updated>
+    <updated>2023-10-19T00:04:40.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pressure distribution around an airfoil in a granular medium]]></title>
+        <id>https://www.youtube.com/watch?v=Pv1j5Xj1Sws</id>
+        <link href="https://www.youtube.com/watch?v=Pv1j5Xj1Sws"/>
+        <updated>2023-10-18T09:00:14.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Glimpse Into Our Future]]></title>
         <id>https://www.youtube.com/watch?v=Qtmrp_4BKRQ</id>
@@ -231,15 +240,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dislocation dynamics around an irreversible blender in a granular medium]]></title>
-        <id>https://www.youtube.com/watch?v=bwjuST4sDz0</id>
-        <link href="https://www.youtube.com/watch?v=bwjuST4sDz0"/>
-        <updated>2023-10-03T09:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Running Julia Code Baremetal on an Arduino | Valentin Bogad | JuliaCon 2023]]></title>
         <id>https://www.youtube.com/watch?v=GKKpB07GHmU</id>
         <link href="https://www.youtube.com/watch?v=GKKpB07GHmU"/>
@@ -294,7 +294,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Time Travel to the Early Universe]]></title>
+        <title type="html"><![CDATA[In Search of Cosmic Origins]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
@@ -681,7 +681,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Computer Scientists are Inventing A Secure Digital Future]]></title>
+        <title type="html"><![CDATA[The Cryptographer Working to Protect Computations]]></title>
         <id>https://www.youtube.com/watch?v=EMrpHQehRmY</id>
         <link href="https://www.youtube.com/watch?v=EMrpHQehRmY"/>
         <updated>2023-07-27T14:23:26.000Z</updated>
@@ -750,96 +750,6 @@
         <updated>2023-07-21T20:26:55.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 5: Control of rotary pendulum using Julia: Estimating parameters]]></title>
-        <id>https://www.youtube.com/watch?v=0RxQwepVsoM</id>
-        <link href="https://www.youtube.com/watch?v=0RxQwepVsoM"/>
-        <updated>2023-07-21T03:45:44.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parvathy Baul | Ragas Live Festival 2022]]></title>
-        <id>https://www.youtube.com/watch?v=nQQBKkiPEQk</id>
-        <link href="https://www.youtube.com/watch?v=nQQBKkiPEQk"/>
-        <updated>2023-07-20T17:33:50.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Khadija El Warzazia’s Bnat el Houariyat & Esraa Warda | Ragas Live Festival 2022]]></title>
-        <id>https://www.youtube.com/watch?v=Mpx1DP645bE</id>
-        <link href="https://www.youtube.com/watch?v=Mpx1DP645bE"/>
-        <updated>2023-07-20T17:33:47.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arun Ramamurthy Trio | Ragas Live Festival 2022]]></title>
-        <id>https://www.youtube.com/watch?v=f_A8lkokRYc</id>
-        <link href="https://www.youtube.com/watch?v=f_A8lkokRYc"/>
-        <updated>2023-07-20T17:33:45.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samir LanGus | Ragas Live Festival 2022]]></title>
-        <id>https://www.youtube.com/watch?v=cmvnSCat7P4</id>
-        <link href="https://www.youtube.com/watch?v=cmvnSCat7P4"/>
-        <updated>2023-07-20T17:33:42.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hamid Al Saadi | Ragas Live Festival 2022]]></title>
-        <id>https://www.youtube.com/watch?v=0P5hf08RXFI</id>
-        <link href="https://www.youtube.com/watch?v=0P5hf08RXFI"/>
-        <updated>2023-07-20T17:33:37.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vinay Desai & Vivek Pandya | Ragas Live Festival 2022]]></title>
-        <id>https://www.youtube.com/watch?v=e0FpNPfm0ME</id>
-        <link href="https://www.youtube.com/watch?v=e0FpNPfm0ME"/>
-        <updated>2023-07-20T17:33:31.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amir ElSaffar: Maqamodular | Ragas Live Festival 2022]]></title>
-        <id>https://www.youtube.com/watch?v=Won7kItmfr0</id>
-        <link href="https://www.youtube.com/watch?v=Won7kItmfr0"/>
-        <updated>2023-07-20T17:33:24.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jay Gandhi & Ehren Hanson | Ragas Live Festival 2022]]></title>
-        <id>https://www.youtube.com/watch?v=dCcQLy7RtM8</id>
-        <link href="https://www.youtube.com/watch?v=dCcQLy7RtM8"/>
-        <updated>2023-07-20T17:33:21.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What If You’re in Space without a Spacesuit? #kurzgesagt #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=4TlyzKBm5yw</id>
-        <link href="https://www.youtube.com/watch?v=4TlyzKBm5yw"/>
-        <updated>2023-07-20T14:00:03.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
