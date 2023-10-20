@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
-          "title": "Unlocking the Secrets of Our Circadian Rhythms",
+          "title": "Circadian Rhythms: This Discovery Reveals How They Work",
           "imageUrl": null
         },
         {
@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "In Search of Cosmic Origins",
+          "title": "How to Time Travel to the Early Universe",
           "imageUrl": null
         },
         {
@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "The Cryptographer Working to Protect Computations",
+          "title": "How Computer Scientists are Inventing A Secure Digital Future",
           "imageUrl": null
         }
       ]
@@ -160,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ul8L6e96YWs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ul8L6e96YWs",
+          "publishedOn": "2023-10-19T09:00:38.000Z",
+          "wordCount": null,
+          "title": "Waves with cubic symmetry on a sphere, 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Pv1j5Xj1Sws",
           "author": null,
@@ -298,16 +308,6 @@
           "publishedOn": "2023-10-05T09:00:12.000Z",
           "wordCount": null,
           "title": "A blender rotating at higher speed (without gravity)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=s8Au8tIfv_s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=s8Au8tIfv_s",
-          "publishedOn": "2023-10-04T09:00:30.000Z",
-          "wordCount": null,
-          "title": "How much flooding would an asteroid impact in the North Atlantic cause?",
           "imageUrl": null
         }
       ]
@@ -565,16 +565,6 @@
           "publishedOn": "2023-08-04T22:00:11.000Z",
           "wordCount": null,
           "title": "James Webb Space Telescope: Comets, Planets, and the Origin of Life",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YJuOQWCyMAc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YJuOQWCyMAc",
-          "publishedOn": "2023-07-21T20:26:55.000Z",
-          "wordCount": null,
-          "title": "Gravitational Waves and the Dark Universe",
           "imageUrl": null
         }
       ]
@@ -946,16 +936,6 @@
           "publishedOn": "2023-07-23T09:31:24.000Z",
           "wordCount": null,
           "title": "Part 7: Control of rotary pendulum using Julia: Swing up control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=96hHEWN1sIM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=96hHEWN1sIM",
-          "publishedOn": "2023-07-22T10:26:34.000Z",
-          "wordCount": null,
-          "title": "Part 6: Control of rotary pendulum using Julia: LQR Stabilization control",
           "imageUrl": null
         }
       ]
