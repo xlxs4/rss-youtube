@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
-          "title": "Circadian Rhythms: This Discovery Reveals How They Work",
+          "title": "Unlocking the Secrets of Our Circadian Rhythms",
           "imageUrl": null
         },
         {
@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel to the Early Universe",
+          "title": "In Search of Cosmic Origins",
           "imageUrl": null
         },
         {
@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "How Computer Scientists are Inventing A Secure Digital Future",
+          "title": "The Cryptographer Working to Protect Computations",
           "imageUrl": null
         }
       ]
@@ -160,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QGsnFYqJbTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QGsnFYqJbTo",
+          "publishedOn": "2023-10-20T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Prelude to the Coandă effect",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ul8L6e96YWs",
           "author": null,
@@ -298,16 +308,6 @@
           "publishedOn": "2023-10-06T09:00:22.000Z",
           "wordCount": null,
           "title": "Waves on a planet with a cubic Julia set continent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BX5Tt4gAl2U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BX5Tt4gAl2U",
-          "publishedOn": "2023-10-05T09:00:12.000Z",
-          "wordCount": null,
-          "title": "A blender rotating at higher speed (without gravity)",
           "imageUrl": null
         }
       ]
@@ -498,16 +498,6 @@
           "publishedOn": "2023-08-11T13:53:15.000Z",
           "wordCount": null,
           "title": "Hilton Als: My Pinup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bhhqnYwbla4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bhhqnYwbla4",
-          "publishedOn": "2023-08-07T17:22:05.000Z",
-          "wordCount": null,
-          "title": "Ragas Live Festival 2023",
           "imageUrl": null
         },
         {
@@ -926,16 +916,6 @@
           "publishedOn": "2023-07-24T08:59:15.000Z",
           "wordCount": null,
           "title": "Part 8: Control of rotary pendulum using Julia: Sliding Mode Control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RhF2NMCYoiw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RhF2NMCYoiw",
-          "publishedOn": "2023-07-23T09:31:24.000Z",
-          "wordCount": null,
-          "title": "Part 7: Control of rotary pendulum using Julia: Swing up control",
           "imageUrl": null
         }
       ]
