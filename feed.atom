@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-21T00:04:07.996Z</id>
+    <id>urn:2023-10-22T00:04:53.721Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-21T00:04:07.996Z</updated>
+    <updated>2023-10-22T00:04:53.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ML Community Call (2023-10-20)]]></title>
+        <id>https://www.youtube.com/watch?v=ZcctnWm2P_8</id>
+        <link href="https://www.youtube.com/watch?v=ZcctnWm2P_8"/>
+        <updated>2023-10-21T13:44:05.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What would the Earth look like with sinking sea levels?]]></title>
+        <id>https://www.youtube.com/watch?v=WbweuULipao</id>
+        <link href="https://www.youtube.com/watch?v=WbweuULipao"/>
+        <updated>2023-10-21T09:00:22.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prelude to the Coandă effect]]></title>
         <id>https://www.youtube.com/watch?v=QGsnFYqJbTo</id>
@@ -213,15 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waves on a planet with a cubic Julia set continent]]></title>
-        <id>https://www.youtube.com/watch?v=WWq8HAiCvCI</id>
-        <link href="https://www.youtube.com/watch?v=WWq8HAiCvCI"/>
-        <updated>2023-10-06T09:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JuliaCon 2023 Keynote: Dr. Stephen Wolfram]]></title>
         <id>https://www.youtube.com/watch?v=9JWpHOk6OsU</id>
         <link href="https://www.youtube.com/watch?v=9JWpHOk6OsU"/>
@@ -294,7 +303,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Search of Cosmic Origins]]></title>
+        <title type="html"><![CDATA[How to Time Travel to the Early Universe]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
@@ -442,15 +451,6 @@
         <id>https://www.youtube.com/watch?v=Uwex6Alv4aA</id>
         <link href="https://www.youtube.com/watch?v=Uwex6Alv4aA"/>
         <updated>2023-09-12T00:41:18.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting Grothendieck: Szemeredi Regularity, Random Submatrices | Roman Vershynin | ASE60]]></title>
-        <id>https://www.youtube.com/watch?v=vcf9TVxnOWY</id>
-        <link href="https://www.youtube.com/watch?v=vcf9TVxnOWY"/>
-        <updated>2023-09-12T00:39:03.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
         </author>
@@ -672,7 +672,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cryptographer Working to Protect Computations]]></title>
+        <title type="html"><![CDATA[How Computer Scientists are Inventing A Secure Digital Future]]></title>
         <id>https://www.youtube.com/watch?v=EMrpHQehRmY</id>
         <link href="https://www.youtube.com/watch?v=EMrpHQehRmY"/>
         <updated>2023-07-27T14:23:26.000Z</updated>
@@ -696,24 +696,6 @@
         <updated>2023-07-25T13:29:54.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 8: Control of rotary pendulum using Julia: Sliding Mode Control]]></title>
-        <id>https://www.youtube.com/watch?v=RE-6UsNFXow</id>
-        <link href="https://www.youtube.com/watch?v=RE-6UsNFXow"/>
-        <updated>2023-07-24T08:59:15.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why study Lie theory? | Lie groups, algebras, brackets #1]]></title>
-        <id>https://www.youtube.com/watch?v=IlqVo3sJFLE</id>
-        <link href="https://www.youtube.com/watch?v=IlqVo3sJFLE"/>
-        <updated>2023-07-23T14:00:10.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>

@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "In Search of Cosmic Origins",
+          "title": "How to Time Travel to the Early Universe",
           "imageUrl": null
         },
         {
@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "The Cryptographer Working to Protect Computations",
+          "title": "How Computer Scientists are Inventing A Secure Digital Future",
           "imageUrl": null
         }
       ]
@@ -130,16 +130,6 @@
           "wordCount": null,
           "title": "How to rotate in higher dimensions? Complex dimensions? | Lie groups, algebras, brackets #2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IlqVo3sJFLE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IlqVo3sJFLE",
-          "publishedOn": "2023-07-23T14:00:10.000Z",
-          "wordCount": null,
-          "title": "Why study Lie theory? | Lie groups, algebras, brackets #1",
-          "imageUrl": null
         }
       ]
     },
@@ -160,6 +150,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WbweuULipao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WbweuULipao",
+          "publishedOn": "2023-10-21T09:00:22.000Z",
+          "wordCount": null,
+          "title": "What would the Earth look like with sinking sea levels?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QGsnFYqJbTo",
           "author": null,
@@ -298,16 +298,6 @@
           "publishedOn": "2023-10-07T09:00:31.000Z",
           "wordCount": null,
           "title": "A granular material in a blender with a harmonic potential",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WWq8HAiCvCI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WWq8HAiCvCI",
-          "publishedOn": "2023-10-06T09:00:22.000Z",
-          "wordCount": null,
-          "title": "Waves on a planet with a cubic Julia set continent",
           "imageUrl": null
         }
       ]
@@ -615,6 +605,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZcctnWm2P_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZcctnWm2P_8",
+          "publishedOn": "2023-10-21T13:44:05.000Z",
+          "wordCount": null,
+          "title": "ML Community Call (2023-10-20)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CX4JowKKa_0",
           "author": null,
           "description": "",
@@ -752,16 +752,6 @@
           "publishedOn": "2023-09-12T00:41:18.000Z",
           "wordCount": null,
           "title": "Spotlight on Structure: from Matrix to Tensor Algebra for Approximation | Misha Kilmer | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vcf9TVxnOWY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vcf9TVxnOWY",
-          "publishedOn": "2023-09-12T00:39:03.000Z",
-          "wordCount": null,
-          "title": "Revisiting Grothendieck: Szemeredi Regularity, Random Submatrices | Roman Vershynin | ASE60",
           "imageUrl": null
         }
       ]
@@ -906,16 +896,6 @@
           "publishedOn": "2023-07-25T13:29:54.000Z",
           "wordCount": null,
           "title": "Part 9: Control of rotary pendulum using Julia: Linear MPC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RE-6UsNFXow",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RE-6UsNFXow",
-          "publishedOn": "2023-07-24T08:59:15.000Z",
-          "wordCount": null,
-          "title": "Part 8: Control of rotary pendulum using Julia: Sliding Mode Control",
           "imageUrl": null
         }
       ]
