@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
-          "title": "Circadian Rhythms: This Discovery Reveals How They Work",
+          "title": "Unlocking the Secrets of Our Circadian Rhythms",
           "imageUrl": null
         },
         {
@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "In Search of Cosmic Origins",
+          "title": "How to Time Travel to the Early Universe",
           "imageUrl": null
         },
         {
@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "The Cryptographer Working to Protect Computations",
+          "title": "How Computer Scientists are Inventing A Secure Digital Future",
           "imageUrl": null
         }
       ]
@@ -150,6 +150,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UdPCLSDWjUs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UdPCLSDWjUs",
+          "publishedOn": "2023-10-23T09:00:18.000Z",
+          "wordCount": null,
+          "title": "Prelude to the Coandă effect - Kinetic energy and velocity",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ebubq4W5ksw",
           "author": null,
@@ -288,16 +298,6 @@
           "publishedOn": "2023-10-09T09:00:00.000Z",
           "wordCount": null,
           "title": "How much flooding would an asteroid impact in the North Atlantic cause? 2D representation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ReqxIP0yn7U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ReqxIP0yn7U",
-          "publishedOn": "2023-10-08T18:00:09.000Z",
-          "wordCount": null,
-          "title": "Tutorial: How can we measure the mean sea level with millimeter precision?",
           "imageUrl": null
         }
       ]
@@ -886,16 +886,6 @@
           "publishedOn": "2023-09-13T12:47:04.000Z",
           "wordCount": null,
           "title": "System identification with Julia: 1 Intro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pHRCwg8nDEA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pHRCwg8nDEA",
-          "publishedOn": "2023-07-25T13:29:54.000Z",
-          "wordCount": null,
-          "title": "Part 9: Control of rotary pendulum using Julia: Linear MPC",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-23T00:04:38.731Z</id>
+    <id>urn:2023-10-24T00:04:50.866Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-23T00:04:38.731Z</updated>
+    <updated>2023-10-24T00:04:50.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Prelude to the Coandă effect - Kinetic energy and velocity]]></title>
+        <id>https://www.youtube.com/watch?v=UdPCLSDWjUs</id>
+        <link href="https://www.youtube.com/watch?v=UdPCLSDWjUs"/>
+        <updated>2023-10-23T09:00:18.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flooding Mars]]></title>
         <id>https://www.youtube.com/watch?v=Ebubq4W5ksw</id>
@@ -168,7 +177,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circadian Rhythms: This Discovery Reveals How They Work]]></title>
+        <title type="html"><![CDATA[Unlocking the Secrets of Our Circadian Rhythms]]></title>
         <id>https://www.youtube.com/watch?v=X_Mmfw3GSi8</id>
         <link href="https://www.youtube.com/watch?v=X_Mmfw3GSi8"/>
         <updated>2023-10-10T14:40:24.000Z</updated>
@@ -208,15 +217,6 @@
         <id>https://www.youtube.com/watch?v=-q_OKFU7TvU</id>
         <link href="https://www.youtube.com/watch?v=-q_OKFU7TvU"/>
         <updated>2023-10-09T09:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutorial: How can we measure the mean sea level with millimeter precision?]]></title>
-        <id>https://www.youtube.com/watch?v=ReqxIP0yn7U</id>
-        <link href="https://www.youtube.com/watch?v=ReqxIP0yn7U"/>
-        <updated>2023-10-08T18:00:09.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -303,7 +303,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Search of Cosmic Origins]]></title>
+        <title type="html"><![CDATA[How to Time Travel to the Early Universe]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
@@ -672,7 +672,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cryptographer Working to Protect Computations]]></title>
+        <title type="html"><![CDATA[How Computer Scientists are Inventing A Secure Digital Future]]></title>
         <id>https://www.youtube.com/watch?v=EMrpHQehRmY</id>
         <link href="https://www.youtube.com/watch?v=EMrpHQehRmY"/>
         <updated>2023-07-27T14:23:26.000Z</updated>
@@ -687,15 +687,6 @@
         <updated>2023-07-27T14:03:48.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 9: Control of rotary pendulum using Julia: Linear MPC]]></title>
-        <id>https://www.youtube.com/watch?v=pHRCwg8nDEA</id>
-        <link href="https://www.youtube.com/watch?v=pHRCwg8nDEA"/>
-        <updated>2023-07-25T13:29:54.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
