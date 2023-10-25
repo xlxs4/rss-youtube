@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
+          "publishedOn": "2023-10-24T17:57:34.000Z",
+          "wordCount": null,
+          "title": "How AI Learns to 'See'",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
-          "title": "Unlocking the Secrets of Our Circadian Rhythms",
+          "title": "Circadian Rhythms: This Discovery Reveals How They Work",
           "imageUrl": null
         },
         {
@@ -22,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel to the Early Universe",
+          "title": "In Search of Cosmic Origins",
           "imageUrl": null
         },
         {
@@ -52,7 +62,7 @@
           "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
           "publishedOn": "2023-07-27T14:23:26.000Z",
           "wordCount": null,
-          "title": "How Computer Scientists are Inventing A Secure Digital Future",
+          "title": "The Cryptographer Working to Protect Computations",
           "imageUrl": null
         }
       ]
@@ -150,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uN4mEejSHMM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uN4mEejSHMM",
+          "publishedOn": "2023-10-24T09:00:42.000Z",
+          "wordCount": null,
+          "title": "Waves on a planet with a cubic Julia set continent, 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UdPCLSDWjUs",
           "author": null,
@@ -288,16 +308,6 @@
           "publishedOn": "2023-10-10T09:00:39.000Z",
           "wordCount": null,
           "title": "Phase separation in a granular mixture starting from a chessboard configuration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-q_OKFU7TvU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-q_OKFU7TvU",
-          "publishedOn": "2023-10-09T09:00:00.000Z",
-          "wordCount": null,
-          "title": "How much flooding would an asteroid impact in the North Atlantic cause? 2D representation",
           "imageUrl": null
         }
       ]
