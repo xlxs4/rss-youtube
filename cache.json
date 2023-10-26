@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
           "publishedOn": "2023-10-24T17:57:34.000Z",
           "wordCount": null,
-          "title": "How AI Learns to 'See'",
+          "title": "How Computers Learn to 'See'",
           "imageUrl": null
         },
         {
@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
-          "title": "Circadian Rhythms: This Discovery Reveals How They Work",
+          "title": "Unlocking the Secrets of Our Circadian Rhythms",
           "imageUrl": null
         },
         {
@@ -32,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "In Search of Cosmic Origins",
+          "title": "How to Time Travel to the Early Universe",
           "imageUrl": null
         },
         {
@@ -53,16 +53,6 @@
           "publishedOn": "2023-08-08T19:46:49.000Z",
           "wordCount": null,
           "title": "How Math’s Famous Map Theorem Was Solved With Computers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EMrpHQehRmY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EMrpHQehRmY",
-          "publishedOn": "2023-07-27T14:23:26.000Z",
-          "wordCount": null,
-          "title": "The Cryptographer Working to Protect Computations",
           "imageUrl": null
         }
       ]
@@ -160,6 +150,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1Mi_pvZHrDU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1Mi_pvZHrDU",
+          "publishedOn": "2023-10-25T09:00:01.000Z",
+          "wordCount": null,
+          "title": "A plasma with Coulomb interaction in an electric field",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uN4mEejSHMM",
           "author": null,
@@ -299,16 +299,6 @@
           "wordCount": null,
           "title": "What kind of waves would a Campi Flegrei eruption cause in the Mediterranean?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=szbhWp8gA7c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=szbhWp8gA7c",
-          "publishedOn": "2023-10-10T09:00:39.000Z",
-          "wordCount": null,
-          "title": "Phase separation in a granular mixture starting from a chessboard configuration",
-          "imageUrl": null
         }
       ]
     },
@@ -402,16 +392,6 @@
           "publishedOn": "2023-08-08T13:59:49.000Z",
           "wordCount": null,
           "title": "The (Second) Deadliest Virus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=28T91fgkpkA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=28T91fgkpkA",
-          "publishedOn": "2023-07-27T14:03:48.000Z",
-          "wordCount": null,
-          "title": "How Many Moons Could Earth Handle? #kurzgesagt #shorts",
           "imageUrl": null
         }
       ]
@@ -615,6 +595,96 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T-p-wPiTdeA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T-p-wPiTdeA",
+          "publishedOn": "2023-10-25T22:47:00.000Z",
+          "wordCount": null,
+          "title": "Implementation of P4est Datastructures Tailored for Ferrite.jl | Maximilian Köhler | FerriteCon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RuIJJdEg8ZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RuIJJdEg8ZU",
+          "publishedOn": "2023-10-25T22:46:57.000Z",
+          "wordCount": null,
+          "title": "One year of Ferrite.jl development | Fredrik Ekre | FerriteCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oDqrUvOn54c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oDqrUvOn54c",
+          "publishedOn": "2023-10-25T22:46:54.000Z",
+          "wordCount": null,
+          "title": "Recent applications of Ferrite.jl at the IKM | Dustin Jantos, et al | FerriteCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fjJaqsls2vk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fjJaqsls2vk",
+          "publishedOn": "2023-10-25T22:46:51.000Z",
+          "wordCount": null,
+          "title": "Immersed Methods with Ferrite | Elias Börjesson | JuliaCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=r6CVZffKCAg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r6CVZffKCAg",
+          "publishedOn": "2023-10-25T22:46:49.000Z",
+          "wordCount": null,
+          "title": "Raising MixedDofHandler – About Full Support for Mixed Grids | Kim Louisa Auth | FerriteCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=t41UALrzxNg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t41UALrzxNg",
+          "publishedOn": "2023-10-25T22:46:45.000Z",
+          "wordCount": null,
+          "title": "Discontinuous Galerkin Methods Infrastructure: A GSoC Project | Abdulaziz Hamid | FerriteCon 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=67Io2rrkUv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=67Io2rrkUv8",
+          "publishedOn": "2023-10-25T22:46:43.000Z",
+          "wordCount": null,
+          "title": "Thunderbolt.jl - Fast & Modular Cardiac Multiphysics Simulation with Ferrite.jl | Dennis Ogiermann",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-D6C9W0acVs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-D6C9W0acVs",
+          "publishedOn": "2023-10-25T22:46:40.000Z",
+          "wordCount": null,
+          "title": "Julia for Scientific HPC: Opportunities and Challenges | Michael Schlottke-Lakemper | FerriteCon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mxtwoDtqrDo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mxtwoDtqrDo",
+          "publishedOn": "2023-10-25T22:46:38.000Z",
+          "wordCount": null,
+          "title": "How Simple Should Using Ferrite Get? | Knut Andreas Meyer | FerriteCon 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZcctnWm2P_8",
           "author": null,
           "description": "",
@@ -672,96 +742,6 @@
           "publishedOn": "2023-09-28T04:11:59.000Z",
           "wordCount": null,
           "title": "Running Julia Code Baremetal on an Arduino | Valentin Bogad | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zkAwQ_PIniY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zkAwQ_PIniY",
-          "publishedOn": "2023-09-28T03:58:00.000Z",
-          "wordCount": null,
-          "title": "The State of JuMP | Miles Lubin | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yreW94n98eM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yreW94n98eM",
-          "publishedOn": "2023-09-12T17:36:34.000Z",
-          "wordCount": null,
-          "title": "Catalyst.jl, Modeling Chemical Reaction Networks | Torkel Loman | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bjzbblYSAjY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bjzbblYSAjY",
-          "publishedOn": "2023-09-12T16:44:53.000Z",
-          "wordCount": null,
-          "title": "Declaratively imposing constraints using ValueConstraints.jl | Joris Kraak | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E3NdeUTdyFQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E3NdeUTdyFQ",
-          "publishedOn": "2023-09-12T15:52:49.000Z",
-          "wordCount": null,
-          "title": "Multi-objective optimization with JuMP | Xavier Gandibleux | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g3HLut4abC4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g3HLut4abC4",
-          "publishedOn": "2023-09-12T00:51:30.000Z",
-          "wordCount": null,
-          "title": "Avoiding Discretization Issues for Nonlinear Eigenvalue Problems | Alex Townsend | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=s_t6dIKjUUc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=s_t6dIKjUUc",
-          "publishedOn": "2023-09-12T00:50:18.000Z",
-          "wordCount": null,
-          "title": "The Special Math of Translating Theory to Software in Differential Eqs | Chris Rackauckas | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZnZw_RIy-20",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZnZw_RIy-20",
-          "publishedOn": "2023-09-12T00:44:46.000Z",
-          "wordCount": null,
-          "title": "Unapologetically Beyond Universality | Folkmar Bornemann | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PpAlV57h5zY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PpAlV57h5zY",
-          "publishedOn": "2023-09-12T00:42:51.000Z",
-          "wordCount": null,
-          "title": "Elimination and Factorization | Gil Strang | ASE60",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Uwex6Alv4aA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Uwex6Alv4aA",
-          "publishedOn": "2023-09-12T00:41:18.000Z",
-          "wordCount": null,
-          "title": "Spotlight on Structure: from Matrix to Tensor Algebra for Approximation | Misha Kilmer | ASE60",
           "imageUrl": null
         }
       ]
