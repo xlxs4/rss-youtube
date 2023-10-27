@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
           "publishedOn": "2023-10-24T17:57:34.000Z",
           "wordCount": null,
-          "title": "How Computers Learn to 'See'",
+          "title": "Computer Vision: How AI Learns to See",
           "imageUrl": null
         },
         {
@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
-          "title": "Unlocking the Secrets of Our Circadian Rhythms",
+          "title": "Circadian Rhythms: This Discovery Reveals How They Work",
           "imageUrl": null
         },
         {
@@ -32,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel to the Early Universe",
+          "title": "In Search of Cosmic Origins",
           "imageUrl": null
         },
         {
@@ -150,6 +150,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=H5PL4yBSghU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H5PL4yBSghU",
+          "publishedOn": "2023-10-26T09:00:10.000Z",
+          "wordCount": null,
+          "title": "An asteroid impact at Point Nemo",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1Mi_pvZHrDU",
           "author": null,
@@ -288,16 +298,6 @@
           "publishedOn": "2023-10-12T09:00:35.000Z",
           "wordCount": null,
           "title": "A simplified model for a plasma in an electric field",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k9LIzXlkh98",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k9LIzXlkh98",
-          "publishedOn": "2023-10-11T09:00:34.000Z",
-          "wordCount": null,
-          "title": "What kind of waves would a Campi Flegrei eruption cause in the Mediterranean?",
           "imageUrl": null
         }
       ]
@@ -479,16 +479,6 @@
           "wordCount": null,
           "title": "Hilton Als: My Pinup",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jxCDu0p7ZYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jxCDu0p7ZYc",
-          "publishedOn": "2023-07-28T14:09:01.000Z",
-          "wordCount": null,
-          "title": "Scientific Controversies: The Goddamn Particle",
-          "imageUrl": null
         }
       ]
     },
@@ -570,7 +560,18 @@
       "title": "Freya Holmér",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA",
       "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=htYh-Tq7ZBI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=htYh-Tq7ZBI",
+          "publishedOn": "2023-10-26T21:08:49.000Z",
+          "wordCount": null,
+          "title": "Why can't you multiply vectors? [Dutch Game Day, 2023]",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "CodeAesthetic",
