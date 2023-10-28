@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
-          "title": "Circadian Rhythms: This Discovery Reveals How They Work",
+          "title": "Unlocking the Secrets of Our Circadian Rhythms",
           "imageUrl": null
         },
         {
@@ -32,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "In Search of Cosmic Origins",
+          "title": "How to Time Travel to the Early Universe",
           "imageUrl": null
         },
         {
@@ -120,16 +120,6 @@
           "wordCount": null,
           "title": "What is Lie theory? Here is the big picture.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=erA0jb9dSm0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=erA0jb9dSm0",
-          "publishedOn": "2023-07-29T14:00:22.000Z",
-          "wordCount": null,
-          "title": "How to rotate in higher dimensions? Complex dimensions? | Lie groups, algebras, brackets #2",
-          "imageUrl": null
         }
       ]
     },
@@ -150,6 +140,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Rz79xi7_M3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rz79xi7_M3o",
+          "publishedOn": "2023-10-27T09:00:17.000Z",
+          "wordCount": null,
+          "title": "A plasma with Coulomb interaction in an electric and magnetic fields",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=H5PL4yBSghU",
           "author": null,
@@ -288,16 +288,6 @@
           "publishedOn": "2023-10-13T09:00:33.000Z",
           "wordCount": null,
           "title": "How much flooding would an asteroid impact in the Indian Ocean cause?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m_c92TngWxU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m_c92TngWxU",
-          "publishedOn": "2023-10-12T09:00:35.000Z",
-          "wordCount": null,
-          "title": "A simplified model for a plasma in an electric field",
           "imageUrl": null
         }
       ]
@@ -487,6 +477,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BYVMulMNZMs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BYVMulMNZMs",
+          "publishedOn": "2023-10-27T21:43:53.000Z",
+          "wordCount": null,
+          "title": "The Past and Future of Life and the Cosmos",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jwYHQ6YwwuY",
           "author": null,
