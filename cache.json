@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
-          "title": "Unlocking the Secrets of Our Circadian Rhythms",
+          "title": "Circadian Rhythms: This Discovery Reveals How They Work",
           "imageUrl": null
         },
         {
@@ -32,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel to the Early Universe",
+          "title": "In Search of Cosmic Origins",
           "imageUrl": null
         },
         {
@@ -140,6 +140,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KFLhiMJ84ao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KFLhiMJ84ao",
+          "publishedOn": "2023-10-28T09:00:22.000Z",
+          "wordCount": null,
+          "title": "An asteroid impact at Point Nemo, 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Rz79xi7_M3o",
           "author": null,
@@ -279,16 +289,6 @@
           "wordCount": null,
           "title": "A simplified model for a plasma in electric and magnetic fields",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hRKWKRsMgTY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hRKWKRsMgTY",
-          "publishedOn": "2023-10-13T09:00:33.000Z",
-          "wordCount": null,
-          "title": "How much flooding would an asteroid impact in the Indian Ocean cause?",
-          "imageUrl": null
         }
       ]
     },
@@ -297,6 +297,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
       "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yPgsrDJ8Yus",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yPgsrDJ8Yus",
+          "publishedOn": "2023-10-28T17:48:56.000Z",
+          "wordCount": null,
+          "title": "AMR RMA 2: Chaim Goodman-Strauss",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ekUX8HTL1JI",
           "author": null,
@@ -568,7 +578,7 @@
           "link": "https://www.youtube.com/watch?v=htYh-Tq7ZBI",
           "publishedOn": "2023-10-26T21:08:49.000Z",
           "wordCount": null,
-          "title": "Why can't you multiply vectors? [Dutch Game Day, 2023]",
+          "title": "Why can't you multiply vectors?",
           "imageUrl": null
         }
       ]

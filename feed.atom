@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-28T00:04:02.771Z</id>
+    <id>urn:2023-10-29T00:05:03.090Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-28T00:04:02.771Z</updated>
+    <updated>2023-10-29T00:05:03.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AMR RMA 2: Chaim Goodman-Strauss]]></title>
+        <id>https://www.youtube.com/watch?v=yPgsrDJ8Yus</id>
+        <link href="https://www.youtube.com/watch?v=yPgsrDJ8Yus"/>
+        <updated>2023-10-28T17:48:56.000Z</updated>
+        <author>
+            <name>Association for Mathematical Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An asteroid impact at Point Nemo, 2D representation]]></title>
+        <id>https://www.youtube.com/watch?v=KFLhiMJ84ao</id>
+        <link href="https://www.youtube.com/watch?v=KFLhiMJ84ao"/>
+        <updated>2023-10-28T09:00:22.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Past and Future of Life and the Cosmos]]></title>
         <id>https://www.youtube.com/watch?v=BYVMulMNZMs</id>
@@ -24,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why can't you multiply vectors? [Dutch Game Day, 2023]]]></title>
+        <title type="html"><![CDATA[Why can't you multiply vectors?]]></title>
         <id>https://www.youtube.com/watch?v=htYh-Tq7ZBI</id>
         <link href="https://www.youtube.com/watch?v=htYh-Tq7ZBI"/>
         <updated>2023-10-26T21:08:49.000Z</updated>
@@ -294,16 +312,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How much flooding would an asteroid impact in the Indian Ocean cause?]]></title>
-        <id>https://www.youtube.com/watch?v=hRKWKRsMgTY</id>
-        <link href="https://www.youtube.com/watch?v=hRKWKRsMgTY"/>
-        <updated>2023-10-13T09:00:33.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking the Secrets of Our Circadian Rhythms]]></title>
+        <title type="html"><![CDATA[Circadian Rhythms: This Discovery Reveals How They Work]]></title>
         <id>https://www.youtube.com/watch?v=X_Mmfw3GSi8</id>
         <link href="https://www.youtube.com/watch?v=X_Mmfw3GSi8"/>
         <updated>2023-10-10T14:40:24.000Z</updated>
@@ -402,7 +411,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Time Travel to the Early Universe]]></title>
+        <title type="html"><![CDATA[In Search of Cosmic Origins]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
