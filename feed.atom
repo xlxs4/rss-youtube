@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-29T00:05:03.090Z</id>
+    <id>urn:2023-10-30T00:04:40.133Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-29T00:05:03.090Z</updated>
+    <updated>2023-10-30T00:04:40.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A first attempt at simulating the Coandă effect]]></title>
+        <id>https://www.youtube.com/watch?v=VkLQYHdpiZY</id>
+        <link href="https://www.youtube.com/watch?v=VkLQYHdpiZY"/>
+        <updated>2023-10-29T10:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMR RMA 2: Chaim Goodman-Strauss]]></title>
         <id>https://www.youtube.com/watch?v=yPgsrDJ8Yus</id>
@@ -267,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A simplified model for a plasma in electric and magnetic fields]]></title>
-        <id>https://www.youtube.com/watch?v=z0RS5FVhn-g</id>
-        <link href="https://www.youtube.com/watch?v=z0RS5FVhn-g"/>
-        <updated>2023-10-14T09:00:42.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Seeing Further: Searching for the Echoes of Creation]]></title>
         <id>https://www.youtube.com/watch?v=jwYHQ6YwwuY</id>
         <link href="https://www.youtube.com/watch?v=jwYHQ6YwwuY"/>
@@ -312,7 +312,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circadian Rhythms: This Discovery Reveals How They Work]]></title>
+        <title type="html"><![CDATA[Unlocking the Secrets of Our Circadian Rhythms]]></title>
         <id>https://www.youtube.com/watch?v=X_Mmfw3GSi8</id>
         <link href="https://www.youtube.com/watch?v=X_Mmfw3GSi8"/>
         <updated>2023-10-10T14:40:24.000Z</updated>
@@ -411,7 +411,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Search of Cosmic Origins]]></title>
+        <title type="html"><![CDATA[How to Time Travel to the Early Universe]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
