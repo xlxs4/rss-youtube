@@ -32,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel to the Early Universe",
+          "title": "In Search of Cosmic Origins",
           "imageUrl": null
         },
         {
@@ -140,6 +140,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-6Tf3uHwUbY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-6Tf3uHwUbY",
+          "publishedOn": "2023-10-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "An asteroid impact on a partially flooded Mars",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VkLQYHdpiZY",
           "author": null,
@@ -278,16 +288,6 @@
           "publishedOn": "2023-10-16T09:00:35.000Z",
           "wordCount": null,
           "title": "A simplified model for a plasma in strong electric and magnetic fields",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xbkmNus3Ksk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xbkmNus3Ksk",
-          "publishedOn": "2023-10-15T09:00:28.000Z",
-          "wordCount": null,
-          "title": "How rising sea levels would affect the seven continents",
           "imageUrl": null
         }
       ]
@@ -896,6 +896,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g",
       "siteUrl": "https://www.youtube.com/channel/UCbHJVeS0ZIco7FTTqhvDg6g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OMB1JLIdwNA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OMB1JLIdwNA",
+          "publishedOn": "2023-10-30T18:54:12.000Z",
+          "wordCount": null,
+          "title": "This video will change how you see living things",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0luZ4JqHg6w",
           "author": null,
