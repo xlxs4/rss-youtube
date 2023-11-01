@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-31T00:04:49.820Z</id>
+    <id>urn:2023-11-01T00:04:43.069Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-10-31T00:04:49.820Z</updated>
+    <updated>2023-11-01T00:04:43.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A plasma with Coulomb interaction in an electric field and  strong magnetic field]]></title>
+        <id>https://www.youtube.com/watch?v=VUQhlXjch_U</id>
+        <link href="https://www.youtube.com/watch?v=VUQhlXjch_U"/>
+        <updated>2023-10-31T10:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This video will change how you see living things]]></title>
         <id>https://www.youtube.com/watch?v=OMB1JLIdwNA</id>
@@ -271,15 +280,6 @@
         <id>https://www.youtube.com/watch?v=z8DRGP5aoUg</id>
         <link href="https://www.youtube.com/watch?v=z8DRGP5aoUg"/>
         <updated>2023-10-17T09:00:44.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A simplified model for a plasma in strong electric and magnetic fields]]></title>
-        <id>https://www.youtube.com/watch?v=oEfepAm5xo4</id>
-        <link href="https://www.youtube.com/watch?v=oEfepAm5xo4"/>
-        <updated>2023-10-16T09:00:35.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>

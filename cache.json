@@ -141,6 +141,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VUQhlXjch_U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VUQhlXjch_U",
+          "publishedOn": "2023-10-31T10:00:33.000Z",
+          "wordCount": null,
+          "title": "A plasma with Coulomb interaction in an electric field and  strong magnetic field",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-6Tf3uHwUbY",
           "author": null,
           "description": "",
@@ -278,16 +288,6 @@
           "publishedOn": "2023-10-17T09:00:44.000Z",
           "wordCount": null,
           "title": "How much flooding would an asteroid impact in the Indian Ocean cause? 2D representation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oEfepAm5xo4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oEfepAm5xo4",
-          "publishedOn": "2023-10-16T09:00:35.000Z",
-          "wordCount": null,
-          "title": "A simplified model for a plasma in strong electric and magnetic fields",
           "imageUrl": null
         }
       ]
