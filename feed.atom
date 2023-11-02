@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T00:04:43.069Z</id>
+    <id>urn:2023-11-02T00:04:25.731Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-11-01T00:04:43.069Z</updated>
+    <updated>2023-11-02T00:04:25.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Video #1000: A look back at some milestones]]></title>
+        <id>https://www.youtube.com/watch?v=afTYcINzRBc</id>
+        <link href="https://www.youtube.com/watch?v=afTYcINzRBc"/>
+        <updated>2023-11-01T12:57:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An asteroid impact on a partially flooded Mars - 2D representation]]></title>
+        <id>https://www.youtube.com/watch?v=dt-JJvp6HZs</id>
+        <link href="https://www.youtube.com/watch?v=dt-JJvp6HZs"/>
+        <updated>2023-11-01T10:00:36.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A plasma with Coulomb interaction in an electric field and  strong magnetic field]]></title>
         <id>https://www.youtube.com/watch?v=VUQhlXjch_U</id>
@@ -15,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This video will change how you see living things]]></title>
+        <title type="html"><![CDATA[The recursion formula behind life itself?]]></title>
         <id>https://www.youtube.com/watch?v=OMB1JLIdwNA</id>
         <link href="https://www.youtube.com/watch?v=OMB1JLIdwNA"/>
         <updated>2023-10-30T18:54:12.000Z</updated>
@@ -258,30 +276,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pressure distribution around an airfoil in a granular medium]]></title>
-        <id>https://www.youtube.com/watch?v=Pv1j5Xj1Sws</id>
-        <link href="https://www.youtube.com/watch?v=Pv1j5Xj1Sws"/>
-        <updated>2023-10-18T09:00:14.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Glimpse Into Our Future]]></title>
         <id>https://www.youtube.com/watch?v=Qtmrp_4BKRQ</id>
         <link href="https://www.youtube.com/watch?v=Qtmrp_4BKRQ"/>
         <updated>2023-10-17T14:04:14.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How much flooding would an asteroid impact in the Indian Ocean cause? 2D representation]]></title>
-        <id>https://www.youtube.com/watch?v=z8DRGP5aoUg</id>
-        <link href="https://www.youtube.com/watch?v=z8DRGP5aoUg"/>
-        <updated>2023-10-17T09:00:44.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
