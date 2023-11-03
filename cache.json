@@ -141,6 +141,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Umaz1RsRyB8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Umaz1RsRyB8",
+          "publishedOn": "2023-11-02T10:00:23.000Z",
+          "wordCount": null,
+          "title": "An improved simulation of the Coandă effect",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=afTYcINzRBc",
           "author": null,
           "description": "",
@@ -278,16 +288,6 @@
           "publishedOn": "2023-10-20T09:00:30.000Z",
           "wordCount": null,
           "title": "Prelude to the Coandă effect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ul8L6e96YWs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ul8L6e96YWs",
-          "publishedOn": "2023-10-19T09:00:38.000Z",
-          "wordCount": null,
-          "title": "Waves with cubic symmetry on a sphere, 2D representation",
           "imageUrl": null
         }
       ]
@@ -526,16 +526,6 @@
           "wordCount": null,
           "title": "Shedding Light on the Dark Universe",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rcLfAiXuZYU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rcLfAiXuZYU",
-          "publishedOn": "2023-08-04T22:00:11.000Z",
-          "wordCount": null,
-          "title": "James Webb Space Telescope: Comets, Planets, and the Origin of Life",
-          "imageUrl": null
         }
       ]
     },
@@ -587,18 +577,7 @@
       "title": "CodeAesthetic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaSCt8s_4nfkRglWCvNSDrg",
       "siteUrl": "https://www.youtube.com/channel/UCaSCt8s_4nfkRglWCvNSDrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=J1f5b4vcxCQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J1f5b4vcxCQ",
-          "publishedOn": "2023-08-04T15:00:13.000Z",
-          "wordCount": null,
-          "title": "Dependency Injection, The Best Pattern",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Julia Programming Language",
