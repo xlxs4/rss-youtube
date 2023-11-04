@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-03T00:04:46.696Z</id>
+    <id>urn:2023-11-04T00:04:13.919Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-11-03T00:04:46.696Z</updated>
+    <updated>2023-11-04T00:04:13.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tutorial: Markov chains, some examples and basic properties]]></title>
+        <id>https://www.youtube.com/watch?v=K7rOq1bGcr0</id>
+        <link href="https://www.youtube.com/watch?v=K7rOq1bGcr0"/>
+        <updated>2023-11-03T12:09:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tambora eruption: What waves of the event causing the year without a summer may have looked like]]></title>
+        <id>https://www.youtube.com/watch?v=uYcpSxWLzqI</id>
+        <link href="https://www.youtube.com/watch?v=uYcpSxWLzqI"/>
+        <updated>2023-11-03T10:00:49.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An improved simulation of the Coandă effect]]></title>
         <id>https://www.youtube.com/watch?v=Umaz1RsRyB8</id>
@@ -255,24 +273,6 @@
         <updated>2023-10-21T13:44:05.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What would the Earth look like with sinking sea levels?]]></title>
-        <id>https://www.youtube.com/watch?v=WbweuULipao</id>
-        <link href="https://www.youtube.com/watch?v=WbweuULipao"/>
-        <updated>2023-10-21T09:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prelude to the Coandă effect]]></title>
-        <id>https://www.youtube.com/watch?v=QGsnFYqJbTo</id>
-        <link href="https://www.youtube.com/watch?v=QGsnFYqJbTo"/>
-        <updated>2023-10-20T09:00:30.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
