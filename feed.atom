@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-05T00:05:01.102Z</id>
+    <id>urn:2023-11-06T00:04:40.602Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-11-05T00:05:01.102Z</updated>
+    <updated>2023-11-06T00:04:40.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Charged particles forming "molecules"]]></title>
-        <id>https://www.youtube.com/watch?v=YKcha0l9Edo</id>
-        <link href="https://www.youtube.com/watch?v=YKcha0l9Edo"/>
-        <updated>2023-11-04T10:00:32.000Z</updated>
+        <title type="html"><![CDATA[Tutorial: Markov chains, some examples and basic properties]]></title>
+        <id>https://www.youtube.com/watch?v=K7rOq1bGcr0</id>
+        <link href="https://www.youtube.com/watch?v=K7rOq1bGcr0"/>
+        <updated>2023-11-05T19:00:07.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tutorial: Markov chains, some examples and basic properties]]></title>
-        <id>https://www.youtube.com/watch?v=K7rOq1bGcr0</id>
-        <link href="https://www.youtube.com/watch?v=K7rOq1bGcr0"/>
-        <updated>2023-11-03T12:09:10.000Z</updated>
+        <title type="html"><![CDATA[Charged particles forming "molecules"]]></title>
+        <id>https://www.youtube.com/watch?v=YKcha0l9Edo</id>
+        <link href="https://www.youtube.com/watch?v=YKcha0l9Edo"/>
+        <updated>2023-11-04T10:00:32.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
@@ -660,15 +660,6 @@
         <updated>2023-08-08T13:59:49.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamical Systems on a Circle | Nonlinear Dynamics]]></title>
-        <id>https://www.youtube.com/watch?v=M4-L8h-gHHE</id>
-        <link href="https://www.youtube.com/watch?v=M4-L8h-gHHE"/>
-        <updated>2023-08-08T02:21:50.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
