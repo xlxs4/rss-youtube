@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
           "publishedOn": "2023-10-24T17:57:34.000Z",
           "wordCount": null,
-          "title": "Computer Vision: How AI Learns to See",
+          "title": "How AI Learns to See Without Eyes",
           "imageUrl": null
         },
         {
@@ -43,16 +43,6 @@
           "publishedOn": "2023-08-31T21:40:50.000Z",
           "wordCount": null,
           "title": "When Computers Write Proofs, What's the Point of Mathematicians?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h7kqlYUV1l8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h7kqlYUV1l8",
-          "publishedOn": "2023-08-08T19:46:49.000Z",
-          "wordCount": null,
-          "title": "How Math’s Famous Map Theorem Was Solved With Computers",
           "imageUrl": null
         }
       ]
@@ -140,6 +130,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=reLBOBDRxms",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=reLBOBDRxms",
+          "publishedOn": "2023-11-06T10:00:40.000Z",
+          "wordCount": null,
+          "title": "The Tambora eruption - 3D view of the waves of the event that caused the year without a summer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=K7rOq1bGcr0",
           "author": null,
@@ -279,16 +279,6 @@
           "wordCount": null,
           "title": "Waves on a planet with a cubic Julia set continent, 2D representation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UdPCLSDWjUs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UdPCLSDWjUs",
-          "publishedOn": "2023-10-23T09:00:18.000Z",
-          "wordCount": null,
-          "title": "Prelude to the Coandă effect - Kinetic energy and velocity",
-          "imageUrl": null
         }
       ]
     },
@@ -383,16 +373,6 @@
           "wordCount": null,
           "title": "What Happens If You Destroy A Black Hole?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
-          "publishedOn": "2023-08-08T13:59:49.000Z",
-          "wordCount": null,
-          "title": "The (Second) Deadliest Virus",
-          "imageUrl": null
         }
       ]
     },
@@ -412,7 +392,18 @@
       "title": "Faculty of Khan",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lGLnCJPkHrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lGLnCJPkHrM",
+          "publishedOn": "2023-11-06T03:02:53.000Z",
+          "wordCount": null,
+          "title": "Introducing Spacetime Diagrams in Relativity",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Pioneer Works",
