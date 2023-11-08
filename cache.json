@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4o-6ciIjSOM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4o-6ciIjSOM",
+          "publishedOn": "2023-11-07T10:00:04.000Z",
+          "wordCount": null,
+          "title": "An improved simulation of the Coandă effect - Kinetic energy and velocity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=reLBOBDRxms",
           "author": null,
           "description": "",
@@ -268,16 +278,6 @@
           "publishedOn": "2023-10-25T09:00:01.000Z",
           "wordCount": null,
           "title": "A plasma with Coulomb interaction in an electric field",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uN4mEejSHMM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uN4mEejSHMM",
-          "publishedOn": "2023-10-24T09:00:42.000Z",
-          "wordCount": null,
-          "title": "Waves on a planet with a cubic Julia set continent, 2D representation",
           "imageUrl": null
         }
       ]
