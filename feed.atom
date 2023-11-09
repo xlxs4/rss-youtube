@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-08T00:04:37.294Z</id>
+    <id>urn:2023-11-09T00:04:40.147Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-11-08T00:04:37.294Z</updated>
+    <updated>2023-11-09T00:04:40.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Flooding the Moon]]></title>
+        <id>https://www.youtube.com/watch?v=I7mPuAUoAqg</id>
+        <link href="https://www.youtube.com/watch?v=I7mPuAUoAqg"/>
+        <updated>2023-11-08T10:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An improved simulation of the Coandă effect - Kinetic energy and velocity]]></title>
         <id>https://www.youtube.com/watch?v=4o-6ciIjSOM</id>
@@ -255,15 +264,6 @@
         <updated>2023-10-25T22:46:38.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A plasma with Coulomb interaction in an electric field]]></title>
-        <id>https://www.youtube.com/watch?v=1Mi_pvZHrDU</id>
-        <link href="https://www.youtube.com/watch?v=1Mi_pvZHrDU"/>
-        <updated>2023-10-25T09:00:01.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -642,15 +642,6 @@
         <updated>2023-08-11T13:53:15.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Lie theory? Here is the big picture.]]></title>
-        <id>https://www.youtube.com/watch?v=ZRca3Ggpy_g</id>
-        <link href="https://www.youtube.com/watch?v=ZRca3Ggpy_g"/>
-        <updated>2023-08-10T14:00:34.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>

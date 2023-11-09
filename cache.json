@@ -100,18 +100,7 @@
       "title": "Mathemaniac",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ZRca3Ggpy_g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZRca3Ggpy_g",
-          "publishedOn": "2023-08-10T14:00:34.000Z",
-          "wordCount": null,
-          "title": "What is Lie theory? Here is the big picture.",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "JuliaDynamics",
@@ -130,6 +119,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=I7mPuAUoAqg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I7mPuAUoAqg",
+          "publishedOn": "2023-11-08T10:00:13.000Z",
+          "wordCount": null,
+          "title": "Flooding the Moon",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4o-6ciIjSOM",
           "author": null,
@@ -268,16 +267,6 @@
           "publishedOn": "2023-10-26T09:00:10.000Z",
           "wordCount": null,
           "title": "An asteroid impact at Point Nemo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1Mi_pvZHrDU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1Mi_pvZHrDU",
-          "publishedOn": "2023-10-25T09:00:01.000Z",
-          "wordCount": null,
-          "title": "A plasma with Coulomb interaction in an electric field",
           "imageUrl": null
         }
       ]
