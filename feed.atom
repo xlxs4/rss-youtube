@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-09T00:04:40.147Z</id>
+    <id>urn:2023-11-10T00:04:50.837Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-11-09T00:04:40.147Z</updated>
+    <updated>2023-11-10T00:04:50.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Particles of larger charge forming "molecules"]]></title>
+        <id>https://www.youtube.com/watch?v=kicn2fX11CI</id>
+        <link href="https://www.youtube.com/watch?v=kicn2fX11CI"/>
+        <updated>2023-11-09T10:00:46.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flooding the Moon]]></title>
         <id>https://www.youtube.com/watch?v=I7mPuAUoAqg</id>
@@ -174,15 +183,6 @@
         <updated>2023-10-26T21:08:49.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An asteroid impact at Point Nemo]]></title>
-        <id>https://www.youtube.com/watch?v=H5PL4yBSghU</id>
-        <link href="https://www.youtube.com/watch?v=H5PL4yBSghU"/>
-        <updated>2023-10-26T09:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
     <entry>
@@ -631,15 +631,6 @@
         <id>https://www.youtube.com/watch?v=xyWaAKSDZtI</id>
         <link href="https://www.youtube.com/watch?v=xyWaAKSDZtI"/>
         <updated>2023-08-14T09:01:12.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hilton Als: My Pinup]]></title>
-        <id>https://www.youtube.com/watch?v=MM5VrNOkyS4</id>
-        <link href="https://www.youtube.com/watch?v=MM5VrNOkyS4"/>
-        <updated>2023-08-11T13:53:15.000Z</updated>
         <author>
             <name>Pioneer Works</name>
         </author>
