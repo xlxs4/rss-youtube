@@ -120,6 +120,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=afTYcINzRBc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=afTYcINzRBc",
+          "publishedOn": "2023-11-10T19:00:10.000Z",
+          "wordCount": null,
+          "title": "Video #1000: A look back at some milestones",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kicn2fX11CI",
           "author": null,
           "description": "",
@@ -197,16 +207,6 @@
           "publishedOn": "2023-11-02T10:00:23.000Z",
           "wordCount": null,
           "title": "An improved simulation of the Coandă effect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=afTYcINzRBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=afTYcINzRBc",
-          "publishedOn": "2023-11-01T12:57:30.000Z",
-          "wordCount": null,
-          "title": "Video #1000: A look back at some milestones",
           "imageUrl": null
         },
         {
@@ -303,6 +303,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=S7TUe5w6RHo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S7TUe5w6RHo",
+          "publishedOn": "2023-11-10T16:15:06.000Z",
+          "wordCount": null,
+          "title": "4.5 Billion Years in 1 Hour",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Qtmrp_4BKRQ",
           "author": null,
@@ -446,6 +456,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YYZnoe4ZNv4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YYZnoe4ZNv4",
+          "publishedOn": "2023-11-10T21:00:07.000Z",
+          "wordCount": null,
+          "title": "Mind Over Molecules: The Biology of Memory",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BYVMulMNZMs",
           "author": null,
