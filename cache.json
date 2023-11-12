@@ -120,6 +120,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pAti0DhyHhg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pAti0DhyHhg",
+          "publishedOn": "2023-11-11T10:00:41.000Z",
+          "wordCount": null,
+          "title": "An asteroid impact on a partially flooded Moon",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=afTYcINzRBc",
           "author": null,
           "description": "",
@@ -257,16 +267,6 @@
           "publishedOn": "2023-10-28T09:00:22.000Z",
           "wordCount": null,
           "title": "An asteroid impact at Point Nemo, 2D representation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rz79xi7_M3o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rz79xi7_M3o",
-          "publishedOn": "2023-10-27T09:00:17.000Z",
-          "wordCount": null,
-          "title": "A plasma with Coulomb interaction in an electric and magnetic fields",
           "imageUrl": null
         }
       ]
@@ -437,16 +437,6 @@
           "publishedOn": "2023-08-22T18:11:25.000Z",
           "wordCount": null,
           "title": "Kelly Moran Performs in Tin Drum: Medusa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xyWaAKSDZtI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xyWaAKSDZtI",
-          "publishedOn": "2023-08-14T09:01:12.000Z",
-          "wordCount": null,
-          "title": "PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays",
           "imageUrl": null
         }
       ]
