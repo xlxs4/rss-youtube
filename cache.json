@@ -120,6 +120,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=L8UH7EdSH70",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L8UH7EdSH70",
+          "publishedOn": "2023-11-12T10:00:23.000Z",
+          "wordCount": null,
+          "title": "Forming \"molecules\" by increasing the Coulomb interaction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pAti0DhyHhg",
           "author": null,
           "description": "",
@@ -257,16 +267,6 @@
           "publishedOn": "2023-10-29T10:00:15.000Z",
           "wordCount": null,
           "title": "A first attempt at simulating the Coandă effect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KFLhiMJ84ao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KFLhiMJ84ao",
-          "publishedOn": "2023-10-28T09:00:22.000Z",
-          "wordCount": null,
-          "title": "An asteroid impact at Point Nemo, 2D representation",
           "imageUrl": null
         }
       ]
@@ -409,6 +409,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Oqqj_gTGTcE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Oqqj_gTGTcE",
+          "publishedOn": "2023-11-09T14:31:54.000Z",
+          "wordCount": null,
+          "title": "PW Broadcast Radio Hour: Mckenzie Wark in conversation with Jordan Kisner",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=YXFyKcBYk14",
           "author": null,
