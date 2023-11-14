@@ -112,13 +112,34 @@
       "title": "Alexander Gustafsson",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KT0_BKvvY6g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KT0_BKvvY6g",
+          "publishedOn": "2023-11-13T21:13:14.000Z",
+          "wordCount": null,
+          "title": "Bad stringart",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nils Berglund",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F9WKziomMYs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F9WKziomMYs",
+          "publishedOn": "2023-11-13T10:00:15.000Z",
+          "wordCount": null,
+          "title": "Flooding Venus",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=L8UH7EdSH70",
           "author": null,
@@ -257,16 +278,6 @@
           "publishedOn": "2023-10-30T10:00:00.000Z",
           "wordCount": null,
           "title": "An asteroid impact on a partially flooded Mars",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VkLQYHdpiZY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VkLQYHdpiZY",
-          "publishedOn": "2023-10-29T10:00:15.000Z",
-          "wordCount": null,
-          "title": "A first attempt at simulating the Coandă effect",
           "imageUrl": null
         }
       ]
@@ -414,7 +425,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=Oqqj_gTGTcE",
-          "publishedOn": "2023-11-09T14:31:54.000Z",
+          "publishedOn": "2023-11-13T09:51:23.000Z",
           "wordCount": null,
           "title": "PW Broadcast Radio Hour: Mckenzie Wark in conversation with Jordan Kisner",
           "imageUrl": null

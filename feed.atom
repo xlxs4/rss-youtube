@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-13T00:05:08.227Z</id>
+    <id>urn:2023-11-14T00:04:38.735Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-11-13T00:05:08.227Z</updated>
+    <updated>2023-11-14T00:04:38.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bad stringart]]></title>
+        <id>https://www.youtube.com/watch?v=KT0_BKvvY6g</id>
+        <link href="https://www.youtube.com/watch?v=KT0_BKvvY6g"/>
+        <updated>2023-11-13T21:13:14.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flooding Venus]]></title>
+        <id>https://www.youtube.com/watch?v=F9WKziomMYs</id>
+        <link href="https://www.youtube.com/watch?v=F9WKziomMYs"/>
+        <updated>2023-11-13T10:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PW Broadcast Radio Hour: Mckenzie Wark in conversation with Jordan Kisner]]></title>
+        <id>https://www.youtube.com/watch?v=Oqqj_gTGTcE</id>
+        <link href="https://www.youtube.com/watch?v=Oqqj_gTGTcE"/>
+        <updated>2023-11-13T09:51:23.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forming "molecules" by increasing the Coulomb interaction]]></title>
         <id>https://www.youtube.com/watch?v=L8UH7EdSH70</id>
@@ -48,15 +75,6 @@
         <updated>2023-11-10T16:15:06.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PW Broadcast Radio Hour: Mckenzie Wark in conversation with Jordan Kisner]]></title>
-        <id>https://www.youtube.com/watch?v=Oqqj_gTGTcE</id>
-        <link href="https://www.youtube.com/watch?v=Oqqj_gTGTcE"/>
-        <updated>2023-11-09T14:31:54.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
@@ -172,15 +190,6 @@
         <id>https://www.youtube.com/watch?v=-6Tf3uHwUbY</id>
         <link href="https://www.youtube.com/watch?v=-6Tf3uHwUbY"/>
         <updated>2023-10-30T10:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A first attempt at simulating the Coandă effect]]></title>
-        <id>https://www.youtube.com/watch?v=VkLQYHdpiZY</id>
-        <link href="https://www.youtube.com/watch?v=VkLQYHdpiZY"/>
-        <updated>2023-10-29T10:00:15.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
