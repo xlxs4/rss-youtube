@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NmK07AueTfI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NmK07AueTfI",
+          "publishedOn": "2023-11-17T10:00:15.000Z",
+          "wordCount": null,
+          "title": "An asteroid impact on a partially flooded Venus",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2K0r7m9PfTM",
           "author": null,
           "description": "",
@@ -268,16 +278,6 @@
           "publishedOn": "2023-11-03T10:00:49.000Z",
           "wordCount": null,
           "title": "The Tambora eruption: What waves of the event causing the year without a summer may have looked like",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Umaz1RsRyB8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Umaz1RsRyB8",
-          "publishedOn": "2023-11-02T10:00:23.000Z",
-          "wordCount": null,
-          "title": "An improved simulation of the Coandă effect",
           "imageUrl": null
         }
       ]
@@ -477,6 +477,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yNNXia9IrZs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yNNXia9IrZs",
+          "publishedOn": "2023-11-17T22:41:18.000Z",
+          "wordCount": null,
+          "title": "String Theory, Quantum Gravity and Black Holes (Or, Are We Holograms?)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=YYZnoe4ZNv4",
           "author": null,
