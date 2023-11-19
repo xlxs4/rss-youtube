@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KIJt4heZCHc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KIJt4heZCHc",
+          "publishedOn": "2023-11-18T10:00:26.000Z",
+          "wordCount": null,
+          "title": "An illustration of the Hall effect",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NmK07AueTfI",
           "author": null,
           "description": "",
@@ -268,16 +278,6 @@
           "publishedOn": "2023-11-04T10:00:32.000Z",
           "wordCount": null,
           "title": "Charged particles forming \"molecules\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uYcpSxWLzqI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uYcpSxWLzqI",
-          "publishedOn": "2023-11-03T10:00:49.000Z",
-          "wordCount": null,
-          "title": "The Tambora eruption: What waves of the event causing the year without a summer may have looked like",
           "imageUrl": null
         }
       ]
@@ -585,6 +585,46 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CCer1Pqllig",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CCer1Pqllig",
+          "publishedOn": "2023-11-18T11:26:40.000Z",
+          "wordCount": null,
+          "title": "Clapeyron.jl: An extensible, open-source fluid-thermodynamics toolkit - Third DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rLx5bCMeLDc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rLx5bCMeLDc",
+          "publishedOn": "2023-11-18T07:00:10.000Z",
+          "wordCount": null,
+          "title": "Machine Learning in Differential Equations for Optimal Control  - Third DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iwFMg-rCWNg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iwFMg-rCWNg",
+          "publishedOn": "2023-11-18T06:36:34.000Z",
+          "wordCount": null,
+          "title": "Handling Temporal Data with DataFrames.jl - Bogumił Kamiński - Third DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jVDL6lloBOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jVDL6lloBOc",
+          "publishedOn": "2023-11-18T05:57:16.000Z",
+          "wordCount": null,
+          "title": "Auto-Completing Models to Uncover Missing Physics - Vinicius Santana - Third DigiWell Julia Seminar",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T-p-wPiTdeA",
           "author": null,
           "description": "",
@@ -692,46 +732,6 @@
           "publishedOn": "2023-10-13T19:04:00.000Z",
           "wordCount": null,
           "title": "Accessing astronomy tools from Julia | Alexander (Sasha) Plavin | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NmSgl2iLQu8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NmSgl2iLQu8",
-          "publishedOn": "2023-10-13T19:03:57.000Z",
-          "wordCount": null,
-          "title": "Adaptive Radio Science with Julia | Frank Lind | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AzQCVWFI1bI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AzQCVWFI1bI",
-          "publishedOn": "2023-10-13T18:03:16.000Z",
-          "wordCount": null,
-          "title": "Imaging Black Holes with the Event Horizon Telescope | Paul Tiede | JuliaCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9JWpHOk6OsU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9JWpHOk6OsU",
-          "publishedOn": "2023-10-04T16:27:29.000Z",
-          "wordCount": null,
-          "title": "JuliaCon 2023 Keynote: Dr. Stephen Wolfram",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GKKpB07GHmU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GKKpB07GHmU",
-          "publishedOn": "2023-09-28T04:11:59.000Z",
-          "wordCount": null,
-          "title": "Running Julia Code Baremetal on an Arduino | Valentin Bogad | JuliaCon 2023",
           "imageUrl": null
         }
       ]
