@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Pxrw6G2DhPA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pxrw6G2DhPA",
+          "publishedOn": "2023-11-19T10:00:14.000Z",
+          "wordCount": null,
+          "title": "Using waves with an oscillating source to \"solve\" a maze on a sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KIJt4heZCHc",
           "author": null,
           "description": "",
@@ -268,16 +278,6 @@
           "publishedOn": "2023-11-05T19:00:07.000Z",
           "wordCount": null,
           "title": "Tutorial: Markov chains, some examples and basic properties",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YKcha0l9Edo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YKcha0l9Edo",
-          "publishedOn": "2023-11-04T10:00:32.000Z",
-          "wordCount": null,
-          "title": "Charged particles forming \"molecules\"",
           "imageUrl": null
         }
       ]

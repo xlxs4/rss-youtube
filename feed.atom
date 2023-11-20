@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-19T00:05:00.224Z</id>
+    <id>urn:2023-11-20T00:05:32.613Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-11-19T00:05:00.224Z</updated>
+    <updated>2023-11-20T00:05:32.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using waves with an oscillating source to "solve" a maze on a sphere]]></title>
+        <id>https://www.youtube.com/watch?v=Pxrw6G2DhPA</id>
+        <link href="https://www.youtube.com/watch?v=Pxrw6G2DhPA"/>
+        <updated>2023-11-19T10:00:14.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clapeyron.jl: An extensible, open-source fluid-thermodynamics toolkit - Third DigiWell Julia Seminar]]></title>
         <id>https://www.youtube.com/watch?v=CCer1Pqllig</id>
@@ -235,15 +244,6 @@
         <id>https://www.youtube.com/watch?v=K7rOq1bGcr0</id>
         <link href="https://www.youtube.com/watch?v=K7rOq1bGcr0"/>
         <updated>2023-11-05T19:00:07.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charged particles forming "molecules"]]></title>
-        <id>https://www.youtube.com/watch?v=YKcha0l9Edo</id>
-        <link href="https://www.youtube.com/watch?v=YKcha0l9Edo"/>
-        <updated>2023-11-04T10:00:32.000Z</updated>
         <author>
             <name>Nils Berglund</name>
         </author>
