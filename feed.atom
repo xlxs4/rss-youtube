@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-21T00:04:56.132Z</id>
+    <id>urn:2023-11-22T00:05:03.966Z</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-11-21T00:04:56.132Z</updated>
+    <updated>2023-11-22T00:05:03.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is different about the Julia programming language? - JuliaHEP Workshop, Stefan Karpinski]]></title>
+        <id>https://www.youtube.com/watch?v=FhaGK3Sd6ow</id>
+        <link href="https://www.youtube.com/watch?v=FhaGK3Sd6ow"/>
+        <updated>2023-11-21T21:33:09.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liz Magic Laser | Convulsive States]]></title>
+        <id>https://www.youtube.com/watch?v=y27REk0tvAU</id>
+        <link href="https://www.youtube.com/watch?v=y27REk0tvAU"/>
+        <updated>2023-11-21T20:24:20.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maintaining Large Scale Julia Ecosystems - JuliaHEP Workshop, Chris Rackauckas]]></title>
+        <id>https://www.youtube.com/watch?v=fQJrEQIRPZU</id>
+        <link href="https://www.youtube.com/watch?v=fQJrEQIRPZU"/>
+        <updated>2023-11-21T20:00:56.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Thing To Ever Happen In The Universe]]></title>
+        <id>https://www.youtube.com/watch?v=FgnjdW-x7mQ</id>
+        <link href="https://www.youtube.com/watch?v=FgnjdW-x7mQ"/>
+        <updated>2023-11-21T15:00:01.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Numerical aperture of a lens]]></title>
+        <id>https://www.youtube.com/watch?v=8lCXNSl7G2o</id>
+        <link href="https://www.youtube.com/watch?v=8lCXNSl7G2o"/>
+        <updated>2023-11-21T10:00:07.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Between molecules and crystals]]></title>
         <id>https://www.youtube.com/watch?v=d9mslkrZqtY</id>
@@ -231,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Tambora eruption - 3D view of the waves of the event that caused the year without a summer]]></title>
-        <id>https://www.youtube.com/watch?v=reLBOBDRxms</id>
-        <link href="https://www.youtube.com/watch?v=reLBOBDRxms"/>
-        <updated>2023-11-06T10:00:40.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing Spacetime Diagrams in Relativity]]></title>
         <id>https://www.youtube.com/watch?v=lGLnCJPkHrM</id>
         <link href="https://www.youtube.com/watch?v=lGLnCJPkHrM"/>
@@ -375,15 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ML Community Call (2023-10-20)]]></title>
-        <id>https://www.youtube.com/watch?v=ZcctnWm2P_8</id>
-        <link href="https://www.youtube.com/watch?v=ZcctnWm2P_8"/>
-        <updated>2023-10-21T13:44:05.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Glimpse Into Our Future]]></title>
         <id>https://www.youtube.com/watch?v=Qtmrp_4BKRQ</id>
         <link href="https://www.youtube.com/watch?v=Qtmrp_4BKRQ"/>
@@ -399,15 +426,6 @@
         <updated>2023-10-13T20:00:11.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessing astronomy tools from Julia | Alexander (Sasha) Plavin | JuliaCon 2023]]></title>
-        <id>https://www.youtube.com/watch?v=CX4JowKKa_0</id>
-        <link href="https://www.youtube.com/watch?v=CX4JowKKa_0"/>
-        <updated>2023-10-13T19:04:00.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
         </author>
     </entry>
     <entry>
@@ -642,15 +660,6 @@
         <updated>2023-08-31T21:40:50.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Neural ODE / UDE: Improved Parallelism and Memory Performance Differentiating Stiff ODEs]]></title>
-        <id>https://www.youtube.com/watch?v=_qmcEDezSI8</id>
-        <link href="https://www.youtube.com/watch?v=_qmcEDezSI8"/>
-        <updated>2023-08-24T09:13:03.000Z</updated>
-        <author>
-            <name>Chris Rackauckas</name>
         </author>
     </entry>
 </feed>

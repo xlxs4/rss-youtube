@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8lCXNSl7G2o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8lCXNSl7G2o",
+          "publishedOn": "2023-11-21T10:00:07.000Z",
+          "wordCount": null,
+          "title": "Numerical aperture of a lens",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=d9mslkrZqtY",
           "author": null,
           "description": "",
@@ -269,16 +279,6 @@
           "wordCount": null,
           "title": "An improved simulation of the Coandă effect - Kinetic energy and velocity",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=reLBOBDRxms",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=reLBOBDRxms",
-          "publishedOn": "2023-11-06T10:00:40.000Z",
-          "wordCount": null,
-          "title": "The Tambora eruption - 3D view of the waves of the event that caused the year without a summer",
-          "imageUrl": null
         }
       ]
     },
@@ -314,6 +314,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FgnjdW-x7mQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FgnjdW-x7mQ",
+          "publishedOn": "2023-11-21T15:00:01.000Z",
+          "wordCount": null,
+          "title": "The Last Thing To Ever Happen In The Universe",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tybKnGZRwcU",
           "author": null,
@@ -410,6 +420,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=y27REk0tvAU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y27REk0tvAU",
+          "publishedOn": "2023-11-21T20:24:20.000Z",
+          "wordCount": null,
+          "title": "Liz Magic Laser | Convulsive States",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=M47tquB44ys",
           "author": null,
@@ -565,6 +585,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FhaGK3Sd6ow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FhaGK3Sd6ow",
+          "publishedOn": "2023-11-21T21:33:09.000Z",
+          "wordCount": null,
+          "title": "What is different about the Julia programming language? - JuliaHEP Workshop, Stefan Karpinski",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fQJrEQIRPZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fQJrEQIRPZU",
+          "publishedOn": "2023-11-21T20:00:56.000Z",
+          "wordCount": null,
+          "title": "Maintaining Large Scale Julia Ecosystems - JuliaHEP Workshop, Chris Rackauckas",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CCer1Pqllig",
           "author": null,
           "description": "",
@@ -693,26 +733,6 @@
           "wordCount": null,
           "title": "How Simple Should Using Ferrite Get? | Knut Andreas Meyer | FerriteCon 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZcctnWm2P_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZcctnWm2P_8",
-          "publishedOn": "2023-10-21T13:44:05.000Z",
-          "wordCount": null,
-          "title": "ML Community Call (2023-10-20)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CX4JowKKa_0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CX4JowKKa_0",
-          "publishedOn": "2023-10-13T19:04:00.000Z",
-          "wordCount": null,
-          "title": "Accessing astronomy tools from Julia | Alexander (Sasha) Plavin | JuliaCon 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -729,16 +749,6 @@
           "publishedOn": "2023-09-05T14:54:39.000Z",
           "wordCount": null,
           "title": "Improving Model Discovery with Imposed Structures in Scientific Machine Learning | ML4Science",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_qmcEDezSI8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_qmcEDezSI8",
-          "publishedOn": "2023-08-24T09:13:03.000Z",
-          "wordCount": null,
-          "title": "Fast Neural ODE / UDE: Improved Parallelism and Memory Performance Differentiating Stiff ODEs",
           "imageUrl": null
         }
       ]
