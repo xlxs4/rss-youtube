@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZIK6i7wSotY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZIK6i7wSotY",
+          "publishedOn": "2023-11-24T10:00:27.000Z",
+          "wordCount": null,
+          "title": "Compressing charged molecules",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wMVdg3R_hn4",
           "author": null,
           "description": "",
@@ -268,16 +278,6 @@
           "publishedOn": "2023-11-10T19:00:10.000Z",
           "wordCount": null,
           "title": "Video #1000: A look back at some milestones",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kicn2fX11CI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kicn2fX11CI",
-          "publishedOn": "2023-11-09T10:00:46.000Z",
-          "wordCount": null,
-          "title": "Particles of larger charge forming \"molecules\"",
           "imageUrl": null
         }
       ]
@@ -477,6 +477,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EGDG3hgPNp8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EGDG3hgPNp8",
+          "publishedOn": "2023-11-24T21:00:11.000Z",
+          "wordCount": null,
+          "title": "AI: Grappling with a New Kind of Intelligence",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yNNXia9IrZs",
           "author": null,
