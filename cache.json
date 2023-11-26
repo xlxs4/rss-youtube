@@ -131,13 +131,43 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RbojFORps98",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RbojFORps98",
+          "publishedOn": "2023-11-25T20:15:20.000Z",
+          "wordCount": null,
+          "title": "Numerical aperture of a lens in a wall (re-upload)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=89TdJ-Q5C8E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=89TdJ-Q5C8E",
+          "publishedOn": "2023-11-25T20:08:07.000Z",
+          "wordCount": null,
+          "title": "Compressing charged molecules (re-upload)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5WEZTy_Lr6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5WEZTy_Lr6M",
+          "publishedOn": "2023-11-25T10:00:05.000Z",
+          "wordCount": null,
+          "title": "Numerical aperture of a lens in a wall (corrupted version)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZIK6i7wSotY",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=ZIK6i7wSotY",
           "publishedOn": "2023-11-24T10:00:27.000Z",
           "wordCount": null,
-          "title": "Compressing charged molecules",
+          "title": "Compressing charged molecules (corrupted version)",
           "imageUrl": null
         },
         {
@@ -248,36 +278,6 @@
           "publishedOn": "2023-11-13T10:00:15.000Z",
           "wordCount": null,
           "title": "Flooding Venus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L8UH7EdSH70",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L8UH7EdSH70",
-          "publishedOn": "2023-11-12T10:00:23.000Z",
-          "wordCount": null,
-          "title": "Forming \"molecules\" by increasing the Coulomb interaction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pAti0DhyHhg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pAti0DhyHhg",
-          "publishedOn": "2023-11-11T10:00:41.000Z",
-          "wordCount": null,
-          "title": "An asteroid impact on a partially flooded Moon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=afTYcINzRBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=afTYcINzRBc",
-          "publishedOn": "2023-11-10T19:00:10.000Z",
-          "wordCount": null,
-          "title": "Video #1000: A look back at some milestones",
           "imageUrl": null
         }
       ]
