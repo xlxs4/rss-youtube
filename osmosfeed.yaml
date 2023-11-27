@@ -1,9 +1,4 @@
-#########################
-# Full reference
-# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
-#########################
-
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://xlxs4.github.io/rss-youtube/cache.json
 cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
 sources:
   # IMPORANT: this template only supports youtube channel RSS. Other types of sources will result in undefined behavior.
@@ -30,11 +25,31 @@ sources:
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCugBGdUbn6PeH03iPZtr-JQ # Christopher Rackauckas
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA # JuliaHub
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g # Nanorooms
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCQwQVlIkbalDzmMnr-0tRhw # Doggo dot jl
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCV4Rx1m-9HmtqHET7GjnVOA # braintruffle
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCNvdCNU9BJA2B1nQIoKLHBg # JumpTrajectory
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg # Real Engineering
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCGf8h5mBIUbD3svNnS73v9g # CPTuebingen
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCCrnCItH17W-64FDzjwOi5w # The Science Elf
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCNOVwMpD-5A1xzcQGbIHNeA # Design Doc
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCyvj4gSHxaJlZGISiqtwJ7A # Ewoud
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw # Game Maker's Toolkit
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w # Programmers are also human
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCFkqQf_Ie5PN4l146ajnujg # Tim Holy
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCwBhBDsqiQflTMLy2epbQVw # Emergent Garden
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g # Craig Perko
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw # Runesmith
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCpL1A9fSlFjItQ1br_5tzpg # ETH D-BSSE
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCZAKamhQSAyorB7UI1DZJ_w # SynBio Oxford
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA # No Boilerplate
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCUdkjbeIFea0qUSgwR1CUOg # Studying With Alex
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCQhWCvyh1ihbG9Ezl5cE8ag # Yak Razor
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCoTo2gtN527CXhe7jbP6hUg # Visually Explained
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCj1G_-P9EIMs4VpcgcOPxRw # Steven Strogatz
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCzom0WU7Ff1Fgd7EGObh5uA # (Uri) Alon Lab
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCu7Zwf4X_OQ-TEnou0zdyRA # Morphocular
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC56l7uZA209tlPTVOJiJ8Tw # Low Byte Productions
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCg2NGO_2F1c3vQvT8_kzy5w # Andy Fillebrown
 
-# `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "A curated list of longer ramblings"
-
-# `timezone`: Specify your local timezone so server can group content by weekday
-# Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-# Examples: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
 timezone: Europe/Athens
