@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-27T00:04:46.612Z</id>
+    <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-11-27T00:04:46.612Z</updated>
+    <updated>2023-11-27T08:23:37.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
+    <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[10x25] How to use an Anonymous Function in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=Dv_ABu4SUhc</id>
+        <link href="https://www.youtube.com/watch?v=Dv_ABu4SUhc"/>
+        <updated>2023-11-26T16:02:00.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x24] What does "Multiple Dispatch" mean in Julia?]]></title>
+        <id>https://www.youtube.com/watch?v=hesjQz__yb8</id>
+        <link href="https://www.youtube.com/watch?v=hesjQz__yb8"/>
+        <updated>2023-11-26T16:01:31.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x23] How to use a Function in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=p5FSG_uofc4</id>
+        <link href="https://www.youtube.com/watch?v=p5FSG_uofc4"/>
+        <updated>2023-11-26T16:01:01.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Hall effect with an increasing magnetic field]]></title>
         <id>https://www.youtube.com/watch?v=rmfo8cdgZa8</id>
@@ -87,12 +115,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Finding Velocity On a Sphere Using a 3D Euler's Formula]]></title>
+        <id>https://www.youtube.com/watch?v=i0cp3iQXSk8</id>
+        <link href="https://www.youtube.com/watch?v=i0cp3iQXSk8"/>
+        <updated>2023-11-22T21:55:03.000Z</updated>
+        <author>
+            <name>Morphocular</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Hall effect with an increasing electric field]]></title>
         <id>https://www.youtube.com/watch?v=oJ5yaLnzgKM</id>
         <link href="https://www.youtube.com/watch?v=oJ5yaLnzgKM"/>
         <updated>2023-11-22T10:00:38.000Z</updated>
         <author>
             <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Immortal Goblin]]></title>
+        <id>https://www.youtube.com/watch?v=jZB0rVhNv4I</id>
+        <link href="https://www.youtube.com/watch?v=jZB0rVhNv4I"/>
+        <updated>2023-11-21T23:23:11.000Z</updated>
+        <author>
+            <name>Runesmith</name>
         </author>
     </entry>
     <entry>
@@ -141,12 +187,48 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[This Experimental Plane Crashed in 1956 - Bell X-2]]></title>
+        <id>https://www.youtube.com/watch?v=SU0YDwdUE-s</id>
+        <link href="https://www.youtube.com/watch?v=SU0YDwdUE-s"/>
+        <updated>2023-11-20T18:02:21.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Between molecules and crystals]]></title>
         <id>https://www.youtube.com/watch?v=d9mslkrZqtY</id>
         <link href="https://www.youtube.com/watch?v=d9mslkrZqtY"/>
         <updated>2023-11-20T10:00:33.000Z</updated>
         <author>
             <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x22] How to use a Comprehension in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=yDgBvFJcDqg</id>
+        <link href="https://www.youtube.com/watch?v=yDgBvFJcDqg"/>
+        <updated>2023-11-19T16:02:00.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x21] How to use Control Flow in Julia: For Loop over collection]]></title>
+        <id>https://www.youtube.com/watch?v=2ixUMtFttsI</id>
+        <link href="https://www.youtube.com/watch?v=2ixUMtFttsI"/>
+        <updated>2023-11-19T16:01:30.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x20] How to use Control Flow in Julia: For Loop (for...end)]]></title>
+        <id>https://www.youtube.com/watch?v=4cg9UuG2G4g</id>
+        <link href="https://www.youtube.com/watch?v=4cg9UuG2G4g"/>
+        <updated>2023-11-19T16:01:00.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
         </author>
     </entry>
     <entry>
@@ -213,12 +295,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ADHD: A Left-handed Brain]]></title>
+        <id>https://www.youtube.com/watch?v=Ck9FMtIGVxQ</id>
+        <link href="https://www.youtube.com/watch?v=Ck9FMtIGVxQ"/>
+        <updated>2023-11-17T19:54:07.000Z</updated>
+        <author>
+            <name>No Boilerplate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Seeker's Guide to Enchanting Emporiums - Musical Trailer]]></title>
+        <id>https://www.youtube.com/watch?v=HLk7BWCl_Eo</id>
+        <link href="https://www.youtube.com/watch?v=HLk7BWCl_Eo"/>
+        <updated>2023-11-17T19:22:22.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[An asteroid impact on a partially flooded Venus]]></title>
         <id>https://www.youtube.com/watch?v=NmK07AueTfI</id>
         <link href="https://www.youtube.com/watch?v=NmK07AueTfI"/>
         <updated>2023-11-17T10:00:15.000Z</updated>
         <author>
             <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stormworks Automated Driller/Refinery]]></title>
+        <id>https://www.youtube.com/watch?v=M7f3ZHeWw6U</id>
+        <link href="https://www.youtube.com/watch?v=M7f3ZHeWw6U"/>
+        <updated>2023-11-16T18:02:42.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
         </author>
     </entry>
     <entry>
@@ -258,6 +367,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The one thing you need to finish your game]]></title>
+        <id>https://www.youtube.com/watch?v=B6auN-GIUeM</id>
+        <link href="https://www.youtube.com/watch?v=B6auN-GIUeM"/>
+        <updated>2023-11-14T16:10:56.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ionization of a gas by an increasing electric field]]></title>
         <id>https://www.youtube.com/watch?v=e9_DFqLy0wA</id>
         <link href="https://www.youtube.com/watch?v=e9_DFqLy0wA"/>
@@ -282,6 +400,51 @@
         <updated>2023-11-13T09:51:23.000Z</updated>
         <author>
             <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil Processing in Stormworks]]></title>
+        <id>https://www.youtube.com/watch?v=0L3VQnNHK30</id>
+        <link href="https://www.youtube.com/watch?v=0L3VQnNHK30"/>
+        <updated>2023-11-12T23:52:30.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x19] How to use Control Flow in Julia: While Loop (while...end)]]></title>
+        <id>https://www.youtube.com/watch?v=6ujWpbQZX4s</id>
+        <link href="https://www.youtube.com/watch?v=6ujWpbQZX4s"/>
+        <updated>2023-11-12T16:01:59.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x18] How to use Control Flow in Julia: Ternary Operator (a ? b : c)]]></title>
+        <id>https://www.youtube.com/watch?v=F6gbda3quSE</id>
+        <link href="https://www.youtube.com/watch?v=F6gbda3quSE"/>
+        <updated>2023-11-12T16:01:29.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x17] How to use Control Flow in Julia: if Expression (if...elseif...else...end)]]></title>
+        <id>https://www.youtube.com/watch?v=6d8YheLvO-I</id>
+        <link href="https://www.youtube.com/watch?v=6d8YheLvO-I"/>
+        <updated>2023-11-12T16:01:05.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DnD's Worst Monster]]></title>
+        <id>https://www.youtube.com/watch?v=ivFq_XikUSY</id>
+        <link href="https://www.youtube.com/watch?v=ivFq_XikUSY"/>
+        <updated>2023-11-11T20:09:07.000Z</updated>
+        <author>
+            <name>Runesmith</name>
         </author>
     </entry>
     <entry>
@@ -312,6 +475,78 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DnDs Most Overlooked Monster]]></title>
+        <id>https://www.youtube.com/watch?v=Vednrgdb6vA</id>
+        <link href="https://www.youtube.com/watch?v=Vednrgdb6vA"/>
+        <updated>2023-11-05T21:21:07.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x16] How to use a struct in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=e5_PUNZdDsQ</id>
+        <link href="https://www.youtube.com/watch?v=e5_PUNZdDsQ"/>
+        <updated>2023-11-05T16:01:31.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x15] How to use a Dictionary in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=aY1zKGEP1cI</id>
+        <link href="https://www.youtube.com/watch?v=aY1zKGEP1cI"/>
+        <updated>2023-11-05T16:01:01.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Insane Engineering of the F-16]]></title>
+        <id>https://www.youtube.com/watch?v=EhhOin2p5Qs</id>
+        <link href="https://www.youtube.com/watch?v=EhhOin2p5Qs"/>
+        <updated>2023-11-04T14:00:13.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting up in another processes memory]]></title>
+        <id>https://www.youtube.com/watch?v=0ihChIaN8d0</id>
+        <link href="https://www.youtube.com/watch?v=0ihChIaN8d0"/>
+        <updated>2023-11-04T08:35:04.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex analysis: Cauchy's theorem]]></title>
+        <id>https://www.youtube.com/watch?v=AjrkNlgwT_U</id>
+        <link href="https://www.youtube.com/watch?v=AjrkNlgwT_U"/>
+        <updated>2023-10-31T21:25:04.000Z</updated>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex analysis: Jordan's lemma]]></title>
+        <id>https://www.youtube.com/watch?v=C5rukxDDW8U</id>
+        <link href="https://www.youtube.com/watch?v=C5rukxDDW8U"/>
+        <updated>2023-10-31T20:59:45.000Z</updated>
+        <author>
+            <name>Steven Strogatz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎃 Monsters, Ghosts, and Project Managers (a Modem Prometheus Story)]]></title>
+        <id>https://www.youtube.com/watch?v=7pcbRQ4L4vc</id>
+        <link href="https://www.youtube.com/watch?v=7pcbRQ4L4vc"/>
+        <updated>2023-10-31T18:14:28.000Z</updated>
+        <author>
+            <name>No Boilerplate</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The recursion formula behind life itself?]]></title>
         <id>https://www.youtube.com/watch?v=OMB1JLIdwNA</id>
         <link href="https://www.youtube.com/watch?v=OMB1JLIdwNA"/>
@@ -321,12 +556,66 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Makes A Good Super Move?]]></title>
+        <id>https://www.youtube.com/watch?v=ejXt7PwSvvo</id>
+        <link href="https://www.youtube.com/watch?v=ejXt7PwSvvo"/>
+        <updated>2023-10-30T15:00:35.000Z</updated>
+        <author>
+            <name>Design Doc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x14] How to use NamedTuples in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=eDajDqpiaoc</id>
+        <link href="https://www.youtube.com/watch?v=eDajDqpiaoc"/>
+        <updated>2023-10-29T15:02:00.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x13] How to use Tuples in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=J-9bGo-nNyE</id>
+        <link href="https://www.youtube.com/watch?v=J-9bGo-nNyE"/>
+        <updated>2023-10-29T15:01:30.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x12] How to use Arrays in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=BUBNUB6cNYg</id>
+        <link href="https://www.youtube.com/watch?v=BUBNUB6cNYg"/>
+        <updated>2023-10-29T15:01:05.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AMR RMA 2: Chaim Goodman-Strauss]]></title>
         <id>https://www.youtube.com/watch?v=yPgsrDJ8Yus</id>
         <link href="https://www.youtube.com/watch?v=yPgsrDJ8Yus"/>
         <updated>2023-10-28T17:48:56.000Z</updated>
         <author>
             <name>Association for Mathematical Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memes, Genes, and Brain Viruses]]></title>
+        <id>https://www.youtube.com/watch?v=Y5OUS-pM9Mc</id>
+        <link href="https://www.youtube.com/watch?v=Y5OUS-pM9Mc"/>
+        <updated>2023-10-28T14:00:32.000Z</updated>
+        <author>
+            <name>Emergent Garden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The mechanics of VIRTUAL MEMORY //Source Dive// 005]]></title>
+        <id>https://www.youtube.com/watch?v=iTic6EV4DP8</id>
+        <link href="https://www.youtube.com/watch?v=iTic6EV4DP8"/>
+        <updated>2023-10-28T13:34:03.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
         </author>
     </entry>
     <entry>
@@ -411,12 +700,102 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stormworks Full Rocket Example]]></title>
+        <id>https://www.youtube.com/watch?v=GopeVZrO1kc</id>
+        <link href="https://www.youtube.com/watch?v=GopeVZrO1kc"/>
+        <updated>2023-10-25T00:36:10.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stormworks Rocketry and Space]]></title>
+        <id>https://www.youtube.com/watch?v=T_pG-3kmWMI</id>
+        <link href="https://www.youtube.com/watch?v=T_pG-3kmWMI"/>
+        <updated>2023-10-24T21:45:38.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How AI Learns to See Without Eyes]]></title>
         <id>https://www.youtube.com/watch?v=YOKPo-I6cgs</id>
         <link href="https://www.youtube.com/watch?v=YOKPo-I6cgs"/>
         <updated>2023-10-24T17:57:34.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A puzzle game where your tools are completely random]]></title>
+        <id>https://www.youtube.com/watch?v=2ZYAew_4tsc</id>
+        <link href="https://www.youtube.com/watch?v=2ZYAew_4tsc"/>
+        <updated>2023-10-23T16:18:18.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x11] How to use Characters and Strings in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=TW1vi0LZmxU</id>
+        <link href="https://www.youtube.com/watch?v=TW1vi0LZmxU"/>
+        <updated>2023-10-22T15:01:29.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Ukrainian Tractor Modified to Clear Mines]]></title>
+        <id>https://www.youtube.com/watch?v=ym1MkJBmPyo</id>
+        <link href="https://www.youtube.com/watch?v=ym1MkJBmPyo"/>
+        <updated>2023-10-22T13:01:20.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Painful Challenge of Demining Ukraine]]></title>
+        <id>https://www.youtube.com/watch?v=aWv5Itf2e8Y</id>
+        <link href="https://www.youtube.com/watch?v=aWv5Itf2e8Y"/>
+        <updated>2023-10-21T14:00:03.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning Pixels Into Waves]]></title>
+        <id>https://www.youtube.com/watch?v=5vzMgNAzEuA</id>
+        <link href="https://www.youtube.com/watch?v=5vzMgNAzEuA"/>
+        <updated>2023-10-21T11:31:43.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Werewolf Mysteries (D&D Monster Tactics)]]></title>
+        <id>https://www.youtube.com/watch?v=aW6yYtTx1ek</id>
+        <link href="https://www.youtube.com/watch?v=aW6yYtTx1ek"/>
+        <updated>2023-10-18T17:01:07.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Nintendo Designed Ultrahand]]></title>
+        <id>https://www.youtube.com/watch?v=pvOqTunOQB8</id>
+        <link href="https://www.youtube.com/watch?v=pvOqTunOQB8"/>
+        <updated>2023-10-18T15:13:29.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I felt very honoured, but I could not give up on all this”]]></title>
+        <id>https://www.youtube.com/watch?v=MO7l-RnVXKw</id>
+        <link href="https://www.youtube.com/watch?v=MO7l-RnVXKw"/>
+        <updated>2023-10-18T14:09:06.000Z</updated>
+        <author>
+            <name>Department of Biosystems Science, ETH Zurich</name>
         </author>
     </entry>
     <entry>
@@ -438,6 +817,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Unreasonable Effectiveness Of Plain Text]]></title>
+        <id>https://www.youtube.com/watch?v=WgV6M1LyfNY</id>
+        <link href="https://www.youtube.com/watch?v=WgV6M1LyfNY"/>
+        <updated>2023-10-13T16:04:38.000Z</updated>
+        <author>
+            <name>No Boilerplate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does KERNEL memory allocation work? //Source Dive// 004]]></title>
+        <id>https://www.youtube.com/watch?v=NC_qkXznvkg</id>
+        <link href="https://www.youtube.com/watch?v=NC_qkXznvkg"/>
+        <updated>2023-10-13T11:21:56.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Unlocking the Secrets of Our Circadian Rhythms]]></title>
         <id>https://www.youtube.com/watch?v=X_Mmfw3GSi8</id>
         <link href="https://www.youtube.com/watch?v=X_Mmfw3GSi8"/>
@@ -456,12 +853,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The First Plane To Travel Supersonic]]></title>
+        <id>https://www.youtube.com/watch?v=wfrF-2LzK6I</id>
+        <link href="https://www.youtube.com/watch?v=wfrF-2LzK6I"/>
+        <updated>2023-10-09T12:32:10.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PW Broadcast Radio Hour with Sasha Frere-Jones with Leon Dietsch Becker]]></title>
         <id>https://www.youtube.com/watch?v=YXFyKcBYk14</id>
         <link href="https://www.youtube.com/watch?v=YXFyKcBYk14"/>
         <updated>2023-10-09T09:12:35.000Z</updated>
         <author>
             <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basically Mummies]]></title>
+        <id>https://www.youtube.com/watch?v=bXLC29PR9HU</id>
+        <link href="https://www.youtube.com/watch?v=bXLC29PR9HU"/>
+        <updated>2023-10-07T18:21:06.000Z</updated>
+        <author>
+            <name>Runesmith</name>
         </author>
     </entry>
     <entry>
@@ -474,6 +889,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The World Design of Banjo-Kazooie]]></title>
+        <id>https://www.youtube.com/watch?v=36wclKt4vdk</id>
+        <link href="https://www.youtube.com/watch?v=36wclKt4vdk"/>
+        <updated>2023-10-04T14:54:14.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Korea is Dying Out]]></title>
         <id>https://www.youtube.com/watch?v=LBudghsdByQ</id>
         <link href="https://www.youtube.com/watch?v=LBudghsdByQ"/>
@@ -483,12 +907,75 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Improving the environmental footprint of the textile industry: Bio-indigo for blue jeans]]></title>
+        <id>https://www.youtube.com/watch?v=Iu_SmPIplYo</id>
+        <link href="https://www.youtube.com/watch?v=Iu_SmPIplYo"/>
+        <updated>2023-10-04T09:31:26.000Z</updated>
+        <author>
+            <name>Department of Biosystems Science, ETH Zurich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Incredible Potential of Superconductors]]></title>
+        <id>https://www.youtube.com/watch?v=tuEYQvEYR-M</id>
+        <link href="https://www.youtube.com/watch?v=tuEYQvEYR-M"/>
+        <updated>2023-09-30T14:00:40.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Console and printf() //Source Dive// 003]]></title>
+        <id>https://www.youtube.com/watch?v=uNp4DElDQyY</id>
+        <link href="https://www.youtube.com/watch?v=uNp4DElDQyY"/>
+        <updated>2023-09-30T11:14:59.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basically Cyclopes]]></title>
+        <id>https://www.youtube.com/watch?v=7IA7HMWDAJg</id>
+        <link href="https://www.youtube.com/watch?v=7IA7HMWDAJg"/>
+        <updated>2023-09-28T19:54:36.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can You Make Backtracking Fun?]]></title>
+        <id>https://www.youtube.com/watch?v=wM4WF4MnZCc</id>
+        <link href="https://www.youtube.com/watch?v=wM4WF4MnZCc"/>
+        <updated>2023-09-23T15:00:51.000Z</updated>
+        <author>
+            <name>Design Doc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programmatic Painting: Flow Fields]]></title>
+        <id>https://www.youtube.com/watch?v=M_SUcX66SDA</id>
+        <link href="https://www.youtube.com/watch?v=M_SUcX66SDA"/>
+        <updated>2023-09-23T09:09:59.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[System identification with Julia: 10 Time-varying parameters]]></title>
         <id>https://www.youtube.com/watch?v=zJcOPPLqv4A</id>
         <link href="https://www.youtube.com/watch?v=zJcOPPLqv4A"/>
         <updated>2023-09-23T06:32:10.000Z</updated>
         <author>
             <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basically Tanuki]]></title>
+        <id>https://www.youtube.com/watch?v=5RUbBsagGGU</id>
+        <link href="https://www.youtube.com/watch?v=5RUbBsagGGU"/>
+        <updated>2023-09-22T22:48:12.000Z</updated>
+        <author>
+            <name>Runesmith</name>
         </author>
     </entry>
     <entry>
@@ -510,12 +997,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A puzzle game where you decipher languages]]></title>
+        <id>https://www.youtube.com/watch?v=PeDNuITuJPA</id>
+        <link href="https://www.youtube.com/watch?v=PeDNuITuJPA"/>
+        <updated>2023-09-21T15:39:47.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[System identification with Julia: 7 Validation]]></title>
         <id>https://www.youtube.com/watch?v=MhTgXMn0bbo</id>
         <link href="https://www.youtube.com/watch?v=MhTgXMn0bbo"/>
         <updated>2023-09-21T12:24:44.000Z</updated>
         <author>
             <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switching Engines]]></title>
+        <id>https://www.youtube.com/watch?v=7b0XtjRhD3o</id>
+        <link href="https://www.youtube.com/watch?v=7b0XtjRhD3o"/>
+        <updated>2023-09-20T17:40:39.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
         </author>
     </entry>
     <entry>
@@ -555,6 +1060,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cozy Village Campaigns in DnD Done Right]]></title>
+        <id>https://www.youtube.com/watch?v=9StHDUxDJUQ</id>
+        <link href="https://www.youtube.com/watch?v=9StHDUxDJUQ"/>
+        <updated>2023-09-16T20:55:54.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a spinlock? //Source Dive// 002]]></title>
+        <id>https://www.youtube.com/watch?v=ZE9OODanrDA</id>
+        <link href="https://www.youtube.com/watch?v=ZE9OODanrDA"/>
+        <updated>2023-09-16T10:55:29.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quantum to the Cosmos: A Brief Tour of Everything]]></title>
         <id>https://www.youtube.com/watch?v=WGN4Jv5sWQI</id>
         <link href="https://www.youtube.com/watch?v=WGN4Jv5sWQI"/>
@@ -573,12 +1096,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How To Get Started: The Cult of Done]]></title>
+        <id>https://www.youtube.com/watch?v=bJQj1uKtnus</id>
+        <link href="https://www.youtube.com/watch?v=bJQj1uKtnus"/>
+        <updated>2023-09-15T09:27:37.000Z</updated>
+        <author>
+            <name>No Boilerplate</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[System identification with Julia: 2 Linear ARX models]]></title>
         <id>https://www.youtube.com/watch?v=ljrGtJPzlRk</id>
         <link href="https://www.youtube.com/watch?v=ljrGtJPzlRk"/>
         <updated>2023-09-14T14:42:18.000Z</updated>
         <author>
             <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using Unity?]]></title>
+        <id>https://www.youtube.com/watch?v=CGUsfGCeFAc</id>
+        <link href="https://www.youtube.com/watch?v=CGUsfGCeFAc"/>
+        <updated>2023-09-13T18:12:42.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
         </author>
     </entry>
     <entry>
@@ -591,6 +1132,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Make a Good 2D Camera]]></title>
+        <id>https://www.youtube.com/watch?v=TdWFzpgnljs</id>
+        <link href="https://www.youtube.com/watch?v=TdWFzpgnljs"/>
+        <updated>2023-09-12T15:37:37.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[We Did The Math - You Are Dead!]]></title>
         <id>https://www.youtube.com/watch?v=4Stzj2_Rlo4</id>
         <link href="https://www.youtube.com/watch?v=4Stzj2_Rlo4"/>
@@ -600,12 +1150,57 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ensembles #3: Adding Flavor]]></title>
+        <id>https://www.youtube.com/watch?v=eqTjE6ZfBO0</id>
+        <link href="https://www.youtube.com/watch?v=eqTjE6ZfBO0"/>
+        <updated>2023-09-11T16:38:57.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AMR-VDL 1 : Victor Kac : Exceptional de Rham Complexes]]></title>
         <id>https://www.youtube.com/watch?v=ekUX8HTL1JI</id>
         <link href="https://www.youtube.com/watch?v=ekUX8HTL1JI"/>
         <updated>2023-09-10T21:51:17.000Z</updated>
         <author>
             <name>Association for Mathematical Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensembles #2: Creation]]></title>
+        <id>https://www.youtube.com/watch?v=0ro6Xc2di6g</id>
+        <link href="https://www.youtube.com/watch?v=0ro6Xc2di6g"/>
+        <updated>2023-09-10T03:28:33.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensembles #1: Overview]]></title>
+        <id>https://www.youtube.com/watch?v=o_rO2bymbAE</id>
+        <link href="https://www.youtube.com/watch?v=o_rO2bymbAE"/>
+        <updated>2023-09-09T18:41:31.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA's Plan to Build A Telescope on the Moon]]></title>
+        <id>https://www.youtube.com/watch?v=qdJ_gJ_kPEI</id>
+        <link href="https://www.youtube.com/watch?v=qdJ_gJ_kPEI"/>
+        <updated>2023-09-09T15:00:41.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does an OS boot? //Source Dive// 001]]></title>
+        <id>https://www.youtube.com/watch?v=KkenLT8S9Hs</id>
+        <link href="https://www.youtube.com/watch?v=KkenLT8S9Hs"/>
+        <updated>2023-09-09T14:30:15.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
         </author>
     </entry>
     <entry>
@@ -633,6 +1228,15 @@
         <updated>2023-09-05T14:54:39.000Z</updated>
         <author>
             <name>Chris Rackauckas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D&D Summons Are Lifeless]]></title>
+        <id>https://www.youtube.com/watch?v=9gLjjKSu04E</id>
+        <link href="https://www.youtube.com/watch?v=9gLjjKSu04E"/>
+        <updated>2023-09-02T22:10:33.000Z</updated>
+        <author>
+            <name>Runesmith</name>
         </author>
     </entry>
     <entry>

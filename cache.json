@@ -886,6 +886,838 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "doggo dot jl",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwQVlIkbalDzmMnr-0tRhw",
+      "siteUrl": "https://www.youtube.com/channel/UCQwQVlIkbalDzmMnr-0tRhw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Dv_ABu4SUhc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dv_ABu4SUhc",
+          "publishedOn": "2023-11-26T16:02:00.000Z",
+          "wordCount": null,
+          "title": "[10x25] How to use an Anonymous Function in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hesjQz__yb8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hesjQz__yb8",
+          "publishedOn": "2023-11-26T16:01:31.000Z",
+          "wordCount": null,
+          "title": "[10x24] What does \"Multiple Dispatch\" mean in Julia?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p5FSG_uofc4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p5FSG_uofc4",
+          "publishedOn": "2023-11-26T16:01:01.000Z",
+          "wordCount": null,
+          "title": "[10x23] How to use a Function in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yDgBvFJcDqg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yDgBvFJcDqg",
+          "publishedOn": "2023-11-19T16:02:00.000Z",
+          "wordCount": null,
+          "title": "[10x22] How to use a Comprehension in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2ixUMtFttsI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2ixUMtFttsI",
+          "publishedOn": "2023-11-19T16:01:30.000Z",
+          "wordCount": null,
+          "title": "[10x21] How to use Control Flow in Julia: For Loop over collection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4cg9UuG2G4g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4cg9UuG2G4g",
+          "publishedOn": "2023-11-19T16:01:00.000Z",
+          "wordCount": null,
+          "title": "[10x20] How to use Control Flow in Julia: For Loop (for...end)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6ujWpbQZX4s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6ujWpbQZX4s",
+          "publishedOn": "2023-11-12T16:01:59.000Z",
+          "wordCount": null,
+          "title": "[10x19] How to use Control Flow in Julia: While Loop (while...end)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=F6gbda3quSE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F6gbda3quSE",
+          "publishedOn": "2023-11-12T16:01:29.000Z",
+          "wordCount": null,
+          "title": "[10x18] How to use Control Flow in Julia: Ternary Operator (a ? b : c)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6d8YheLvO-I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6d8YheLvO-I",
+          "publishedOn": "2023-11-12T16:01:05.000Z",
+          "wordCount": null,
+          "title": "[10x17] How to use Control Flow in Julia: if Expression (if...elseif...else...end)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=e5_PUNZdDsQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e5_PUNZdDsQ",
+          "publishedOn": "2023-11-05T16:01:31.000Z",
+          "wordCount": null,
+          "title": "[10x16] How to use a struct in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aY1zKGEP1cI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aY1zKGEP1cI",
+          "publishedOn": "2023-11-05T16:01:01.000Z",
+          "wordCount": null,
+          "title": "[10x15] How to use a Dictionary in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eDajDqpiaoc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eDajDqpiaoc",
+          "publishedOn": "2023-10-29T15:02:00.000Z",
+          "wordCount": null,
+          "title": "[10x14] How to use NamedTuples in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=J-9bGo-nNyE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J-9bGo-nNyE",
+          "publishedOn": "2023-10-29T15:01:30.000Z",
+          "wordCount": null,
+          "title": "[10x13] How to use Tuples in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BUBNUB6cNYg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BUBNUB6cNYg",
+          "publishedOn": "2023-10-29T15:01:05.000Z",
+          "wordCount": null,
+          "title": "[10x12] How to use Arrays in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TW1vi0LZmxU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TW1vi0LZmxU",
+          "publishedOn": "2023-10-22T15:01:29.000Z",
+          "wordCount": null,
+          "title": "[10x11] How to use Characters and Strings in Julia",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "braintruffle",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV4Rx1m-9HmtqHET7GjnVOA",
+      "siteUrl": "https://www.youtube.com/channel/UCV4Rx1m-9HmtqHET7GjnVOA",
+      "articles": []
+    },
+    {
+      "title": "Jump Trajectory",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvdCNU9BJA2B1nQIoKLHBg",
+      "siteUrl": "https://www.youtube.com/channel/UCNvdCNU9BJA2B1nQIoKLHBg",
+      "articles": []
+    },
+    {
+      "title": "Real Engineering",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
+      "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SU0YDwdUE-s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SU0YDwdUE-s",
+          "publishedOn": "2023-11-20T18:02:21.000Z",
+          "wordCount": null,
+          "title": "This Experimental Plane Crashed in 1956 - Bell X-2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EhhOin2p5Qs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EhhOin2p5Qs",
+          "publishedOn": "2023-11-04T14:00:13.000Z",
+          "wordCount": null,
+          "title": "The Insane Engineering of the F-16",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ym1MkJBmPyo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ym1MkJBmPyo",
+          "publishedOn": "2023-10-22T13:01:20.000Z",
+          "wordCount": null,
+          "title": "A Ukrainian Tractor Modified to Clear Mines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aWv5Itf2e8Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aWv5Itf2e8Y",
+          "publishedOn": "2023-10-21T14:00:03.000Z",
+          "wordCount": null,
+          "title": "The Painful Challenge of Demining Ukraine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wfrF-2LzK6I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wfrF-2LzK6I",
+          "publishedOn": "2023-10-09T12:32:10.000Z",
+          "wordCount": null,
+          "title": "The First Plane To Travel Supersonic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tuEYQvEYR-M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tuEYQvEYR-M",
+          "publishedOn": "2023-09-30T14:00:40.000Z",
+          "wordCount": null,
+          "title": "The Incredible Potential of Superconductors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qdJ_gJ_kPEI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qdJ_gJ_kPEI",
+          "publishedOn": "2023-09-09T15:00:41.000Z",
+          "wordCount": null,
+          "title": "NASA's Plan to Build A Telescope on the Moon",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "CPTuebingen",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGf8h5mBIUbD3svNnS73v9g",
+      "siteUrl": "https://www.youtube.com/channel/UCGf8h5mBIUbD3svNnS73v9g",
+      "articles": []
+    },
+    {
+      "title": "The Science Elf",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCrnCItH17W-64FDzjwOi5w",
+      "siteUrl": "https://www.youtube.com/channel/UCCrnCItH17W-64FDzjwOi5w",
+      "articles": []
+    },
+    {
+      "title": "Design Doc",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNOVwMpD-5A1xzcQGbIHNeA",
+      "siteUrl": "https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ejXt7PwSvvo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ejXt7PwSvvo",
+          "publishedOn": "2023-10-30T15:00:35.000Z",
+          "wordCount": null,
+          "title": "What Makes A Good Super Move?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wM4WF4MnZCc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wM4WF4MnZCc",
+          "publishedOn": "2023-09-23T15:00:51.000Z",
+          "wordCount": null,
+          "title": "How Can You Make Backtracking Fun?",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Ewoud",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyvj4gSHxaJlZGISiqtwJ7A",
+      "siteUrl": "https://www.youtube.com/channel/UCyvj4gSHxaJlZGISiqtwJ7A",
+      "articles": []
+    },
+    {
+      "title": "Game Maker's Toolkit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw",
+      "siteUrl": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=B6auN-GIUeM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B6auN-GIUeM",
+          "publishedOn": "2023-11-14T16:10:56.000Z",
+          "wordCount": null,
+          "title": "The one thing you need to finish your game",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2ZYAew_4tsc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2ZYAew_4tsc",
+          "publishedOn": "2023-10-23T16:18:18.000Z",
+          "wordCount": null,
+          "title": "A puzzle game where your tools are completely random",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pvOqTunOQB8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pvOqTunOQB8",
+          "publishedOn": "2023-10-18T15:13:29.000Z",
+          "wordCount": null,
+          "title": "How Nintendo Designed Ultrahand",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=36wclKt4vdk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=36wclKt4vdk",
+          "publishedOn": "2023-10-04T14:54:14.000Z",
+          "wordCount": null,
+          "title": "The World Design of Banjo-Kazooie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PeDNuITuJPA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PeDNuITuJPA",
+          "publishedOn": "2023-09-21T15:39:47.000Z",
+          "wordCount": null,
+          "title": "A puzzle game where you decipher languages",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TdWFzpgnljs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TdWFzpgnljs",
+          "publishedOn": "2023-09-12T15:37:37.000Z",
+          "wordCount": null,
+          "title": "How to Make a Good 2D Camera",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Programmers are also human",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+      "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
+      "articles": []
+    },
+    {
+      "title": "Tim Holy",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFkqQf_Ie5PN4l146ajnujg",
+      "siteUrl": "https://www.youtube.com/channel/UCFkqQf_Ie5PN4l146ajnujg",
+      "articles": []
+    },
+    {
+      "title": "Emergent Garden",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwBhBDsqiQflTMLy2epbQVw",
+      "siteUrl": "https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Y5OUS-pM9Mc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y5OUS-pM9Mc",
+          "publishedOn": "2023-10-28T14:00:32.000Z",
+          "wordCount": null,
+          "title": "Memes, Genes, and Brain Viruses",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Craig Perko",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
+      "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=M7f3ZHeWw6U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M7f3ZHeWw6U",
+          "publishedOn": "2023-11-16T18:02:42.000Z",
+          "wordCount": null,
+          "title": "Stormworks Automated Driller/Refinery",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0L3VQnNHK30",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0L3VQnNHK30",
+          "publishedOn": "2023-11-12T23:52:30.000Z",
+          "wordCount": null,
+          "title": "Oil Processing in Stormworks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GopeVZrO1kc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GopeVZrO1kc",
+          "publishedOn": "2023-10-25T00:36:10.000Z",
+          "wordCount": null,
+          "title": "Stormworks Full Rocket Example",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T_pG-3kmWMI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T_pG-3kmWMI",
+          "publishedOn": "2023-10-24T21:45:38.000Z",
+          "wordCount": null,
+          "title": "Stormworks Rocketry and Space",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7b0XtjRhD3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7b0XtjRhD3o",
+          "publishedOn": "2023-09-20T17:40:39.000Z",
+          "wordCount": null,
+          "title": "Switching Engines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CGUsfGCeFAc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CGUsfGCeFAc",
+          "publishedOn": "2023-09-13T18:12:42.000Z",
+          "wordCount": null,
+          "title": "Stop Using Unity?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eqTjE6ZfBO0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eqTjE6ZfBO0",
+          "publishedOn": "2023-09-11T16:38:57.000Z",
+          "wordCount": null,
+          "title": "Ensembles #3: Adding Flavor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0ro6Xc2di6g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0ro6Xc2di6g",
+          "publishedOn": "2023-09-10T03:28:33.000Z",
+          "wordCount": null,
+          "title": "Ensembles #2: Creation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o_rO2bymbAE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o_rO2bymbAE",
+          "publishedOn": "2023-09-09T18:41:31.000Z",
+          "wordCount": null,
+          "title": "Ensembles #1: Overview",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Runesmith",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
+      "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jZB0rVhNv4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jZB0rVhNv4I",
+          "publishedOn": "2023-11-21T23:23:11.000Z",
+          "wordCount": null,
+          "title": "The Immortal Goblin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HLk7BWCl_Eo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HLk7BWCl_Eo",
+          "publishedOn": "2023-11-17T19:22:22.000Z",
+          "wordCount": null,
+          "title": "The Seeker's Guide to Enchanting Emporiums - Musical Trailer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ivFq_XikUSY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ivFq_XikUSY",
+          "publishedOn": "2023-11-11T20:09:07.000Z",
+          "wordCount": null,
+          "title": "DnD's Worst Monster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Vednrgdb6vA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vednrgdb6vA",
+          "publishedOn": "2023-11-05T21:21:07.000Z",
+          "wordCount": null,
+          "title": "DnDs Most Overlooked Monster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aW6yYtTx1ek",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aW6yYtTx1ek",
+          "publishedOn": "2023-10-18T17:01:07.000Z",
+          "wordCount": null,
+          "title": "Werewolf Mysteries (D&D Monster Tactics)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bXLC29PR9HU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bXLC29PR9HU",
+          "publishedOn": "2023-10-07T18:21:06.000Z",
+          "wordCount": null,
+          "title": "Basically Mummies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7IA7HMWDAJg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7IA7HMWDAJg",
+          "publishedOn": "2023-09-28T19:54:36.000Z",
+          "wordCount": null,
+          "title": "Basically Cyclopes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5RUbBsagGGU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5RUbBsagGGU",
+          "publishedOn": "2023-09-22T22:48:12.000Z",
+          "wordCount": null,
+          "title": "Basically Tanuki",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9StHDUxDJUQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9StHDUxDJUQ",
+          "publishedOn": "2023-09-16T20:55:54.000Z",
+          "wordCount": null,
+          "title": "Cozy Village Campaigns in DnD Done Right",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9gLjjKSu04E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9gLjjKSu04E",
+          "publishedOn": "2023-09-02T22:10:33.000Z",
+          "wordCount": null,
+          "title": "D&D Summons Are Lifeless",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Department of Biosystems Science, ETH Zurich",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpL1A9fSlFjItQ1br_5tzpg",
+      "siteUrl": "https://www.youtube.com/channel/UCpL1A9fSlFjItQ1br_5tzpg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MO7l-RnVXKw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MO7l-RnVXKw",
+          "publishedOn": "2023-10-18T14:09:06.000Z",
+          "wordCount": null,
+          "title": "“I felt very honoured, but I could not give up on all this”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Iu_SmPIplYo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Iu_SmPIplYo",
+          "publishedOn": "2023-10-04T09:31:26.000Z",
+          "wordCount": null,
+          "title": "Improving the environmental footprint of the textile industry: Bio-indigo for blue jeans",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "SynBio Oxford",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZAKamhQSAyorB7UI1DZJ_w",
+      "siteUrl": "https://www.youtube.com/channel/UCZAKamhQSAyorB7UI1DZJ_w",
+      "articles": []
+    },
+    {
+      "title": "No Boilerplate",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA",
+      "siteUrl": "https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Ck9FMtIGVxQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ck9FMtIGVxQ",
+          "publishedOn": "2023-11-17T19:54:07.000Z",
+          "wordCount": null,
+          "title": "ADHD: A Left-handed Brain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7pcbRQ4L4vc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7pcbRQ4L4vc",
+          "publishedOn": "2023-10-31T18:14:28.000Z",
+          "wordCount": null,
+          "title": "🎃 Monsters, Ghosts, and Project Managers (a Modem Prometheus Story)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WgV6M1LyfNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WgV6M1LyfNY",
+          "publishedOn": "2023-10-13T16:04:38.000Z",
+          "wordCount": null,
+          "title": "The Unreasonable Effectiveness Of Plain Text",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bJQj1uKtnus",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bJQj1uKtnus",
+          "publishedOn": "2023-09-15T09:27:37.000Z",
+          "wordCount": null,
+          "title": "How To Get Started: The Cult of Done",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Studying With Alex",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUdkjbeIFea0qUSgwR1CUOg",
+      "siteUrl": "https://www.youtube.com/channel/UCUdkjbeIFea0qUSgwR1CUOg",
+      "articles": []
+    },
+    {
+      "title": "Yak Razor",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQhWCvyh1ihbG9Ezl5cE8ag",
+      "siteUrl": "https://www.youtube.com/channel/UCQhWCvyh1ihbG9Ezl5cE8ag",
+      "articles": []
+    },
+    {
+      "title": "Visually Explained",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoTo2gtN527CXhe7jbP6hUg",
+      "siteUrl": "https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg",
+      "articles": []
+    },
+    {
+      "title": "Steven Strogatz",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj1G_-P9EIMs4VpcgcOPxRw",
+      "siteUrl": "https://www.youtube.com/channel/UCj1G_-P9EIMs4VpcgcOPxRw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=AjrkNlgwT_U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AjrkNlgwT_U",
+          "publishedOn": "2023-10-31T21:25:04.000Z",
+          "wordCount": null,
+          "title": "Complex analysis: Cauchy's theorem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=C5rukxDDW8U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C5rukxDDW8U",
+          "publishedOn": "2023-10-31T20:59:45.000Z",
+          "wordCount": null,
+          "title": "Complex analysis: Jordan's lemma",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Alon Lab",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzom0WU7Ff1Fgd7EGObh5uA",
+      "siteUrl": "https://www.youtube.com/channel/UCzom0WU7Ff1Fgd7EGObh5uA",
+      "articles": []
+    },
+    {
+      "title": "Morphocular",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7Zwf4X_OQ-TEnou0zdyRA",
+      "siteUrl": "https://www.youtube.com/channel/UCu7Zwf4X_OQ-TEnou0zdyRA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=i0cp3iQXSk8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i0cp3iQXSk8",
+          "publishedOn": "2023-11-22T21:55:03.000Z",
+          "wordCount": null,
+          "title": "Finding Velocity On a Sphere Using a 3D Euler's Formula",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Low Byte Productions",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC56l7uZA209tlPTVOJiJ8Tw",
+      "siteUrl": "https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0ihChIaN8d0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0ihChIaN8d0",
+          "publishedOn": "2023-11-04T08:35:04.000Z",
+          "wordCount": null,
+          "title": "Getting up in another processes memory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iTic6EV4DP8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iTic6EV4DP8",
+          "publishedOn": "2023-10-28T13:34:03.000Z",
+          "wordCount": null,
+          "title": "The mechanics of VIRTUAL MEMORY //Source Dive// 005",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5vzMgNAzEuA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5vzMgNAzEuA",
+          "publishedOn": "2023-10-21T11:31:43.000Z",
+          "wordCount": null,
+          "title": "Turning Pixels Into Waves",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NC_qkXznvkg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NC_qkXznvkg",
+          "publishedOn": "2023-10-13T11:21:56.000Z",
+          "wordCount": null,
+          "title": "How does KERNEL memory allocation work? //Source Dive// 004",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uNp4DElDQyY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uNp4DElDQyY",
+          "publishedOn": "2023-09-30T11:14:59.000Z",
+          "wordCount": null,
+          "title": "Virtual Console and printf() //Source Dive// 003",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M_SUcX66SDA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M_SUcX66SDA",
+          "publishedOn": "2023-09-23T09:09:59.000Z",
+          "wordCount": null,
+          "title": "Programmatic Painting: Flow Fields",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZE9OODanrDA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZE9OODanrDA",
+          "publishedOn": "2023-09-16T10:55:29.000Z",
+          "wordCount": null,
+          "title": "What is a spinlock? //Source Dive// 002",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KkenLT8S9Hs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KkenLT8S9Hs",
+          "publishedOn": "2023-09-09T14:30:15.000Z",
+          "wordCount": null,
+          "title": "How does an OS boot? //Source Dive// 001",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "andy fillebrown",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg2NGO_2F1c3vQvT8_kzy5w",
+      "siteUrl": "https://www.youtube.com/channel/UCg2NGO_2F1c3vQvT8_kzy5w",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
