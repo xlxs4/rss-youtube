@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rCmb7fKmMb8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rCmb7fKmMb8",
+          "publishedOn": "2023-11-27T10:00:40.000Z",
+          "wordCount": null,
+          "title": "Numerical aperture in a two-lenses set-up",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rmfo8cdgZa8",
           "author": null,
           "description": "",
@@ -1151,6 +1161,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xOR3M7G4aOE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xOR3M7G4aOE",
+          "publishedOn": "2023-11-27T15:00:48.000Z",
+          "wordCount": null,
+          "title": "What Makes A Great Rival Boss?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ejXt7PwSvvo",
           "author": null,
           "description": "",
@@ -1279,6 +1299,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=638qRYYpv2g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=638qRYYpv2g",
+          "publishedOn": "2023-11-27T18:43:13.000Z",
+          "wordCount": null,
+          "title": "Magic Systems!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=M7f3ZHeWw6U",
           "author": null,
