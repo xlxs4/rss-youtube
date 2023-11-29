@@ -131,6 +131,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7SlcR67XbZE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7SlcR67XbZE",
+          "publishedOn": "2023-11-28T22:30:46.000Z",
+          "wordCount": null,
+          "title": "Compressing charged molecules: Energy and density (re-upload 2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=V5QYpq318nM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V5QYpq318nM",
+          "publishedOn": "2023-11-28T12:40:43.000Z",
+          "wordCount": null,
+          "title": "Compressing charged molecules: Energy and density (re-upload)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1gpBBbDY7Po",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1gpBBbDY7Po",
+          "publishedOn": "2023-11-28T10:00:01.000Z",
+          "wordCount": null,
+          "title": "Compressing charged molecules: Energy and density (corrupted version)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rCmb7fKmMb8",
           "author": null,
           "description": "",
