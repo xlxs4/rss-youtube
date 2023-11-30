@@ -34,16 +34,6 @@
           "wordCount": null,
           "title": "In Search of Cosmic Origins",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3l1RMiGeTfU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3l1RMiGeTfU",
-          "publishedOn": "2023-08-31T21:40:50.000Z",
-          "wordCount": null,
-          "title": "When Computers Write Proofs, What's the Point of Mathematicians?",
-          "imageUrl": null
         }
       ]
     },
@@ -130,6 +120,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VDgz-3wnSMA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VDgz-3wnSMA",
+          "publishedOn": "2023-11-29T10:00:23.000Z",
+          "wordCount": null,
+          "title": "What kind of waves would a Fagradalsfjall volcano eruption cause in the Atlantic?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5j4rwjSrqXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5j4rwjSrqXk",
+          "publishedOn": "2023-11-29T05:32:07.000Z",
+          "wordCount": null,
+          "title": "Compressing charged molecules: Energy and density (compressed re-upload)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=7SlcR67XbZE",
           "author": null,
@@ -354,6 +364,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fuFlMtZmvY0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fuFlMtZmvY0",
+          "publishedOn": "2023-11-29T15:00:43.000Z",
+          "wordCount": null,
+          "title": "The Internet is Worse Than Ever – Now What?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FgnjdW-x7mQ",
           "author": null,
