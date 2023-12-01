@@ -55,6 +55,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KTzGBJPuJwM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KTzGBJPuJwM",
+          "publishedOn": "2023-11-30T18:42:33.000Z",
+          "wordCount": null,
+          "title": "You can't explain prisms without understanding springs | Optics puzzles part 3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6a1fLEToyvU",
           "author": null,
           "description": "",
@@ -62,26 +72,6 @@
           "publishedOn": "2023-10-07T14:28:37.000Z",
           "wordCount": null,
           "title": "25 Math explainers you may enjoy | SoME3 results",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aXRTczANuIs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aXRTczANuIs",
-          "publishedOn": "2023-09-01T13:39:37.000Z",
-          "wordCount": null,
-          "title": "This equation explains (nearly) all of optics | Barber pole, part 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QCX62YJCmGk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QCX62YJCmGk",
-          "publishedOn": "2023-09-01T13:13:14.000Z",
-          "wordCount": null,
-          "title": "This demo surprised me (a lot) | Barber pole, part 1",
           "imageUrl": null
         }
       ]
@@ -120,6 +110,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZHRR72unwGA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZHRR72unwGA",
+          "publishedOn": "2023-11-30T10:00:35.000Z",
+          "wordCount": null,
+          "title": "The Hall effect with an increasing electric field: Charge and particle density",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VDgz-3wnSMA",
           "author": null,
@@ -596,16 +596,6 @@
           "wordCount": null,
           "title": "Quantum to the Cosmos: A Brief Tour of Everything",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rRWIcpZqnXQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rRWIcpZqnXQ",
-          "publishedOn": "2023-09-01T22:00:09.000Z",
-          "wordCount": null,
-          "title": "Shedding Light on the Dark Universe",
-          "imageUrl": null
         }
       ]
     },
@@ -935,6 +925,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g",
       "siteUrl": "https://www.youtube.com/channel/UCbHJVeS0ZIco7FTTqhvDg6g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=h5EtHLXSbHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h5EtHLXSbHI",
+          "publishedOn": "2023-11-30T19:46:43.000Z",
+          "wordCount": null,
+          "title": "How does life come up with its programming language?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OMB1JLIdwNA",
           "author": null,
