@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pQsdygaYcE4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pQsdygaYcE4",
+          "publishedOn": "2023-12-01T17:43:43.000Z",
+          "wordCount": null,
+          "title": "P vs. NP - The Greatest Unsolved Problem in Computer Science",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
           "author": null,
           "description": "",
@@ -110,6 +120,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jJQpe3hIn-Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jJQpe3hIn-Q",
+          "publishedOn": "2023-12-01T10:00:40.000Z",
+          "wordCount": null,
+          "title": "Comparison of two-lenses set-ups with different numerical apertures",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZHRR72unwGA",
           "author": null,
@@ -450,7 +470,18 @@
       "title": "Steve Brunton",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pBAmBZP5Sp8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pBAmBZP5Sp8",
+          "publishedOn": "2023-12-01T11:00:55.000Z",
+          "wordCount": null,
+          "title": "Nonlinear parametric models of viscoelastic fluid flows with SINDy",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nemean",
@@ -1350,6 +1381,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=muaOYU72W8I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=muaOYU72W8I",
+          "publishedOn": "2023-12-01T20:04:01.000Z",
+          "wordCount": null,
+          "title": "Bouncing Off Blender (And Not)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=638qRYYpv2g",
           "author": null,
           "description": "",
@@ -1544,16 +1585,6 @@
           "publishedOn": "2023-09-16T20:55:54.000Z",
           "wordCount": null,
           "title": "Cozy Village Campaigns in DnD Done Right",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9gLjjKSu04E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9gLjjKSu04E",
-          "publishedOn": "2023-09-02T22:10:33.000Z",
-          "wordCount": null,
-          "title": "D&D Summons Are Lifeless",
           "imageUrl": null
         }
       ]
