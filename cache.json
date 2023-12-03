@@ -121,6 +121,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ws9OUuzCW7U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ws9OUuzCW7U",
+          "publishedOn": "2023-12-02T11:00:55.000Z",
+          "wordCount": null,
+          "title": "Compressing charged molecules: Charge density and force field (from compressed original)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NjBngzAdhrc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NjBngzAdhrc",
+          "publishedOn": "2023-12-02T10:00:15.000Z",
+          "wordCount": null,
+          "title": "Compressing charged molecules: Charge density and force field (original upload)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jJQpe3hIn-Q",
           "author": null,
           "description": "",
