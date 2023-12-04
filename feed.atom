@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-03T00:04:51.410Z</updated>
+    <updated>2023-12-04T00:04:58.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Comparison of two-lenses set-ups with different numerical apertures (re-upload from compressed orig)]]></title>
+        <id>https://www.youtube.com/watch?v=wqzhc5me8_A</id>
+        <link href="https://www.youtube.com/watch?v=wqzhc5me8_A"/>
+        <updated>2023-12-03T19:13:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effect of an obstruction on a two-lenses set-up (re-upload of compressed version)]]></title>
+        <id>https://www.youtube.com/watch?v=Uks_a8DDrxQ</id>
+        <link href="https://www.youtube.com/watch?v=Uks_a8DDrxQ"/>
+        <updated>2023-12-03T18:56:48.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hall effect with an increasing electric field: Charge and particle density (compressed original)]]></title>
+        <id>https://www.youtube.com/watch?v=0Uk5obYroV8</id>
+        <link href="https://www.youtube.com/watch?v=0Uk5obYroV8"/>
+        <updated>2023-12-03T18:52:21.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x27] How to use External Packages in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=QnctM0MUox8</id>
+        <link href="https://www.youtube.com/watch?v=QnctM0MUox8"/>
+        <updated>2023-12-03T16:01:30.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[10x26] How to use Julia's Standard Library]]></title>
+        <id>https://www.youtube.com/watch?v=jLmQ-CL83Ko</id>
+        <link href="https://www.youtube.com/watch?v=jLmQ-CL83Ko"/>
+        <updated>2023-12-03T16:01:01.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-rays "faster" than the speed of light, and more refractive index questions | Optics puzzles part 4]]></title>
+        <id>https://www.youtube.com/watch?v=Cz4Q4QOuoo8</id>
+        <link href="https://www.youtube.com/watch?v=Cz4Q4QOuoo8"/>
+        <updated>2023-12-03T11:35:57.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effect of an obstruction on a two-lenses set-up (corrupted original)]]></title>
+        <id>https://www.youtube.com/watch?v=T3zQ6a8SPfw</id>
+        <link href="https://www.youtube.com/watch?v=T3zQ6a8SPfw"/>
+        <updated>2023-12-03T10:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compressing charged molecules: Charge density and force field (from compressed original)]]></title>
         <id>https://www.youtube.com/watch?v=ws9OUuzCW7U</id>

@@ -65,6 +65,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Cz4Q4QOuoo8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cz4Q4QOuoo8",
+          "publishedOn": "2023-12-03T11:35:57.000Z",
+          "wordCount": null,
+          "title": "X-rays \"faster\" than the speed of light, and more refractive index questions | Optics puzzles part 4",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KTzGBJPuJwM",
           "author": null,
           "description": "",
@@ -120,6 +130,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wqzhc5me8_A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wqzhc5me8_A",
+          "publishedOn": "2023-12-03T19:13:03.000Z",
+          "wordCount": null,
+          "title": "Comparison of two-lenses set-ups with different numerical apertures (re-upload from compressed orig)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Uks_a8DDrxQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Uks_a8DDrxQ",
+          "publishedOn": "2023-12-03T18:56:48.000Z",
+          "wordCount": null,
+          "title": "The effect of an obstruction on a two-lenses set-up (re-upload of compressed version)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0Uk5obYroV8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0Uk5obYroV8",
+          "publishedOn": "2023-12-03T18:52:21.000Z",
+          "wordCount": null,
+          "title": "The Hall effect with an increasing electric field: Charge and particle density (compressed original)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T3zQ6a8SPfw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T3zQ6a8SPfw",
+          "publishedOn": "2023-12-03T10:00:20.000Z",
+          "wordCount": null,
+          "title": "The effect of an obstruction on a two-lenses set-up (corrupted original)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ws9OUuzCW7U",
           "author": null,
@@ -1003,6 +1053,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwQVlIkbalDzmMnr-0tRhw",
       "siteUrl": "https://www.youtube.com/channel/UCQwQVlIkbalDzmMnr-0tRhw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QnctM0MUox8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QnctM0MUox8",
+          "publishedOn": "2023-12-03T16:01:30.000Z",
+          "wordCount": null,
+          "title": "[10x27] How to use External Packages in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jLmQ-CL83Ko",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jLmQ-CL83Ko",
+          "publishedOn": "2023-12-03T16:01:01.000Z",
+          "wordCount": null,
+          "title": "[10x26] How to use Julia's Standard Library",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Dv_ABu4SUhc",
           "author": null,
