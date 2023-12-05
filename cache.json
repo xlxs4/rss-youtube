@@ -131,6 +131,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1kk75Maw9wY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1kk75Maw9wY",
+          "publishedOn": "2023-12-04T10:00:02.000Z",
+          "wordCount": null,
+          "title": "The Hall effect in a crystal with an increasing magnetic field",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wqzhc5me8_A",
           "author": null,
           "description": "",
@@ -639,6 +649,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ITJ3AF3TK5M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ITJ3AF3TK5M",
+          "publishedOn": "2023-12-04T23:44:46.000Z",
+          "wordCount": null,
+          "title": "Coding the Cosmos: Does Reality Emerge From Simple Computations?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EGDG3hgPNp8",
           "author": null,
           "description": "",
@@ -901,24 +921,73 @@
       "title": "Chris Rackauckas",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCugBGdUbn6PeH03iPZtr-JQ",
       "siteUrl": "https://www.youtube.com/channel/UCugBGdUbn6PeH03iPZtr-JQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=5jat8moluUM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5jat8moluUM",
-          "publishedOn": "2023-09-05T14:54:39.000Z",
-          "wordCount": null,
-          "title": "Improving Model Discovery with Imposed Structures in Scientific Machine Learning | ML4Science",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "JuliaHub",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-xxbXHnIMvk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-xxbXHnIMvk",
+          "publishedOn": "2023-12-04T22:49:23.000Z",
+          "wordCount": null,
+          "title": "JuliaHub 101 - An Introduction to the Code-to-Cloud Platform for High-Performance Computing.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0PCR1x0vJmo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0PCR1x0vJmo",
+          "publishedOn": "2023-12-04T22:48:46.000Z",
+          "wordCount": null,
+          "title": "Improving Julia Collaboration with JuliaHub Projects",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=b0IHYAizMRE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b0IHYAizMRE",
+          "publishedOn": "2023-12-04T22:41:35.000Z",
+          "wordCount": null,
+          "title": "Tools for Non Linear Model Predictive Control (MPC)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bi2hIst9X9w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bi2hIst9X9w",
+          "publishedOn": "2023-12-04T22:39:53.000Z",
+          "wordCount": null,
+          "title": "Cutting Model Translation Time with Pumas-QSP Importers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LjsXcVDktaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LjsXcVDktaw",
+          "publishedOn": "2023-12-04T22:39:47.000Z",
+          "wordCount": null,
+          "title": "Hierarchical Bayesian Methods for Efficient Generation of Virtual Populations for QSP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=K5cWJg4mh60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K5cWJg4mh60",
+          "publishedOn": "2023-12-04T22:39:42.000Z",
+          "wordCount": null,
+          "title": "Quantitative Systems Pharmacology (QSP) in Julia with Pumas-QSP",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zJcOPPLqv4A",
           "author": null,
