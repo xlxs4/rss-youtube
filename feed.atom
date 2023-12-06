@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-05T00:04:47.556Z</updated>
+    <updated>2023-12-06T00:04:50.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Moment Kurzgesagt Changed Forever]]></title>
+        <id>https://www.youtube.com/watch?v=yDMZJ7LgrGY</id>
+        <link href="https://www.youtube.com/watch?v=yDMZJ7LgrGY"/>
+        <updated>2023-12-05T16:30:09.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flooding Mercury]]></title>
+        <id>https://www.youtube.com/watch?v=Z2CLIMITjaE</id>
+        <link href="https://www.youtube.com/watch?v=Z2CLIMITjaE"/>
+        <updated>2023-12-05T10:00:23.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flooding Mercury (from compressed original)]]></title>
+        <id>https://www.youtube.com/watch?v=F7ZiFHePnBc</id>
+        <link href="https://www.youtube.com/watch?v=F7ZiFHePnBc"/>
+        <updated>2023-12-05T10:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Pathetic Monster in DnD]]></title>
+        <id>https://www.youtube.com/watch?v=iOxcjgXAOl8</id>
+        <link href="https://www.youtube.com/watch?v=iOxcjgXAOl8"/>
+        <updated>2023-12-05T00:09:45.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding the Cosmos: Does Reality Emerge From Simple Computations?]]></title>
         <id>https://www.youtube.com/watch?v=ITJ3AF3TK5M</id>
@@ -1507,15 +1543,6 @@
         <updated>2023-09-07T17:51:13.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Strategy To Consume Information Effectively]]></title>
-        <id>https://www.youtube.com/watch?v=OZ7LEB44B3E</id>
-        <link href="https://www.youtube.com/watch?v=OZ7LEB44B3E"/>
-        <updated>2023-09-07T01:32:21.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
         </author>
     </entry>
 </feed>

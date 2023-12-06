@@ -131,6 +131,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Z2CLIMITjaE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z2CLIMITjaE",
+          "publishedOn": "2023-12-05T10:00:23.000Z",
+          "wordCount": null,
+          "title": "Flooding Mercury",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=F7ZiFHePnBc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F7ZiFHePnBc",
+          "publishedOn": "2023-12-05T10:00:10.000Z",
+          "wordCount": null,
+          "title": "Flooding Mercury (from compressed original)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1kk75Maw9wY",
           "author": null,
           "description": "",
@@ -465,6 +485,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yDMZJ7LgrGY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yDMZJ7LgrGY",
+          "publishedOn": "2023-12-05T16:30:09.000Z",
+          "wordCount": null,
+          "title": "The Moment Kurzgesagt Changed Forever",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fuFlMtZmvY0",
           "author": null,
           "description": "",
@@ -724,18 +754,7 @@
       "title": "Artem Kirsanov",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=OZ7LEB44B3E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OZ7LEB44B3E",
-          "publishedOn": "2023-09-07T01:32:21.000Z",
-          "wordCount": null,
-          "title": "My Strategy To Consume Information Effectively",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Freya Holmér",
@@ -1656,6 +1675,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iOxcjgXAOl8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iOxcjgXAOl8",
+          "publishedOn": "2023-12-05T00:09:45.000Z",
+          "wordCount": null,
+          "title": "The Most Pathetic Monster in DnD",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jZB0rVhNv4I",
           "author": null,
