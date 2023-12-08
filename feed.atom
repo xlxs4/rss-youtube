@@ -2,10 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-07T00:04:48.605Z</updated>
+    <updated>2023-12-08T00:05:02.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SIMD in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=W1hXttRmuks</id>
+        <link href="https://www.youtube.com/watch?v=W1hXttRmuks"/>
+        <updated>2023-12-07T19:36:58.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance Optimization of GPU Applications in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=jqBHgix42AI</id>
+        <link href="https://www.youtube.com/watch?v=jqBHgix42AI"/>
+        <updated>2023-12-07T19:29:57.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaSim: Model Predictive Control (MPC) and Proportional-Integral-Derivative (PID) Control]]></title>
+        <id>https://www.youtube.com/watch?v=djQcM7KiB3M</id>
+        <link href="https://www.youtube.com/watch?v=djQcM7KiB3M"/>
+        <updated>2023-12-07T19:28:51.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stipple - Building An Interactive App for Data Exploration and Model Explanation]]></title>
+        <id>https://www.youtube.com/watch?v=TPbGUbdaRnI</id>
+        <link href="https://www.youtube.com/watch?v=TPbGUbdaRnI"/>
+        <updated>2023-12-07T19:26:10.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to JuliaSim: An Introduction]]></title>
+        <id>https://www.youtube.com/watch?v=mZN1_1X5Ngg</id>
+        <link href="https://www.youtube.com/watch?v=mZN1_1X5Ngg"/>
+        <updated>2023-12-07T19:23:38.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Digital Twins with JuliaSim]]></title>
+        <id>https://www.youtube.com/watch?v=h-iAqqIavhY</id>
+        <link href="https://www.youtube.com/watch?v=h-iAqqIavhY"/>
+        <updated>2023-12-07T19:22:33.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trimming, Linearization, and Model Predictive Control (MPC) Design with JuliaSim]]></title>
+        <id>https://www.youtube.com/watch?v=NO1lm7T_iwM</id>
+        <link href="https://www.youtube.com/watch?v=NO1lm7T_iwM"/>
+        <updated>2023-12-07T19:20:57.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Calibration and Parameter Estimation with JuliaSim Model Optimizer]]></title>
+        <id>https://www.youtube.com/watch?v=TkmpICaFDrM</id>
+        <link href="https://www.youtube.com/watch?v=TkmpICaFDrM"/>
+        <updated>2023-12-07T19:18:35.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to polish a video game]]></title>
+        <id>https://www.youtube.com/watch?v=n8bqjpq0MIw</id>
+        <link href="https://www.youtube.com/watch?v=n8bqjpq0MIw"/>
+        <updated>2023-12-07T19:00:08.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast and Furious Development with JuilaHub Workflows]]></title>
+        <id>https://www.youtube.com/watch?v=mThqcNAxMrc</id>
+        <link href="https://www.youtube.com/watch?v=mThqcNAxMrc"/>
+        <updated>2023-12-07T14:09:00.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Large Datasets in JuliaHub]]></title>
+        <id>https://www.youtube.com/watch?v=7oOrLRk0_0Q</id>
+        <link href="https://www.youtube.com/watch?v=7oOrLRk0_0Q"/>
+        <updated>2023-12-07T13:42:52.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A binary zone plate]]></title>
+        <id>https://www.youtube.com/watch?v=iYxjmcKEHXQ</id>
+        <link href="https://www.youtube.com/watch?v=iYxjmcKEHXQ"/>
+        <updated>2023-12-07T10:00:37.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The standard explanation of a prism falls short]]></title>
+        <id>https://www.youtube.com/watch?v=GSIuXqgPsnY</id>
+        <link href="https://www.youtube.com/watch?v=GSIuXqgPsnY"/>
+        <updated>2023-12-07T01:31:43.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm still astounded this is true]]></title>
+        <id>https://www.youtube.com/watch?v=P11ykXwx4-k</id>
+        <link href="https://www.youtube.com/watch?v=P11ykXwx4-k"/>
+        <updated>2023-12-07T01:11:14.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't let it fool you!]]></title>
+        <id>https://www.youtube.com/watch?v=VFbyGEZLMZw</id>
+        <link href="https://www.youtube.com/watch?v=VFbyGEZLMZw"/>
+        <updated>2023-12-07T01:11:14.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Injecting electrons in a crystal of ions]]></title>
         <id>https://www.youtube.com/watch?v=Nya-DuAWYAU</id>

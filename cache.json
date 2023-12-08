@@ -65,6 +65,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
+          "publishedOn": "2023-12-07T01:31:43.000Z",
+          "wordCount": null,
+          "title": "The standard explanation of a prism falls short",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=P11ykXwx4-k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P11ykXwx4-k",
+          "publishedOn": "2023-12-07T01:11:14.000Z",
+          "wordCount": null,
+          "title": "I'm still astounded this is true",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VFbyGEZLMZw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VFbyGEZLMZw",
+          "publishedOn": "2023-12-07T01:11:14.000Z",
+          "wordCount": null,
+          "title": "Don't let it fool you!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Cz4Q4QOuoo8",
           "author": null,
           "description": "",
@@ -130,6 +160,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iYxjmcKEHXQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iYxjmcKEHXQ",
+          "publishedOn": "2023-12-07T10:00:37.000Z",
+          "wordCount": null,
+          "title": "A binary zone plate",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Nya-DuAWYAU",
           "author": null,
@@ -948,6 +988,106 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=W1hXttRmuks",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W1hXttRmuks",
+          "publishedOn": "2023-12-07T19:36:58.000Z",
+          "wordCount": null,
+          "title": "SIMD in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jqBHgix42AI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jqBHgix42AI",
+          "publishedOn": "2023-12-07T19:29:57.000Z",
+          "wordCount": null,
+          "title": "Performance Optimization of GPU Applications in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=djQcM7KiB3M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=djQcM7KiB3M",
+          "publishedOn": "2023-12-07T19:28:51.000Z",
+          "wordCount": null,
+          "title": "JuliaSim: Model Predictive Control (MPC) and Proportional-Integral-Derivative (PID) Control",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TPbGUbdaRnI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TPbGUbdaRnI",
+          "publishedOn": "2023-12-07T19:26:10.000Z",
+          "wordCount": null,
+          "title": "Stipple - Building An Interactive App for Data Exploration and Model Explanation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mZN1_1X5Ngg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mZN1_1X5Ngg",
+          "publishedOn": "2023-12-07T19:23:38.000Z",
+          "wordCount": null,
+          "title": "Welcome to JuliaSim: An Introduction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h-iAqqIavhY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h-iAqqIavhY",
+          "publishedOn": "2023-12-07T19:22:33.000Z",
+          "wordCount": null,
+          "title": "Building Digital Twins with JuliaSim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NO1lm7T_iwM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NO1lm7T_iwM",
+          "publishedOn": "2023-12-07T19:20:57.000Z",
+          "wordCount": null,
+          "title": "Trimming, Linearization, and Model Predictive Control (MPC) Design with JuliaSim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TkmpICaFDrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TkmpICaFDrM",
+          "publishedOn": "2023-12-07T19:18:35.000Z",
+          "wordCount": null,
+          "title": "Model Calibration and Parameter Estimation with JuliaSim Model Optimizer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mThqcNAxMrc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mThqcNAxMrc",
+          "publishedOn": "2023-12-07T14:09:00.000Z",
+          "wordCount": null,
+          "title": "Fast and Furious Development with JuilaHub Workflows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7oOrLRk0_0Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7oOrLRk0_0Q",
+          "publishedOn": "2023-12-07T13:42:52.000Z",
+          "wordCount": null,
+          "title": "Using Large Datasets in JuliaHub",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-xxbXHnIMvk",
           "author": null,
           "description": "",
@@ -1462,6 +1602,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw",
       "siteUrl": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=n8bqjpq0MIw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n8bqjpq0MIw",
+          "publishedOn": "2023-12-07T19:00:08.000Z",
+          "wordCount": null,
+          "title": "How to polish a video game",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=B6auN-GIUeM",
           "author": null,
