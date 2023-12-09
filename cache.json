@@ -65,6 +65,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h2V3r7oBeMI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h2V3r7oBeMI",
+          "publishedOn": "2023-12-09T00:00:19.000Z",
+          "wordCount": null,
+          "title": "Prime spirals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=31xm81m0iYs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=31xm81m0iYs",
+          "publishedOn": "2023-12-09T00:00:02.000Z",
+          "wordCount": null,
+          "title": "The barber pole effect",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nXIHYB0Gp70",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nXIHYB0Gp70",
+          "publishedOn": "2023-12-08T00:00:22.000Z",
+          "wordCount": null,
+          "title": "Fourier series",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1tLvj_HSjPk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1tLvj_HSjPk",
+          "publishedOn": "2023-12-08T00:00:02.000Z",
+          "wordCount": null,
+          "title": "Seeing with sound",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
           "author": null,
           "description": "",
@@ -160,6 +200,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_iD4x6BSRhI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_iD4x6BSRhI",
+          "publishedOn": "2023-12-08T10:00:32.000Z",
+          "wordCount": null,
+          "title": "Bloopers 12: Compressing ions and electrons with mass ratio 100",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iYxjmcKEHXQ",
           "author": null,
@@ -535,6 +585,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HR2C_7G_yRQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HR2C_7G_yRQ",
+          "publishedOn": "2023-12-08T15:00:01.000Z",
+          "wordCount": null,
+          "title": "3 Ways to Destroy the Universe",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yDMZJ7LgrGY",
           "author": null,
           "description": "",
@@ -718,6 +778,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pdOgsGBw1t8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pdOgsGBw1t8",
+          "publishedOn": "2023-12-08T21:00:07.000Z",
+          "wordCount": null,
+          "title": "Searching For Cosmic Origins",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ITJ3AF3TK5M",
           "author": null,
@@ -987,6 +1057,96 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zECOClp_fyQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zECOClp_fyQ",
+          "publishedOn": "2023-12-08T15:55:04.000Z",
+          "wordCount": null,
+          "title": "Deployment of Models and Apps in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_yzYLTYZ4eQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_yzYLTYZ4eQ",
+          "publishedOn": "2023-12-08T15:54:31.000Z",
+          "wordCount": null,
+          "title": "Performance Benchmarking in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cAGnSPo2MnY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cAGnSPo2MnY",
+          "publishedOn": "2023-12-08T15:52:59.000Z",
+          "wordCount": null,
+          "title": "Parallel Computing for Enterprises in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hbvC5C_4Z64",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hbvC5C_4Z64",
+          "publishedOn": "2023-12-08T15:52:11.000Z",
+          "wordCount": null,
+          "title": "Building Production Applications using Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D_VrVq_W-eE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D_VrVq_W-eE",
+          "publishedOn": "2023-12-08T15:44:32.000Z",
+          "wordCount": null,
+          "title": "Machine Learning with Multi-GPU Training",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=04tRFGuDX1E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=04tRFGuDX1E",
+          "publishedOn": "2023-12-08T15:42:04.000Z",
+          "wordCount": null,
+          "title": "Pluto Notebook Support on JuliaHub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5wQKc66sdTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5wQKc66sdTk",
+          "publishedOn": "2023-12-08T15:26:13.000Z",
+          "wordCount": null,
+          "title": "GPU Programming In Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=J6h6Tj8IluE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J6h6Tj8IluE",
+          "publishedOn": "2023-12-08T15:25:26.000Z",
+          "wordCount": null,
+          "title": "PackageCompiler and Static Compilation in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YPS9j8Aijeo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YPS9j8Aijeo",
+          "publishedOn": "2023-12-08T15:23:06.000Z",
+          "wordCount": null,
+          "title": "Machine Learning on Time Series Data with Julia",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=W1hXttRmuks",
           "author": null,
@@ -1529,16 +1689,6 @@
           "wordCount": null,
           "title": "The Incredible Potential of Superconductors",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qdJ_gJ_kPEI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qdJ_gJ_kPEI",
-          "publishedOn": "2023-09-09T15:00:41.000Z",
-          "wordCount": null,
-          "title": "NASA's Plan to Build A Telescope on the Moon",
-          "imageUrl": null
         }
       ]
     },
@@ -1806,26 +1956,6 @@
           "publishedOn": "2023-09-11T16:38:57.000Z",
           "wordCount": null,
           "title": "Ensembles #3: Adding Flavor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0ro6Xc2di6g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0ro6Xc2di6g",
-          "publishedOn": "2023-09-10T03:28:33.000Z",
-          "wordCount": null,
-          "title": "Ensembles #2: Creation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o_rO2bymbAE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o_rO2bymbAE",
-          "publishedOn": "2023-09-09T18:41:31.000Z",
-          "wordCount": null,
-          "title": "Ensembles #1: Overview",
           "imageUrl": null
         }
       ]
@@ -2158,16 +2288,6 @@
           "publishedOn": "2023-09-16T10:55:29.000Z",
           "wordCount": null,
           "title": "What is a spinlock? //Source Dive// 002",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KkenLT8S9Hs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KkenLT8S9Hs",
-          "publishedOn": "2023-09-09T14:30:15.000Z",
-          "wordCount": null,
-          "title": "How does an OS boot? //Source Dive// 001",
           "imageUrl": null
         }
       ]
