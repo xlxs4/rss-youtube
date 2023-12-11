@@ -65,6 +65,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yZMw2rOKYwE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yZMw2rOKYwE",
+          "publishedOn": "2023-12-10T00:00:26.000Z",
+          "wordCount": null,
+          "title": "Error correction is incredible",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NQFIU5Exjuo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NQFIU5Exjuo",
+          "publishedOn": "2023-12-10T00:00:10.000Z",
+          "wordCount": null,
+          "title": "The chessboard and coins puzzle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h2V3r7oBeMI",
           "author": null,
           "description": "",
@@ -200,6 +220,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=X72Dko8Q5g0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X72Dko8Q5g0",
+          "publishedOn": "2023-12-10T15:28:53.000Z",
+          "wordCount": null,
+          "title": "Ions in an electric field under temperature cycling (re-upload)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JQq6i-bUWTw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JQq6i-bUWTw",
+          "publishedOn": "2023-12-10T10:00:17.000Z",
+          "wordCount": null,
+          "title": "Ions in an electric field under temperature cycling (corrupted original)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NieEtvZFHMc",
           "author": null,
@@ -1442,6 +1482,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCQwQVlIkbalDzmMnr-0tRhw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dMGWkxuX_qU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dMGWkxuX_qU",
+          "publishedOn": "2023-12-10T16:00:59.000Z",
+          "wordCount": null,
+          "title": "[10x28] How to install and use Pluto.jl (reactive notebook programming environment for Julia)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QnctM0MUox8",
           "author": null,
           "description": "",
@@ -1946,16 +1996,6 @@
           "publishedOn": "2023-09-13T18:12:42.000Z",
           "wordCount": null,
           "title": "Stop Using Unity?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eqTjE6ZfBO0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eqTjE6ZfBO0",
-          "publishedOn": "2023-09-11T16:38:57.000Z",
-          "wordCount": null,
-          "title": "Ensembles #3: Adding Flavor",
           "imageUrl": null
         }
       ]

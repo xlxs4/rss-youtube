@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-10T00:05:21.881Z</updated>
+    <updated>2023-12-11T00:04:53.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[10x28] How to install and use Pluto.jl (reactive notebook programming environment for Julia)]]></title>
+        <id>https://www.youtube.com/watch?v=dMGWkxuX_qU</id>
+        <link href="https://www.youtube.com/watch?v=dMGWkxuX_qU"/>
+        <updated>2023-12-10T16:00:59.000Z</updated>
+        <author>
+            <name>doggo dot jl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ions in an electric field under temperature cycling (re-upload)]]></title>
+        <id>https://www.youtube.com/watch?v=X72Dko8Q5g0</id>
+        <link href="https://www.youtube.com/watch?v=X72Dko8Q5g0"/>
+        <updated>2023-12-10T15:28:53.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ions in an electric field under temperature cycling (corrupted original)]]></title>
+        <id>https://www.youtube.com/watch?v=JQq6i-bUWTw</id>
+        <link href="https://www.youtube.com/watch?v=JQq6i-bUWTw"/>
+        <updated>2023-12-10T10:00:17.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error correction is incredible]]></title>
+        <id>https://www.youtube.com/watch?v=yZMw2rOKYwE</id>
+        <link href="https://www.youtube.com/watch?v=yZMw2rOKYwE"/>
+        <updated>2023-12-10T00:00:26.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The chessboard and coins puzzle]]></title>
+        <id>https://www.youtube.com/watch?v=NQFIU5Exjuo</id>
+        <link href="https://www.youtube.com/watch?v=NQFIU5Exjuo"/>
+        <updated>2023-12-10T00:00:10.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Podcast Pilot: The Phosphene Catalogue]]></title>
         <id>https://www.youtube.com/watch?v=aHL4QZJbSoI</id>
@@ -1795,15 +1840,6 @@
         <updated>2023-09-12T14:00:06.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ensembles #3: Adding Flavor]]></title>
-        <id>https://www.youtube.com/watch?v=eqTjE6ZfBO0</id>
-        <link href="https://www.youtube.com/watch?v=eqTjE6ZfBO0"/>
-        <updated>2023-09-11T16:38:57.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
         </author>
     </entry>
 </feed>
