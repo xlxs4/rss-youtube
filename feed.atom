@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-11T00:04:53.724Z</updated>
+    <updated>2023-12-12T00:04:49.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two lenses with a high index of refraction (4K version, compressed re-upload)]]></title>
+        <id>https://www.youtube.com/watch?v=w_W2UIBWvNo</id>
+        <link href="https://www.youtube.com/watch?v=w_W2UIBWvNo"/>
+        <updated>2023-12-11T18:04:54.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two lenses with a high index of refraction (HD version)]]></title>
+        <id>https://www.youtube.com/watch?v=Loew19IpmjY</id>
+        <link href="https://www.youtube.com/watch?v=Loew19IpmjY"/>
+        <updated>2023-12-11T16:36:40.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[False Harmonics 11: Battle Trance]]></title>
+        <id>https://www.youtube.com/watch?v=0k4AKYAgwwQ</id>
+        <link href="https://www.youtube.com/watch?v=0k4AKYAgwwQ"/>
+        <updated>2023-12-11T16:24:45.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two lenses with a high index of refraction (corrupted 4K version)]]></title>
+        <id>https://www.youtube.com/watch?v=bq5kECeQctw</id>
+        <link href="https://www.youtube.com/watch?v=bq5kECeQctw"/>
+        <updated>2023-12-11T10:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These integrals all equal π, until...]]></title>
+        <id>https://www.youtube.com/watch?v=VS9yOhwtVDY</id>
+        <link href="https://www.youtube.com/watch?v=VS9yOhwtVDY"/>
+        <updated>2023-12-11T00:00:18.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The split necklace puzzle (with a surprise topological solution)]]></title>
+        <id>https://www.youtube.com/watch?v=Cm-zmm0nANo</id>
+        <link href="https://www.youtube.com/watch?v=Cm-zmm0nANo"/>
+        <updated>2023-12-11T00:00:07.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[10x28] How to install and use Pluto.jl (reactive notebook programming environment for Julia)]]></title>
         <id>https://www.youtube.com/watch?v=dMGWkxuX_qU</id>
@@ -1822,24 +1876,6 @@
         <updated>2023-09-13T12:47:04.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Good 2D Camera]]></title>
-        <id>https://www.youtube.com/watch?v=TdWFzpgnljs</id>
-        <link href="https://www.youtube.com/watch?v=TdWFzpgnljs"/>
-        <updated>2023-09-12T15:37:37.000Z</updated>
-        <author>
-            <name>Game Maker's Toolkit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Did The Math - You Are Dead!]]></title>
-        <id>https://www.youtube.com/watch?v=4Stzj2_Rlo4</id>
-        <link href="https://www.youtube.com/watch?v=4Stzj2_Rlo4"/>
-        <updated>2023-09-12T14:00:06.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>

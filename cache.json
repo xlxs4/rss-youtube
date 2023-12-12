@@ -65,6 +65,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VS9yOhwtVDY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VS9yOhwtVDY",
+          "publishedOn": "2023-12-11T00:00:18.000Z",
+          "wordCount": null,
+          "title": "These integrals all equal π, until...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Cm-zmm0nANo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cm-zmm0nANo",
+          "publishedOn": "2023-12-11T00:00:07.000Z",
+          "wordCount": null,
+          "title": "The split necklace puzzle (with a surprise topological solution)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yZMw2rOKYwE",
           "author": null,
           "description": "",
@@ -220,6 +240,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=w_W2UIBWvNo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w_W2UIBWvNo",
+          "publishedOn": "2023-12-11T18:04:54.000Z",
+          "wordCount": null,
+          "title": "Two lenses with a high index of refraction (4K version, compressed re-upload)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Loew19IpmjY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Loew19IpmjY",
+          "publishedOn": "2023-12-11T16:36:40.000Z",
+          "wordCount": null,
+          "title": "Two lenses with a high index of refraction (HD version)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bq5kECeQctw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bq5kECeQctw",
+          "publishedOn": "2023-12-11T10:00:32.000Z",
+          "wordCount": null,
+          "title": "Two lenses with a high index of refraction (corrupted 4K version)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=X72Dko8Q5g0",
           "author": null,
@@ -713,16 +763,6 @@
           "wordCount": null,
           "title": "Why Korea is Dying Out",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4Stzj2_Rlo4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4Stzj2_Rlo4",
-          "publishedOn": "2023-09-12T14:00:06.000Z",
-          "wordCount": null,
-          "title": "We Did The Math - You Are Dead!",
-          "imageUrl": null
         }
       ]
     },
@@ -771,6 +811,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0k4AKYAgwwQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0k4AKYAgwwQ",
+          "publishedOn": "2023-12-11T16:24:45.000Z",
+          "wordCount": null,
+          "title": "False Harmonics 11: Battle Trance",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=y27REk0tvAU",
           "author": null,
@@ -1860,16 +1910,6 @@
           "publishedOn": "2023-09-21T15:39:47.000Z",
           "wordCount": null,
           "title": "A puzzle game where you decipher languages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TdWFzpgnljs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TdWFzpgnljs",
-          "publishedOn": "2023-09-12T15:37:37.000Z",
-          "wordCount": null,
-          "title": "How to Make a Good 2D Camera",
           "imageUrl": null
         }
       ]
