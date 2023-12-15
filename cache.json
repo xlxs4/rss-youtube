@@ -65,6 +65,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JHuxMHPATtg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JHuxMHPATtg",
+          "publishedOn": "2023-12-14T00:00:12.000Z",
+          "wordCount": null,
+          "title": "The surface area of a sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TaopSi3Ucfc",
           "author": null,
           "description": "",
@@ -270,6 +280,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ozG8KNuKq7s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ozG8KNuKq7s",
+          "publishedOn": "2023-12-14T10:15:02.000Z",
+          "wordCount": null,
+          "title": "Changing the anion/cation proportion in a mixture (4K, crf 28)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Aqsv-XnSaNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Aqsv-XnSaNY",
+          "publishedOn": "2023-12-14T10:00:12.000Z",
+          "wordCount": null,
+          "title": "Changing the anion/cation proportion in a mixture (4K)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-2bT4xOgAXY",
           "author": null,
@@ -1017,16 +1047,6 @@
           "wordCount": null,
           "title": "Seeing Further: Searching for the Echoes of Creation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WGN4Jv5sWQI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WGN4Jv5sWQI",
-          "publishedOn": "2023-09-15T23:55:11.000Z",
-          "wordCount": null,
-          "title": "Quantum to the Cosmos: A Brief Tour of Everything",
-          "imageUrl": null
         }
       ]
     },
@@ -1545,16 +1565,6 @@
           "publishedOn": "2023-09-18T12:03:55.000Z",
           "wordCount": null,
           "title": "System identification with Julia: 4 Prediction-Error Method",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=l9oJKxKivW8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=l9oJKxKivW8",
-          "publishedOn": "2023-09-15T12:55:00.000Z",
-          "wordCount": null,
-          "title": "System identification with Julia: 3 Prediction vs. Simulation",
           "imageUrl": null
         }
       ]
@@ -2418,16 +2428,6 @@
           "publishedOn": "2023-09-23T09:09:59.000Z",
           "wordCount": null,
           "title": "Programmatic Painting: Flow Fields",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZE9OODanrDA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZE9OODanrDA",
-          "publishedOn": "2023-09-16T10:55:29.000Z",
-          "wordCount": null,
-          "title": "What is a spinlock? //Source Dive// 002",
           "imageUrl": null
         }
       ]

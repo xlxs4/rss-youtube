@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-14T00:04:38.555Z</updated>
+    <updated>2023-12-15T00:05:01.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changing the anion/cation proportion in a mixture (4K, crf 28)]]></title>
+        <id>https://www.youtube.com/watch?v=ozG8KNuKq7s</id>
+        <link href="https://www.youtube.com/watch?v=ozG8KNuKq7s"/>
+        <updated>2023-12-14T10:15:02.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing the anion/cation proportion in a mixture (4K)]]></title>
+        <id>https://www.youtube.com/watch?v=Aqsv-XnSaNY</id>
+        <link href="https://www.youtube.com/watch?v=Aqsv-XnSaNY"/>
+        <updated>2023-12-14T10:00:12.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The surface area of a sphere]]></title>
+        <id>https://www.youtube.com/watch?v=JHuxMHPATtg</id>
+        <link href="https://www.youtube.com/watch?v=JHuxMHPATtg"/>
+        <updated>2023-12-14T00:00:12.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linear waves crossing a lens angled at 45 and 60 degrees (4K, crf 28)]]></title>
         <id>https://www.youtube.com/watch?v=-2bT4xOgAXY</id>
@@ -1894,33 +1921,6 @@
         <updated>2023-09-16T20:55:54.000Z</updated>
         <author>
             <name>Runesmith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a spinlock? //Source Dive// 002]]></title>
-        <id>https://www.youtube.com/watch?v=ZE9OODanrDA</id>
-        <link href="https://www.youtube.com/watch?v=ZE9OODanrDA"/>
-        <updated>2023-09-16T10:55:29.000Z</updated>
-        <author>
-            <name>Low Byte Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum to the Cosmos: A Brief Tour of Everything]]></title>
-        <id>https://www.youtube.com/watch?v=WGN4Jv5sWQI</id>
-        <link href="https://www.youtube.com/watch?v=WGN4Jv5sWQI"/>
-        <updated>2023-09-15T23:55:11.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System identification with Julia: 3 Prediction vs. Simulation]]></title>
-        <id>https://www.youtube.com/watch?v=l9oJKxKivW8</id>
-        <link href="https://www.youtube.com/watch?v=l9oJKxKivW8"/>
-        <updated>2023-09-15T12:55:00.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
