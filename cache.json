@@ -65,6 +65,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GOSezO0CHss",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GOSezO0CHss",
+          "publishedOn": "2023-12-15T00:00:13.000Z",
+          "wordCount": null,
+          "title": "Order from chaos",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JHuxMHPATtg",
           "author": null,
           "description": "",
@@ -280,6 +290,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eCBLjG0nmnc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eCBLjG0nmnc",
+          "publishedOn": "2023-12-15T10:15:03.000Z",
+          "wordCount": null,
+          "title": "A biconcave lens (4K, crf 28)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0pQB-ehfh3g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0pQB-ehfh3g",
+          "publishedOn": "2023-12-15T10:00:01.000Z",
+          "wordCount": null,
+          "title": "A biconcave lens (4K)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ozG8KNuKq7s",
           "author": null,
@@ -881,6 +911,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NQkSH_CBPq8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NQkSH_CBPq8",
+          "publishedOn": "2023-12-15T11:00:18.000Z",
+          "wordCount": null,
+          "title": "New Advances in Artificial Intelligence and Machine Learning",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pBAmBZP5Sp8",
           "author": null,
@@ -2203,16 +2243,6 @@
           "publishedOn": "2023-09-22T22:48:12.000Z",
           "wordCount": null,
           "title": "Basically Tanuki",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9StHDUxDJUQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9StHDUxDJUQ",
-          "publishedOn": "2023-09-16T20:55:54.000Z",
-          "wordCount": null,
-          "title": "Cozy Village Campaigns in DnD Done Right",
           "imageUrl": null
         }
       ]
