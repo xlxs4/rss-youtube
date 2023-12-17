@@ -51,7 +51,18 @@
       "title": "Primer",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
       "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TZfh8hpJIxo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TZfh8hpJIxo",
+          "publishedOn": "2023-12-16T16:15:03.000Z",
+          "wordCount": null,
+          "title": "Simulating the Evolution of Teamwork",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Reducible",
@@ -64,6 +75,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=X4jpqCu-wlA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X4jpqCu-wlA",
+          "publishedOn": "2023-12-16T00:00:24.000Z",
+          "wordCount": null,
+          "title": "Can you even imagine 2^256?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GOSezO0CHss",
           "author": null,
@@ -290,6 +311,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_5AWrR5CK18",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_5AWrR5CK18",
+          "publishedOn": "2023-12-16T11:00:33.000Z",
+          "wordCount": null,
+          "title": "Crystals or proteins? (4K, crf 28)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bXDjUKD8nxo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bXDjUKD8nxo",
+          "publishedOn": "2023-12-16T10:00:19.000Z",
+          "wordCount": null,
+          "title": "Crystals or proteins? (4K)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eCBLjG0nmnc",
           "author": null,
@@ -1596,16 +1637,6 @@
           "wordCount": null,
           "title": "System identification with Julia: 5 Prefiltering",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LEZL7UjS2sY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LEZL7UjS2sY",
-          "publishedOn": "2023-09-18T12:03:55.000Z",
-          "wordCount": null,
-          "title": "System identification with Julia: 4 Prediction-Error Method",
-          "imageUrl": null
         }
       ]
     },
@@ -1840,6 +1871,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UcBc0l7IrZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UcBc0l7IrZU",
+          "publishedOn": "2023-12-16T15:30:11.000Z",
+          "wordCount": null,
+          "title": "The Insane Engineering of the Space Shuttle",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SU0YDwdUE-s",
           "author": null,
