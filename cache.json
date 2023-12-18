@@ -312,6 +312,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=N8C_w_cAL1U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N8C_w_cAL1U",
+          "publishedOn": "2023-12-17T10:00:20.000Z",
+          "wordCount": null,
+          "title": "Combining a biconcave and a convex lens (4K, crf 28)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_5AWrR5CK18",
           "author": null,
           "description": "",
@@ -845,6 +855,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Z_1Q0XB4X0Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z_1Q0XB4X0Y",
+          "publishedOn": "2023-12-17T15:00:53.000Z",
+          "wordCount": null,
+          "title": "From The SMALLEST To The LARGEST - The Ultimate Size Comparison",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=nGggU-Cxhv0",
           "author": null,
@@ -1673,6 +1693,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCQwQVlIkbalDzmMnr-0tRhw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fBqrjgjZJIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fBqrjgjZJIU",
+          "publishedOn": "2023-12-17T16:02:00.000Z",
+          "wordCount": null,
+          "title": "[10x31] Graduation! | \"Julia for Absolute Beginners\" series wrap up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QWnhMqEHPyg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QWnhMqEHPyg",
+          "publishedOn": "2023-12-17T16:01:30.000Z",
+          "wordCount": null,
+          "title": "[10x30] Where to find help when using Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ohfZl5prqGY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ohfZl5prqGY",
+          "publishedOn": "2023-12-17T16:01:05.000Z",
+          "wordCount": null,
+          "title": "[10x29] How to update to the latest version of Julia",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dMGWkxuX_qU",
           "author": null,
           "description": "",
@@ -2099,6 +2149,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_xM4oOcPafM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_xM4oOcPafM",
+          "publishedOn": "2023-12-17T19:29:36.000Z",
+          "wordCount": null,
+          "title": "What's a UV Map? Basic Tutorial",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-6MX6F5XU7U",
           "author": null,
