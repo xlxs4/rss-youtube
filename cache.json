@@ -312,6 +312,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ne4d6-yZIh0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ne4d6-yZIh0",
+          "publishedOn": "2023-12-18T10:15:03.000Z",
+          "wordCount": null,
+          "title": "Interacting polar diatomic molecules (4K, crf 28)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=N8C_w_cAL1U",
           "author": null,
           "description": "",
@@ -1647,16 +1657,6 @@
           "wordCount": null,
           "title": "System identification with Julia: 6 Experiments and excitation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fP_ENSXURYA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fP_ENSXURYA",
-          "publishedOn": "2023-09-19T12:51:57.000Z",
-          "wordCount": null,
-          "title": "System identification with Julia: 5 Prefiltering",
-          "imageUrl": null
         }
       ]
     },
@@ -2256,6 +2256,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Qu-6uwLcVfM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qu-6uwLcVfM",
+          "publishedOn": "2023-12-18T21:28:23.000Z",
+          "wordCount": null,
+          "title": "The Most Dangerous Pet in All of DnD",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iOxcjgXAOl8",
           "author": null,
