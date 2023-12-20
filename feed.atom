@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-19T00:04:40.778Z</updated>
+    <updated>2023-12-20T00:03:52.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Astronaut Chokes on His First Job in Space]]></title>
+        <id>https://www.youtube.com/watch?v=G-6xOsXigw8</id>
+        <link href="https://www.youtube.com/watch?v=G-6xOsXigw8"/>
+        <updated>2023-12-19T21:42:15.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023's Biggest Breakthroughs in Biology and Neuroscience]]></title>
+        <id>https://www.youtube.com/watch?v=qt6BO-DV0pY</id>
+        <link href="https://www.youtube.com/watch?v=qt6BO-DV0pY"/>
+        <updated>2023-12-19T19:07:52.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Games Play With Poison?]]></title>
+        <id>https://www.youtube.com/watch?v=a44AyNXjYXo</id>
+        <link href="https://www.youtube.com/watch?v=a44AyNXjYXo"/>
+        <updated>2023-12-19T16:00:00.000Z</updated>
+        <author>
+            <name>Design Doc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flooding the Moon (short version)]]></title>
+        <id>https://www.youtube.com/watch?v=qQYdSgzz4Is</id>
+        <link href="https://www.youtube.com/watch?v=qQYdSgzz4Is"/>
+        <updated>2023-12-19T10:00:39.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Most Dangerous Pet in All of DnD]]></title>
         <id>https://www.youtube.com/watch?v=Qu-6uwLcVfM</id>
@@ -2018,33 +2054,6 @@
         <id>https://www.youtube.com/watch?v=MhTgXMn0bbo</id>
         <link href="https://www.youtube.com/watch?v=MhTgXMn0bbo"/>
         <updated>2023-09-21T12:24:44.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switching Engines]]></title>
-        <id>https://www.youtube.com/watch?v=7b0XtjRhD3o</id>
-        <link href="https://www.youtube.com/watch?v=7b0XtjRhD3o"/>
-        <updated>2023-09-20T17:40:39.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Search of Cosmic Origins]]></title>
-        <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
-        <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
-        <updated>2023-09-20T15:06:42.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System identification with Julia: 6 Experiments and excitation]]></title>
-        <id>https://www.youtube.com/watch?v=QMO8cDpjw5U</id>
-        <link href="https://www.youtube.com/watch?v=QMO8cDpjw5U"/>
-        <updated>2023-09-20T12:46:04.000Z</updated>
         <author>
             <name>JuliaHub</name>
         </author>
