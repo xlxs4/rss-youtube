@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=580V0wRl1Lo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=580V0wRl1Lo",
+          "publishedOn": "2023-12-21T21:09:51.000Z",
+          "wordCount": null,
+          "title": "2023's Biggest Breakthroughs in Physics",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=g7ih6rHdw3M",
           "author": null,
           "description": "",
@@ -85,6 +95,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=W1gW1dHRsOw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W1gW1dHRsOw",
+          "publishedOn": "2023-12-21T00:15:02.000Z",
+          "wordCount": null,
+          "title": "For anyone who might not know how links in shorts work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p9i3cYMQtBY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p9i3cYMQtBY",
+          "publishedOn": "2023-12-21T00:00:20.000Z",
+          "wordCount": null,
+          "title": "Infinite Lighthouses and π",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=X4jpqCu-wlA",
           "author": null,
@@ -321,6 +351,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=E7CN2I--00s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E7CN2I--00s",
+          "publishedOn": "2023-12-21T10:00:09.000Z",
+          "wordCount": null,
+          "title": "Optical fibers, single-mode vs multi-mode  (4K, crf 28)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1jLXR3QMR4E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1jLXR3QMR4E",
+          "publishedOn": "2023-12-21T10:00:01.000Z",
+          "wordCount": null,
+          "title": "Optical fibers, single-mode vs multi-mode  (4K, crf 18)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=t7I6tLOa3uQ",
           "author": null,
@@ -1226,6 +1276,156 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O-2F8fBuRRg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O-2F8fBuRRg",
+          "publishedOn": "2023-12-21T17:27:33.000Z",
+          "wordCount": null,
+          "title": "Chris Rackauckas - NonlinearSolve.jl : Efficient rootfinding and algebraic equations in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qqNM48GHu8Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qqNM48GHu8Q",
+          "publishedOn": "2023-12-21T12:00:45.000Z",
+          "wordCount": null,
+          "title": "Luca Ferranti - PlutoGrader.jl: a tool to write and automatically grade exams as Pluto notebooks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rJol3pTI5q8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rJol3pTI5q8",
+          "publishedOn": "2023-12-21T12:00:45.000Z",
+          "wordCount": null,
+          "title": "Orestis O. & Romanos V. - AOCS Simulations with Julia: Insights from the Hellenic Space Dawn Mission",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n1nG0_Nwzhs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n1nG0_Nwzhs",
+          "publishedOn": "2023-12-21T12:00:41.000Z",
+          "wordCount": null,
+          "title": "Mason P.-Bumper a quick guide to Bump allocators for ultra-high performance intermediate allocations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kNslvU3WD4M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kNslvU3WD4M",
+          "publishedOn": "2023-12-21T12:00:37.000Z",
+          "wordCount": null,
+          "title": "Jeff Bezanson - What's the deal with Julia binary sizes?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Q8fj8QbVpZM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q8fj8QbVpZM",
+          "publishedOn": "2023-12-21T12:00:31.000Z",
+          "wordCount": null,
+          "title": "Tim Besard - GPU Programming in Julia: What, Why and How?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=i1eeD3uHbZ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i1eeD3uHbZ4",
+          "publishedOn": "2023-12-21T12:00:29.000Z",
+          "wordCount": null,
+          "title": "Abel Soares Siqueira - Nonlinear Optimization with the Julia Smooth Optimizers packages",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Z7qgOBNk-to",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z7qgOBNk-to",
+          "publishedOn": "2023-12-21T12:00:25.000Z",
+          "wordCount": null,
+          "title": "Tom Lemmens - XML data and Julian types",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SilF7AAm7Ng",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SilF7AAm7Ng",
+          "publishedOn": "2023-12-21T12:00:23.000Z",
+          "wordCount": null,
+          "title": "François Févotte & Luiz Maltez Faria - Automating task interdependencies using `DataFlowTasks.jl`",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SsJQAk8XbA8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SsJQAk8XbA8",
+          "publishedOn": "2023-12-21T12:00:22.000Z",
+          "wordCount": null,
+          "title": "Fons van der Plas - 🐤 Pluto.jl - reactive and reproducible notebooks for Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RUJFd-rEa0k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RUJFd-rEa0k",
+          "publishedOn": "2023-12-21T12:00:20.000Z",
+          "wordCount": null,
+          "title": "Michael Tiemann - Julia solves the 2 language problem, however it creates the 1.5 language problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Tu__BBCa7q8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tu__BBCa7q8",
+          "publishedOn": "2023-12-21T12:00:19.000Z",
+          "wordCount": null,
+          "title": "Martijn Visser & Julian Hofer - How SciML enables Dutch water management with Ribasim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PqFSyU2Ygqc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PqFSyU2Ygqc",
+          "publishedOn": "2023-12-21T12:00:18.000Z",
+          "wordCount": null,
+          "title": "Adrien Banse - Dionysos.jl: a Modular Platform for Smart Symbolic Control",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Nf70byblWEU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Nf70byblWEU",
+          "publishedOn": "2023-12-21T12:00:16.000Z",
+          "wordCount": null,
+          "title": "Myrthe Scheepers - ASMLs Julia Journey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LW8kuoELgC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LW8kuoELgC4",
+          "publishedOn": "2023-12-21T12:00:14.000Z",
+          "wordCount": null,
+          "title": "Liam H. - Julia is the Answer, but what is the question?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_9ioAWkSXvo",
           "author": null,
           "description": "",
@@ -1636,26 +1836,6 @@
           "publishedOn": "2023-12-04T22:39:42.000Z",
           "wordCount": null,
           "title": "Quantitative Systems Pharmacology (QSP) in Julia with Pumas-QSP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zJcOPPLqv4A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zJcOPPLqv4A",
-          "publishedOn": "2023-09-23T06:32:10.000Z",
-          "wordCount": null,
-          "title": "System identification with Julia: 10 Time-varying parameters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GKl8Tz9n2gs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GKl8Tz9n2gs",
-          "publishedOn": "2023-09-22T14:37:28.000Z",
-          "wordCount": null,
-          "title": "System identification with Julia: 9 Parameter calibration for nonlinear ODEs",
           "imageUrl": null
         }
       ]
@@ -2345,16 +2525,6 @@
           "wordCount": null,
           "title": "Basically Cyclopes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5RUbBsagGGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5RUbBsagGGU",
-          "publishedOn": "2023-09-22T22:48:12.000Z",
-          "wordCount": null,
-          "title": "Basically Tanuki",
-          "imageUrl": null
         }
       ]
     },
@@ -2559,16 +2729,6 @@
           "publishedOn": "2023-09-30T11:14:59.000Z",
           "wordCount": null,
           "title": "Virtual Console and printf() //Source Dive// 003",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M_SUcX66SDA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M_SUcX66SDA",
-          "publishedOn": "2023-09-23T09:09:59.000Z",
-          "wordCount": null,
-          "title": "Programmatic Painting: Flow Fields",
           "imageUrl": null
         }
       ]
