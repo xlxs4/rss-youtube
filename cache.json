@@ -352,6 +352,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=N6MmrODcBsI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N6MmrODcBsI",
+          "publishedOn": "2023-12-22T10:00:22.000Z",
+          "wordCount": null,
+          "title": "Molecular caterpillars (4K, crf 28)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E7CN2I--00s",
           "author": null,
           "description": "",
@@ -1063,6 +1073,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IoCK8d75R9g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IoCK8d75R9g",
+          "publishedOn": "2023-12-22T18:05:00.000Z",
+          "wordCount": null,
+          "title": "Arousal as a universal embedding for spatiotemporal brain dynamics",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NQkSH_CBPq8",
           "author": null,
           "description": "",
@@ -1169,6 +1189,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MO3w2D3uDTw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MO3w2D3uDTw",
+          "publishedOn": "2023-12-22T21:00:07.000Z",
+          "wordCount": null,
+          "title": "Was the Big Bang the Beginning? Reimagining Time in a Cyclic Universe",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pdOgsGBw1t8",
           "author": null,
@@ -2102,6 +2132,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=INIpzE20d3Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=INIpzE20d3Y",
+          "publishedOn": "2023-12-22T15:00:11.000Z",
+          "wordCount": null,
+          "title": "The Insane Engineering of Orbit",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G-6xOsXigw8",
           "author": null,
           "description": "",
@@ -2229,16 +2269,6 @@
           "wordCount": null,
           "title": "What Makes A Good Super Move?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wM4WF4MnZCc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wM4WF4MnZCc",
-          "publishedOn": "2023-09-23T15:00:51.000Z",
-          "wordCount": null,
-          "title": "How Can You Make Backtracking Fun?",
-          "imageUrl": null
         }
       ]
     },
@@ -2253,6 +2283,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw",
       "siteUrl": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GtYDhcVTNxo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GtYDhcVTNxo",
+          "publishedOn": "2023-12-22T16:09:09.000Z",
+          "wordCount": null,
+          "title": "How Jusant Makes Rock-Climbing More Immersive",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=n8bqjpq0MIw",
           "author": null,
@@ -2664,6 +2704,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7Zwf4X_OQ-TEnou0zdyRA",
       "siteUrl": "https://www.youtube.com/channel/UCu7Zwf4X_OQ-TEnou0zdyRA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0HaBNdmUWXY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0HaBNdmUWXY",
+          "publishedOn": "2023-12-22T17:58:46.000Z",
+          "wordCount": null,
+          "title": "How We Compute sin, cos, and e^x Shouldn't Work At All | Smooth vs. Analytic Functions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=i0cp3iQXSk8",
           "author": null,
