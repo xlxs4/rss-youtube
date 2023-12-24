@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4HHUGnHcDQw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4HHUGnHcDQw",
+          "publishedOn": "2023-12-23T01:41:41.000Z",
+          "wordCount": null,
+          "title": "Math - 2023's Biggest Breakthroughs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=580V0wRl1Lo",
           "author": null,
           "description": "",
@@ -95,6 +105,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=tjIOqIr80ns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tjIOqIr80ns",
+          "publishedOn": "2023-12-23T00:00:26.000Z",
+          "wordCount": null,
+          "title": "The limit of limiting arguments",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=W1gW1dHRsOw",
           "author": null,
@@ -351,6 +371,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_NnnM_5UIjI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_NnnM_5UIjI",
+          "publishedOn": "2023-12-23T10:00:32.000Z",
+          "wordCount": null,
+          "title": "Side by side comparison of two optical fibers (4K, crf 28)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=abgyhV0I4VA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=abgyhV0I4VA",
+          "publishedOn": "2023-12-23T10:00:03.000Z",
+          "wordCount": null,
+          "title": "Side by side comparison of two optical fibers (4K, crf 18)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=N6MmrODcBsI",
           "author": null,
@@ -1298,7 +1338,18 @@
       "title": "CodeAesthetic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaSCt8s_4nfkRglWCvNSDrg",
       "siteUrl": "https://www.youtube.com/channel/UCaSCt8s_4nfkRglWCvNSDrg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nuML9SmdbJ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nuML9SmdbJ4",
+          "publishedOn": "2023-12-23T17:00:39.000Z",
+          "wordCount": null,
+          "title": "Dear Functional Bros",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "The Julia Programming Language",
@@ -2606,6 +2657,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA",
       "siteUrl": "https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=bq9O99TgFv4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bq9O99TgFv4",
+          "publishedOn": "2023-12-23T17:44:46.000Z",
+          "wordCount": null,
+          "title": "The Unreasonable Effectiveness of Linux Workstations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aHL4QZJbSoI",
           "author": null,
