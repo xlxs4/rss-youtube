@@ -372,6 +372,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1KT5ZJeQSPk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1KT5ZJeQSPk",
+          "publishedOn": "2023-12-24T10:00:03.000Z",
+          "wordCount": null,
+          "title": "Let it snow! (4K, crf 28)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mmDpJ2V-tC8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mmDpJ2V-tC8",
+          "publishedOn": "2023-12-24T09:00:35.000Z",
+          "wordCount": null,
+          "title": "Let it snow! (short version, 4K, crf 28)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_NnnM_5UIjI",
           "author": null,
           "description": "",
@@ -1954,6 +1974,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCQwQVlIkbalDzmMnr-0tRhw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KlorfxsdWDw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KlorfxsdWDw",
+          "publishedOn": "2023-12-24T16:01:01.000Z",
+          "wordCount": null,
+          "title": "Learn Julia in 4 hours in 4K | Full Course | Julia for Absolute Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fBqrjgjZJIU",
           "author": null,
           "description": "",
@@ -2792,6 +2822,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC56l7uZA209tlPTVOJiJ8Tw",
       "siteUrl": "https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ieCA4NWk-Do",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ieCA4NWk-Do",
+          "publishedOn": "2023-12-24T17:17:36.000Z",
+          "wordCount": null,
+          "title": "Spinning Persistence of Vision",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0ihChIaN8d0",
           "author": null,
