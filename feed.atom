@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-27T00:04:34.694Z</updated>
+    <updated>2023-12-28T00:04:31.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a group?]]></title>
+        <id>https://www.youtube.com/watch?v=3KbiJ-z0j44</id>
+        <link href="https://www.youtube.com/watch?v=3KbiJ-z0j44"/>
+        <updated>2023-12-27T19:00:01.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What if 14 active volcanoes erupted at the same time?]]></title>
+        <id>https://www.youtube.com/watch?v=nBIrj_ORdKk</id>
+        <link href="https://www.youtube.com/watch?v=nBIrj_ORdKk"/>
+        <updated>2023-12-27T10:00:28.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Return of the water molecules]]></title>
         <id>https://www.youtube.com/watch?v=ePlrrtZK7UA</id>
@@ -2353,15 +2371,6 @@
         <updated>2023-09-30T11:14:59.000Z</updated>
         <author>
             <name>Low Byte Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basically Cyclopes]]></title>
-        <id>https://www.youtube.com/watch?v=7IA7HMWDAJg</id>
-        <link href="https://www.youtube.com/watch?v=7IA7HMWDAJg"/>
-        <updated>2023-09-28T19:54:36.000Z</updated>
-        <author>
-            <name>Runesmith</name>
         </author>
     </entry>
 </feed>
