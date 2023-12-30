@@ -106,6 +106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kpG7I2MOcnI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kpG7I2MOcnI",
+          "publishedOn": "2023-12-29T19:00:32.000Z",
+          "wordCount": null,
+          "title": "The Newton art puzzle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3KbiJ-z0j44",
           "author": null,
           "description": "",
@@ -391,6 +401,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4O-1CJx4s4w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4O-1CJx4s4w",
+          "publishedOn": "2023-12-29T10:00:06.000Z",
+          "wordCount": null,
+          "title": "Evanescent coupling of two optical fibers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HL1FWgLEDdw",
           "author": null,
@@ -1212,6 +1232,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Vx2DpMgplEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vx2DpMgplEM",
+          "publishedOn": "2023-12-29T17:50:00.000Z",
+          "wordCount": null,
+          "title": "A Machine Learning Primer: How to Build an ML Model",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IoCK8d75R9g",
           "author": null,
@@ -2381,16 +2411,6 @@
           "wordCount": null,
           "title": "The First Plane To Travel Supersonic",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tuEYQvEYR-M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tuEYQvEYR-M",
-          "publishedOn": "2023-09-30T14:00:40.000Z",
-          "wordCount": null,
-          "title": "The Incredible Potential of Superconductors",
-          "imageUrl": null
         }
       ]
     },
@@ -2550,6 +2570,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vF8yxxR7be0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vF8yxxR7be0",
+          "publishedOn": "2023-12-29T16:54:15.000Z",
+          "wordCount": null,
+          "title": "What the Heck is Composition?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_xM4oOcPafM",
           "author": null,
