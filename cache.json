@@ -402,6 +402,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dvp6Xx96Zeg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dvp6Xx96Zeg",
+          "publishedOn": "2023-12-30T10:00:20.000Z",
+          "wordCount": null,
+          "title": "Trying to grow some snowflakes with periodic boundary conditions",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4O-1CJx4s4w",
           "author": null,
           "description": "",
@@ -1232,6 +1242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wvODQqb3D_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wvODQqb3D_8",
+          "publishedOn": "2023-12-30T21:15:02.000Z",
+          "wordCount": null,
+          "title": "Supervised & Unsupervised Machine Learning",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Vx2DpMgplEM",
           "author": null,
@@ -2932,6 +2952,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC56l7uZA209tlPTVOJiJ8Tw",
       "siteUrl": "https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KUklOA91nk0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KUklOA91nk0",
+          "publishedOn": "2023-12-30T06:37:14.000Z",
+          "wordCount": null,
+          "title": "Bare Metal Bit Banging: WS2812B Driver",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ieCA4NWk-Do",
           "author": null,

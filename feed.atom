@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-30T00:04:41.121Z</updated>
+    <updated>2023-12-31T00:05:24.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Supervised & Unsupervised Machine Learning]]></title>
+        <id>https://www.youtube.com/watch?v=wvODQqb3D_8</id>
+        <link href="https://www.youtube.com/watch?v=wvODQqb3D_8"/>
+        <updated>2023-12-30T21:15:02.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to grow some snowflakes with periodic boundary conditions]]></title>
+        <id>https://www.youtube.com/watch?v=dvp6Xx96Zeg</id>
+        <link href="https://www.youtube.com/watch?v=dvp6Xx96Zeg"/>
+        <updated>2023-12-30T10:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bare Metal Bit Banging: WS2812B Driver]]></title>
+        <id>https://www.youtube.com/watch?v=KUklOA91nk0</id>
+        <link href="https://www.youtube.com/watch?v=KUklOA91nk0"/>
+        <updated>2023-12-30T06:37:14.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Newton art puzzle]]></title>
         <id>https://www.youtube.com/watch?v=kpG7I2MOcnI</id>
