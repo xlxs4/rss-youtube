@@ -371,7 +371,18 @@
       "title": "Mathemaniac",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9CBS5CAynBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9CBS5CAynBE",
+          "publishedOn": "2023-12-31T21:31:36.000Z",
+          "wordCount": null,
+          "title": "Can we exponentiate vectors? d/dx? Vector fields? What is exp?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JuliaDynamics",
@@ -401,6 +412,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XEikKI5sK5A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XEikKI5sK5A",
+          "publishedOn": "2023-12-31T10:00:18.000Z",
+          "wordCount": null,
+          "title": "Compressing molecular caterpillars",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=dvp6Xx96Zeg",
           "author": null,

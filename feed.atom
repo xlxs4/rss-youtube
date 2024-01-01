@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2023-12-31T00:05:24.664Z</updated>
+    <updated>2024-01-01T00:05:28.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can we exponentiate vectors? d/dx? Vector fields? What is exp?]]></title>
+        <id>https://www.youtube.com/watch?v=9CBS5CAynBE</id>
+        <link href="https://www.youtube.com/watch?v=9CBS5CAynBE"/>
+        <updated>2023-12-31T21:31:36.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compressing molecular caterpillars]]></title>
+        <id>https://www.youtube.com/watch?v=XEikKI5sK5A</id>
+        <link href="https://www.youtube.com/watch?v=XEikKI5sK5A"/>
+        <updated>2023-12-31T10:00:18.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supervised & Unsupervised Machine Learning]]></title>
         <id>https://www.youtube.com/watch?v=wvODQqb3D_8</id>
