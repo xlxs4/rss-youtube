@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-01T00:05:28.261Z</updated>
+    <updated>2024-01-02T00:04:41.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sending a message through an optical fiber]]></title>
+        <id>https://www.youtube.com/watch?v=nxhrIs7TGOc</id>
+        <link href="https://www.youtube.com/watch?v=nxhrIs7TGOc"/>
+        <updated>2024-01-01T10:00:26.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can we exponentiate vectors? d/dx? Vector fields? What is exp?]]></title>
         <id>https://www.youtube.com/watch?v=9CBS5CAynBE</id>
@@ -2452,15 +2461,6 @@
         <updated>2023-10-04T14:00:02.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving the environmental footprint of the textile industry: Bio-indigo for blue jeans]]></title>
-        <id>https://www.youtube.com/watch?v=Iu_SmPIplYo</id>
-        <link href="https://www.youtube.com/watch?v=Iu_SmPIplYo"/>
-        <updated>2023-10-04T09:31:26.000Z</updated>
-        <author>
-            <name>Department of Biosystems Science, ETH Zurich</name>
         </author>
     </entry>
 </feed>
