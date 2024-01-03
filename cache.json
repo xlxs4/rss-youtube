@@ -106,6 +106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BTryyW7gqg4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BTryyW7gqg4",
+          "publishedOn": "2024-01-02T00:00:09.000Z",
+          "wordCount": null,
+          "title": "Definition of a \"bit\", in information theory",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kpG7I2MOcnI",
           "author": null,
           "description": "",
@@ -412,6 +422,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UlSnnMhrfgw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UlSnnMhrfgw",
+          "publishedOn": "2024-01-02T10:00:15.000Z",
+          "wordCount": null,
+          "title": "Water molecules in an increasing electric field",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=nxhrIs7TGOc",
           "author": null,
@@ -1254,16 +1274,6 @@
           "publishedOn": "2023-10-10T14:00:02.000Z",
           "wordCount": null,
           "title": "Ancient Life as Old as the Universe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LBudghsdByQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LBudghsdByQ",
-          "publishedOn": "2023-10-04T14:00:02.000Z",
-          "wordCount": null,
-          "title": "Why Korea is Dying Out",
           "imageUrl": null
         }
       ]
@@ -2573,16 +2583,6 @@
           "publishedOn": "2023-10-18T15:13:29.000Z",
           "wordCount": null,
           "title": "How Nintendo Designed Ultrahand",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=36wclKt4vdk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=36wclKt4vdk",
-          "publishedOn": "2023-10-04T14:54:14.000Z",
-          "wordCount": null,
-          "title": "The World Design of Banjo-Kazooie",
           "imageUrl": null
         }
       ]

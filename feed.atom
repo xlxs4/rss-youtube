@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-02T00:04:41.103Z</updated>
+    <updated>2024-01-03T00:04:45.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Water molecules in an increasing electric field]]></title>
+        <id>https://www.youtube.com/watch?v=UlSnnMhrfgw</id>
+        <link href="https://www.youtube.com/watch?v=UlSnnMhrfgw"/>
+        <updated>2024-01-02T10:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Definition of a "bit", in information theory]]></title>
+        <id>https://www.youtube.com/watch?v=BTryyW7gqg4</id>
+        <link href="https://www.youtube.com/watch?v=BTryyW7gqg4"/>
+        <updated>2024-01-02T00:00:09.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sending a message through an optical fiber]]></title>
         <id>https://www.youtube.com/watch?v=nxhrIs7TGOc</id>
@@ -2443,24 +2461,6 @@
         <updated>2023-10-07T14:28:37.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World Design of Banjo-Kazooie]]></title>
-        <id>https://www.youtube.com/watch?v=36wclKt4vdk</id>
-        <link href="https://www.youtube.com/watch?v=36wclKt4vdk"/>
-        <updated>2023-10-04T14:54:14.000Z</updated>
-        <author>
-            <name>Game Maker's Toolkit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Korea is Dying Out]]></title>
-        <id>https://www.youtube.com/watch?v=LBudghsdByQ</id>
-        <link href="https://www.youtube.com/watch?v=LBudghsdByQ"/>
-        <updated>2023-10-04T14:00:02.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
