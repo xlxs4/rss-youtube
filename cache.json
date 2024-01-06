@@ -374,16 +374,6 @@
           "wordCount": null,
           "title": "You can't explain prisms without understanding springs | Optics puzzles part 3",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6a1fLEToyvU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6a1fLEToyvU",
-          "publishedOn": "2023-10-07T14:28:37.000Z",
-          "wordCount": null,
-          "title": "25 Math explainers you may enjoy | SoME3 results",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +422,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=if2JqZS7Ecg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=if2JqZS7Ecg",
+          "publishedOn": "2024-01-05T10:00:35.000Z",
+          "wordCount": null,
+          "title": "Evanescent coupling of two optical fibers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XauRkfqL5aY",
           "author": null,
@@ -1324,6 +1324,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_56bfCu02ZE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_56bfCu02ZE",
+          "publishedOn": "2024-01-05T11:00:34.000Z",
+          "wordCount": null,
+          "title": "A Neural Network Primer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wvODQqb3D_8",
           "author": null,
           "description": "",
@@ -1460,6 +1470,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UjDxk9ZnYJQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UjDxk9ZnYJQ",
+          "publishedOn": "2024-01-05T21:00:07.000Z",
+          "wordCount": null,
+          "title": "Unifying Nature’s Laws: The State of String Theory",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=MO3w2D3uDTw",
           "author": null,
@@ -1900,6 +1920,156 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=f_N786vQfIc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f_N786vQfIc",
+          "publishedOn": "2024-01-05T17:11:33.000Z",
+          "wordCount": null,
+          "title": "Calibrating Models to Difficult and Noisy Data with JuliaSim Model Optimizer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AYpS_Oog6zc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AYpS_Oog6zc",
+          "publishedOn": "2024-01-05T17:10:42.000Z",
+          "wordCount": null,
+          "title": "Building Data Visualization Apps with Dash and Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=C02gaTw2AiM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C02gaTw2AiM",
+          "publishedOn": "2024-01-05T17:09:58.000Z",
+          "wordCount": null,
+          "title": "Modeling Battery Lifespan with JuliaSim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kfU_F3A-v3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kfU_F3A-v3o",
+          "publishedOn": "2024-01-05T17:09:26.000Z",
+          "wordCount": null,
+          "title": "CUDA.jl 4.0: Using CUDA-Accelerated Binaries and Libraries in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kuip2HK2Cn8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kuip2HK2Cn8",
+          "publishedOn": "2024-01-05T17:08:07.000Z",
+          "wordCount": null,
+          "title": "SciML: Scientific Computing + Machine Learning = Industrial Modeling for Engineers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-mn5XTOdxM8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-mn5XTOdxM8",
+          "publishedOn": "2024-01-05T17:07:02.000Z",
+          "wordCount": null,
+          "title": "Using OpenAPI to Describe, Produce, and Consume Web APIs in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lg-TyT2qoRU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lg-TyT2qoRU",
+          "publishedOn": "2024-01-05T17:06:35.000Z",
+          "wordCount": null,
+          "title": "Robust MPC for Uncertain Parameters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NAEXmntnVWM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NAEXmntnVWM",
+          "publishedOn": "2024-01-05T17:05:54.000Z",
+          "wordCount": null,
+          "title": "A Conversation with Turing Award Winner Bob Metcalfe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZZfL8jCmZaQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZZfL8jCmZaQ",
+          "publishedOn": "2024-01-05T17:04:42.000Z",
+          "wordCount": null,
+          "title": "Modern Industrial Modeling Made Easy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=b4-4AtsA3ow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b4-4AtsA3ow",
+          "publishedOn": "2024-01-05T17:03:55.000Z",
+          "wordCount": null,
+          "title": "What's New in Julia 1.9",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5sD5pgWn340",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5sD5pgWn340",
+          "publishedOn": "2024-01-05T17:03:24.000Z",
+          "wordCount": null,
+          "title": "JuliaHub 6.0 Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tuSV0JqgsNc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tuSV0JqgsNc",
+          "publishedOn": "2024-01-05T17:02:55.000Z",
+          "wordCount": null,
+          "title": "JuliaHub Demo Series",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qYtnlKn4S5o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qYtnlKn4S5o",
+          "publishedOn": "2024-01-05T17:01:44.000Z",
+          "wordCount": null,
+          "title": "Modeling and Simulation with JuliaSim - Dr. Chris Rackauckas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9pbcxP8kQY4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9pbcxP8kQY4",
+          "publishedOn": "2024-01-05T16:59:49.000Z",
+          "wordCount": null,
+          "title": "JuliaHub Demo Series",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HHOeAT4RV_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HHOeAT4RV_4",
+          "publishedOn": "2024-01-05T16:58:31.000Z",
+          "wordCount": null,
+          "title": "Automatic tuning of structured controllers using ModelingToolkit and JuliaSimControl",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zECOClp_fyQ",
           "author": null,
@@ -2836,16 +3006,6 @@
           "publishedOn": "2023-10-18T17:01:07.000Z",
           "wordCount": null,
           "title": "Werewolf Mysteries (D&D Monster Tactics)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bXLC29PR9HU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bXLC29PR9HU",
-          "publishedOn": "2023-10-07T18:21:06.000Z",
-          "wordCount": null,
-          "title": "Basically Mummies",
           "imageUrl": null
         }
       ]

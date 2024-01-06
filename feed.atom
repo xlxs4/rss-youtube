@@ -2,10 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-05T00:04:51.761Z</updated>
+    <updated>2024-01-06T00:04:42.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unifying Nature’s Laws: The State of String Theory]]></title>
+        <id>https://www.youtube.com/watch?v=UjDxk9ZnYJQ</id>
+        <link href="https://www.youtube.com/watch?v=UjDxk9ZnYJQ"/>
+        <updated>2024-01-05T21:00:07.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calibrating Models to Difficult and Noisy Data with JuliaSim Model Optimizer]]></title>
+        <id>https://www.youtube.com/watch?v=f_N786vQfIc</id>
+        <link href="https://www.youtube.com/watch?v=f_N786vQfIc"/>
+        <updated>2024-01-05T17:11:33.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Data Visualization Apps with Dash and Julia]]></title>
+        <id>https://www.youtube.com/watch?v=AYpS_Oog6zc</id>
+        <link href="https://www.youtube.com/watch?v=AYpS_Oog6zc"/>
+        <updated>2024-01-05T17:10:42.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling Battery Lifespan with JuliaSim]]></title>
+        <id>https://www.youtube.com/watch?v=C02gaTw2AiM</id>
+        <link href="https://www.youtube.com/watch?v=C02gaTw2AiM"/>
+        <updated>2024-01-05T17:09:58.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUDA.jl 4.0: Using CUDA-Accelerated Binaries and Libraries in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=kfU_F3A-v3o</id>
+        <link href="https://www.youtube.com/watch?v=kfU_F3A-v3o"/>
+        <updated>2024-01-05T17:09:26.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SciML: Scientific Computing + Machine Learning = Industrial Modeling for Engineers]]></title>
+        <id>https://www.youtube.com/watch?v=kuip2HK2Cn8</id>
+        <link href="https://www.youtube.com/watch?v=kuip2HK2Cn8"/>
+        <updated>2024-01-05T17:08:07.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using OpenAPI to Describe, Produce, and Consume Web APIs in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=-mn5XTOdxM8</id>
+        <link href="https://www.youtube.com/watch?v=-mn5XTOdxM8"/>
+        <updated>2024-01-05T17:07:02.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust MPC for Uncertain Parameters]]></title>
+        <id>https://www.youtube.com/watch?v=lg-TyT2qoRU</id>
+        <link href="https://www.youtube.com/watch?v=lg-TyT2qoRU"/>
+        <updated>2024-01-05T17:06:35.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Conversation with Turing Award Winner Bob Metcalfe]]></title>
+        <id>https://www.youtube.com/watch?v=NAEXmntnVWM</id>
+        <link href="https://www.youtube.com/watch?v=NAEXmntnVWM"/>
+        <updated>2024-01-05T17:05:54.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Industrial Modeling Made Easy]]></title>
+        <id>https://www.youtube.com/watch?v=ZZfL8jCmZaQ</id>
+        <link href="https://www.youtube.com/watch?v=ZZfL8jCmZaQ"/>
+        <updated>2024-01-05T17:04:42.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New in Julia 1.9]]></title>
+        <id>https://www.youtube.com/watch?v=b4-4AtsA3ow</id>
+        <link href="https://www.youtube.com/watch?v=b4-4AtsA3ow"/>
+        <updated>2024-01-05T17:03:55.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaHub 6.0 Features]]></title>
+        <id>https://www.youtube.com/watch?v=5sD5pgWn340</id>
+        <link href="https://www.youtube.com/watch?v=5sD5pgWn340"/>
+        <updated>2024-01-05T17:03:24.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaHub Demo Series]]></title>
+        <id>https://www.youtube.com/watch?v=tuSV0JqgsNc</id>
+        <link href="https://www.youtube.com/watch?v=tuSV0JqgsNc"/>
+        <updated>2024-01-05T17:02:55.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling and Simulation with JuliaSim - Dr. Chris Rackauckas]]></title>
+        <id>https://www.youtube.com/watch?v=qYtnlKn4S5o</id>
+        <link href="https://www.youtube.com/watch?v=qYtnlKn4S5o"/>
+        <updated>2024-01-05T17:01:44.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaHub Demo Series]]></title>
+        <id>https://www.youtube.com/watch?v=9pbcxP8kQY4</id>
+        <link href="https://www.youtube.com/watch?v=9pbcxP8kQY4"/>
+        <updated>2024-01-05T16:59:49.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic tuning of structured controllers using ModelingToolkit and JuliaSimControl]]></title>
+        <id>https://www.youtube.com/watch?v=HHOeAT4RV_4</id>
+        <link href="https://www.youtube.com/watch?v=HHOeAT4RV_4"/>
+        <updated>2024-01-05T16:58:31.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Neural Network Primer]]></title>
+        <id>https://www.youtube.com/watch?v=_56bfCu02ZE</id>
+        <link href="https://www.youtube.com/watch?v=_56bfCu02ZE"/>
+        <updated>2024-01-05T11:00:34.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evanescent coupling of two optical fibers]]></title>
+        <id>https://www.youtube.com/watch?v=if2JqZS7Ecg</id>
+        <link href="https://www.youtube.com/watch?v=if2JqZS7Ecg"/>
+        <updated>2024-01-05T10:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You Swallowed a Tapeworm - What Now? #kurzgesagt #shorts]]></title>
         <id>https://www.youtube.com/watch?v=Chh2lgGe2YE</id>
@@ -2479,24 +2641,6 @@
         <updated>2023-10-09T09:12:35.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basically Mummies]]></title>
-        <id>https://www.youtube.com/watch?v=bXLC29PR9HU</id>
-        <link href="https://www.youtube.com/watch?v=bXLC29PR9HU"/>
-        <updated>2023-10-07T18:21:06.000Z</updated>
-        <author>
-            <name>Runesmith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 Math explainers you may enjoy | SoME3 results]]></title>
-        <id>https://www.youtube.com/watch?v=6a1fLEToyvU</id>
-        <link href="https://www.youtube.com/watch?v=6a1fLEToyvU"/>
-        <updated>2023-10-07T14:28:37.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
