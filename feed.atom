@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-07T00:05:33.814Z</updated>
+    <updated>2024-01-08T00:05:00.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Visualising trace of a matrix | Lie groups, algebras, brackets #5]]></title>
+        <id>https://www.youtube.com/watch?v=B2PJh2K-jdU</id>
+        <link href="https://www.youtube.com/watch?v=B2PJh2K-jdU"/>
+        <updated>2024-01-07T15:00:08.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sending a message through an improved fiber]]></title>
+        <id>https://www.youtube.com/watch?v=7jOpLqNcj4o</id>
+        <link href="https://www.youtube.com/watch?v=7jOpLqNcj4o"/>
+        <updated>2024-01-07T10:00:04.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The A-10s massive gun halves forward thrust]]></title>
         <id>https://www.youtube.com/watch?v=iRupCpvLqTk</id>
@@ -2650,15 +2668,6 @@
         <updated>2023-10-10T14:00:02.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The First Plane To Travel Supersonic]]></title>
-        <id>https://www.youtube.com/watch?v=wfrF-2LzK6I</id>
-        <link href="https://www.youtube.com/watch?v=wfrF-2LzK6I"/>
-        <updated>2023-10-09T12:32:10.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
