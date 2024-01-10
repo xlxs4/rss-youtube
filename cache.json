@@ -96,6 +96,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=U3O1nzSojnc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U3O1nzSojnc",
+          "publishedOn": "2024-01-09T17:15:05.000Z",
+          "wordCount": null,
+          "title": "The cube shadow puzzle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XIW-2ykgVPI",
           "author": null,
           "description": "",
@@ -442,6 +452,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SqwvZX20Q2Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SqwvZX20Q2Y",
+          "publishedOn": "2024-01-09T10:00:27.000Z",
+          "wordCount": null,
+          "title": "A simplistic model for tides - periodic forcing",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BdsrjzclbbE",
           "author": null,
@@ -2968,6 +2988,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QuZPw_RqtAI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QuZPw_RqtAI",
+          "publishedOn": "2024-01-09T23:14:46.000Z",
+          "wordCount": null,
+          "title": "D&D's Buff Furry Angels",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Qu-6uwLcVfM",
           "author": null,
