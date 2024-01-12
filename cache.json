@@ -96,6 +96,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DWnb2UUlqd0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DWnb2UUlqd0",
+          "publishedOn": "2024-01-11T00:00:11.000Z",
+          "wordCount": null,
+          "title": "Why does light slowing imply a bend? (Beyond the tank/car analogy)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U3O1nzSojnc",
           "author": null,
           "description": "",
@@ -452,6 +462,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aHkAPXTYaAs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aHkAPXTYaAs",
+          "publishedOn": "2024-01-11T10:00:03.000Z",
+          "wordCount": null,
+          "title": "Eavesdropping on an optical fiber using evanescent coupling",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3I8LmeWEXi8",
           "author": null,
@@ -1277,6 +1297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6AWYgNArZZw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6AWYgNArZZw",
+          "publishedOn": "2024-01-11T15:00:09.000Z",
+          "wordCount": null,
+          "title": "Let’s Shrink Earth to Half Its Size #kurzgesagt #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Chh2lgGe2YE",
           "author": null,
           "description": "",
@@ -1608,16 +1638,6 @@
           "publishedOn": "2023-10-27T21:43:53.000Z",
           "wordCount": null,
           "title": "The Past and Future of Life and the Cosmos",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jwYHQ6YwwuY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jwYHQ6YwwuY",
-          "publishedOn": "2023-10-13T20:00:11.000Z",
-          "wordCount": null,
-          "title": "Seeing Further: Searching for the Echoes of Creation",
           "imageUrl": null
         }
       ]
@@ -2654,6 +2674,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Q93GstSJApQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q93GstSJApQ",
+          "publishedOn": "2024-01-11T15:00:18.000Z",
+          "wordCount": null,
+          "title": "How the SR-71's Engine Worked",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iRupCpvLqTk",
           "author": null,
           "description": "",
@@ -3146,16 +3176,6 @@
           "publishedOn": "2023-10-31T18:14:28.000Z",
           "wordCount": null,
           "title": "🎃 Monsters, Ghosts, and Project Managers (a Modem Prometheus Story)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WgV6M1LyfNY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WgV6M1LyfNY",
-          "publishedOn": "2023-10-13T16:04:38.000Z",
-          "wordCount": null,
-          "title": "The Unreasonable Effectiveness Of Plain Text",
           "imageUrl": null
         }
       ]
