@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-12T00:04:50.718Z</updated>
+    <updated>2024-01-13T00:04:50.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Math Inside Music]]></title>
+        <id>https://www.youtube.com/watch?v=FLY7kWbDQfo</id>
+        <link href="https://www.youtube.com/watch?v=FLY7kWbDQfo"/>
+        <updated>2024-01-12T20:08:53.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Spot the Math Hiding in Plain Sight]]></title>
+        <id>https://www.youtube.com/watch?v=BHbeED51h6s</id>
+        <link href="https://www.youtube.com/watch?v=BHbeED51h6s"/>
+        <updated>2024-01-12T15:37:17.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon Local Eindhoven 2023 Aftermovie]]></title>
+        <id>https://www.youtube.com/watch?v=9YfRd6sdI4Q</id>
+        <link href="https://www.youtube.com/watch?v=9YfRd6sdI4Q"/>
+        <updated>2024-01-12T10:30:33.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular circle dance]]></title>
+        <id>https://www.youtube.com/watch?v=ZyG-vf_sFQM</id>
+        <link href="https://www.youtube.com/watch?v=ZyG-vf_sFQM"/>
+        <updated>2024-01-12T10:00:24.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positioned as the hardest question on a Putnam exam  (#6, 1992)]]></title>
+        <id>https://www.youtube.com/watch?v=IstyL9vnybg</id>
+        <link href="https://www.youtube.com/watch?v=IstyL9vnybg"/>
+        <updated>2024-01-12T07:00:13.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the SR-71's Engine Worked]]></title>
         <id>https://www.youtube.com/watch?v=Q93GstSJApQ</id>

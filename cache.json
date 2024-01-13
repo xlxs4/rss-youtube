@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FLY7kWbDQfo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FLY7kWbDQfo",
+          "publishedOn": "2024-01-12T20:08:53.000Z",
+          "wordCount": null,
+          "title": "The Hidden Math Inside Music",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BHbeED51h6s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BHbeED51h6s",
+          "publishedOn": "2024-01-12T15:37:17.000Z",
+          "wordCount": null,
+          "title": "How to Spot the Math Hiding in Plain Sight",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4HHUGnHcDQw",
           "author": null,
           "description": "",
@@ -95,6 +115,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IstyL9vnybg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IstyL9vnybg",
+          "publishedOn": "2024-01-12T07:00:13.000Z",
+          "wordCount": null,
+          "title": "Positioned as the hardest question on a Putnam exam  (#6, 1992)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DWnb2UUlqd0",
           "author": null,
@@ -462,6 +492,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZyG-vf_sFQM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZyG-vf_sFQM",
+          "publishedOn": "2024-01-12T10:00:24.000Z",
+          "wordCount": null,
+          "title": "Molecular circle dance",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aHkAPXTYaAs",
           "author": null,
@@ -1687,6 +1727,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9YfRd6sdI4Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9YfRd6sdI4Q",
+          "publishedOn": "2024-01-12T10:30:33.000Z",
+          "wordCount": null,
+          "title": "JuliaCon Local Eindhoven 2023 Aftermovie",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=O-2F8fBuRRg",
           "author": null,
