@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-15T00:04:58.978Z</updated>
+    <updated>2024-01-16T00:04:54.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making movies with two lenses]]></title>
+        <id>https://www.youtube.com/watch?v=fRsSLNzFv4A</id>
+        <link href="https://www.youtube.com/watch?v=fRsSLNzFv4A"/>
+        <updated>2024-01-15T10:00:27.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The medical test paradox (well "paradox")]]></title>
+        <id>https://www.youtube.com/watch?v=xIMlJUwB1m8</id>
+        <link href="https://www.youtube.com/watch?v=xIMlJUwB1m8"/>
+        <updated>2024-01-15T07:00:30.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bad Apple 🍎 #stm32 #led #ws2812b]]></title>
         <id>https://www.youtube.com/watch?v=BBHQu8mF1fw</id>
@@ -2776,15 +2794,6 @@
         <updated>2023-10-18T14:09:06.000Z</updated>
         <author>
             <name>Department of Biosystems Science, ETH Zurich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Glimpse Into Our Future]]></title>
-        <id>https://www.youtube.com/watch?v=Qtmrp_4BKRQ</id>
-        <link href="https://www.youtube.com/watch?v=Qtmrp_4BKRQ"/>
-        <updated>2023-10-17T14:04:14.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
