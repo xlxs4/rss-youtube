@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-16T00:04:54.431Z</updated>
+    <updated>2024-01-17T00:04:42.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Chonkiest WW2 Fighter Plane]]></title>
+        <id>https://www.youtube.com/watch?v=ceT5npyXeNs</id>
+        <link href="https://www.youtube.com/watch?v=ceT5npyXeNs"/>
+        <updated>2024-01-16T15:00:35.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dissociation/recombination of water molecules in an increasing electric field]]></title>
+        <id>https://www.youtube.com/watch?v=BZKsU4-PLNE</id>
+        <link href="https://www.youtube.com/watch?v=BZKsU4-PLNE"/>
+        <updated>2024-01-16T10:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making movies with two lenses]]></title>
         <id>https://www.youtube.com/watch?v=fRsSLNzFv4A</id>
@@ -2767,33 +2785,6 @@
         <updated>2023-10-21T11:31:43.000Z</updated>
         <author>
             <name>Low Byte Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Werewolf Mysteries (D&D Monster Tactics)]]></title>
-        <id>https://www.youtube.com/watch?v=aW6yYtTx1ek</id>
-        <link href="https://www.youtube.com/watch?v=aW6yYtTx1ek"/>
-        <updated>2023-10-18T17:01:07.000Z</updated>
-        <author>
-            <name>Runesmith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Nintendo Designed Ultrahand]]></title>
-        <id>https://www.youtube.com/watch?v=pvOqTunOQB8</id>
-        <link href="https://www.youtube.com/watch?v=pvOqTunOQB8"/>
-        <updated>2023-10-18T15:13:29.000Z</updated>
-        <author>
-            <name>Game Maker's Toolkit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“I felt very honoured, but I could not give up on all this”]]></title>
-        <id>https://www.youtube.com/watch?v=MO7l-RnVXKw</id>
-        <link href="https://www.youtube.com/watch?v=MO7l-RnVXKw"/>
-        <updated>2023-10-18T14:09:06.000Z</updated>
-        <author>
-            <name>Department of Biosystems Science, ETH Zurich</name>
         </author>
     </entry>
 </feed>
