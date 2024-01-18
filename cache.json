@@ -116,6 +116,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=w-CXIqIjfRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w-CXIqIjfRI",
+          "publishedOn": "2024-01-17T07:00:31.000Z",
+          "wordCount": null,
+          "title": "Three levels of understanding Bayes' theorem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xIMlJUwB1m8",
           "author": null,
           "description": "",
@@ -502,6 +512,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VLfacybDWPs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VLfacybDWPs",
+          "publishedOn": "2024-01-17T10:00:31.000Z",
+          "wordCount": null,
+          "title": "What if the Earth suddenly stopped spinning? A simulation attempt",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BZKsU4-PLNE",
           "author": null,
@@ -1768,6 +1788,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8HOeSQSjSMc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8HOeSQSjSMc",
+          "publishedOn": "2024-01-17T16:39:17.000Z",
+          "wordCount": null,
+          "title": "ML Community Call (2024-01-12)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9YfRd6sdI4Q",
           "author": null,
           "description": "",
@@ -2764,6 +2794,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3rRwyQaawcs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3rRwyQaawcs",
+          "publishedOn": "2024-01-17T15:01:01.000Z",
+          "wordCount": null,
+          "title": "How the P-47s Turbocharger Worked",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ceT5npyXeNs",
           "author": null,
           "description": "",
@@ -3118,6 +3158,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Aw_cvC0ee40",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Aw_cvC0ee40",
+          "publishedOn": "2024-01-17T00:10:29.000Z",
+          "wordCount": null,
+          "title": "The Daycare Stuck in a Standstill War",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QuZPw_RqtAI",
           "author": null,
