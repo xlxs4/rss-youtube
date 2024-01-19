@@ -513,6 +513,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XCYQFD_jhUE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XCYQFD_jhUE",
+          "publishedOn": "2024-01-18T10:00:22.000Z",
+          "wordCount": null,
+          "title": "Dissociation/recombination of water molecules in an increasing magnetic field",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VLfacybDWPs",
           "author": null,
           "description": "",
@@ -1407,6 +1417,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8_cAY_rQpzM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8_cAY_rQpzM",
+          "publishedOn": "2024-01-18T15:00:10.000Z",
+          "wordCount": null,
+          "title": "Map Projections – Why Do We Have Different Maps of the Earth? #kurzgesagt #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6AWYgNArZZw",
           "author": null,
           "description": "",
@@ -1613,6 +1633,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=G31wnCj0iY4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G31wnCj0iY4",
+          "publishedOn": "2024-01-18T19:07:00.000Z",
+          "wordCount": null,
+          "title": "Gelsey Bell | Pioneer Sessions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0k4AKYAgwwQ",
           "author": null,
@@ -2794,6 +2824,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sBBDfgwUeqo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sBBDfgwUeqo",
+          "publishedOn": "2024-01-18T15:00:46.000Z",
+          "wordCount": null,
+          "title": "How Water Injection Increases Horsepower",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3rRwyQaawcs",
           "author": null,
           "description": "",
@@ -3430,16 +3470,6 @@
           "publishedOn": "2023-10-28T13:34:03.000Z",
           "wordCount": null,
           "title": "The mechanics of VIRTUAL MEMORY //Source Dive// 005",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5vzMgNAzEuA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5vzMgNAzEuA",
-          "publishedOn": "2023-10-21T11:31:43.000Z",
-          "wordCount": null,
-          "title": "Turning Pixels Into Waves",
           "imageUrl": null
         }
       ]
