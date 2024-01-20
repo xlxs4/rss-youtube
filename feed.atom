@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-19T00:04:52.681Z</updated>
+    <updated>2024-01-20T00:04:45.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ellipses have multiple definitions, how are these the same?]]></title>
+        <id>https://www.youtube.com/watch?v=-3jPW_TGATI</id>
+        <link href="https://www.youtube.com/watch?v=-3jPW_TGATI"/>
+        <updated>2024-01-19T19:00:00.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Mario's Invisible Difficulty Settings]]></title>
+        <id>https://www.youtube.com/watch?v=gkvyYTSKTQY</id>
+        <link href="https://www.youtube.com/watch?v=gkvyYTSKTQY"/>
+        <updated>2024-01-19T17:34:37.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Player-Generated Content in MMOs]]></title>
+        <id>https://www.youtube.com/watch?v=LbCL3canWWo</id>
+        <link href="https://www.youtube.com/watch?v=LbCL3canWWo"/>
+        <updated>2024-01-19T15:59:51.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust's Secret Purity System]]></title>
+        <id>https://www.youtube.com/watch?v=voRBS0r4EyI</id>
+        <link href="https://www.youtube.com/watch?v=voRBS0r4EyI"/>
+        <updated>2024-01-19T15:00:11.000Z</updated>
+        <author>
+            <name>No Boilerplate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Badly spliced optical fibers]]></title>
+        <id>https://www.youtube.com/watch?v=fHTPnWXuVAg</id>
+        <link href="https://www.youtube.com/watch?v=fHTPnWXuVAg"/>
+        <updated>2024-01-19T10:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gelsey Bell | Pioneer Sessions]]></title>
         <id>https://www.youtube.com/watch?v=G31wnCj0iY4</id>
@@ -2846,15 +2891,6 @@
         <id>https://www.youtube.com/watch?v=ym1MkJBmPyo</id>
         <link href="https://www.youtube.com/watch?v=ym1MkJBmPyo"/>
         <updated>2023-10-22T13:01:20.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Painful Challenge of Demining Ukraine]]></title>
-        <id>https://www.youtube.com/watch?v=aWv5Itf2e8Y</id>
-        <link href="https://www.youtube.com/watch?v=aWv5Itf2e8Y"/>
-        <updated>2023-10-21T14:00:03.000Z</updated>
         <author>
             <name>Real Engineering</name>
         </author>

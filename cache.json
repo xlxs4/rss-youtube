@@ -116,6 +116,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-3jPW_TGATI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-3jPW_TGATI",
+          "publishedOn": "2024-01-19T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Ellipses have multiple definitions, how are these the same?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=w-CXIqIjfRI",
           "author": null,
           "description": "",
@@ -512,6 +522,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fHTPnWXuVAg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fHTPnWXuVAg",
+          "publishedOn": "2024-01-19T10:00:33.000Z",
+          "wordCount": null,
+          "title": "Badly spliced optical fibers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XCYQFD_jhUE",
           "author": null,
@@ -2942,16 +2962,6 @@
           "wordCount": null,
           "title": "A Ukrainian Tractor Modified to Clear Mines",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aWv5Itf2e8Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aWv5Itf2e8Y",
-          "publishedOn": "2023-10-21T14:00:03.000Z",
-          "wordCount": null,
-          "title": "The Painful Challenge of Demining Ukraine",
-          "imageUrl": null
         }
       ]
     },
@@ -3015,6 +3025,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw",
       "siteUrl": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gkvyYTSKTQY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gkvyYTSKTQY",
+          "publishedOn": "2024-01-19T17:34:37.000Z",
+          "wordCount": null,
+          "title": "Super Mario's Invisible Difficulty Settings",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GtYDhcVTNxo",
           "author": null,
@@ -3091,6 +3111,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LbCL3canWWo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LbCL3canWWo",
+          "publishedOn": "2024-01-19T15:59:51.000Z",
+          "wordCount": null,
+          "title": "Player-Generated Content in MMOs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vF8yxxR7be0",
           "author": null,
@@ -3297,6 +3327,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA",
       "siteUrl": "https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=voRBS0r4EyI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=voRBS0r4EyI",
+          "publishedOn": "2024-01-19T15:00:11.000Z",
+          "wordCount": null,
+          "title": "Rust's Secret Purity System",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=bq9O99TgFv4",
           "author": null,
