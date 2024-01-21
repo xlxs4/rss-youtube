@@ -523,6 +523,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nnbe_msq1dQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nnbe_msq1dQ",
+          "publishedOn": "2024-01-20T10:00:38.000Z",
+          "wordCount": null,
+          "title": "Taking hydronium into account in water dissociation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fHTPnWXuVAg",
           "author": null,
           "description": "",
@@ -2813,16 +2823,6 @@
           "wordCount": null,
           "title": "[10x12] How to use Arrays in Julia",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TW1vi0LZmxU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TW1vi0LZmxU",
-          "publishedOn": "2023-10-22T15:01:29.000Z",
-          "wordCount": null,
-          "title": "[10x11] How to use Characters and Strings in Julia",
-          "imageUrl": null
         }
       ]
     },
@@ -2843,6 +2843,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9MxT16L9abY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9MxT16L9abY",
+          "publishedOn": "2024-01-20T15:00:07.000Z",
+          "wordCount": null,
+          "title": "Fixing the P-47s Climb Rate",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sBBDfgwUeqo",
           "author": null,
@@ -2952,16 +2962,6 @@
           "wordCount": null,
           "title": "The Insane Engineering of the F-16",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ym1MkJBmPyo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ym1MkJBmPyo",
-          "publishedOn": "2023-10-22T13:01:20.000Z",
-          "wordCount": null,
-          "title": "A Ukrainian Tractor Modified to Clear Mines",
-          "imageUrl": null
         }
       ]
     },
@@ -2982,6 +2982,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNOVwMpD-5A1xzcQGbIHNeA",
       "siteUrl": "https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fzHD4FLHIIo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fzHD4FLHIIo",
+          "publishedOn": "2024-01-20T16:00:23.000Z",
+          "wordCount": null,
+          "title": "How Can You Spice Up A Healing System?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=a44AyNXjYXo",
           "author": null,
