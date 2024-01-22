@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-21T00:05:36.671Z</updated>
+    <updated>2024-01-22T00:05:05.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making movies with two lenses: shorter wavelength]]></title>
+        <id>https://www.youtube.com/watch?v=om1GysGCvRo</id>
+        <link href="https://www.youtube.com/watch?v=om1GysGCvRo"/>
+        <updated>2024-01-21T10:00:27.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Can You Spice Up A Healing System?]]></title>
         <id>https://www.youtube.com/watch?v=fzHD4FLHIIo</id>
@@ -2893,15 +2902,6 @@
         <updated>2023-10-24T17:57:34.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A puzzle game where your tools are completely random]]></title>
-        <id>https://www.youtube.com/watch?v=2ZYAew_4tsc</id>
-        <link href="https://www.youtube.com/watch?v=2ZYAew_4tsc"/>
-        <updated>2023-10-23T16:18:18.000Z</updated>
-        <author>
-            <name>Game Maker's Toolkit</name>
         </author>
     </entry>
 </feed>
