@@ -106,6 +106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xJwkj25fFK4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xJwkj25fFK4",
+          "publishedOn": "2024-01-24T06:00:26.000Z",
+          "wordCount": null,
+          "title": "How the Mandelbrot set is defined",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-ikRg-OfFHc",
           "author": null,
           "description": "",
@@ -522,6 +532,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EObkIbclmNM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EObkIbclmNM",
+          "publishedOn": "2024-01-24T10:00:10.000Z",
+          "wordCount": null,
+          "title": "Soap",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XL7N0tdZoKA",
           "author": null,
@@ -1460,6 +1480,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9eOHNVxK-tw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9eOHNVxK-tw",
+          "publishedOn": "2024-01-24T03:08:51.000Z",
+          "wordCount": null,
+          "title": "Vinberg  Lecture by Victor Kac",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yPgsrDJ8Yus",
           "author": null,
           "description": "",
@@ -1842,18 +1872,7 @@
       "title": "Freya Holmér",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA",
       "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=htYh-Tq7ZBI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=htYh-Tq7ZBI",
-          "publishedOn": "2023-10-26T21:08:49.000Z",
-          "wordCount": null,
-          "title": "Why can't you multiply vectors?",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CodeAesthetic",
