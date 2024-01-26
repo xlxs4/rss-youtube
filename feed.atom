@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-25T00:04:48.996Z</updated>
+    <updated>2024-01-26T00:04:31.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SUNN O)))'s Shoshin (初心) Duo Live at Pioneer Works (Full Set)]]></title>
+        <id>https://www.youtube.com/watch?v=kLZ1BXzABuc</id>
+        <link href="https://www.youtube.com/watch?v=kLZ1BXzABuc"/>
+        <updated>2024-01-25T22:01:32.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If Our Sun Disappeared? #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ld4K5nw9gsk</id>
+        <link href="https://www.youtube.com/watch?v=ld4K5nw9gsk"/>
+        <updated>2024-01-25T15:00:41.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Simple Answer to the Complexity of Spaceflight]]></title>
+        <id>https://www.youtube.com/watch?v=dhYqflvJMXc</id>
+        <link href="https://www.youtube.com/watch?v=dhYqflvJMXc"/>
+        <updated>2024-01-25T14:42:52.000Z</updated>
+        <author>
+            <name>braintruffle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can we make commercial aircraft faster?  Mitigating transonic buffet with porous trailing edges]]></title>
+        <id>https://www.youtube.com/watch?v=ddomrz1cz_U</id>
+        <link href="https://www.youtube.com/watch?v=ddomrz1cz_U"/>
+        <updated>2024-01-25T11:00:34.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Epilepsy warning] Filming a moving source]]></title>
+        <id>https://www.youtube.com/watch?v=Ud0O4k_mbvw</id>
+        <link href="https://www.youtube.com/watch?v=Ud0O4k_mbvw"/>
+        <updated>2024-01-25T10:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soap]]></title>
         <id>https://www.youtube.com/watch?v=EObkIbclmNM</id>
@@ -2857,15 +2902,6 @@
         <updated>2023-10-28T13:34:03.000Z</updated>
         <author>
             <name>Low Byte Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Past and Future of Life and the Cosmos]]></title>
-        <id>https://www.youtube.com/watch?v=BYVMulMNZMs</id>
-        <link href="https://www.youtube.com/watch?v=BYVMulMNZMs"/>
-        <updated>2023-10-27T21:43:53.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>

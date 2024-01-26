@@ -533,6 +533,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ud0O4k_mbvw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ud0O4k_mbvw",
+          "publishedOn": "2024-01-25T10:00:20.000Z",
+          "wordCount": null,
+          "title": "[Epilepsy warning] Filming a moving source",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EObkIbclmNM",
           "author": null,
           "description": "",
@@ -1507,6 +1517,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ld4K5nw9gsk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ld4K5nw9gsk",
+          "publishedOn": "2024-01-25T15:00:41.000Z",
+          "wordCount": null,
+          "title": "What If Our Sun Disappeared? #kurzgesagt #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8_cAY_rQpzM",
           "author": null,
           "description": "",
@@ -1634,6 +1654,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ddomrz1cz_U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ddomrz1cz_U",
+          "publishedOn": "2024-01-25T11:00:34.000Z",
+          "wordCount": null,
+          "title": "Can we make commercial aircraft faster?  Mitigating transonic buffet with porous trailing edges",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_56bfCu02ZE",
           "author": null,
           "description": "",
@@ -1723,6 +1753,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kLZ1BXzABuc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kLZ1BXzABuc",
+          "publishedOn": "2024-01-25T22:01:32.000Z",
+          "wordCount": null,
+          "title": "SUNN O)))'s Shoshin (初心) Duo Live at Pioneer Works (Full Set)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=G31wnCj0iY4",
           "author": null,
@@ -1848,16 +1888,6 @@
           "publishedOn": "2023-11-10T21:00:07.000Z",
           "wordCount": null,
           "title": "Mind Over Molecules: The Biology of Memory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BYVMulMNZMs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BYVMulMNZMs",
-          "publishedOn": "2023-10-27T21:43:53.000Z",
-          "wordCount": null,
-          "title": "The Past and Future of Life and the Cosmos",
           "imageUrl": null
         }
       ]
@@ -2809,7 +2839,18 @@
       "title": "braintruffle",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV4Rx1m-9HmtqHET7GjnVOA",
       "siteUrl": "https://www.youtube.com/channel/UCV4Rx1m-9HmtqHET7GjnVOA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dhYqflvJMXc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dhYqflvJMXc",
+          "publishedOn": "2024-01-25T14:42:52.000Z",
+          "wordCount": null,
+          "title": "A Simple Answer to the Complexity of Spaceflight",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Jump Trajectory",
