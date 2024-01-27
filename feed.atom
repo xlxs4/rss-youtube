@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-26T00:04:31.430Z</updated>
+    <updated>2024-01-27T00:04:27.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Massive Abandoned Towers in Austria]]></title>
+        <id>https://www.youtube.com/watch?v=qtOlzyc4v8Q</id>
+        <link href="https://www.youtube.com/watch?v=qtOlzyc4v8Q"/>
+        <updated>2024-01-26T10:30:11.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soap with longer polymers]]></title>
+        <id>https://www.youtube.com/watch?v=Uv-DGLClbU0</id>
+        <link href="https://www.youtube.com/watch?v=Uv-DGLClbU0"/>
+        <updated>2024-01-26T10:00:21.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulating the electric field and a moving charge]]></title>
+        <id>https://www.youtube.com/watch?v=81QNyDnYtg0</id>
+        <link href="https://www.youtube.com/watch?v=81QNyDnYtg0"/>
+        <updated>2024-01-26T06:00:04.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUNN O)))'s Shoshin (初心) Duo Live at Pioneer Works (Full Set)]]></title>
         <id>https://www.youtube.com/watch?v=kLZ1BXzABuc</id>
@@ -2875,33 +2902,6 @@
         <updated>2023-10-29T15:01:05.000Z</updated>
         <author>
             <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMR RMA 2: Chaim Goodman-Strauss]]></title>
-        <id>https://www.youtube.com/watch?v=yPgsrDJ8Yus</id>
-        <link href="https://www.youtube.com/watch?v=yPgsrDJ8Yus"/>
-        <updated>2023-10-28T17:48:56.000Z</updated>
-        <author>
-            <name>Association for Mathematical Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memes, Genes, and Brain Viruses]]></title>
-        <id>https://www.youtube.com/watch?v=Y5OUS-pM9Mc</id>
-        <link href="https://www.youtube.com/watch?v=Y5OUS-pM9Mc"/>
-        <updated>2023-10-28T14:00:32.000Z</updated>
-        <author>
-            <name>Emergent Garden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The mechanics of VIRTUAL MEMORY //Source Dive// 005]]></title>
-        <id>https://www.youtube.com/watch?v=iTic6EV4DP8</id>
-        <link href="https://www.youtube.com/watch?v=iTic6EV4DP8"/>
-        <updated>2023-10-28T13:34:03.000Z</updated>
-        <author>
-            <name>Low Byte Productions</name>
         </author>
     </entry>
 </feed>

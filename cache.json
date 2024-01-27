@@ -106,6 +106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=81QNyDnYtg0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=81QNyDnYtg0",
+          "publishedOn": "2024-01-26T06:00:04.000Z",
+          "wordCount": null,
+          "title": "Simulating the electric field and a moving charge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xJwkj25fFK4",
           "author": null,
           "description": "",
@@ -532,6 +542,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Uv-DGLClbU0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Uv-DGLClbU0",
+          "publishedOn": "2024-01-26T10:00:21.000Z",
+          "wordCount": null,
+          "title": "Soap with longer polymers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ud0O4k_mbvw",
           "author": null,
@@ -1497,16 +1517,6 @@
           "publishedOn": "2024-01-24T03:08:51.000Z",
           "wordCount": null,
           "title": "Vinberg  Lecture by Victor Kac",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yPgsrDJ8Yus",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yPgsrDJ8Yus",
-          "publishedOn": "2023-10-28T17:48:56.000Z",
-          "wordCount": null,
-          "title": "AMR RMA 2: Chaim Goodman-Strauss",
           "imageUrl": null
         }
       ]
@@ -2864,6 +2874,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qtOlzyc4v8Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qtOlzyc4v8Q",
+          "publishedOn": "2024-01-26T10:30:11.000Z",
+          "wordCount": null,
+          "title": "Massive Abandoned Towers in Austria",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hhT4M0UjJcg",
           "author": null,
           "description": "",
@@ -3123,18 +3143,7 @@
       "title": "Emergent Garden",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwBhBDsqiQflTMLy2epbQVw",
       "siteUrl": "https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Y5OUS-pM9Mc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y5OUS-pM9Mc",
-          "publishedOn": "2023-10-28T14:00:32.000Z",
-          "wordCount": null,
-          "title": "Memes, Genes, and Brain Viruses",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Craig Perko",
@@ -3510,16 +3519,6 @@
           "publishedOn": "2023-11-04T08:35:04.000Z",
           "wordCount": null,
           "title": "Getting up in another processes memory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iTic6EV4DP8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iTic6EV4DP8",
-          "publishedOn": "2023-10-28T13:34:03.000Z",
-          "wordCount": null,
-          "title": "The mechanics of VIRTUAL MEMORY //Source Dive// 005",
           "imageUrl": null
         }
       ]
