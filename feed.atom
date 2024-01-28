@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-27T00:04:27.658Z</updated>
+    <updated>2024-01-28T00:05:03.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Classics revisited: Multiple reflections of light in a raindrop]]></title>
+        <id>https://www.youtube.com/watch?v=qw8aoJ1nOdI</id>
+        <link href="https://www.youtube.com/watch?v=qw8aoJ1nOdI"/>
+        <updated>2024-01-27T10:00:38.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding Math's Most Famous Fractal: The Mandelbrot Set]]></title>
+        <id>https://www.youtube.com/watch?v=u9GAnW8xFJY</id>
+        <link href="https://www.youtube.com/watch?v=u9GAnW8xFJY"/>
+        <updated>2024-01-27T03:48:01.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Massive Abandoned Towers in Austria]]></title>
         <id>https://www.youtube.com/watch?v=qtOlzyc4v8Q</id>
@@ -2875,33 +2893,6 @@
         <updated>2023-10-30T15:00:35.000Z</updated>
         <author>
             <name>Design Doc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x14] How to use NamedTuples in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=eDajDqpiaoc</id>
-        <link href="https://www.youtube.com/watch?v=eDajDqpiaoc"/>
-        <updated>2023-10-29T15:02:00.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x13] How to use Tuples in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=J-9bGo-nNyE</id>
-        <link href="https://www.youtube.com/watch?v=J-9bGo-nNyE"/>
-        <updated>2023-10-29T15:01:30.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x12] How to use Arrays in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=BUBNUB6cNYg</id>
-        <link href="https://www.youtube.com/watch?v=BUBNUB6cNYg"/>
-        <updated>2023-10-29T15:01:05.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
         </author>
     </entry>
 </feed>

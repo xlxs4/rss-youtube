@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=u9GAnW8xFJY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u9GAnW8xFJY",
+          "publishedOn": "2024-01-27T03:48:01.000Z",
+          "wordCount": null,
+          "title": "Decoding Math's Most Famous Fractal: The Mandelbrot Set",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FLY7kWbDQfo",
           "author": null,
           "description": "",
@@ -542,6 +552,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qw8aoJ1nOdI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qw8aoJ1nOdI",
+          "publishedOn": "2024-01-27T10:00:38.000Z",
+          "wordCount": null,
+          "title": "Classics revisited: Multiple reflections of light in a raindrop",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Uv-DGLClbU0",
           "author": null,
@@ -2811,36 +2831,6 @@
           "publishedOn": "2023-11-05T16:01:01.000Z",
           "wordCount": null,
           "title": "[10x15] How to use a Dictionary in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eDajDqpiaoc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eDajDqpiaoc",
-          "publishedOn": "2023-10-29T15:02:00.000Z",
-          "wordCount": null,
-          "title": "[10x14] How to use NamedTuples in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J-9bGo-nNyE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J-9bGo-nNyE",
-          "publishedOn": "2023-10-29T15:01:30.000Z",
-          "wordCount": null,
-          "title": "[10x13] How to use Tuples in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BUBNUB6cNYg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BUBNUB6cNYg",
-          "publishedOn": "2023-10-29T15:01:05.000Z",
-          "wordCount": null,
-          "title": "[10x12] How to use Arrays in Julia",
           "imageUrl": null
         }
       ]
