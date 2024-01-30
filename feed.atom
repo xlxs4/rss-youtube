@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-29T00:04:41.056Z</updated>
+    <updated>2024-01-30T00:04:16.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Epilepsy warning] Filming a moving source with two lenses]]></title>
+        <id>https://www.youtube.com/watch?v=sbVDhLUEVug</id>
+        <link href="https://www.youtube.com/watch?v=sbVDhLUEVug"/>
+        <updated>2024-01-29T10:00:39.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interview with Venture Capitalist in 2024]]></title>
         <id>https://www.youtube.com/watch?v=S7aHFwAPMww</id>
@@ -2875,33 +2884,6 @@
         <updated>2023-11-04T08:35:04.000Z</updated>
         <author>
             <name>Low Byte Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex analysis: Cauchy's theorem]]></title>
-        <id>https://www.youtube.com/watch?v=AjrkNlgwT_U</id>
-        <link href="https://www.youtube.com/watch?v=AjrkNlgwT_U"/>
-        <updated>2023-10-31T21:25:04.000Z</updated>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex analysis: Jordan's lemma]]></title>
-        <id>https://www.youtube.com/watch?v=C5rukxDDW8U</id>
-        <link href="https://www.youtube.com/watch?v=C5rukxDDW8U"/>
-        <updated>2023-10-31T20:59:45.000Z</updated>
-        <author>
-            <name>Steven Strogatz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎃 Monsters, Ghosts, and Project Managers (a Modem Prometheus Story)]]></title>
-        <id>https://www.youtube.com/watch?v=7pcbRQ4L4vc</id>
-        <link href="https://www.youtube.com/watch?v=7pcbRQ4L4vc"/>
-        <updated>2023-10-31T18:14:28.000Z</updated>
-        <author>
-            <name>No Boilerplate</name>
         </author>
     </entry>
 </feed>

@@ -553,6 +553,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sbVDhLUEVug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sbVDhLUEVug",
+          "publishedOn": "2024-01-29T10:00:39.000Z",
+          "wordCount": null,
+          "title": "[Epilepsy warning] Filming a moving source with two lenses",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qpEypyIcGRk",
           "author": null,
           "description": "",
@@ -3386,16 +3396,6 @@
           "wordCount": null,
           "title": "ADHD: A Left-handed Brain",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7pcbRQ4L4vc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7pcbRQ4L4vc",
-          "publishedOn": "2023-10-31T18:14:28.000Z",
-          "wordCount": null,
-          "title": "🎃 Monsters, Ghosts, and Project Managers (a Modem Prometheus Story)",
-          "imageUrl": null
         }
       ]
     },
@@ -3421,28 +3421,7 @@
       "title": "Steven Strogatz",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj1G_-P9EIMs4VpcgcOPxRw",
       "siteUrl": "https://www.youtube.com/channel/UCj1G_-P9EIMs4VpcgcOPxRw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=AjrkNlgwT_U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AjrkNlgwT_U",
-          "publishedOn": "2023-10-31T21:25:04.000Z",
-          "wordCount": null,
-          "title": "Complex analysis: Cauchy's theorem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C5rukxDDW8U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C5rukxDDW8U",
-          "publishedOn": "2023-10-31T20:59:45.000Z",
-          "wordCount": null,
-          "title": "Complex analysis: Jordan's lemma",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Alon Lab",
