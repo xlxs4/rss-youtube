@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-01-30T00:04:16.464Z</updated>
+    <updated>2024-01-31T00:04:35.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What are Gerstner Waves?]]></title>
+        <id>https://www.youtube.com/watch?v=e7nRcC-9-dc</id>
+        <link href="https://www.youtube.com/watch?v=e7nRcC-9-dc"/>
+        <updated>2024-01-30T22:47:59.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the Mandelbrot Set]]></title>
+        <id>https://www.youtube.com/watch?v=S0gwtGLuQEM</id>
+        <link href="https://www.youtube.com/watch?v=S0gwtGLuQEM"/>
+        <updated>2024-01-30T19:34:36.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did The Future Already Happen? - The Paradox of Time]]></title>
+        <id>https://www.youtube.com/watch?v=wwSzpaTHyS8</id>
+        <link href="https://www.youtube.com/watch?v=wwSzpaTHyS8"/>
+        <updated>2024-01-30T15:00:03.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soap and water]]></title>
+        <id>https://www.youtube.com/watch?v=AaQxKFFhXJU</id>
+        <link href="https://www.youtube.com/watch?v=AaQxKFFhXJU"/>
+        <updated>2024-01-30T10:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Epilepsy warning] Filming a moving source with two lenses]]></title>
         <id>https://www.youtube.com/watch?v=sbVDhLUEVug</id>
