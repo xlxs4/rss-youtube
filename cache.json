@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rgT2_yw4SqM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rgT2_yw4SqM",
+          "publishedOn": "2024-02-01T19:37:11.000Z",
+          "wordCount": null,
+          "title": "History of the Mandelbrot Set",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=S0gwtGLuQEM",
           "author": null,
           "description": "",
@@ -562,6 +572,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kvkXArXG3-o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kvkXArXG3-o",
+          "publishedOn": "2024-02-01T10:00:37.000Z",
+          "wordCount": null,
+          "title": "Soap and water in an increasing electric field",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EEz736F1Vj4",
           "author": null,
@@ -1844,6 +1864,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=98MBsZRXlUs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=98MBsZRXlUs",
+          "publishedOn": "2024-02-01T14:57:03.000Z",
+          "wordCount": null,
+          "title": "Werner Herzog's Philosophy of Nature",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kLZ1BXzABuc",
           "author": null,
           "description": "",
@@ -2914,6 +2944,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bPfDdjUnG1A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bPfDdjUnG1A",
+          "publishedOn": "2024-02-01T15:00:35.000Z",
+          "wordCount": null,
+          "title": "The Space Shuttle’s Heat Shield Was Glued On With This Material",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ivLX9o6Ayl8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ivLX9o6Ayl8",
+          "publishedOn": "2024-02-01T13:00:43.000Z",
+          "wordCount": null,
+          "title": "The Insane Engineering of Re-Entry",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qtOlzyc4v8Q",
           "author": null,
           "description": "",
@@ -3116,6 +3166,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tYk0BS84ItY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tYk0BS84ItY",
+          "publishedOn": "2024-02-01T15:59:58.000Z",
+          "wordCount": null,
+          "title": "Why Spec Ops: The Line Mattered",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gkvyYTSKTQY",
           "author": null,
           "description": "",
@@ -3191,6 +3251,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ddr912fpH6k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ddr912fpH6k",
+          "publishedOn": "2024-02-01T16:43:45.000Z",
+          "wordCount": null,
+          "title": "Unreal Water Plugin: Wave Height Tutorial",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=e7nRcC-9-dc",
           "author": null,
@@ -3539,16 +3609,6 @@
           "publishedOn": "2023-12-24T17:17:36.000Z",
           "wordCount": null,
           "title": "Spinning Persistence of Vision",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0ihChIaN8d0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0ihChIaN8d0",
-          "publishedOn": "2023-11-04T08:35:04.000Z",
-          "wordCount": null,
-          "title": "Getting up in another processes memory",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-01T00:05:31.835Z</updated>
+    <updated>2024-02-02T00:04:25.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[History of the Mandelbrot Set]]></title>
+        <id>https://www.youtube.com/watch?v=rgT2_yw4SqM</id>
+        <link href="https://www.youtube.com/watch?v=rgT2_yw4SqM"/>
+        <updated>2024-02-01T19:37:11.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Water Plugin: Wave Height Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=ddr912fpH6k</id>
+        <link href="https://www.youtube.com/watch?v=ddr912fpH6k"/>
+        <updated>2024-02-01T16:43:45.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Spec Ops: The Line Mattered]]></title>
+        <id>https://www.youtube.com/watch?v=tYk0BS84ItY</id>
+        <link href="https://www.youtube.com/watch?v=tYk0BS84ItY"/>
+        <updated>2024-02-01T15:59:58.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Space Shuttle’s Heat Shield Was Glued On With This Material]]></title>
+        <id>https://www.youtube.com/watch?v=bPfDdjUnG1A</id>
+        <link href="https://www.youtube.com/watch?v=bPfDdjUnG1A"/>
+        <updated>2024-02-01T15:00:35.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Werner Herzog's Philosophy of Nature]]></title>
+        <id>https://www.youtube.com/watch?v=98MBsZRXlUs</id>
+        <link href="https://www.youtube.com/watch?v=98MBsZRXlUs"/>
+        <updated>2024-02-01T14:57:03.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Insane Engineering of Re-Entry]]></title>
+        <id>https://www.youtube.com/watch?v=ivLX9o6Ayl8</id>
+        <link href="https://www.youtube.com/watch?v=ivLX9o6Ayl8"/>
+        <updated>2024-02-01T13:00:43.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soap and water in an increasing electric field]]></title>
+        <id>https://www.youtube.com/watch?v=kvkXArXG3-o</id>
+        <link href="https://www.youtube.com/watch?v=kvkXArXG3-o"/>
+        <updated>2024-02-01T10:00:37.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Classics revisited: There's someone in my prism and it's not me]]></title>
         <id>https://www.youtube.com/watch?v=EEz736F1Vj4</id>
@@ -2920,15 +2983,6 @@
         <updated>2023-11-04T14:00:13.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting up in another processes memory]]></title>
-        <id>https://www.youtube.com/watch?v=0ihChIaN8d0</id>
-        <link href="https://www.youtube.com/watch?v=0ihChIaN8d0"/>
-        <updated>2023-11-04T08:35:04.000Z</updated>
-        <author>
-            <name>Low Byte Productions</name>
         </author>
     </entry>
 </feed>
