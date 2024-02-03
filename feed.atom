@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-02T00:04:25.916Z</updated>
+    <updated>2024-02-03T00:04:25.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Polymers with charged extremities]]></title>
+        <id>https://www.youtube.com/watch?v=4yY9n0AMCZQ</id>
+        <link href="https://www.youtube.com/watch?v=4yY9n0AMCZQ"/>
+        <updated>2024-02-02T23:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Trailer: The Joy of Why Season 3]]></title>
+        <id>https://www.youtube.com/watch?v=ZAduYAa7iQQ</id>
+        <link href="https://www.youtube.com/watch?v=ZAduYAa7iQQ"/>
+        <updated>2024-02-02T22:21:16.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Visual Novels]]></title>
+        <id>https://www.youtube.com/watch?v=iBcQjam2X_k</id>
+        <link href="https://www.youtube.com/watch?v=iBcQjam2X_k"/>
+        <updated>2024-02-02T20:00:18.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A beam splitter]]></title>
+        <id>https://www.youtube.com/watch?v=PbU9OdtnGI4</id>
+        <link href="https://www.youtube.com/watch?v=PbU9OdtnGI4"/>
+        <updated>2024-02-02T10:00:26.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[History of the Mandelbrot Set]]></title>
         <id>https://www.youtube.com/watch?v=rgT2_yw4SqM</id>
@@ -2974,15 +3010,6 @@
         <updated>2023-11-05T16:01:01.000Z</updated>
         <author>
             <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Insane Engineering of the F-16]]></title>
-        <id>https://www.youtube.com/watch?v=EhhOin2p5Qs</id>
-        <link href="https://www.youtube.com/watch?v=EhhOin2p5Qs"/>
-        <updated>2023-11-04T14:00:13.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>

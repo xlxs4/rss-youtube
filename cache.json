@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZAduYAa7iQQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZAduYAa7iQQ",
+          "publishedOn": "2024-02-02T22:21:16.000Z",
+          "wordCount": null,
+          "title": "Podcast Trailer: The Joy of Why Season 3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rgT2_yw4SqM",
           "author": null,
           "description": "",
@@ -572,6 +582,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4yY9n0AMCZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4yY9n0AMCZQ",
+          "publishedOn": "2024-02-02T23:00:08.000Z",
+          "wordCount": null,
+          "title": "Polymers with charged extremities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PbU9OdtnGI4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PbU9OdtnGI4",
+          "publishedOn": "2024-02-02T10:00:26.000Z",
+          "wordCount": null,
+          "title": "A beam splitter",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kvkXArXG3-o",
           "author": null,
@@ -3092,16 +3122,6 @@
           "wordCount": null,
           "title": "This Experimental Plane Crashed in 1956 - Bell X-2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EhhOin2p5Qs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EhhOin2p5Qs",
-          "publishedOn": "2023-11-04T14:00:13.000Z",
-          "wordCount": null,
-          "title": "The Insane Engineering of the F-16",
-          "imageUrl": null
         }
       ]
     },
@@ -3251,6 +3271,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iBcQjam2X_k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iBcQjam2X_k",
+          "publishedOn": "2024-02-02T20:00:18.000Z",
+          "wordCount": null,
+          "title": "Writing Visual Novels",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ddr912fpH6k",
           "author": null,
