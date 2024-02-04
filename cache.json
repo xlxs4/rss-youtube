@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s_GMED8oifo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s_GMED8oifo",
+          "publishedOn": "2024-02-03T18:56:49.000Z",
+          "wordCount": null,
+          "title": "Mandelbrot's Mysterious Fractal Edge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZAduYAa7iQQ",
           "author": null,
           "description": "",
@@ -1875,18 +1885,7 @@
       "title": "Faculty of Khan",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=lGLnCJPkHrM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lGLnCJPkHrM",
-          "publishedOn": "2023-11-06T03:02:53.000Z",
-          "wordCount": null,
-          "title": "Introducing Spacetime Diagrams in Relativity",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Pioneer Works",
@@ -2922,26 +2921,6 @@
           "wordCount": null,
           "title": "[10x17] How to use Control Flow in Julia: if Expression (if...elseif...else...end)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e5_PUNZdDsQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e5_PUNZdDsQ",
-          "publishedOn": "2023-11-05T16:01:31.000Z",
-          "wordCount": null,
-          "title": "[10x16] How to use a struct in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aY1zKGEP1cI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aY1zKGEP1cI",
-          "publishedOn": "2023-11-05T16:01:01.000Z",
-          "wordCount": null,
-          "title": "[10x15] How to use a Dictionary in Julia",
-          "imageUrl": null
         }
       ]
     },
@@ -3476,16 +3455,6 @@
           "publishedOn": "2023-11-11T20:09:07.000Z",
           "wordCount": null,
           "title": "DnD's Worst Monster",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Vednrgdb6vA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Vednrgdb6vA",
-          "publishedOn": "2023-11-05T21:21:07.000Z",
-          "wordCount": null,
-          "title": "DnDs Most Overlooked Monster",
           "imageUrl": null
         }
       ]

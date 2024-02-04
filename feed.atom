@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-03T00:04:25.901Z</updated>
+    <updated>2024-02-04T00:05:15.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mandelbrot's Mysterious Fractal Edge]]></title>
+        <id>https://www.youtube.com/watch?v=s_GMED8oifo</id>
+        <link href="https://www.youtube.com/watch?v=s_GMED8oifo"/>
+        <updated>2024-02-03T18:56:49.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymers with charged extremities]]></title>
         <id>https://www.youtube.com/watch?v=4yY9n0AMCZQ</id>
@@ -2974,42 +2983,6 @@
         <updated>2023-11-10T16:15:06.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Spacetime Diagrams in Relativity]]></title>
-        <id>https://www.youtube.com/watch?v=lGLnCJPkHrM</id>
-        <link href="https://www.youtube.com/watch?v=lGLnCJPkHrM"/>
-        <updated>2023-11-06T03:02:53.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DnDs Most Overlooked Monster]]></title>
-        <id>https://www.youtube.com/watch?v=Vednrgdb6vA</id>
-        <link href="https://www.youtube.com/watch?v=Vednrgdb6vA"/>
-        <updated>2023-11-05T21:21:07.000Z</updated>
-        <author>
-            <name>Runesmith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x16] How to use a struct in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=e5_PUNZdDsQ</id>
-        <link href="https://www.youtube.com/watch?v=e5_PUNZdDsQ"/>
-        <updated>2023-11-05T16:01:31.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x15] How to use a Dictionary in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=aY1zKGEP1cI</id>
-        <link href="https://www.youtube.com/watch?v=aY1zKGEP1cI"/>
-        <updated>2023-11-05T16:01:01.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
         </author>
     </entry>
 </feed>
