@@ -593,6 +593,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=w4rRpUOK8GU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w4rRpUOK8GU",
+          "publishedOn": "2024-02-04T10:00:39.000Z",
+          "wordCount": null,
+          "title": "Standing waves in a beam splitter",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4yY9n0AMCZQ",
           "author": null,
           "description": "",
@@ -3221,6 +3231,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=J86Z4hrFug4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J86Z4hrFug4",
+          "publishedOn": "2024-02-04T15:18:44.000Z",
+          "wordCount": null,
+          "title": "I visit Startup.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=S7aHFwAPMww",
           "author": null,
