@@ -576,6 +576,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Fm9-UiprBAQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fm9-UiprBAQ",
+          "publishedOn": "2024-02-05T20:49:25.000Z",
+          "wordCount": null,
+          "title": "(Super)ellipse billiard",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KT0_BKvvY6g",
           "author": null,
           "description": "",
@@ -592,6 +602,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pDymtrO4sDs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pDymtrO4sDs",
+          "publishedOn": "2024-02-05T10:00:37.000Z",
+          "wordCount": null,
+          "title": "Polymers with charged extremities in an increasing electric field",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=w4rRpUOK8GU",
           "author": null,
