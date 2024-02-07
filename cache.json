@@ -603,6 +603,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GtiN-Cn6uTs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GtiN-Cn6uTs",
+          "publishedOn": "2024-02-06T10:00:16.000Z",
+          "wordCount": null,
+          "title": "Using a beam splitter to filter out high frequencies",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pDymtrO4sDs",
           "author": null,
           "description": "",
@@ -3417,6 +3427,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GtmJ4cIdhYk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GtmJ4cIdhYk",
+          "publishedOn": "2024-02-06T15:00:23.000Z",
+          "wordCount": null,
+          "title": "The Ultimate Authority",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mSzEua2U6uk",
           "author": null,
