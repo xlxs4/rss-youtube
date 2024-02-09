@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-08T00:04:19.430Z</updated>
+    <updated>2024-02-09T00:04:27.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Are We Really Damaged By Trauma? | Scientific Controversies]]></title>
+        <id>https://www.youtube.com/watch?v=2-TtinQTNLw</id>
+        <link href="https://www.youtube.com/watch?v=2-TtinQTNLw"/>
+        <updated>2024-02-08T15:29:27.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Escape a Black Hole? #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=W1Qyv6EI2hE</id>
+        <link href="https://www.youtube.com/watch?v=W1Qyv6EI2hE"/>
+        <updated>2024-02-08T15:00:34.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varying the thickness of a beam splitter]]></title>
+        <id>https://www.youtube.com/watch?v=tfaxhm1ZIDc</id>
+        <link href="https://www.youtube.com/watch?v=tfaxhm1ZIDc"/>
+        <updated>2024-02-08T10:00:43.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bloopers14: Melting ice, with an explosive ending]]></title>
         <id>https://www.youtube.com/watch?v=-j35UDOqX_c</id>
@@ -3028,24 +3055,6 @@
         <updated>2023-11-11T20:09:07.000Z</updated>
         <author>
             <name>Runesmith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mind Over Molecules: The Biology of Memory]]></title>
-        <id>https://www.youtube.com/watch?v=YYZnoe4ZNv4</id>
-        <link href="https://www.youtube.com/watch?v=YYZnoe4ZNv4"/>
-        <updated>2023-11-10T21:00:07.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4.5 Billion Years in 1 Hour]]></title>
-        <id>https://www.youtube.com/watch?v=S7TUe5w6RHo</id>
-        <link href="https://www.youtube.com/watch?v=S7TUe5w6RHo"/>
-        <updated>2023-11-10T16:15:06.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
