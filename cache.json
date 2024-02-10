@@ -603,6 +603,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kT3ogiKxftY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kT3ogiKxftY",
+          "publishedOn": "2024-02-09T10:00:36.000Z",
+          "wordCount": null,
+          "title": "Melting the ice, featuring music by State Azure",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tfaxhm1ZIDc",
           "author": null,
           "description": "",
@@ -2039,6 +2049,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=caepEUi2IZ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=caepEUi2IZ4",
+          "publishedOn": "2024-02-09T21:00:07.000Z",
+          "wordCount": null,
+          "title": "Intelligent Thinking About Artificial Intelligence",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UjDxk9ZnYJQ",
           "author": null,
@@ -3525,16 +3545,6 @@
           "publishedOn": "2023-11-17T19:22:22.000Z",
           "wordCount": null,
           "title": "The Seeker's Guide to Enchanting Emporiums - Musical Trailer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ivFq_XikUSY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ivFq_XikUSY",
-          "publishedOn": "2023-11-11T20:09:07.000Z",
-          "wordCount": null,
-          "title": "DnD's Worst Monster",
           "imageUrl": null
         }
       ]
