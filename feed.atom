@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-10T00:04:32.315Z</updated>
+    <updated>2024-02-11T00:05:05.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Filming a moving source - Averaged energy]]></title>
+        <id>https://www.youtube.com/watch?v=W9dEzePvu2U</id>
+        <link href="https://www.youtube.com/watch?v=W9dEzePvu2U"/>
+        <updated>2024-02-10T10:00:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intelligent Thinking About Artificial Intelligence]]></title>
         <id>https://www.youtube.com/watch?v=caepEUi2IZ4</id>
@@ -3019,51 +3028,6 @@
         <updated>2023-11-13T21:13:14.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PW Broadcast Radio Hour: Mckenzie Wark in conversation with Jordan Kisner]]></title>
-        <id>https://www.youtube.com/watch?v=Oqqj_gTGTcE</id>
-        <link href="https://www.youtube.com/watch?v=Oqqj_gTGTcE"/>
-        <updated>2023-11-13T09:51:23.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oil Processing in Stormworks]]></title>
-        <id>https://www.youtube.com/watch?v=0L3VQnNHK30</id>
-        <link href="https://www.youtube.com/watch?v=0L3VQnNHK30"/>
-        <updated>2023-11-12T23:52:30.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x19] How to use Control Flow in Julia: While Loop (while...end)]]></title>
-        <id>https://www.youtube.com/watch?v=6ujWpbQZX4s</id>
-        <link href="https://www.youtube.com/watch?v=6ujWpbQZX4s"/>
-        <updated>2023-11-12T16:01:59.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x18] How to use Control Flow in Julia: Ternary Operator (a ? b : c)]]></title>
-        <id>https://www.youtube.com/watch?v=F6gbda3quSE</id>
-        <link href="https://www.youtube.com/watch?v=F6gbda3quSE"/>
-        <updated>2023-11-12T16:01:29.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x17] How to use Control Flow in Julia: if Expression (if...elseif...else...end)]]></title>
-        <id>https://www.youtube.com/watch?v=6d8YheLvO-I</id>
-        <link href="https://www.youtube.com/watch?v=6d8YheLvO-I"/>
-        <updated>2023-11-12T16:01:05.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
         </author>
     </entry>
 </feed>

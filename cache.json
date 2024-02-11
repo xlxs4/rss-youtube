@@ -603,6 +603,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=W9dEzePvu2U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W9dEzePvu2U",
+          "publishedOn": "2024-02-10T10:00:30.000Z",
+          "wordCount": null,
+          "title": "Filming a moving source - Averaged energy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kT3ogiKxftY",
           "author": null,
           "description": "",
@@ -2031,16 +2041,6 @@
           "wordCount": null,
           "title": "Pioneer Live: Hermeto Pascoal",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oqqj_gTGTcE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Oqqj_gTGTcE",
-          "publishedOn": "2023-11-13T09:51:23.000Z",
-          "wordCount": null,
-          "title": "PW Broadcast Radio Hour: Mckenzie Wark in conversation with Jordan Kisner",
-          "imageUrl": null
         }
       ]
     },
@@ -2971,36 +2971,6 @@
           "wordCount": null,
           "title": "[10x20] How to use Control Flow in Julia: For Loop (for...end)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6ujWpbQZX4s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6ujWpbQZX4s",
-          "publishedOn": "2023-11-12T16:01:59.000Z",
-          "wordCount": null,
-          "title": "[10x19] How to use Control Flow in Julia: While Loop (while...end)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F6gbda3quSE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F6gbda3quSE",
-          "publishedOn": "2023-11-12T16:01:29.000Z",
-          "wordCount": null,
-          "title": "[10x18] How to use Control Flow in Julia: Ternary Operator (a ? b : c)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6d8YheLvO-I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6d8YheLvO-I",
-          "publishedOn": "2023-11-12T16:01:05.000Z",
-          "wordCount": null,
-          "title": "[10x17] How to use Control Flow in Julia: if Expression (if...elseif...else...end)",
-          "imageUrl": null
         }
       ]
     },
@@ -3448,16 +3418,6 @@
           "publishedOn": "2023-11-16T18:02:42.000Z",
           "wordCount": null,
           "title": "Stormworks Automated Driller/Refinery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0L3VQnNHK30",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0L3VQnNHK30",
-          "publishedOn": "2023-11-12T23:52:30.000Z",
-          "wordCount": null,
-          "title": "Oil Processing in Stormworks",
           "imageUrl": null
         }
       ]
