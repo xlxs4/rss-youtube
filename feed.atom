@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-11T00:05:05.136Z</updated>
+    <updated>2024-02-12T00:05:22.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Melting a block of ice on a shelf]]></title>
+        <id>https://www.youtube.com/watch?v=2Ye02xMyaro</id>
+        <link href="https://www.youtube.com/watch?v=2Ye02xMyaro"/>
+        <updated>2024-02-11T10:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Filming a moving source - Averaged energy]]></title>
         <id>https://www.youtube.com/watch?v=W9dEzePvu2U</id>
@@ -3010,24 +3019,6 @@
         <updated>2023-11-14T16:10:56.000Z</updated>
         <author>
             <name>Game Maker's Toolkit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ionization of a gas by an increasing electric field]]></title>
-        <id>https://www.youtube.com/watch?v=e9_DFqLy0wA</id>
-        <link href="https://www.youtube.com/watch?v=e9_DFqLy0wA"/>
-        <updated>2023-11-14T10:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bad stringart]]></title>
-        <id>https://www.youtube.com/watch?v=KT0_BKvvY6g</id>
-        <link href="https://www.youtube.com/watch?v=KT0_BKvvY6g"/>
-        <updated>2023-11-13T21:13:14.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
