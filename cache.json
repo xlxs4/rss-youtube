@@ -603,6 +603,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T30DXVoDfQI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T30DXVoDfQI",
+          "publishedOn": "2024-02-13T10:00:30.000Z",
+          "wordCount": null,
+          "title": "Melting a block of ice on a shelf - Orientation and initial position",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CcT3OQS_HJ0",
           "author": null,
           "description": "",
@@ -1701,16 +1711,6 @@
           "wordCount": null,
           "title": "An asteroid impact on a partially flooded Venus",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2K0r7m9PfTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2K0r7m9PfTM",
-          "publishedOn": "2023-11-16T10:00:02.000Z",
-          "wordCount": null,
-          "title": "Forming \"molecules\" - The effect of decreasing temperature",
-          "imageUrl": null
         }
       ]
     },
@@ -1864,16 +1864,6 @@
           "publishedOn": "2023-11-21T15:00:01.000Z",
           "wordCount": null,
           "title": "The Last Thing To Ever Happen In The Universe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tybKnGZRwcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tybKnGZRwcU",
-          "publishedOn": "2023-11-15T15:00:01.000Z",
-          "wordCount": null,
-          "title": "How to Win an Interstellar War",
           "imageUrl": null
         }
       ]
@@ -2030,16 +2020,6 @@
           "publishedOn": "2023-11-21T20:24:20.000Z",
           "wordCount": null,
           "title": "Liz Magic Laser | Convulsive States",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M47tquB44ys",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M47tquB44ys",
-          "publishedOn": "2023-11-15T22:23:53.000Z",
-          "wordCount": null,
-          "title": "Pioneer Live: Hermeto Pascoal",
           "imageUrl": null
         }
       ]
@@ -2411,7 +2391,38 @@
       "title": "Chris Rackauckas",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCugBGdUbn6PeH03iPZtr-JQ",
       "siteUrl": "https://www.youtube.com/channel/UCugBGdUbn6PeH03iPZtr-JQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Y8SvNHKNY4s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y8SvNHKNY4s",
+          "publishedOn": "2024-02-13T20:29:12.000Z",
+          "wordCount": null,
+          "title": "Automatic differentiation | New derivations of nonlinear solve and ODE adjoints",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MqZpK455RNM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MqZpK455RNM",
+          "publishedOn": "2024-02-13T18:00:12.000Z",
+          "wordCount": null,
+          "title": "What is (scientific) machine learning? An introduction through Julia's Lux.jl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ixAYZAYudAM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ixAYZAYudAM",
+          "publishedOn": "2024-02-13T17:06:03.000Z",
+          "wordCount": null,
+          "title": "What is machine learning and how can it be connected to prior scientific knowledge (SciML)?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JuliaHub",
@@ -3214,6 +3225,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw",
       "siteUrl": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=71MzN_vYEgo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=71MzN_vYEgo",
+          "publishedOn": "2024-02-13T14:48:31.000Z",
+          "wordCount": null,
+          "title": "Wishlist Mind Over Magnet on Steam!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tYk0BS84ItY",
           "author": null,

@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-13T00:04:57.247Z</updated>
+    <updated>2024-02-14T00:04:26.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automatic differentiation | New derivations of nonlinear solve and ODE adjoints]]></title>
+        <id>https://www.youtube.com/watch?v=Y8SvNHKNY4s</id>
+        <link href="https://www.youtube.com/watch?v=Y8SvNHKNY4s"/>
+        <updated>2024-02-13T20:29:12.000Z</updated>
+        <author>
+            <name>Chris Rackauckas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is (scientific) machine learning? An introduction through Julia's Lux.jl]]></title>
+        <id>https://www.youtube.com/watch?v=MqZpK455RNM</id>
+        <link href="https://www.youtube.com/watch?v=MqZpK455RNM"/>
+        <updated>2024-02-13T18:00:12.000Z</updated>
+        <author>
+            <name>Chris Rackauckas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is machine learning and how can it be connected to prior scientific knowledge (SciML)?]]></title>
+        <id>https://www.youtube.com/watch?v=ixAYZAYudAM</id>
+        <link href="https://www.youtube.com/watch?v=ixAYZAYudAM"/>
+        <updated>2024-02-13T17:06:03.000Z</updated>
+        <author>
+            <name>Chris Rackauckas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wishlist Mind Over Magnet on Steam!]]></title>
+        <id>https://www.youtube.com/watch?v=71MzN_vYEgo</id>
+        <link href="https://www.youtube.com/watch?v=71MzN_vYEgo"/>
+        <updated>2024-02-13T14:48:31.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melting a block of ice on a shelf - Orientation and initial position]]></title>
+        <id>https://www.youtube.com/watch?v=T30DXVoDfQI</id>
+        <link href="https://www.youtube.com/watch?v=T30DXVoDfQI"/>
+        <updated>2024-02-13T10:00:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a New X-Ray Technique Sees Black Holes]]></title>
         <id>https://www.youtube.com/watch?v=TwJuA05M5Eo</id>
@@ -2992,33 +3037,6 @@
         <updated>2023-11-16T18:02:42.000Z</updated>
         <author>
             <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forming "molecules" - The effect of decreasing temperature]]></title>
-        <id>https://www.youtube.com/watch?v=2K0r7m9PfTM</id>
-        <link href="https://www.youtube.com/watch?v=2K0r7m9PfTM"/>
-        <updated>2023-11-16T10:00:02.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pioneer Live: Hermeto Pascoal]]></title>
-        <id>https://www.youtube.com/watch?v=M47tquB44ys</id>
-        <link href="https://www.youtube.com/watch?v=M47tquB44ys"/>
-        <updated>2023-11-15T22:23:53.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Win an Interstellar War]]></title>
-        <id>https://www.youtube.com/watch?v=tybKnGZRwcU</id>
-        <link href="https://www.youtube.com/watch?v=tybKnGZRwcU"/>
-        <updated>2023-11-15T15:00:01.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
