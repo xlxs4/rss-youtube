@@ -603,6 +603,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VXV3WxQNF_Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VXV3WxQNF_Y",
+          "publishedOn": "2024-02-14T10:00:30.000Z",
+          "wordCount": null,
+          "title": "[Flash warning] Classics revisited: A rotated Sierpinski wave protection",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T30DXVoDfQI",
           "author": null,
           "description": "",
@@ -1700,16 +1710,6 @@
           "publishedOn": "2023-11-18T10:00:26.000Z",
           "wordCount": null,
           "title": "An illustration of the Hall effect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NmK07AueTfI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NmK07AueTfI",
-          "publishedOn": "2023-11-17T10:00:15.000Z",
-          "wordCount": null,
-          "title": "An asteroid impact on a partially flooded Venus",
           "imageUrl": null
         }
       ]
@@ -3419,16 +3419,6 @@
           "publishedOn": "2023-11-27T18:43:13.000Z",
           "wordCount": null,
           "title": "Magic Systems!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M7f3ZHeWw6U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M7f3ZHeWw6U",
-          "publishedOn": "2023-11-16T18:02:42.000Z",
-          "wordCount": null,
-          "title": "Stormworks Automated Driller/Refinery",
           "imageUrl": null
         }
       ]
