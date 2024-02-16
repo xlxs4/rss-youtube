@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-15T00:04:32.444Z</updated>
+    <updated>2024-02-16T00:04:33.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Something in Your Kitchen Emits Antimatter #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Pj20omaP7WI</id>
+        <link href="https://www.youtube.com/watch?v=Pj20omaP7WI"/>
+        <updated>2024-02-15T15:00:16.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increasing the force constant for interacting water molecules, featuring music by State Azure]]></title>
+        <id>https://www.youtube.com/watch?v=m985v1YYN7Y</id>
+        <link href="https://www.youtube.com/watch?v=m985v1YYN7Y"/>
+        <updated>2024-02-15T10:00:28.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Flash warning] Classics revisited: A rotated Sierpinski wave protection]]></title>
         <id>https://www.youtube.com/watch?v=VXV3WxQNF_Y</id>
@@ -2956,78 +2974,6 @@
         <updated>2023-11-19T10:00:14.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clapeyron.jl: An extensible, open-source fluid-thermodynamics toolkit - Third DigiWell Julia Seminar]]></title>
-        <id>https://www.youtube.com/watch?v=CCer1Pqllig</id>
-        <link href="https://www.youtube.com/watch?v=CCer1Pqllig"/>
-        <updated>2023-11-18T11:26:40.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An illustration of the Hall effect]]></title>
-        <id>https://www.youtube.com/watch?v=KIJt4heZCHc</id>
-        <link href="https://www.youtube.com/watch?v=KIJt4heZCHc"/>
-        <updated>2023-11-18T10:00:26.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning in Differential Equations for Optimal Control  - Third DigiWell Julia Seminar]]></title>
-        <id>https://www.youtube.com/watch?v=rLx5bCMeLDc</id>
-        <link href="https://www.youtube.com/watch?v=rLx5bCMeLDc"/>
-        <updated>2023-11-18T07:00:10.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Temporal Data with DataFrames.jl - Bogumił Kamiński - Third DigiWell Julia Seminar]]></title>
-        <id>https://www.youtube.com/watch?v=iwFMg-rCWNg</id>
-        <link href="https://www.youtube.com/watch?v=iwFMg-rCWNg"/>
-        <updated>2023-11-18T06:36:34.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto-Completing Models to Uncover Missing Physics - Vinicius Santana - Third DigiWell Julia Seminar]]></title>
-        <id>https://www.youtube.com/watch?v=jVDL6lloBOc</id>
-        <link href="https://www.youtube.com/watch?v=jVDL6lloBOc"/>
-        <updated>2023-11-18T05:57:16.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[String Theory, Quantum Gravity and Black Holes (Or, Are We Holograms?)]]></title>
-        <id>https://www.youtube.com/watch?v=yNNXia9IrZs</id>
-        <link href="https://www.youtube.com/watch?v=yNNXia9IrZs"/>
-        <updated>2023-11-17T22:41:18.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADHD: A Left-handed Brain]]></title>
-        <id>https://www.youtube.com/watch?v=Ck9FMtIGVxQ</id>
-        <link href="https://www.youtube.com/watch?v=Ck9FMtIGVxQ"/>
-        <updated>2023-11-17T19:54:07.000Z</updated>
-        <author>
-            <name>No Boilerplate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Seeker's Guide to Enchanting Emporiums - Musical Trailer]]></title>
-        <id>https://www.youtube.com/watch?v=HLk7BWCl_Eo</id>
-        <link href="https://www.youtube.com/watch?v=HLk7BWCl_Eo"/>
-        <updated>2023-11-17T19:22:22.000Z</updated>
-        <author>
-            <name>Runesmith</name>
         </author>
     </entry>
 </feed>

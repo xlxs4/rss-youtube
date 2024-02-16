@@ -603,6 +603,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m985v1YYN7Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m985v1YYN7Y",
+          "publishedOn": "2024-02-15T10:00:28.000Z",
+          "wordCount": null,
+          "title": "Increasing the force constant for interacting water molecules, featuring music by State Azure",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VXV3WxQNF_Y",
           "author": null,
           "description": "",
@@ -1701,16 +1711,6 @@
           "wordCount": null,
           "title": "Using waves with an oscillating source to \"solve\" a maze on a sphere",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KIJt4heZCHc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KIJt4heZCHc",
-          "publishedOn": "2023-11-18T10:00:26.000Z",
-          "wordCount": null,
-          "title": "An illustration of the Hall effect",
-          "imageUrl": null
         }
       ]
     },
@@ -1736,6 +1736,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Pj20omaP7WI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pj20omaP7WI",
+          "publishedOn": "2024-02-15T15:00:16.000Z",
+          "wordCount": null,
+          "title": "Something in Your Kitchen Emits Antimatter #kurzgesagt #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=W1Qyv6EI2hE",
           "author": null,
@@ -2088,16 +2098,6 @@
           "wordCount": null,
           "title": "AI: Grappling with a New Kind of Intelligence",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yNNXia9IrZs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yNNXia9IrZs",
-          "publishedOn": "2023-11-17T22:41:18.000Z",
-          "wordCount": null,
-          "title": "String Theory, Quantum Gravity and Black Holes (Or, Are We Holograms?)",
-          "imageUrl": null
         }
       ]
     },
@@ -2343,46 +2343,6 @@
           "publishedOn": "2023-11-21T20:00:56.000Z",
           "wordCount": null,
           "title": "Maintaining Large Scale Julia Ecosystems - JuliaHEP Workshop, Chris Rackauckas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CCer1Pqllig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CCer1Pqllig",
-          "publishedOn": "2023-11-18T11:26:40.000Z",
-          "wordCount": null,
-          "title": "Clapeyron.jl: An extensible, open-source fluid-thermodynamics toolkit - Third DigiWell Julia Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rLx5bCMeLDc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rLx5bCMeLDc",
-          "publishedOn": "2023-11-18T07:00:10.000Z",
-          "wordCount": null,
-          "title": "Machine Learning in Differential Equations for Optimal Control  - Third DigiWell Julia Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iwFMg-rCWNg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iwFMg-rCWNg",
-          "publishedOn": "2023-11-18T06:36:34.000Z",
-          "wordCount": null,
-          "title": "Handling Temporal Data with DataFrames.jl - Bogumił Kamiński - Third DigiWell Julia Seminar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jVDL6lloBOc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jVDL6lloBOc",
-          "publishedOn": "2023-11-18T05:57:16.000Z",
-          "wordCount": null,
-          "title": "Auto-Completing Models to Uncover Missing Physics - Vinicius Santana - Third DigiWell Julia Seminar",
           "imageUrl": null
         }
       ]
@@ -3497,16 +3457,6 @@
           "wordCount": null,
           "title": "The Immortal Goblin",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HLk7BWCl_Eo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HLk7BWCl_Eo",
-          "publishedOn": "2023-11-17T19:22:22.000Z",
-          "wordCount": null,
-          "title": "The Seeker's Guide to Enchanting Emporiums - Musical Trailer",
-          "imageUrl": null
         }
       ]
     },
@@ -3555,16 +3505,6 @@
           "publishedOn": "2023-12-09T17:20:14.000Z",
           "wordCount": null,
           "title": "New Podcast Pilot: The Phosphene Catalogue",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ck9FMtIGVxQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ck9FMtIGVxQ",
-          "publishedOn": "2023-11-17T19:54:07.000Z",
-          "wordCount": null,
-          "title": "ADHD: A Left-handed Brain",
           "imageUrl": null
         }
       ]
