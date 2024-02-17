@@ -2,10 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-16T00:04:33.153Z</updated>
+    <updated>2024-02-17T00:04:18.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Hear Black Hole Echoes #space #blackholes #science]]></title>
+        <id>https://www.youtube.com/watch?v=KzuM8maf05Y</id>
+        <link href="https://www.youtube.com/watch?v=KzuM8maf05Y"/>
+        <updated>2024-02-16T21:26:01.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to ModelingToolkit for Industrial Modelers: A Hands-On Training]]></title>
+        <id>https://www.youtube.com/watch?v=i5wwnMIzsVw</id>
+        <link href="https://www.youtube.com/watch?v=i5wwnMIzsVw"/>
+        <updated>2024-02-16T12:12:04.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial modelling on Large Data Streaming Sets]]></title>
+        <id>https://www.youtube.com/watch?v=1K5G0atyCZc</id>
+        <link href="https://www.youtube.com/watch?v=1K5G0atyCZc"/>
+        <updated>2024-02-16T12:10:53.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micro Training: Putting a Trained Machine Learning Pipeline Behind a Webserver]]></title>
+        <id>https://www.youtube.com/watch?v=QCxka215FLY</id>
+        <link href="https://www.youtube.com/watch?v=QCxka215FLY"/>
+        <updated>2024-02-16T12:10:48.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micro Training: Building and Deploying a Language Model in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=Sh59GwHwPxQ</id>
+        <link href="https://www.youtube.com/watch?v=Sh59GwHwPxQ"/>
+        <updated>2024-02-16T12:10:39.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parallel Computing for Enterprises in Julia]]></title>
+        <id>https://www.youtube.com/watch?v=UyGSxxs8QQE</id>
+        <link href="https://www.youtube.com/watch?v=UyGSxxs8QQE"/>
+        <updated>2024-02-16T12:10:31.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Boundaries in Data Science: Introducing Next-Generation Analysis and Visualization]]></title>
+        <id>https://www.youtube.com/watch?v=Q152idZEbzg</id>
+        <link href="https://www.youtube.com/watch?v=Q152idZEbzg"/>
+        <updated>2024-02-16T12:06:52.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic Data Analytics with JuliaHub, using SingleCellProjections and GLMakie]]></title>
+        <id>https://www.youtube.com/watch?v=gQmw4S2XQL0</id>
+        <link href="https://www.youtube.com/watch?v=gQmw4S2XQL0"/>
+        <updated>2024-02-16T12:06:17.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying Interactive Data Visualizations with Dash.jl on JuliaHub]]></title>
+        <id>https://www.youtube.com/watch?v=gAZBtlHdRA8</id>
+        <link href="https://www.youtube.com/watch?v=gAZBtlHdRA8"/>
+        <updated>2024-02-16T12:06:07.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System identification with Julia: 9.5 Additional details]]></title>
+        <id>https://www.youtube.com/watch?v=ztm8NQQE4l4</id>
+        <link href="https://www.youtube.com/watch?v=ztm8NQQE4l4"/>
+        <updated>2024-02-16T12:06:01.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating Simulations Using JuliaSimCompiler]]></title>
+        <id>https://www.youtube.com/watch?v=NLNMa0Pawk8</id>
+        <link href="https://www.youtube.com/watch?v=NLNMa0Pawk8"/>
+        <updated>2024-02-16T12:05:47.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acausal Modeling for Nonlinear Control and Analysis]]></title>
+        <id>https://www.youtube.com/watch?v=l3odTEy69UU</id>
+        <link href="https://www.youtube.com/watch?v=l3odTEy69UU"/>
+        <updated>2024-02-16T12:05:44.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating New Product Design with Improved Crash Simulation Modeling]]></title>
+        <id>https://www.youtube.com/watch?v=XpmqC6sMHMM</id>
+        <link href="https://www.youtube.com/watch?v=XpmqC6sMHMM"/>
+        <updated>2024-02-16T12:05:35.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faster Surrogate Model Simulation - Accelerating Inverse PDE Problems]]></title>
+        <id>https://www.youtube.com/watch?v=1oHmFjuD61s</id>
+        <link href="https://www.youtube.com/watch?v=1oHmFjuD61s"/>
+        <updated>2024-02-16T12:05:26.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything you wanted to know about floating point numbers, and didn't know who to ask.]]></title>
+        <id>https://www.youtube.com/watch?v=x3qBNuWluMY</id>
+        <link href="https://www.youtube.com/watch?v=x3qBNuWluMY"/>
+        <updated>2024-02-16T12:05:14.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Gen HVAC Simulations for Future Ready Designs]]></title>
+        <id>https://www.youtube.com/watch?v=AIlkbktnHPg</id>
+        <link href="https://www.youtube.com/watch?v=AIlkbktnHPg"/>
+        <updated>2024-02-16T12:05:10.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering]]></title>
+        <id>https://www.youtube.com/watch?v=JoFW2uSd3Uo</id>
+        <link href="https://www.youtube.com/watch?v=JoFW2uSd3Uo"/>
+        <updated>2024-02-16T11:00:27.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video #1100: Allen-Cahn equation on the sphere]]></title>
+        <id>https://www.youtube.com/watch?v=cPvAIkgnDbc</id>
+        <link href="https://www.youtube.com/watch?v=cPvAIkgnDbc"/>
+        <updated>2024-02-16T10:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Something in Your Kitchen Emits Antimatter #kurzgesagt #shorts]]></title>
         <id>https://www.youtube.com/watch?v=Pj20omaP7WI</id>
@@ -2965,15 +3127,6 @@
         <updated>2023-11-19T16:01:00.000Z</updated>
         <author>
             <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using waves with an oscillating source to "solve" a maze on a sphere]]></title>
-        <id>https://www.youtube.com/watch?v=Pxrw6G2DhPA</id>
-        <link href="https://www.youtube.com/watch?v=Pxrw6G2DhPA"/>
-        <updated>2023-11-19T10:00:14.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
 </feed>

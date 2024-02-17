@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KzuM8maf05Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KzuM8maf05Y",
+          "publishedOn": "2024-02-16T21:26:01.000Z",
+          "wordCount": null,
+          "title": "How to Hear Black Hole Echoes #space #blackholes #science",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TwJuA05M5Eo",
           "author": null,
           "description": "",
@@ -602,6 +612,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cPvAIkgnDbc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cPvAIkgnDbc",
+          "publishedOn": "2024-02-16T10:00:33.000Z",
+          "wordCount": null,
+          "title": "Video #1100: Allen-Cahn equation on the sphere",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=m985v1YYN7Y",
           "author": null,
@@ -1701,16 +1721,6 @@
           "wordCount": null,
           "title": "Between molecules and crystals",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pxrw6G2DhPA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pxrw6G2DhPA",
-          "publishedOn": "2023-11-19T10:00:14.000Z",
-          "wordCount": null,
-          "title": "Using waves with an oscillating source to \"solve\" a maze on a sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -1883,6 +1893,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JoFW2uSd3Uo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JoFW2uSd3Uo",
+          "publishedOn": "2024-02-16T11:00:27.000Z",
+          "wordCount": null,
+          "title": "Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ddomrz1cz_U",
           "author": null,
@@ -2389,6 +2409,156 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=i5wwnMIzsVw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i5wwnMIzsVw",
+          "publishedOn": "2024-02-16T12:12:04.000Z",
+          "wordCount": null,
+          "title": "Introduction to ModelingToolkit for Industrial Modelers: A Hands-On Training",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1K5G0atyCZc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1K5G0atyCZc",
+          "publishedOn": "2024-02-16T12:10:53.000Z",
+          "wordCount": null,
+          "title": "Financial modelling on Large Data Streaming Sets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QCxka215FLY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QCxka215FLY",
+          "publishedOn": "2024-02-16T12:10:48.000Z",
+          "wordCount": null,
+          "title": "Micro Training: Putting a Trained Machine Learning Pipeline Behind a Webserver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Sh59GwHwPxQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Sh59GwHwPxQ",
+          "publishedOn": "2024-02-16T12:10:39.000Z",
+          "wordCount": null,
+          "title": "Micro Training: Building and Deploying a Language Model in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UyGSxxs8QQE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UyGSxxs8QQE",
+          "publishedOn": "2024-02-16T12:10:31.000Z",
+          "wordCount": null,
+          "title": "Parallel Computing for Enterprises in Julia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Q152idZEbzg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q152idZEbzg",
+          "publishedOn": "2024-02-16T12:06:52.000Z",
+          "wordCount": null,
+          "title": "Breaking Boundaries in Data Science: Introducing Next-Generation Analysis and Visualization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gQmw4S2XQL0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gQmw4S2XQL0",
+          "publishedOn": "2024-02-16T12:06:17.000Z",
+          "wordCount": null,
+          "title": "Genomic Data Analytics with JuliaHub, using SingleCellProjections and GLMakie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gAZBtlHdRA8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gAZBtlHdRA8",
+          "publishedOn": "2024-02-16T12:06:07.000Z",
+          "wordCount": null,
+          "title": "Deploying Interactive Data Visualizations with Dash.jl on JuliaHub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ztm8NQQE4l4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ztm8NQQE4l4",
+          "publishedOn": "2024-02-16T12:06:01.000Z",
+          "wordCount": null,
+          "title": "System identification with Julia: 9.5 Additional details",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NLNMa0Pawk8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NLNMa0Pawk8",
+          "publishedOn": "2024-02-16T12:05:47.000Z",
+          "wordCount": null,
+          "title": "Accelerating Simulations Using JuliaSimCompiler",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l3odTEy69UU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l3odTEy69UU",
+          "publishedOn": "2024-02-16T12:05:44.000Z",
+          "wordCount": null,
+          "title": "Acausal Modeling for Nonlinear Control and Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XpmqC6sMHMM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XpmqC6sMHMM",
+          "publishedOn": "2024-02-16T12:05:35.000Z",
+          "wordCount": null,
+          "title": "Accelerating New Product Design with Improved Crash Simulation Modeling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1oHmFjuD61s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1oHmFjuD61s",
+          "publishedOn": "2024-02-16T12:05:26.000Z",
+          "wordCount": null,
+          "title": "Faster Surrogate Model Simulation - Accelerating Inverse PDE Problems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=x3qBNuWluMY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x3qBNuWluMY",
+          "publishedOn": "2024-02-16T12:05:14.000Z",
+          "wordCount": null,
+          "title": "Everything you wanted to know about floating point numbers, and didn't know who to ask.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AIlkbktnHPg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AIlkbktnHPg",
+          "publishedOn": "2024-02-16T12:05:10.000Z",
+          "wordCount": null,
+          "title": "Next Gen HVAC Simulations for Future Ready Designs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=f_N786vQfIc",
           "author": null,
