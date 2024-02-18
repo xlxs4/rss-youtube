@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-17T00:04:18.391Z</updated>
+    <updated>2024-02-18T00:04:54.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Playing Minecraft with ChatGPT]]></title>
+        <id>https://www.youtube.com/watch?v=NTHWMk5pcYs</id>
+        <link href="https://www.youtube.com/watch?v=NTHWMk5pcYs"/>
+        <updated>2024-02-17T14:00:14.000Z</updated>
+        <author>
+            <name>Emergent Garden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging With Light?]]></title>
+        <id>https://www.youtube.com/watch?v=1Y91DioUufA</id>
+        <link href="https://www.youtube.com/watch?v=1Y91DioUufA"/>
+        <updated>2024-02-17T13:48:11.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filming a moving source with two lenses - Averaged energy]]></title>
+        <id>https://www.youtube.com/watch?v=U4f2upjiYLg</id>
+        <link href="https://www.youtube.com/watch?v=U4f2upjiYLg"/>
+        <updated>2024-02-17T10:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Hear Black Hole Echoes #space #blackholes #science]]></title>
         <id>https://www.youtube.com/watch?v=KzuM8maf05Y</id>
@@ -3091,42 +3118,6 @@
         <updated>2023-11-20T18:02:21.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Between molecules and crystals]]></title>
-        <id>https://www.youtube.com/watch?v=d9mslkrZqtY</id>
-        <link href="https://www.youtube.com/watch?v=d9mslkrZqtY"/>
-        <updated>2023-11-20T10:00:33.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x22] How to use a Comprehension in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=yDgBvFJcDqg</id>
-        <link href="https://www.youtube.com/watch?v=yDgBvFJcDqg"/>
-        <updated>2023-11-19T16:02:00.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x21] How to use Control Flow in Julia: For Loop over collection]]></title>
-        <id>https://www.youtube.com/watch?v=2ixUMtFttsI</id>
-        <link href="https://www.youtube.com/watch?v=2ixUMtFttsI"/>
-        <updated>2023-11-19T16:01:30.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x20] How to use Control Flow in Julia: For Loop (for...end)]]></title>
-        <id>https://www.youtube.com/watch?v=4cg9UuG2G4g</id>
-        <link href="https://www.youtube.com/watch?v=4cg9UuG2G4g"/>
-        <updated>2023-11-19T16:01:00.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
         </author>
     </entry>
 </feed>
