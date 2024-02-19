@@ -613,6 +613,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vFh9acSGAdI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vFh9acSGAdI",
+          "publishedOn": "2024-02-18T10:00:37.000Z",
+          "wordCount": null,
+          "title": "Molecular popcorn",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U4f2upjiYLg",
           "author": null,
           "description": "",
@@ -1710,16 +1720,6 @@
           "publishedOn": "2023-11-22T10:00:38.000Z",
           "wordCount": null,
           "title": "The Hall effect with an increasing electric field",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8lCXNSl7G2o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8lCXNSl7G2o",
-          "publishedOn": "2023-11-21T10:00:07.000Z",
-          "wordCount": null,
-          "title": "Numerical aperture of a lens",
           "imageUrl": null
         }
       ]
@@ -3252,16 +3252,6 @@
           "wordCount": null,
           "title": "The Insane Engineering of the Space Shuttle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SU0YDwdUE-s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SU0YDwdUE-s",
-          "publishedOn": "2023-11-20T18:02:21.000Z",
-          "wordCount": null,
-          "title": "This Experimental Plane Crashed in 1956 - Bell X-2",
-          "imageUrl": null
         }
       ]
     },
@@ -3382,6 +3372,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=A_iyxlB3-Iw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A_iyxlB3-Iw",
+          "publishedOn": "2024-02-18T13:00:08.000Z",
+          "wordCount": null,
+          "title": "Interview with Misled Core Developer 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=J86Z4hrFug4",
           "author": null,
