@@ -613,6 +613,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YaoqL0d573w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YaoqL0d573w",
+          "publishedOn": "2024-02-19T10:00:22.000Z",
+          "wordCount": null,
+          "title": "Spirals in the rock-paper-scissors equation on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vFh9acSGAdI",
           "author": null,
           "description": "",
@@ -1711,16 +1721,6 @@
           "wordCount": null,
           "title": "Solving a maze with wavy walls on the sphere by using waves",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oJ5yaLnzgKM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oJ5yaLnzgKM",
-          "publishedOn": "2023-11-22T10:00:38.000Z",
-          "wordCount": null,
-          "title": "The Hall effect with an increasing electric field",
-          "imageUrl": null
         }
       ]
     },
@@ -1874,16 +1874,6 @@
           "publishedOn": "2023-11-29T15:00:43.000Z",
           "wordCount": null,
           "title": "The Internet is Worse Than Ever – Now What?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FgnjdW-x7mQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FgnjdW-x7mQ",
-          "publishedOn": "2023-11-21T15:00:01.000Z",
-          "wordCount": null,
-          "title": "The Last Thing To Ever Happen In The Universe",
           "imageUrl": null
         }
       ]
@@ -2040,16 +2030,6 @@
           "publishedOn": "2023-12-11T16:24:45.000Z",
           "wordCount": null,
           "title": "False Harmonics 11: Battle Trance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y27REk0tvAU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y27REk0tvAU",
-          "publishedOn": "2023-11-21T20:24:20.000Z",
-          "wordCount": null,
-          "title": "Liz Magic Laser | Convulsive States",
           "imageUrl": null
         }
       ]
@@ -2344,26 +2324,6 @@
           "wordCount": null,
           "title": "Automatic Differentiation and SciML: what can go wrong, and what to do about it - Chris Rackauckas",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FhaGK3Sd6ow",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FhaGK3Sd6ow",
-          "publishedOn": "2023-11-21T21:33:09.000Z",
-          "wordCount": null,
-          "title": "What is different about the Julia programming language? - JuliaHEP Workshop, Stefan Karpinski",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fQJrEQIRPZU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fQJrEQIRPZU",
-          "publishedOn": "2023-11-21T20:00:56.000Z",
-          "wordCount": null,
-          "title": "Maintaining Large Scale Julia Ecosystems - JuliaHEP Workshop, Chris Rackauckas",
-          "imageUrl": null
         }
       ]
     },
@@ -2409,6 +2369,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zTLKenphuJs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zTLKenphuJs",
+          "publishedOn": "2024-02-19T05:00:11.000Z",
+          "wordCount": null,
+          "title": "Ingesting and Deploying Functional Mockup Units in JuliaSim",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=i5wwnMIzsVw",
           "author": null,
@@ -3114,6 +3084,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sk6f0JTAQWY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sk6f0JTAQWY",
+          "publishedOn": "2024-02-19T15:00:47.000Z",
+          "wordCount": null,
+          "title": "The M1 Abrams Sounds Crazy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bPfDdjUnG1A",
           "author": null,
           "description": "",
@@ -3597,16 +3577,6 @@
           "publishedOn": "2023-12-05T00:09:45.000Z",
           "wordCount": null,
           "title": "The Most Pathetic Monster in DnD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jZB0rVhNv4I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jZB0rVhNv4I",
-          "publishedOn": "2023-11-21T23:23:11.000Z",
-          "wordCount": null,
-          "title": "The Immortal Goblin",
           "imageUrl": null
         }
       ]
