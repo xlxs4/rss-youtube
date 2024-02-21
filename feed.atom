@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-20T00:04:14.553Z</updated>
+    <updated>2024-02-21T00:04:37.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How the M1 Turbine Engine Works]]></title>
+        <id>https://www.youtube.com/watch?v=Z3x8Z7cOY6w</id>
+        <link href="https://www.youtube.com/watch?v=Z3x8Z7cOY6w"/>
+        <updated>2024-02-20T15:00:34.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[...To Survive a Nuclear War]]></title>
+        <id>https://www.youtube.com/watch?v=LrIRuqr_Ozg</id>
+        <link href="https://www.youtube.com/watch?v=LrIRuqr_Ozg"/>
+        <updated>2024-02-20T15:00:02.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 in Review]]></title>
+        <id>https://www.youtube.com/watch?v=HJsIOfliV5s</id>
+        <link href="https://www.youtube.com/watch?v=HJsIOfliV5s"/>
+        <updated>2024-02-20T12:11:22.000Z</updated>
+        <author>
+            <name>Department of Biosystems Science, ETH Zurich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Flash warning] Moving one mirror in a Michelson interferometer]]></title>
+        <id>https://www.youtube.com/watch?v=eFPpgCD6iao</id>
+        <link href="https://www.youtube.com/watch?v=eFPpgCD6iao"/>
+        <updated>2024-02-20T10:00:26.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The M1 Abrams Sounds Crazy]]></title>
         <id>https://www.youtube.com/watch?v=sk6f0JTAQWY</id>
@@ -3064,33 +3100,6 @@
         <updated>2023-11-23T13:30:19.000Z</updated>
         <author>
             <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving a maze with wavy walls on the sphere by using waves]]></title>
-        <id>https://www.youtube.com/watch?v=wMVdg3R_hn4</id>
-        <link href="https://www.youtube.com/watch?v=wMVdg3R_hn4"/>
-        <updated>2023-11-23T10:00:50.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic Differentiation and SciML: what can go wrong, and what to do about it - Chris Rackauckas]]></title>
-        <id>https://www.youtube.com/watch?v=OyFP565kDUI</id>
-        <link href="https://www.youtube.com/watch?v=OyFP565kDUI"/>
-        <updated>2023-11-23T00:00:16.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Velocity On a Sphere Using a 3D Euler's Formula]]></title>
-        <id>https://www.youtube.com/watch?v=i0cp3iQXSk8</id>
-        <link href="https://www.youtube.com/watch?v=i0cp3iQXSk8"/>
-        <updated>2023-11-22T21:55:03.000Z</updated>
-        <author>
-            <name>Morphocular</name>
         </author>
     </entry>
 </feed>

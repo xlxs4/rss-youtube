@@ -613,6 +613,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eFPpgCD6iao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eFPpgCD6iao",
+          "publishedOn": "2024-02-20T10:00:26.000Z",
+          "wordCount": null,
+          "title": "[Flash warning] Moving one mirror in a Michelson interferometer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YaoqL0d573w",
           "author": null,
           "description": "",
@@ -1711,16 +1721,6 @@
           "wordCount": null,
           "title": "Compressing charged molecules (corrupted version)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wMVdg3R_hn4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wMVdg3R_hn4",
-          "publishedOn": "2023-11-23T10:00:50.000Z",
-          "wordCount": null,
-          "title": "Solving a maze with wavy walls on the sphere by using waves",
-          "imageUrl": null
         }
       ]
     },
@@ -1746,6 +1746,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LrIRuqr_Ozg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LrIRuqr_Ozg",
+          "publishedOn": "2024-02-20T15:00:02.000Z",
+          "wordCount": null,
+          "title": "...To Survive a Nuclear War",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Pj20omaP7WI",
           "author": null,
@@ -2313,16 +2323,6 @@
           "publishedOn": "2023-11-23T13:30:19.000Z",
           "wordCount": null,
           "title": "Reproducible Science: Why it matters and how to achieve it - JuliaHEP 2023, George Datseris",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OyFP565kDUI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OyFP565kDUI",
-          "publishedOn": "2023-11-23T00:00:16.000Z",
-          "wordCount": null,
-          "title": "Automatic Differentiation and SciML: what can go wrong, and what to do about it - Chris Rackauckas",
           "imageUrl": null
         }
       ]
@@ -3084,6 +3084,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Z3x8Z7cOY6w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z3x8Z7cOY6w",
+          "publishedOn": "2024-02-20T15:00:34.000Z",
+          "wordCount": null,
+          "title": "How the M1 Turbine Engine Works",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sk6f0JTAQWY",
           "author": null,
           "description": "",
@@ -3585,7 +3595,18 @@
       "title": "Department of Biosystems Science, ETH Zurich",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpL1A9fSlFjItQ1br_5tzpg",
       "siteUrl": "https://www.youtube.com/channel/UCpL1A9fSlFjItQ1br_5tzpg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HJsIOfliV5s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HJsIOfliV5s",
+          "publishedOn": "2024-02-20T12:11:22.000Z",
+          "wordCount": null,
+          "title": "2023 in Review",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "SynBio Oxford",
@@ -3673,16 +3694,6 @@
           "publishedOn": "2023-12-22T17:58:46.000Z",
           "wordCount": null,
           "title": "How We Compute sin, cos, and e^x Shouldn't Work At All | Smooth vs. Analytic Functions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i0cp3iQXSk8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i0cp3iQXSk8",
-          "publishedOn": "2023-11-22T21:55:03.000Z",
-          "wordCount": null,
-          "title": "Finding Velocity On a Sphere Using a 3D Euler's Formula",
           "imageUrl": null
         }
       ]
