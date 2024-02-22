@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-21T00:04:37.381Z</updated>
+    <updated>2024-02-22T00:04:27.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How this tank makes a smoke screen]]></title>
+        <id>https://www.youtube.com/watch?v=JirS1i7GoaE</id>
+        <link href="https://www.youtube.com/watch?v=JirS1i7GoaE"/>
+        <updated>2024-02-21T15:00:13.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My ice cream is melting!]]></title>
+        <id>https://www.youtube.com/watch?v=OBGIriSydI8</id>
+        <link href="https://www.youtube.com/watch?v=OBGIriSydI8"/>
+        <updated>2024-02-21T10:00:29.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the M1 Turbine Engine Works]]></title>
         <id>https://www.youtube.com/watch?v=Z3x8Z7cOY6w</id>
@@ -3082,24 +3100,6 @@
         <updated>2023-11-24T21:00:11.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compressing charged molecules (corrupted version)]]></title>
-        <id>https://www.youtube.com/watch?v=ZIK6i7wSotY</id>
-        <link href="https://www.youtube.com/watch?v=ZIK6i7wSotY"/>
-        <updated>2023-11-24T10:00:27.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reproducible Science: Why it matters and how to achieve it - JuliaHEP 2023, George Datseris]]></title>
-        <id>https://www.youtube.com/watch?v=_9ioAWkSXvo</id>
-        <link href="https://www.youtube.com/watch?v=_9ioAWkSXvo"/>
-        <updated>2023-11-23T13:30:19.000Z</updated>
-        <author>
-            <name>The Julia Programming Language</name>
         </author>
     </entry>
 </feed>
