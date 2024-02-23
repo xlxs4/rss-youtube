@@ -613,6 +613,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=05CflnMj938",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=05CflnMj938",
+          "publishedOn": "2024-02-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Vorticity of spirals in the rock-paper-scissors equation on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OBGIriSydI8",
           "author": null,
           "description": "",
@@ -1711,16 +1721,6 @@
           "wordCount": null,
           "title": "Compressing charged molecules (re-upload)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5WEZTy_Lr6M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5WEZTy_Lr6M",
-          "publishedOn": "2023-11-25T10:00:05.000Z",
-          "wordCount": null,
-          "title": "Numerical aperture of a lens in a wall (corrupted version)",
-          "imageUrl": null
         }
       ]
     },
@@ -1993,6 +1993,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YjdhEh5mlXc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YjdhEh5mlXc",
+          "publishedOn": "2024-02-22T15:05:09.000Z",
+          "wordCount": null,
+          "title": "LEYA (Live at Pioneer Works)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2-TtinQTNLw",
           "author": null,
           "description": "",
@@ -2097,16 +2107,6 @@
           "publishedOn": "2023-12-04T23:44:46.000Z",
           "wordCount": null,
           "title": "Coding the Cosmos: Does Reality Emerge From Simple Computations?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EGDG3hgPNp8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EGDG3hgPNp8",
-          "publishedOn": "2023-11-24T21:00:11.000Z",
-          "wordCount": null,
-          "title": "AI: Grappling with a New Kind of Intelligence",
           "imageUrl": null
         }
       ]

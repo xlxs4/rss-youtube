@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-22T00:04:27.405Z</updated>
+    <updated>2024-02-23T00:04:26.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LEYA (Live at Pioneer Works)]]></title>
+        <id>https://www.youtube.com/watch?v=YjdhEh5mlXc</id>
+        <link href="https://www.youtube.com/watch?v=YjdhEh5mlXc"/>
+        <updated>2024-02-22T15:05:09.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vorticity of spirals in the rock-paper-scissors equation on the sphere]]></title>
+        <id>https://www.youtube.com/watch?v=05CflnMj938</id>
+        <link href="https://www.youtube.com/watch?v=05CflnMj938"/>
+        <updated>2024-02-22T10:00:00.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How this tank makes a smoke screen]]></title>
         <id>https://www.youtube.com/watch?v=JirS1i7GoaE</id>
@@ -3082,24 +3100,6 @@
         <updated>2023-11-25T20:08:07.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numerical aperture of a lens in a wall (corrupted version)]]></title>
-        <id>https://www.youtube.com/watch?v=5WEZTy_Lr6M</id>
-        <link href="https://www.youtube.com/watch?v=5WEZTy_Lr6M"/>
-        <updated>2023-11-25T10:00:05.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI: Grappling with a New Kind of Intelligence]]></title>
-        <id>https://www.youtube.com/watch?v=EGDG3hgPNp8</id>
-        <link href="https://www.youtube.com/watch?v=EGDG3hgPNp8"/>
-        <updated>2023-11-24T21:00:11.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
