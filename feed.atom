@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-23T00:04:26.806Z</updated>
+    <updated>2024-02-24T00:34:21.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI/ML+Physics Part 1: Choosing what to model [Physics Informed Machine Learning]]]></title>
+        <id>https://www.youtube.com/watch?v=ARMk955pGbg</id>
+        <link href="https://www.youtube.com/watch?v=ARMk955pGbg"/>
+        <updated>2024-02-23T20:15:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes A Great In-Game Shop?]]></title>
+        <id>https://www.youtube.com/watch?v=B_pfFVXBvic</id>
+        <link href="https://www.youtube.com/watch?v=B_pfFVXBvic"/>
+        <updated>2024-02-23T15:00:10.000Z</updated>
+        <author>
+            <name>Design Doc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Flash warning] A refracting rotated Sierpinski wave protection]]></title>
+        <id>https://www.youtube.com/watch?v=GOO7IZvMj0I</id>
+        <link href="https://www.youtube.com/watch?v=GOO7IZvMj0I"/>
+        <updated>2024-02-23T10:00:20.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LEYA (Live at Pioneer Works)]]></title>
         <id>https://www.youtube.com/watch?v=YjdhEh5mlXc</id>
@@ -3073,33 +3100,6 @@
         <updated>2023-11-26T16:01:01.000Z</updated>
         <author>
             <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hall effect with an increasing magnetic field]]></title>
-        <id>https://www.youtube.com/watch?v=rmfo8cdgZa8</id>
-        <link href="https://www.youtube.com/watch?v=rmfo8cdgZa8"/>
-        <updated>2023-11-26T10:00:37.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numerical aperture of a lens in a wall (re-upload)]]></title>
-        <id>https://www.youtube.com/watch?v=RbojFORps98</id>
-        <link href="https://www.youtube.com/watch?v=RbojFORps98"/>
-        <updated>2023-11-25T20:15:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compressing charged molecules (re-upload)]]></title>
-        <id>https://www.youtube.com/watch?v=89TdJ-Q5C8E</id>
-        <link href="https://www.youtube.com/watch?v=89TdJ-Q5C8E"/>
-        <updated>2023-11-25T20:08:07.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
 </feed>
