@@ -613,6 +613,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rMsMF9S6byA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rMsMF9S6byA",
+          "publishedOn": "2024-02-24T10:00:40.000Z",
+          "wordCount": null,
+          "title": "Four-armed \"hydra\" molecules in an increasing electric field",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GOO7IZvMj0I",
           "author": null,
           "description": "",
@@ -1690,16 +1700,6 @@
           "publishedOn": "2023-11-28T10:00:01.000Z",
           "wordCount": null,
           "title": "Compressing charged molecules: Energy and density (corrupted version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rCmb7fKmMb8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rCmb7fKmMb8",
-          "publishedOn": "2023-11-27T10:00:40.000Z",
-          "wordCount": null,
-          "title": "Numerical aperture in a two-lenses set-up",
           "imageUrl": null
         }
       ]
@@ -3002,36 +3002,6 @@
           "wordCount": null,
           "title": "[10x26] How to use Julia's Standard Library",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dv_ABu4SUhc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dv_ABu4SUhc",
-          "publishedOn": "2023-11-26T16:02:00.000Z",
-          "wordCount": null,
-          "title": "[10x25] How to use an Anonymous Function in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hesjQz__yb8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hesjQz__yb8",
-          "publishedOn": "2023-11-26T16:01:31.000Z",
-          "wordCount": null,
-          "title": "[10x24] What does \"Multiple Dispatch\" mean in Julia?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p5FSG_uofc4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p5FSG_uofc4",
-          "publishedOn": "2023-11-26T16:01:01.000Z",
-          "wordCount": null,
-          "title": "[10x23] How to use a Function in Julia",
-          "imageUrl": null
         }
       ]
     },
@@ -3362,6 +3332,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SLosyUI5puk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SLosyUI5puk",
+          "publishedOn": "2024-02-24T13:15:02.000Z",
+          "wordCount": null,
+          "title": "Interview with Artificialist Intelligence (A.I.) Founder 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=A_iyxlB3-Iw",
           "author": null,
