@@ -596,6 +596,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tUH86cnk5hM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tUH86cnk5hM",
+          "publishedOn": "2024-02-25T21:12:23.000Z",
+          "wordCount": null,
+          "title": "Photographing a trillion-star galaxy (quick-and-dirty \"how-to\")",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Fm9-UiprBAQ",
           "author": null,
           "description": "",
@@ -612,6 +622,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Us9-ed9WP3M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Us9-ed9WP3M",
+          "publishedOn": "2024-02-25T10:00:28.000Z",
+          "wordCount": null,
+          "title": "Spirals in the rock-paper-scissors equation on the sphere: Phase and gradient of phase",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rMsMF9S6byA",
           "author": null,
@@ -1690,16 +1710,6 @@
           "publishedOn": "2023-11-28T12:40:43.000Z",
           "wordCount": null,
           "title": "Compressing charged molecules: Energy and density (re-upload)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1gpBBbDY7Po",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1gpBBbDY7Po",
-          "publishedOn": "2023-11-28T10:00:01.000Z",
-          "wordCount": null,
-          "title": "Compressing charged molecules: Energy and density (corrupted version)",
           "imageUrl": null
         }
       ]
@@ -3251,16 +3261,6 @@
           "wordCount": null,
           "title": "How Do Games Play With Poison?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xOR3M7G4aOE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xOR3M7G4aOE",
-          "publishedOn": "2023-11-27T15:00:48.000Z",
-          "wordCount": null,
-          "title": "What Makes A Great Rival Boss?",
-          "imageUrl": null
         }
       ]
     },
@@ -3491,16 +3491,6 @@
           "wordCount": null,
           "title": "Bouncing Off Blender (And Not)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=638qRYYpv2g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=638qRYYpv2g",
-          "publishedOn": "2023-11-27T18:43:13.000Z",
-          "wordCount": null,
-          "title": "Magic Systems!",
-          "imageUrl": null
         }
       ]
     },
@@ -3509,6 +3499,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aujQIR9d3dk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aujQIR9d3dk",
+          "publishedOn": "2024-02-25T22:24:27.000Z",
+          "wordCount": null,
+          "title": "The Most Interesting City I've Ever Read About",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GtmJ4cIdhYk",
           "author": null,
@@ -3599,6 +3599,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA",
       "siteUrl": "https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CwfKlX3rA6E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CwfKlX3rA6E",
+          "publishedOn": "2024-02-25T15:47:18.000Z",
+          "wordCount": null,
+          "title": "NixOS: Everything Everywhere All At Once",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=voRBS0r4EyI",
           "author": null,
