@@ -623,6 +623,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x5PR-3S8vHk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x5PR-3S8vHk",
+          "publishedOn": "2024-02-26T10:00:39.000Z",
+          "wordCount": null,
+          "title": "Moving one mirror in a Michelson interferometer - averaged energy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Us9-ed9WP3M",
           "author": null,
           "description": "",
@@ -1670,46 +1680,6 @@
           "publishedOn": "2023-11-30T10:00:35.000Z",
           "wordCount": null,
           "title": "The Hall effect with an increasing electric field: Charge and particle density",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VDgz-3wnSMA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VDgz-3wnSMA",
-          "publishedOn": "2023-11-29T10:00:23.000Z",
-          "wordCount": null,
-          "title": "What kind of waves would a Fagradalsfjall volcano eruption cause in the Atlantic?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5j4rwjSrqXk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5j4rwjSrqXk",
-          "publishedOn": "2023-11-29T05:32:07.000Z",
-          "wordCount": null,
-          "title": "Compressing charged molecules: Energy and density (compressed re-upload)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7SlcR67XbZE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7SlcR67XbZE",
-          "publishedOn": "2023-11-28T22:30:46.000Z",
-          "wordCount": null,
-          "title": "Compressing charged molecules: Energy and density (re-upload 2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V5QYpq318nM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V5QYpq318nM",
-          "publishedOn": "2023-11-28T12:40:43.000Z",
-          "wordCount": null,
-          "title": "Compressing charged molecules: Energy and density (re-upload)",
           "imageUrl": null
         }
       ]
