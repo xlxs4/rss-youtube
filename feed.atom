@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-27T00:34:04.447Z</updated>
+    <updated>2024-02-28T00:33:24.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Paradox of an Infinite Universe]]></title>
+        <id>https://www.youtube.com/watch?v=isdLel273rQ</id>
+        <link href="https://www.youtube.com/watch?v=isdLel273rQ"/>
+        <updated>2024-02-27T15:00:02.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-assembling "Lego" molecules in an increasing electric field]]></title>
+        <id>https://www.youtube.com/watch?v=pw3y2AgfjzI</id>
+        <link href="https://www.youtube.com/watch?v=pw3y2AgfjzI"/>
+        <updated>2024-02-27T10:00:39.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stretching Character Animations in Unreal]]></title>
+        <id>https://www.youtube.com/watch?v=LD3drW_zETQ</id>
+        <link href="https://www.youtube.com/watch?v=LD3drW_zETQ"/>
+        <updated>2024-02-27T02:31:18.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moving one mirror in a Michelson interferometer - averaged energy]]></title>
         <id>https://www.youtube.com/watch?v=x5PR-3S8vHk</id>
@@ -3046,24 +3073,6 @@
         <updated>2023-11-30T18:42:33.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hall effect with an increasing electric field: Charge and particle density]]></title>
-        <id>https://www.youtube.com/watch?v=ZHRR72unwGA</id>
-        <link href="https://www.youtube.com/watch?v=ZHRR72unwGA"/>
-        <updated>2023-11-30T10:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Internet is Worse Than Ever – Now What?]]></title>
-        <id>https://www.youtube.com/watch?v=fuFlMtZmvY0</id>
-        <link href="https://www.youtube.com/watch?v=fuFlMtZmvY0"/>
-        <updated>2023-11-29T15:00:43.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
