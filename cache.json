@@ -544,16 +544,6 @@
           "wordCount": null,
           "title": "X-rays \"faster\" than the speed of light, and more refractive index questions | Optics puzzles part 4",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KTzGBJPuJwM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KTzGBJPuJwM",
-          "publishedOn": "2023-11-30T18:42:33.000Z",
-          "wordCount": null,
-          "title": "You can't explain prisms without understanding springs | Optics puzzles part 3",
-          "imageUrl": null
         }
       ]
     },
@@ -622,6 +612,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wY5-JFl7XI0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wY5-JFl7XI0",
+          "publishedOn": "2024-02-28T10:00:44.000Z",
+          "wordCount": null,
+          "title": "The rock-paper-scissors-lizzard-Spock reaction-diffusion equation on the sphere.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pw3y2AgfjzI",
           "author": null,
@@ -1671,16 +1671,6 @@
           "wordCount": null,
           "title": "Compressing charged molecules: Charge density and force field (original upload)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jJQpe3hIn-Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jJQpe3hIn-Q",
-          "publishedOn": "2023-12-01T10:00:40.000Z",
-          "wordCount": null,
-          "title": "Comparison of two-lenses set-ups with different numerical apertures",
-          "imageUrl": null
         }
       ]
     },
@@ -1689,6 +1679,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
       "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-ObSn6DGgyw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-ObSn6DGgyw",
+          "publishedOn": "2024-02-28T02:32:05.000Z",
+          "wordCount": null,
+          "title": "AMR - The Association for Mathematical Research",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9eOHNVxK-tw",
           "author": null,
@@ -1931,16 +1931,6 @@
           "publishedOn": "2023-12-15T11:00:18.000Z",
           "wordCount": null,
           "title": "New Advances in Artificial Intelligence and Machine Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pBAmBZP5Sp8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pBAmBZP5Sp8",
-          "publishedOn": "2023-12-01T11:00:55.000Z",
-          "wordCount": null,
-          "title": "Nonlinear parametric models of viscoelastic fluid flows with SINDy",
           "imageUrl": null
         }
       ]
@@ -2895,18 +2885,7 @@
       "title": "NanoRooms",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g",
       "siteUrl": "https://www.youtube.com/channel/UCbHJVeS0ZIco7FTTqhvDg6g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=h5EtHLXSbHI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h5EtHLXSbHI",
-          "publishedOn": "2023-11-30T19:46:43.000Z",
-          "wordCount": null,
-          "title": "How does life come up with its programming language?",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "doggo dot jl",
@@ -3372,6 +3351,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IhaTSGKbwhU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IhaTSGKbwhU",
+          "publishedOn": "2024-02-28T19:43:57.000Z",
+          "wordCount": null,
+          "title": "Unreal Multiplayer Quick Explainer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LD3drW_zETQ",
           "author": null,
