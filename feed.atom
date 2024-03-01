@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-02-29T00:34:15.536Z</updated>
+    <updated>2024-03-01T00:38:39.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Could This Be The Next Air Force One? - Hermeus]]></title>
+        <id>https://www.youtube.com/watch?v=UyKtxsdI0z8</id>
+        <link href="https://www.youtube.com/watch?v=UyKtxsdI0z8"/>
+        <updated>2024-02-29T19:00:25.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does the Moon Smell Like? #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Oj_OwYR9jGQ</id>
+        <link href="https://www.youtube.com/watch?v=Oj_OwYR9jGQ"/>
+        <updated>2024-02-29T15:00:31.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24 Hours Remaining...]]></title>
+        <id>https://www.youtube.com/watch?v=LS6lecUl3M0</id>
+        <link href="https://www.youtube.com/watch?v=LS6lecUl3M0"/>
+        <updated>2024-02-29T15:00:02.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Flash warning] How well does a Sierpinski carpet separate wavelengths?]]></title>
+        <id>https://www.youtube.com/watch?v=SXhmZ0Bqni8</id>
+        <link href="https://www.youtube.com/watch?v=SXhmZ0Bqni8"/>
+        <updated>2024-02-29T10:00:21.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Richard Borcherds, "Vinberg’s Algorithm and Kac-Moody algebras",  VDL, Feb 26, 2024]]></title>
+        <id>https://www.youtube.com/watch?v=TKQ_P-mk2Jg</id>
+        <link href="https://www.youtube.com/watch?v=TKQ_P-mk2Jg"/>
+        <updated>2024-02-29T05:22:54.000Z</updated>
+        <author>
+            <name>Association for Mathematical Research</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unreal Multiplayer Quick Explainer]]></title>
         <id>https://www.youtube.com/watch?v=IhaTSGKbwhU</id>
@@ -3028,42 +3073,6 @@
         <updated>2023-12-03T10:00:20.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compressing charged molecules: Charge density and force field (from compressed original)]]></title>
-        <id>https://www.youtube.com/watch?v=ws9OUuzCW7U</id>
-        <link href="https://www.youtube.com/watch?v=ws9OUuzCW7U"/>
-        <updated>2023-12-02T11:00:55.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compressing charged molecules: Charge density and force field (original upload)]]></title>
-        <id>https://www.youtube.com/watch?v=NjBngzAdhrc</id>
-        <link href="https://www.youtube.com/watch?v=NjBngzAdhrc"/>
-        <updated>2023-12-02T10:00:15.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bouncing Off Blender (And Not)]]></title>
-        <id>https://www.youtube.com/watch?v=muaOYU72W8I</id>
-        <link href="https://www.youtube.com/watch?v=muaOYU72W8I"/>
-        <updated>2023-12-01T20:04:01.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P vs. NP - The Greatest Unsolved Problem in Computer Science]]></title>
-        <id>https://www.youtube.com/watch?v=pQsdygaYcE4</id>
-        <link href="https://www.youtube.com/watch?v=pQsdygaYcE4"/>
-        <updated>2023-12-01T17:43:43.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
