@@ -524,16 +524,6 @@
           "wordCount": null,
           "title": "Don't let it fool you!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cz4Q4QOuoo8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cz4Q4QOuoo8",
-          "publishedOn": "2023-12-03T11:35:57.000Z",
-          "wordCount": null,
-          "title": "X-rays \"faster\" than the speed of light, and more refractive index questions | Optics puzzles part 4",
-          "imageUrl": null
         }
       ]
     },
@@ -602,6 +592,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=B7DrvKpDS10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B7DrvKpDS10",
+          "publishedOn": "2024-03-01T10:00:13.000Z",
+          "wordCount": null,
+          "title": "Rigid interacting tripod molecules",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SXhmZ0Bqni8",
           "author": null,
@@ -1641,16 +1641,6 @@
           "wordCount": null,
           "title": "The Hall effect with an increasing electric field: Charge and particle density (compressed original)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T3zQ6a8SPfw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T3zQ6a8SPfw",
-          "publishedOn": "2023-12-03T10:00:20.000Z",
-          "wordCount": null,
-          "title": "The effect of an obstruction on a two-lenses set-up (corrupted original)",
-          "imageUrl": null
         }
       ]
     },
@@ -1659,6 +1649,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
       "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fIJYzqDMWnA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fIJYzqDMWnA",
+          "publishedOn": "2024-03-01T03:42:17.000Z",
+          "wordCount": null,
+          "title": "VDL - Richard Borcherds, \"Vinberg's Algorithm and Kac-Moody algebras\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=TKQ_P-mk2Jg",
           "author": null,
@@ -1863,6 +1863,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=g-S0m2zcKUg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g-S0m2zcKUg",
+          "publishedOn": "2024-03-01T11:00:41.000Z",
+          "wordCount": null,
+          "title": "AI/ML+Physics Part 2: Curating Training Data [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ARMk955pGbg",
           "author": null,
