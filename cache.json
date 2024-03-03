@@ -593,6 +593,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=INTnNNjIEYw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=INTnNNjIEYw",
+          "publishedOn": "2024-03-02T10:00:10.000Z",
+          "wordCount": null,
+          "title": "From 3-armed to 5-armed spirals in the rock-paper-scissors-lizard-Spock equation on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=B7DrvKpDS10",
           "author": null,
           "description": "",
@@ -1601,46 +1611,6 @@
           "wordCount": null,
           "title": "Flooding Mercury (from compressed original)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1kk75Maw9wY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1kk75Maw9wY",
-          "publishedOn": "2023-12-04T10:00:02.000Z",
-          "wordCount": null,
-          "title": "The Hall effect in a crystal with an increasing magnetic field",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wqzhc5me8_A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wqzhc5me8_A",
-          "publishedOn": "2023-12-03T19:13:03.000Z",
-          "wordCount": null,
-          "title": "Comparison of two-lenses set-ups with different numerical apertures (re-upload from compressed orig)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Uks_a8DDrxQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Uks_a8DDrxQ",
-          "publishedOn": "2023-12-03T18:56:48.000Z",
-          "wordCount": null,
-          "title": "The effect of an obstruction on a two-lenses set-up (re-upload of compressed version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0Uk5obYroV8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0Uk5obYroV8",
-          "publishedOn": "2023-12-03T18:52:21.000Z",
-          "wordCount": null,
-          "title": "The Hall effect with an increasing electric field: Charge and particle density (compressed original)",
-          "imageUrl": null
         }
       ]
     },
@@ -1649,6 +1619,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
       "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Jn2GsJ05Xq8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jn2GsJ05Xq8",
+          "publishedOn": "2024-03-02T05:07:45.000Z",
+          "wordCount": null,
+          "title": "VDL -  Richard Borcherds, \"Vinberg's Algorithm and Kac-Moody algebras\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fIJYzqDMWnA",
           "author": null,
@@ -2960,26 +2940,6 @@
           "publishedOn": "2023-12-10T16:00:59.000Z",
           "wordCount": null,
           "title": "[10x28] How to install and use Pluto.jl (reactive notebook programming environment for Julia)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QnctM0MUox8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QnctM0MUox8",
-          "publishedOn": "2023-12-03T16:01:30.000Z",
-          "wordCount": null,
-          "title": "[10x27] How to use External Packages in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jLmQ-CL83Ko",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jLmQ-CL83Ko",
-          "publishedOn": "2023-12-03T16:01:01.000Z",
-          "wordCount": null,
-          "title": "[10x26] How to use Julia's Standard Library",
           "imageUrl": null
         }
       ]

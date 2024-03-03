@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-02T00:04:19.978Z</updated>
+    <updated>2024-03-03T00:04:54.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From 3-armed to 5-armed spirals in the rock-paper-scissors-lizard-Spock equation on the sphere]]></title>
+        <id>https://www.youtube.com/watch?v=INTnNNjIEYw</id>
+        <link href="https://www.youtube.com/watch?v=INTnNNjIEYw"/>
+        <updated>2024-03-02T10:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VDL -  Richard Borcherds, "Vinberg's Algorithm and Kac-Moody algebras"]]></title>
+        <id>https://www.youtube.com/watch?v=Jn2GsJ05Xq8</id>
+        <link href="https://www.youtube.com/watch?v=Jn2GsJ05Xq8"/>
+        <updated>2024-03-02T05:07:45.000Z</updated>
+        <author>
+            <name>Association for Mathematical Research</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI/ML+Physics Part 2: Curating Training Data [Physics Informed Machine Learning]]]></title>
         <id>https://www.youtube.com/watch?v=g-S0m2zcKUg</id>
@@ -3028,60 +3046,6 @@
         <updated>2023-12-04T22:39:42.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hall effect in a crystal with an increasing magnetic field]]></title>
-        <id>https://www.youtube.com/watch?v=1kk75Maw9wY</id>
-        <link href="https://www.youtube.com/watch?v=1kk75Maw9wY"/>
-        <updated>2023-12-04T10:00:02.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparison of two-lenses set-ups with different numerical apertures (re-upload from compressed orig)]]></title>
-        <id>https://www.youtube.com/watch?v=wqzhc5me8_A</id>
-        <link href="https://www.youtube.com/watch?v=wqzhc5me8_A"/>
-        <updated>2023-12-03T19:13:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The effect of an obstruction on a two-lenses set-up (re-upload of compressed version)]]></title>
-        <id>https://www.youtube.com/watch?v=Uks_a8DDrxQ</id>
-        <link href="https://www.youtube.com/watch?v=Uks_a8DDrxQ"/>
-        <updated>2023-12-03T18:56:48.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hall effect with an increasing electric field: Charge and particle density (compressed original)]]></title>
-        <id>https://www.youtube.com/watch?v=0Uk5obYroV8</id>
-        <link href="https://www.youtube.com/watch?v=0Uk5obYroV8"/>
-        <updated>2023-12-03T18:52:21.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x27] How to use External Packages in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=QnctM0MUox8</id>
-        <link href="https://www.youtube.com/watch?v=QnctM0MUox8"/>
-        <updated>2023-12-03T16:01:30.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[10x26] How to use Julia's Standard Library]]></title>
-        <id>https://www.youtube.com/watch?v=jLmQ-CL83Ko</id>
-        <link href="https://www.youtube.com/watch?v=jLmQ-CL83Ko"/>
-        <updated>2023-12-03T16:01:01.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
         </author>
     </entry>
 </feed>
