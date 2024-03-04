@@ -593,6 +593,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mSn2u5rAPks",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mSn2u5rAPks",
+          "publishedOn": "2024-03-03T10:00:35.000Z",
+          "wordCount": null,
+          "title": "Moving one mirror in a Michelson interferometer - time lapse of averaged energy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=INTnNNjIEYw",
           "author": null,
           "description": "",
@@ -1591,26 +1601,6 @@
           "wordCount": null,
           "title": "Injecting electrons in a crystal of ions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z2CLIMITjaE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z2CLIMITjaE",
-          "publishedOn": "2023-12-05T10:00:23.000Z",
-          "wordCount": null,
-          "title": "Flooding Mercury",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F7ZiFHePnBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F7ZiFHePnBc",
-          "publishedOn": "2023-12-05T10:00:10.000Z",
-          "wordCount": null,
-          "title": "Flooding Mercury (from compressed original)",
-          "imageUrl": null
         }
       ]
     },
@@ -2057,16 +2047,6 @@
           "publishedOn": "2023-12-08T21:00:07.000Z",
           "wordCount": null,
           "title": "Searching For Cosmic Origins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ITJ3AF3TK5M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ITJ3AF3TK5M",
-          "publishedOn": "2023-12-04T23:44:46.000Z",
-          "wordCount": null,
-          "title": "Coding the Cosmos: Does Reality Emerge From Simple Computations?",
           "imageUrl": null
         }
       ]
@@ -2818,66 +2798,6 @@
           "wordCount": null,
           "title": "Using Large Datasets in JuliaHub",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-xxbXHnIMvk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-xxbXHnIMvk",
-          "publishedOn": "2023-12-04T22:49:23.000Z",
-          "wordCount": null,
-          "title": "JuliaHub 101 - An Introduction to the Code-to-Cloud Platform for High-Performance Computing.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0PCR1x0vJmo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0PCR1x0vJmo",
-          "publishedOn": "2023-12-04T22:48:46.000Z",
-          "wordCount": null,
-          "title": "Improving Julia Collaboration with JuliaHub Projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b0IHYAizMRE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b0IHYAizMRE",
-          "publishedOn": "2023-12-04T22:41:35.000Z",
-          "wordCount": null,
-          "title": "Tools for Non Linear Model Predictive Control (MPC)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bi2hIst9X9w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bi2hIst9X9w",
-          "publishedOn": "2023-12-04T22:39:53.000Z",
-          "wordCount": null,
-          "title": "Cutting Model Translation Time with Pumas-QSP Importers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LjsXcVDktaw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LjsXcVDktaw",
-          "publishedOn": "2023-12-04T22:39:47.000Z",
-          "wordCount": null,
-          "title": "Hierarchical Bayesian Methods for Efficient Generation of Virtual Populations for QSP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K5cWJg4mh60",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K5cWJg4mh60",
-          "publishedOn": "2023-12-04T22:39:42.000Z",
-          "wordCount": null,
-          "title": "Quantitative Systems Pharmacology (QSP) in Julia with Pumas-QSP",
-          "imageUrl": null
         }
       ]
     },
@@ -3342,6 +3262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ngnGke2Suug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ngnGke2Suug",
+          "publishedOn": "2024-03-03T17:09:18.000Z",
+          "wordCount": null,
+          "title": "Multiplayer Sync in Unreal",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IhaTSGKbwhU",
           "author": null,
           "description": "",
@@ -3506,16 +3436,6 @@
           "publishedOn": "2023-12-18T21:28:23.000Z",
           "wordCount": null,
           "title": "The Most Dangerous Pet in All of DnD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iOxcjgXAOl8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iOxcjgXAOl8",
-          "publishedOn": "2023-12-05T00:09:45.000Z",
-          "wordCount": null,
-          "title": "The Most Pathetic Monster in DnD",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-03T00:04:54.736Z</updated>
+    <updated>2024-03-04T00:04:52.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multiplayer Sync in Unreal]]></title>
+        <id>https://www.youtube.com/watch?v=ngnGke2Suug</id>
+        <link href="https://www.youtube.com/watch?v=ngnGke2Suug"/>
+        <updated>2024-03-03T17:09:18.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving one mirror in a Michelson interferometer - time lapse of averaged energy]]></title>
+        <id>https://www.youtube.com/watch?v=mSn2u5rAPks</id>
+        <link href="https://www.youtube.com/watch?v=mSn2u5rAPks"/>
+        <updated>2024-03-03T10:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From 3-armed to 5-armed spirals in the rock-paper-scissors-lizard-Spock equation on the sphere]]></title>
         <id>https://www.youtube.com/watch?v=INTnNNjIEYw</id>
@@ -2956,96 +2974,6 @@
         <updated>2023-12-05T16:30:09.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flooding Mercury]]></title>
-        <id>https://www.youtube.com/watch?v=Z2CLIMITjaE</id>
-        <link href="https://www.youtube.com/watch?v=Z2CLIMITjaE"/>
-        <updated>2023-12-05T10:00:23.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flooding Mercury (from compressed original)]]></title>
-        <id>https://www.youtube.com/watch?v=F7ZiFHePnBc</id>
-        <link href="https://www.youtube.com/watch?v=F7ZiFHePnBc"/>
-        <updated>2023-12-05T10:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Pathetic Monster in DnD]]></title>
-        <id>https://www.youtube.com/watch?v=iOxcjgXAOl8</id>
-        <link href="https://www.youtube.com/watch?v=iOxcjgXAOl8"/>
-        <updated>2023-12-05T00:09:45.000Z</updated>
-        <author>
-            <name>Runesmith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding the Cosmos: Does Reality Emerge From Simple Computations?]]></title>
-        <id>https://www.youtube.com/watch?v=ITJ3AF3TK5M</id>
-        <link href="https://www.youtube.com/watch?v=ITJ3AF3TK5M"/>
-        <updated>2023-12-04T23:44:46.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaHub 101 - An Introduction to the Code-to-Cloud Platform for High-Performance Computing.]]></title>
-        <id>https://www.youtube.com/watch?v=-xxbXHnIMvk</id>
-        <link href="https://www.youtube.com/watch?v=-xxbXHnIMvk"/>
-        <updated>2023-12-04T22:49:23.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Julia Collaboration with JuliaHub Projects]]></title>
-        <id>https://www.youtube.com/watch?v=0PCR1x0vJmo</id>
-        <link href="https://www.youtube.com/watch?v=0PCR1x0vJmo"/>
-        <updated>2023-12-04T22:48:46.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tools for Non Linear Model Predictive Control (MPC)]]></title>
-        <id>https://www.youtube.com/watch?v=b0IHYAizMRE</id>
-        <link href="https://www.youtube.com/watch?v=b0IHYAizMRE"/>
-        <updated>2023-12-04T22:41:35.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cutting Model Translation Time with Pumas-QSP Importers]]></title>
-        <id>https://www.youtube.com/watch?v=bi2hIst9X9w</id>
-        <link href="https://www.youtube.com/watch?v=bi2hIst9X9w"/>
-        <updated>2023-12-04T22:39:53.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hierarchical Bayesian Methods for Efficient Generation of Virtual Populations for QSP]]></title>
-        <id>https://www.youtube.com/watch?v=LjsXcVDktaw</id>
-        <link href="https://www.youtube.com/watch?v=LjsXcVDktaw"/>
-        <updated>2023-12-04T22:39:47.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantitative Systems Pharmacology (QSP) in Julia with Pumas-QSP]]></title>
-        <id>https://www.youtube.com/watch?v=K5cWJg4mh60</id>
-        <link href="https://www.youtube.com/watch?v=K5cWJg4mh60"/>
-        <updated>2023-12-04T22:39:42.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
         </author>
     </entry>
 </feed>
