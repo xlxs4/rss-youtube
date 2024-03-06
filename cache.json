@@ -494,36 +494,6 @@
           "wordCount": null,
           "title": "Seeing with sound",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
-          "publishedOn": "2023-12-07T01:31:43.000Z",
-          "wordCount": null,
-          "title": "The standard explanation of a prism falls short",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P11ykXwx4-k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P11ykXwx4-k",
-          "publishedOn": "2023-12-07T01:11:14.000Z",
-          "wordCount": null,
-          "title": "I'm still astounded this is true",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VFbyGEZLMZw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VFbyGEZLMZw",
-          "publishedOn": "2023-12-07T01:11:14.000Z",
-          "wordCount": null,
-          "title": "Don't let it fool you!",
-          "imageUrl": null
         }
       ]
     },
@@ -566,6 +536,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ot0ayBPZURk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ot0ayBPZURk",
+          "publishedOn": "2024-03-05T14:36:21.000Z",
+          "wordCount": null,
+          "title": "Gravitational collapse of a moose",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tUH86cnk5hM",
           "author": null,
           "description": "",
@@ -592,6 +572,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=waVWBUVFK0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=waVWBUVFK0A",
+          "publishedOn": "2024-03-05T10:00:41.000Z",
+          "wordCount": null,
+          "title": "Two quantum wave packets colliding on a sphere",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CoeEGhALkMU",
           "author": null,
@@ -1590,16 +1580,6 @@
           "publishedOn": "2023-12-08T10:00:32.000Z",
           "wordCount": null,
           "title": "Bloopers 12: Compressing ions and electrons with mass ratio 100",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iYxjmcKEHXQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iYxjmcKEHXQ",
-          "publishedOn": "2023-12-07T10:00:37.000Z",
-          "wordCount": null,
-          "title": "A binary zone plate",
           "imageUrl": null
         }
       ]
@@ -3251,6 +3231,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-PCQzMkVwfA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-PCQzMkVwfA",
+          "publishedOn": "2024-03-05T22:23:35.000Z",
+          "wordCount": null,
+          "title": "Syncing Waves Across Multiplayer Clients in Unreal",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ngnGke2Suug",
           "author": null,
