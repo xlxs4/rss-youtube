@@ -474,26 +474,6 @@
           "wordCount": null,
           "title": "The barber pole effect",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nXIHYB0Gp70",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nXIHYB0Gp70",
-          "publishedOn": "2023-12-08T00:00:22.000Z",
-          "wordCount": null,
-          "title": "Fourier series",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1tLvj_HSjPk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1tLvj_HSjPk",
-          "publishedOn": "2023-12-08T00:00:02.000Z",
-          "wordCount": null,
-          "title": "Seeing with sound",
-          "imageUrl": null
         }
       ]
     },
@@ -572,6 +552,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Xa8EzXexDM0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xa8EzXexDM0",
+          "publishedOn": "2024-03-06T10:00:32.000Z",
+          "wordCount": null,
+          "title": "A Michelson interferometer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=waVWBUVFK0A",
           "author": null,
@@ -1570,16 +1560,6 @@
           "publishedOn": "2023-12-09T10:00:24.000Z",
           "wordCount": null,
           "title": "Linear waves crossing an angled lens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_iD4x6BSRhI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_iD4x6BSRhI",
-          "publishedOn": "2023-12-08T10:00:32.000Z",
-          "wordCount": null,
-          "title": "Bloopers 12: Compressing ions and electrons with mass ratio 100",
           "imageUrl": null
         }
       ]
@@ -2668,106 +2648,6 @@
           "wordCount": null,
           "title": "Machine Learning on Time Series Data with Julia",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W1hXttRmuks",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W1hXttRmuks",
-          "publishedOn": "2023-12-07T19:36:58.000Z",
-          "wordCount": null,
-          "title": "SIMD in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jqBHgix42AI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jqBHgix42AI",
-          "publishedOn": "2023-12-07T19:29:57.000Z",
-          "wordCount": null,
-          "title": "Performance Optimization of GPU Applications in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=djQcM7KiB3M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=djQcM7KiB3M",
-          "publishedOn": "2023-12-07T19:28:51.000Z",
-          "wordCount": null,
-          "title": "JuliaSim: Model Predictive Control (MPC) and Proportional-Integral-Derivative (PID) Control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TPbGUbdaRnI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TPbGUbdaRnI",
-          "publishedOn": "2023-12-07T19:26:10.000Z",
-          "wordCount": null,
-          "title": "Stipple - Building An Interactive App for Data Exploration and Model Explanation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mZN1_1X5Ngg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mZN1_1X5Ngg",
-          "publishedOn": "2023-12-07T19:23:38.000Z",
-          "wordCount": null,
-          "title": "Welcome to JuliaSim: An Introduction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h-iAqqIavhY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h-iAqqIavhY",
-          "publishedOn": "2023-12-07T19:22:33.000Z",
-          "wordCount": null,
-          "title": "Building Digital Twins with JuliaSim",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NO1lm7T_iwM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NO1lm7T_iwM",
-          "publishedOn": "2023-12-07T19:20:57.000Z",
-          "wordCount": null,
-          "title": "Trimming, Linearization, and Model Predictive Control (MPC) Design with JuliaSim",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TkmpICaFDrM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TkmpICaFDrM",
-          "publishedOn": "2023-12-07T19:18:35.000Z",
-          "wordCount": null,
-          "title": "Model Calibration and Parameter Estimation with JuliaSim Model Optimizer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mThqcNAxMrc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mThqcNAxMrc",
-          "publishedOn": "2023-12-07T14:09:00.000Z",
-          "wordCount": null,
-          "title": "Fast and Furious Development with JuilaHub Workflows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7oOrLRk0_0Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7oOrLRk0_0Q",
-          "publishedOn": "2023-12-07T13:42:52.000Z",
-          "wordCount": null,
-          "title": "Using Large Datasets in JuliaHub",
-          "imageUrl": null
         }
       ]
     },
@@ -3143,16 +3023,6 @@
           "wordCount": null,
           "title": "How Jusant Makes Rock-Climbing More Immersive",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n8bqjpq0MIw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n8bqjpq0MIw",
-          "publishedOn": "2023-12-07T19:00:08.000Z",
-          "wordCount": null,
-          "title": "How to polish a video game",
-          "imageUrl": null
         }
       ]
     },
@@ -3231,6 +3101,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EQawNe10ZHQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EQawNe10ZHQ",
+          "publishedOn": "2024-03-06T17:12:42.000Z",
+          "wordCount": null,
+          "title": "Hide the Foreground! Advanced Masking Techniques in Unreal",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-PCQzMkVwfA",
           "author": null,
@@ -3348,6 +3228,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WDlYDzCZhSM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WDlYDzCZhSM",
+          "publishedOn": "2024-03-06T02:00:18.000Z",
+          "wordCount": null,
+          "title": "Does Your Campaign SUCK, or is it Just Your Players?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aujQIR9d3dk",
           "author": null,
