@@ -454,26 +454,6 @@
           "wordCount": null,
           "title": "The chessboard and coins puzzle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h2V3r7oBeMI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h2V3r7oBeMI",
-          "publishedOn": "2023-12-09T00:00:19.000Z",
-          "wordCount": null,
-          "title": "Prime spirals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=31xm81m0iYs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=31xm81m0iYs",
-          "publishedOn": "2023-12-09T00:00:02.000Z",
-          "wordCount": null,
-          "title": "The barber pole effect",
-          "imageUrl": null
         }
       ]
     },
@@ -552,6 +532,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9CroM4KJFJI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9CroM4KJFJI",
+          "publishedOn": "2024-03-07T10:00:04.000Z",
+          "wordCount": null,
+          "title": "A molecular foam made of cooled tripods",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Xa8EzXexDM0",
           "author": null,
@@ -1551,16 +1541,6 @@
           "wordCount": null,
           "title": "Ions in an electric field under temperature cycling (corrupted original)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NieEtvZFHMc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NieEtvZFHMc",
-          "publishedOn": "2023-12-09T10:00:24.000Z",
-          "wordCount": null,
-          "title": "Linear waves crossing an angled lens",
-          "imageUrl": null
         }
       ]
     },
@@ -1626,6 +1606,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=i981tDgvhPg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i981tDgvhPg",
+          "publishedOn": "2024-03-07T15:00:38.000Z",
+          "wordCount": null,
+          "title": "Will Europe Freeze over When the Gulf Stream Stops? #kurzgesagt #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Oj_OwYR9jGQ",
           "author": null,
@@ -1764,16 +1754,6 @@
           "publishedOn": "2023-12-12T15:00:01.000Z",
           "wordCount": null,
           "title": "Your Tattoo is INSIDE Your Immune System. Literally",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HR2C_7G_yRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HR2C_7G_yRQ",
-          "publishedOn": "2023-12-08T15:00:01.000Z",
-          "wordCount": null,
-          "title": "3 Ways to Destroy the Universe",
           "imageUrl": null
         }
       ]
@@ -1987,16 +1967,6 @@
           "publishedOn": "2023-12-22T21:00:07.000Z",
           "wordCount": null,
           "title": "Was the Big Bang the Beginning? Reimagining Time in a Cyclic Universe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pdOgsGBw1t8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pdOgsGBw1t8",
-          "publishedOn": "2023-12-08T21:00:07.000Z",
-          "wordCount": null,
-          "title": "Searching For Cosmic Origins",
           "imageUrl": null
         }
       ]
@@ -2557,96 +2527,6 @@
           "publishedOn": "2024-01-05T16:58:31.000Z",
           "wordCount": null,
           "title": "Automatic tuning of structured controllers using ModelingToolkit and JuliaSimControl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zECOClp_fyQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zECOClp_fyQ",
-          "publishedOn": "2023-12-08T15:55:04.000Z",
-          "wordCount": null,
-          "title": "Deployment of Models and Apps in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_yzYLTYZ4eQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_yzYLTYZ4eQ",
-          "publishedOn": "2023-12-08T15:54:31.000Z",
-          "wordCount": null,
-          "title": "Performance Benchmarking in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cAGnSPo2MnY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cAGnSPo2MnY",
-          "publishedOn": "2023-12-08T15:52:59.000Z",
-          "wordCount": null,
-          "title": "Parallel Computing for Enterprises in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hbvC5C_4Z64",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hbvC5C_4Z64",
-          "publishedOn": "2023-12-08T15:52:11.000Z",
-          "wordCount": null,
-          "title": "Building Production Applications using Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D_VrVq_W-eE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D_VrVq_W-eE",
-          "publishedOn": "2023-12-08T15:44:32.000Z",
-          "wordCount": null,
-          "title": "Machine Learning with Multi-GPU Training",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=04tRFGuDX1E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=04tRFGuDX1E",
-          "publishedOn": "2023-12-08T15:42:04.000Z",
-          "wordCount": null,
-          "title": "Pluto Notebook Support on JuliaHub",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5wQKc66sdTk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5wQKc66sdTk",
-          "publishedOn": "2023-12-08T15:26:13.000Z",
-          "wordCount": null,
-          "title": "GPU Programming In Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J6h6Tj8IluE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J6h6Tj8IluE",
-          "publishedOn": "2023-12-08T15:25:26.000Z",
-          "wordCount": null,
-          "title": "PackageCompiler and Static Compilation in Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YPS9j8Aijeo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YPS9j8Aijeo",
-          "publishedOn": "2023-12-08T15:23:06.000Z",
-          "wordCount": null,
-          "title": "Machine Learning on Time Series Data with Julia",
           "imageUrl": null
         }
       ]

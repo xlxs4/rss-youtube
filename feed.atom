@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-07T00:03:41.950Z</updated>
+    <updated>2024-03-08T00:04:48.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Will Europe Freeze over When the Gulf Stream Stops? #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=i981tDgvhPg</id>
+        <link href="https://www.youtube.com/watch?v=i981tDgvhPg"/>
+        <updated>2024-03-07T15:00:38.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A molecular foam made of cooled tripods]]></title>
+        <id>https://www.youtube.com/watch?v=9CroM4KJFJI</id>
+        <link href="https://www.youtube.com/watch?v=9CroM4KJFJI"/>
+        <updated>2024-03-07T10:00:04.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hide the Foreground! Advanced Masking Techniques in Unreal]]></title>
         <id>https://www.youtube.com/watch?v=EQawNe10ZHQ</id>
@@ -2722,132 +2740,6 @@
         <updated>2023-12-09T17:20:14.000Z</updated>
         <author>
             <name>No Boilerplate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear waves crossing an angled lens]]></title>
-        <id>https://www.youtube.com/watch?v=NieEtvZFHMc</id>
-        <link href="https://www.youtube.com/watch?v=NieEtvZFHMc"/>
-        <updated>2023-12-09T10:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prime spirals]]></title>
-        <id>https://www.youtube.com/watch?v=h2V3r7oBeMI</id>
-        <link href="https://www.youtube.com/watch?v=h2V3r7oBeMI"/>
-        <updated>2023-12-09T00:00:19.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The barber pole effect]]></title>
-        <id>https://www.youtube.com/watch?v=31xm81m0iYs</id>
-        <link href="https://www.youtube.com/watch?v=31xm81m0iYs"/>
-        <updated>2023-12-09T00:00:02.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searching For Cosmic Origins]]></title>
-        <id>https://www.youtube.com/watch?v=pdOgsGBw1t8</id>
-        <link href="https://www.youtube.com/watch?v=pdOgsGBw1t8"/>
-        <updated>2023-12-08T21:00:07.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deployment of Models and Apps in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=zECOClp_fyQ</id>
-        <link href="https://www.youtube.com/watch?v=zECOClp_fyQ"/>
-        <updated>2023-12-08T15:55:04.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance Benchmarking in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=_yzYLTYZ4eQ</id>
-        <link href="https://www.youtube.com/watch?v=_yzYLTYZ4eQ"/>
-        <updated>2023-12-08T15:54:31.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parallel Computing for Enterprises in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=cAGnSPo2MnY</id>
-        <link href="https://www.youtube.com/watch?v=cAGnSPo2MnY"/>
-        <updated>2023-12-08T15:52:59.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Production Applications using Julia]]></title>
-        <id>https://www.youtube.com/watch?v=hbvC5C_4Z64</id>
-        <link href="https://www.youtube.com/watch?v=hbvC5C_4Z64"/>
-        <updated>2023-12-08T15:52:11.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning with Multi-GPU Training]]></title>
-        <id>https://www.youtube.com/watch?v=D_VrVq_W-eE</id>
-        <link href="https://www.youtube.com/watch?v=D_VrVq_W-eE"/>
-        <updated>2023-12-08T15:44:32.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluto Notebook Support on JuliaHub]]></title>
-        <id>https://www.youtube.com/watch?v=04tRFGuDX1E</id>
-        <link href="https://www.youtube.com/watch?v=04tRFGuDX1E"/>
-        <updated>2023-12-08T15:42:04.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU Programming In Julia]]></title>
-        <id>https://www.youtube.com/watch?v=5wQKc66sdTk</id>
-        <link href="https://www.youtube.com/watch?v=5wQKc66sdTk"/>
-        <updated>2023-12-08T15:26:13.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PackageCompiler and Static Compilation in Julia]]></title>
-        <id>https://www.youtube.com/watch?v=J6h6Tj8IluE</id>
-        <link href="https://www.youtube.com/watch?v=J6h6Tj8IluE"/>
-        <updated>2023-12-08T15:25:26.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning on Time Series Data with Julia]]></title>
-        <id>https://www.youtube.com/watch?v=YPS9j8Aijeo</id>
-        <link href="https://www.youtube.com/watch?v=YPS9j8Aijeo"/>
-        <updated>2023-12-08T15:23:06.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways to Destroy the Universe]]></title>
-        <id>https://www.youtube.com/watch?v=HR2C_7G_yRQ</id>
-        <link href="https://www.youtube.com/watch?v=HR2C_7G_yRQ"/>
-        <updated>2023-12-08T15:00:01.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
