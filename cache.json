@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
+          "publishedOn": "2024-03-08T23:14:44.000Z",
+          "wordCount": null,
+          "title": "Why Is This Basic Computer Science Problem So Hard?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KzuM8maf05Y",
           "author": null,
           "description": "",
@@ -434,26 +444,6 @@
           "wordCount": null,
           "title": "The split necklace puzzle (with a surprise topological solution)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yZMw2rOKYwE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yZMw2rOKYwE",
-          "publishedOn": "2023-12-10T00:00:26.000Z",
-          "wordCount": null,
-          "title": "Error correction is incredible",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NQFIU5Exjuo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NQFIU5Exjuo",
-          "publishedOn": "2023-12-10T00:00:10.000Z",
-          "wordCount": null,
-          "title": "The chessboard and coins puzzle",
-          "imageUrl": null
         }
       ]
     },
@@ -532,6 +522,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=J18-1ojilSk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J18-1ojilSk",
+          "publishedOn": "2024-03-08T10:00:13.000Z",
+          "wordCount": null,
+          "title": "Two quantum wave packets colliding on a sphere - 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9CroM4KJFJI",
           "author": null,
@@ -1531,16 +1531,6 @@
           "wordCount": null,
           "title": "Ions in an electric field under temperature cycling (re-upload)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JQq6i-bUWTw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JQq6i-bUWTw",
-          "publishedOn": "2023-12-10T10:00:17.000Z",
-          "wordCount": null,
-          "title": "Ions in an electric field under temperature cycling (corrupted original)",
-          "imageUrl": null
         }
       ]
     },
@@ -1764,6 +1754,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fiX8c-4K0-Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fiX8c-4K0-Q",
+          "publishedOn": "2024-03-08T11:00:39.000Z",
+          "wordCount": null,
+          "title": "AI/ML+Physics Part 3: Designing an Architecture [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=g-S0m2zcKUg",
           "author": null,
           "description": "",
@@ -1873,6 +1873,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bCEQgArn1K0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bCEQgArn1K0",
+          "publishedOn": "2024-03-08T15:14:29.000Z",
+          "wordCount": null,
+          "title": "Climate Futurism | Science and Society",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YjdhEh5mlXc",
           "author": null,
           "description": "",
@@ -1940,6 +1950,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WuaSoTyqrTA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WuaSoTyqrTA",
+          "publishedOn": "2024-03-08T23:00:07.000Z",
+          "wordCount": null,
+          "title": "Beyond Einstein: Part Three - Gravitational Geysers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=srVTqRdsAXg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=srVTqRdsAXg",
+          "publishedOn": "2024-03-08T22:00:07.000Z",
+          "wordCount": null,
+          "title": "Beyond Einstein: Part Two - Gravitational Echoes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=P8pC_yehPH0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P8pC_yehPH0",
+          "publishedOn": "2024-03-08T21:00:06.000Z",
+          "wordCount": null,
+          "title": "Beyond Einstein: Part One - Gravitational Rainbows",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=caepEUi2IZ4",
           "author": null,
           "description": "",
@@ -2005,6 +2045,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3dO77hT3VwM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3dO77hT3VwM",
+          "publishedOn": "2024-03-08T18:27:13.000Z",
+          "wordCount": null,
+          "title": "JuliaHealth Meeting (Americas/Europe/Africa) – February 29th, 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8HOeSQSjSMc",
           "author": null,
@@ -3237,16 +3287,6 @@
           "wordCount": null,
           "title": "The Unreasonable Effectiveness of Linux Workstations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aHL4QZJbSoI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aHL4QZJbSoI",
-          "publishedOn": "2023-12-09T17:20:14.000Z",
-          "wordCount": null,
-          "title": "New Podcast Pilot: The Phosphene Catalogue",
-          "imageUrl": null
         }
       ]
     },
@@ -3302,6 +3342,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC56l7uZA209tlPTVOJiJ8Tw",
       "siteUrl": "https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TAfWea21ooM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TAfWea21ooM",
+          "publishedOn": "2024-03-08T15:48:58.000Z",
+          "wordCount": null,
+          "title": "Rendering 3D Graphics On An Oscilloscope",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1Y91DioUufA",
           "author": null,
