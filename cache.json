@@ -424,26 +424,6 @@
           "wordCount": null,
           "title": "Image blurring",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VS9yOhwtVDY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VS9yOhwtVDY",
-          "publishedOn": "2023-12-11T00:00:18.000Z",
-          "wordCount": null,
-          "title": "These integrals all equal π, until...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cm-zmm0nANo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cm-zmm0nANo",
-          "publishedOn": "2023-12-11T00:00:07.000Z",
-          "wordCount": null,
-          "title": "The split necklace puzzle (with a surprise topological solution)",
-          "imageUrl": null
         }
       ]
     },
@@ -522,6 +502,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0L-FRxhha4c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0L-FRxhha4c",
+          "publishedOn": "2024-03-09T10:00:00.000Z",
+          "wordCount": null,
+          "title": "[Flash warning] A Ritchey-Chrétien telescope",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=J18-1ojilSk",
           "author": null,
@@ -1510,26 +1500,6 @@
           "publishedOn": "2023-12-11T16:36:40.000Z",
           "wordCount": null,
           "title": "Two lenses with a high index of refraction (HD version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bq5kECeQctw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bq5kECeQctw",
-          "publishedOn": "2023-12-11T10:00:32.000Z",
-          "wordCount": null,
-          "title": "Two lenses with a high index of refraction (corrupted 4K version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X72Dko8Q5g0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X72Dko8Q5g0",
-          "publishedOn": "2023-12-10T15:28:53.000Z",
-          "wordCount": null,
-          "title": "Ions in an electric field under temperature cycling (re-upload)",
           "imageUrl": null
         }
       ]
@@ -2631,16 +2601,6 @@
           "wordCount": null,
           "title": "[10x29] How to update to the latest version of Julia",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dMGWkxuX_qU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dMGWkxuX_qU",
-          "publishedOn": "2023-12-10T16:00:59.000Z",
-          "wordCount": null,
-          "title": "[10x28] How to install and use Pluto.jl (reactive notebook programming environment for Julia)",
-          "imageUrl": null
         }
       ]
     },
@@ -2961,6 +2921,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Pw1UokzMQ6k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pw1UokzMQ6k",
+          "publishedOn": "2024-03-09T14:30:08.000Z",
+          "wordCount": null,
+          "title": "Interview with GenZ in Tech",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SLosyUI5puk",
           "author": null,
