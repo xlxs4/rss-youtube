@@ -404,26 +404,6 @@
           "wordCount": null,
           "title": "A short on shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BIbHGfdjc_g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BIbHGfdjc_g",
-          "publishedOn": "2023-12-12T00:00:07.000Z",
-          "wordCount": null,
-          "title": "A pretty way to add weighted dice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4xWpQe3G9qI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4xWpQe3G9qI",
-          "publishedOn": "2023-12-12T00:00:03.000Z",
-          "wordCount": null,
-          "title": "Image blurring",
-          "imageUrl": null
         }
       ]
     },
@@ -466,6 +446,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PpnJUqFhgpw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PpnJUqFhgpw",
+          "publishedOn": "2024-03-10T21:26:42.000Z",
+          "wordCount": null,
+          "title": "Moose dropped on a simple mathematical function (plus annoying bugs)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ot0ayBPZURk",
           "author": null,
           "description": "",
@@ -502,6 +492,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CmFJzQ1WyHY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CmFJzQ1WyHY",
+          "publishedOn": "2024-03-10T23:00:12.000Z",
+          "wordCount": null,
+          "title": "Asymmetric rock-paper-scissors-lizard-Spock equation on the sphere",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PPcPPt8Uxzk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PPcPPt8Uxzk",
+          "publishedOn": "2024-03-10T10:00:30.000Z",
+          "wordCount": null,
+          "title": "Coagulating molecules",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0L-FRxhha4c",
           "author": null,
@@ -1461,46 +1471,6 @@
           "wordCount": null,
           "title": "Linear waves crossing a lens angled at 45 and 60 degrees (corrupted 4K upload)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Gn-yXV_7bW8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Gn-yXV_7bW8",
-          "publishedOn": "2023-12-12T10:00:11.000Z",
-          "wordCount": null,
-          "title": "Ions in an increasing electric field (4K)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0huA_IHWsO8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0huA_IHWsO8",
-          "publishedOn": "2023-12-12T10:00:01.000Z",
-          "wordCount": null,
-          "title": "Ions in an increasing electric field (4K, crf 28)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w_W2UIBWvNo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w_W2UIBWvNo",
-          "publishedOn": "2023-12-11T18:04:54.000Z",
-          "wordCount": null,
-          "title": "Two lenses with a high index of refraction (4K version, compressed re-upload)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Loew19IpmjY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Loew19IpmjY",
-          "publishedOn": "2023-12-11T16:36:40.000Z",
-          "wordCount": null,
-          "title": "Two lenses with a high index of refraction (HD version)",
-          "imageUrl": null
         }
       ]
     },
@@ -1900,16 +1870,6 @@
           "publishedOn": "2024-01-18T19:07:00.000Z",
           "wordCount": null,
           "title": "Gelsey Bell | Pioneer Sessions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0k4AKYAgwwQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0k4AKYAgwwQ",
-          "publishedOn": "2023-12-11T16:24:45.000Z",
-          "wordCount": null,
-          "title": "False Harmonics 11: Battle Trance",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-10T00:05:20.761Z</updated>
+    <updated>2024-03-11T00:04:47.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Asymmetric rock-paper-scissors-lizard-Spock equation on the sphere]]></title>
+        <id>https://www.youtube.com/watch?v=CmFJzQ1WyHY</id>
+        <link href="https://www.youtube.com/watch?v=CmFJzQ1WyHY"/>
+        <updated>2024-03-10T23:00:12.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moose dropped on a simple mathematical function (plus annoying bugs)]]></title>
+        <id>https://www.youtube.com/watch?v=PpnJUqFhgpw</id>
+        <link href="https://www.youtube.com/watch?v=PpnJUqFhgpw"/>
+        <updated>2024-03-10T21:26:42.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coagulating molecules]]></title>
+        <id>https://www.youtube.com/watch?v=PPcPPt8Uxzk</id>
+        <link href="https://www.youtube.com/watch?v=PPcPPt8Uxzk"/>
+        <updated>2024-03-10T10:00:30.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interview with GenZ in Tech]]></title>
         <id>https://www.youtube.com/watch?v=Pw1UokzMQ6k</id>
@@ -2695,69 +2722,6 @@
         <updated>2023-12-12T15:00:01.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ions in an increasing electric field (4K)]]></title>
-        <id>https://www.youtube.com/watch?v=Gn-yXV_7bW8</id>
-        <link href="https://www.youtube.com/watch?v=Gn-yXV_7bW8"/>
-        <updated>2023-12-12T10:00:11.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ions in an increasing electric field (4K, crf 28)]]></title>
-        <id>https://www.youtube.com/watch?v=0huA_IHWsO8</id>
-        <link href="https://www.youtube.com/watch?v=0huA_IHWsO8"/>
-        <updated>2023-12-12T10:00:01.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A pretty way to add weighted dice]]></title>
-        <id>https://www.youtube.com/watch?v=BIbHGfdjc_g</id>
-        <link href="https://www.youtube.com/watch?v=BIbHGfdjc_g"/>
-        <updated>2023-12-12T00:00:07.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image blurring]]></title>
-        <id>https://www.youtube.com/watch?v=4xWpQe3G9qI</id>
-        <link href="https://www.youtube.com/watch?v=4xWpQe3G9qI"/>
-        <updated>2023-12-12T00:00:03.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two lenses with a high index of refraction (4K version, compressed re-upload)]]></title>
-        <id>https://www.youtube.com/watch?v=w_W2UIBWvNo</id>
-        <link href="https://www.youtube.com/watch?v=w_W2UIBWvNo"/>
-        <updated>2023-12-11T18:04:54.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two lenses with a high index of refraction (HD version)]]></title>
-        <id>https://www.youtube.com/watch?v=Loew19IpmjY</id>
-        <link href="https://www.youtube.com/watch?v=Loew19IpmjY"/>
-        <updated>2023-12-11T16:36:40.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[False Harmonics 11: Battle Trance]]></title>
-        <id>https://www.youtube.com/watch?v=0k4AKYAgwwQ</id>
-        <link href="https://www.youtube.com/watch?v=0k4AKYAgwwQ"/>
-        <updated>2023-12-11T16:24:45.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
