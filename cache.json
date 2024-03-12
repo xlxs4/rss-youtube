@@ -394,16 +394,6 @@
           "wordCount": null,
           "title": "The surface area of a sphere",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TaopSi3Ucfc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TaopSi3Ucfc",
-          "publishedOn": "2023-12-13T00:00:09.000Z",
-          "wordCount": null,
-          "title": "A short on shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -1451,26 +1441,6 @@
           "wordCount": null,
           "title": "Changing the anion/cation proportion in a mixture (4K)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-2bT4xOgAXY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-2bT4xOgAXY",
-          "publishedOn": "2023-12-13T10:14:40.000Z",
-          "wordCount": null,
-          "title": "Linear waves crossing a lens angled at 45 and 60 degrees (4K, crf 28)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5XCN639am4E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5XCN639am4E",
-          "publishedOn": "2023-12-13T10:00:03.000Z",
-          "wordCount": null,
-          "title": "Linear waves crossing a lens angled at 45 and 60 degrees (corrupted 4K upload)",
-          "imageUrl": null
         }
       ]
     },
@@ -1674,16 +1644,6 @@
           "publishedOn": "2023-12-17T15:00:53.000Z",
           "wordCount": null,
           "title": "From The SMALLEST To The LARGEST - The Ultimate Size Comparison",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nGggU-Cxhv0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nGggU-Cxhv0",
-          "publishedOn": "2023-12-12T15:00:01.000Z",
-          "wordCount": null,
-          "title": "Your Tattoo is INSIDE Your Immune System. Literally",
           "imageUrl": null
         }
       ]
@@ -2835,6 +2795,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UlzgvZqig40",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UlzgvZqig40",
+          "publishedOn": "2024-03-11T14:32:32.000Z",
+          "wordCount": null,
+          "title": "I just changed my entire game",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=71MzN_vYEgo",
           "author": null,
           "description": "",
@@ -3069,16 +3039,6 @@
           "publishedOn": "2023-12-17T19:29:36.000Z",
           "wordCount": null,
           "title": "What's a UV Map? Basic Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-6MX6F5XU7U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-6MX6F5XU7U",
-          "publishedOn": "2023-12-12T18:45:01.000Z",
-          "wordCount": null,
-          "title": "The Invincible Editing Techniques",
           "imageUrl": null
         }
       ]
