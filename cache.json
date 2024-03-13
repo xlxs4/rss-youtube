@@ -384,16 +384,6 @@
           "wordCount": null,
           "title": "Order from chaos",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JHuxMHPATtg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JHuxMHPATtg",
-          "publishedOn": "2023-12-14T00:00:12.000Z",
-          "wordCount": null,
-          "title": "The surface area of a sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -482,6 +472,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PgGL74Dk6Xc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PgGL74Dk6Xc",
+          "publishedOn": "2024-03-12T10:00:16.000Z",
+          "wordCount": null,
+          "title": "Energy flow through a Sierpinski carpet, in 3D - log scale",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CmFJzQ1WyHY",
           "author": null,
@@ -1420,26 +1420,6 @@
           "publishedOn": "2023-12-15T10:00:01.000Z",
           "wordCount": null,
           "title": "A biconcave lens (4K)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ozG8KNuKq7s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ozG8KNuKq7s",
-          "publishedOn": "2023-12-14T10:15:02.000Z",
-          "wordCount": null,
-          "title": "Changing the anion/cation proportion in a mixture (4K, crf 28)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Aqsv-XnSaNY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Aqsv-XnSaNY",
-          "publishedOn": "2023-12-14T10:00:12.000Z",
-          "wordCount": null,
-          "title": "Changing the anion/cation proportion in a mixture (4K)",
           "imageUrl": null
         }
       ]
@@ -2552,6 +2532,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sRBZ9wSHE3g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sRBZ9wSHE3g",
+          "publishedOn": "2024-03-12T15:00:51.000Z",
+          "wordCount": null,
+          "title": "I'm Happy Hermeus Let Me Upload This",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UyKtxsdI0z8",
           "author": null,
