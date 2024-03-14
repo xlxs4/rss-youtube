@@ -374,16 +374,6 @@
           "wordCount": null,
           "title": "Can you even imagine 2^256?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GOSezO0CHss",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GOSezO0CHss",
-          "publishedOn": "2023-12-15T00:00:13.000Z",
-          "wordCount": null,
-          "title": "Order from chaos",
-          "imageUrl": null
         }
       ]
     },
@@ -425,6 +415,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pjnFsk5b8XM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pjnFsk5b8XM",
+          "publishedOn": "2024-03-13T13:10:37.000Z",
+          "wordCount": null,
+          "title": "Moose dropped on a parabola",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PpnJUqFhgpw",
           "author": null,
@@ -472,6 +472,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rWUYoEb8wPE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rWUYoEb8wPE",
+          "publishedOn": "2024-03-13T10:00:46.000Z",
+          "wordCount": null,
+          "title": "Coagulating molecules, with stronger interaction and cluster coloring",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PgGL74Dk6Xc",
           "author": null,
@@ -1401,26 +1411,6 @@
           "wordCount": null,
           "title": "Crystals or proteins? (4K)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eCBLjG0nmnc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eCBLjG0nmnc",
-          "publishedOn": "2023-12-15T10:15:03.000Z",
-          "wordCount": null,
-          "title": "A biconcave lens (4K, crf 28)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0pQB-ehfh3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0pQB-ehfh3g",
-          "publishedOn": "2023-12-15T10:00:01.000Z",
-          "wordCount": null,
-          "title": "A biconcave lens (4K)",
-          "imageUrl": null
         }
       ]
     },
@@ -1721,16 +1711,6 @@
           "publishedOn": "2023-12-22T18:05:00.000Z",
           "wordCount": null,
           "title": "Arousal as a universal embedding for spatiotemporal brain dynamics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NQkSH_CBPq8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NQkSH_CBPq8",
-          "publishedOn": "2023-12-15T11:00:18.000Z",
-          "wordCount": null,
-          "title": "New Advances in Artificial Intelligence and Machine Learning",
           "imageUrl": null
         }
       ]
@@ -2841,6 +2821,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gh2ZlY7r0VM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gh2ZlY7r0VM",
+          "publishedOn": "2024-03-13T15:45:40.000Z",
+          "wordCount": null,
+          "title": "A Review of the Rabbit R1 & Playdate Design",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Pw1UokzMQ6k",
           "author": null,
