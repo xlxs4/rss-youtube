@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-14T00:04:28.341Z</updated>
+    <updated>2024-03-15T00:04:36.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Slot Machines of War]]></title>
+        <id>https://www.youtube.com/watch?v=5ZsnvofLMm4</id>
+        <link href="https://www.youtube.com/watch?v=5ZsnvofLMm4"/>
+        <updated>2024-03-14T21:33:43.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Can Literally Lend You a Hand #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=8ILQMRr1-8M</id>
+        <link href="https://www.youtube.com/watch?v=8ILQMRr1-8M"/>
+        <updated>2024-03-14T15:00:10.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four quantum wave packets interacting on a sphere]]></title>
+        <id>https://www.youtube.com/watch?v=h89dv5voeX4</id>
+        <link href="https://www.youtube.com/watch?v=h89dv5voeX4"/>
+        <updated>2024-03-14T10:00:36.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Review of the Rabbit R1 & Playdate Design]]></title>
         <id>https://www.youtube.com/watch?v=gh2ZlY7r0VM</id>
@@ -2641,33 +2668,6 @@
         <updated>2023-12-16T15:30:11.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystals or proteins? (4K, crf 28)]]></title>
-        <id>https://www.youtube.com/watch?v=_5AWrR5CK18</id>
-        <link href="https://www.youtube.com/watch?v=_5AWrR5CK18"/>
-        <updated>2023-12-16T11:00:33.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystals or proteins? (4K)]]></title>
-        <id>https://www.youtube.com/watch?v=bXDjUKD8nxo</id>
-        <link href="https://www.youtube.com/watch?v=bXDjUKD8nxo"/>
-        <updated>2023-12-16T10:00:19.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you even imagine 2^256?]]></title>
-        <id>https://www.youtube.com/watch?v=X4jpqCu-wlA</id>
-        <link href="https://www.youtube.com/watch?v=X4jpqCu-wlA"/>
-        <updated>2023-12-16T00:00:24.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>

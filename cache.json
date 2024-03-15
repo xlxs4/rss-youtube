@@ -364,16 +364,6 @@
           "wordCount": null,
           "title": "Infinite Lighthouses and π",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X4jpqCu-wlA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X4jpqCu-wlA",
-          "publishedOn": "2023-12-16T00:00:24.000Z",
-          "wordCount": null,
-          "title": "Can you even imagine 2^256?",
-          "imageUrl": null
         }
       ]
     },
@@ -472,6 +462,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=h89dv5voeX4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h89dv5voeX4",
+          "publishedOn": "2024-03-14T10:00:36.000Z",
+          "wordCount": null,
+          "title": "Four quantum wave packets interacting on a sphere",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rWUYoEb8wPE",
           "author": null,
@@ -1391,26 +1391,6 @@
           "wordCount": null,
           "title": "Combining a biconcave and a convex lens (4K, crf 28)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_5AWrR5CK18",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_5AWrR5CK18",
-          "publishedOn": "2023-12-16T11:00:33.000Z",
-          "wordCount": null,
-          "title": "Crystals or proteins? (4K, crf 28)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bXDjUKD8nxo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bXDjUKD8nxo",
-          "publishedOn": "2023-12-16T10:00:19.000Z",
-          "wordCount": null,
-          "title": "Crystals or proteins? (4K)",
-          "imageUrl": null
         }
       ]
     },
@@ -1476,6 +1456,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8ILQMRr1-8M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8ILQMRr1-8M",
+          "publishedOn": "2024-03-14T15:00:10.000Z",
+          "wordCount": null,
+          "title": "AI Can Literally Lend You a Hand #kurzgesagt #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=i981tDgvhPg",
           "author": null,
@@ -3028,6 +3018,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5ZsnvofLMm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5ZsnvofLMm4",
+          "publishedOn": "2024-03-14T21:33:43.000Z",
+          "wordCount": null,
+          "title": "Slot Machines of War",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WDlYDzCZhSM",
           "author": null,
