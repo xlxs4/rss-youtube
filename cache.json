@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GSFGqfIWm5o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GSFGqfIWm5o",
+          "publishedOn": "2024-03-15T16:14:29.000Z",
+          "wordCount": null,
+          "title": "Solving The Reachability Problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
           "author": null,
           "description": "",
@@ -151,18 +161,7 @@
       "title": "Primer",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
       "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=TZfh8hpJIxo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TZfh8hpJIxo",
-          "publishedOn": "2023-12-16T16:15:03.000Z",
-          "wordCount": null,
-          "title": "Simulating the Evolution of Teamwork",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Reducible",
@@ -462,6 +461,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pO0qGHIGBeI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pO0qGHIGBeI",
+          "publishedOn": "2024-03-15T10:00:47.000Z",
+          "wordCount": null,
+          "title": "A Ritchey-Chrétien telescope with better focus",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=h89dv5voeX4",
           "author": null,
@@ -1381,16 +1390,6 @@
           "wordCount": null,
           "title": "Interacting polar diatomic molecules (4K, crf 28)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N8C_w_cAL1U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N8C_w_cAL1U",
-          "publishedOn": "2023-12-17T10:00:20.000Z",
-          "wordCount": null,
-          "title": "Combining a biconcave and a convex lens (4K, crf 28)",
-          "imageUrl": null
         }
       ]
     },
@@ -1722,6 +1721,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Xcg2iCRv5Kc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xcg2iCRv5Kc",
+          "publishedOn": "2024-03-15T14:07:03.000Z",
+          "wordCount": null,
+          "title": "Pioneer Live: Caterina Barbieri",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=bCEQgArn1K0",
           "author": null,
@@ -2680,16 +2689,6 @@
           "publishedOn": "2023-12-19T21:42:15.000Z",
           "wordCount": null,
           "title": "An Astronaut Chokes on His First Job in Space",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UcBc0l7IrZU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UcBc0l7IrZU",
-          "publishedOn": "2023-12-16T15:30:11.000Z",
-          "wordCount": null,
-          "title": "The Insane Engineering of the Space Shuttle",
           "imageUrl": null
         }
       ]
