@@ -462,6 +462,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vUTYfRWJxzg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vUTYfRWJxzg",
+          "publishedOn": "2024-03-16T10:00:51.000Z",
+          "wordCount": null,
+          "title": "Increasing the force constant for coagulating molecules",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pO0qGHIGBeI",
           "author": null,
           "description": "",
@@ -1380,16 +1390,6 @@
           "wordCount": null,
           "title": "Flooding the Moon (short version)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ne4d6-yZIh0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ne4d6-yZIh0",
-          "publishedOn": "2023-12-18T10:15:03.000Z",
-          "wordCount": null,
-          "title": "Interacting polar diatomic molecules (4K, crf 28)",
-          "imageUrl": null
         }
       ]
     },
@@ -1593,16 +1593,6 @@
           "publishedOn": "2023-12-28T15:00:39.000Z",
           "wordCount": null,
           "title": "Cooking a Chicken in a Particle Accelerator #kurzgesagt #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z_1Q0XB4X0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z_1Q0XB4X0Y",
-          "publishedOn": "2023-12-17T15:00:53.000Z",
-          "wordCount": null,
-          "title": "From The SMALLEST To The LARGEST - The Ultimate Size Comparison",
           "imageUrl": null
         }
       ]
@@ -2450,36 +2440,6 @@
           "wordCount": null,
           "title": "Learn Julia in 4 hours in 4K | Full Course | Julia for Absolute Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fBqrjgjZJIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fBqrjgjZJIU",
-          "publishedOn": "2023-12-17T16:02:00.000Z",
-          "wordCount": null,
-          "title": "[10x31] Graduation! | \"Julia for Absolute Beginners\" series wrap up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QWnhMqEHPyg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QWnhMqEHPyg",
-          "publishedOn": "2023-12-17T16:01:30.000Z",
-          "wordCount": null,
-          "title": "[10x30] Where to find help when using Julia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ohfZl5prqGY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ohfZl5prqGY",
-          "publishedOn": "2023-12-17T16:01:05.000Z",
-          "wordCount": null,
-          "title": "[10x29] How to update to the latest version of Julia",
-          "imageUrl": null
         }
       ]
     },
@@ -2511,6 +2471,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xdnyFG7V79Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xdnyFG7V79Q",
+          "publishedOn": "2024-03-16T15:00:59.000Z",
+          "wordCount": null,
+          "title": "How Ceramic Tank Armor Works",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sRBZ9wSHE3g",
           "author": null,
@@ -2998,16 +2968,6 @@
           "publishedOn": "2023-12-29T16:54:15.000Z",
           "wordCount": null,
           "title": "What the Heck is Composition?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_xM4oOcPafM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_xM4oOcPafM",
-          "publishedOn": "2023-12-17T19:29:36.000Z",
-          "wordCount": null,
-          "title": "What's a UV Map? Basic Tutorial",
           "imageUrl": null
         }
       ]
