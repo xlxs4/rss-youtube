@@ -462,6 +462,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fO9yZjWpFxo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fO9yZjWpFxo",
+          "publishedOn": "2024-03-17T10:00:34.000Z",
+          "wordCount": null,
+          "title": "An incompressible Euler shear flow on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vUTYfRWJxzg",
           "author": null,
           "description": "",
@@ -1380,16 +1390,6 @@
           "wordCount": null,
           "title": "Triatomic molecules under temperature cycling (4K, crf 28)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qQYdSgzz4Is",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qQYdSgzz4Is",
-          "publishedOn": "2023-12-19T10:00:39.000Z",
-          "wordCount": null,
-          "title": "Flooding the Moon (short version)",
-          "imageUrl": null
         }
       ]
     },
@@ -1884,6 +1884,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dUwvbl5x1oI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dUwvbl5x1oI",
+          "publishedOn": "2024-03-17T22:55:50.000Z",
+          "wordCount": null,
+          "title": "ML Community Call | 2024-01-26",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3dO77hT3VwM",
           "author": null,
@@ -2472,6 +2482,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3Ef6BGqgvv4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3Ef6BGqgvv4",
+          "publishedOn": "2024-03-17T15:00:02.000Z",
+          "wordCount": null,
+          "title": "What’s the bulge in tank guns for?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xdnyFG7V79Q",
           "author": null,
           "description": "",
@@ -3045,16 +3065,6 @@
           "publishedOn": "2024-01-09T23:14:46.000Z",
           "wordCount": null,
           "title": "D&D's Buff Furry Angels",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Qu-6uwLcVfM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Qu-6uwLcVfM",
-          "publishedOn": "2023-12-18T21:28:23.000Z",
-          "wordCount": null,
-          "title": "The Most Dangerous Pet in All of DnD",
           "imageUrl": null
         }
       ]
