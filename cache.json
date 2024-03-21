@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "Math - 2023's Biggest Breakthroughs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=580V0wRl1Lo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=580V0wRl1Lo",
-          "publishedOn": "2023-12-21T21:09:51.000Z",
-          "wordCount": null,
-          "title": "2023's Biggest Breakthroughs in Physics",
-          "imageUrl": null
         }
       ]
     },
@@ -421,6 +411,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=o7VxWsa25wQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o7VxWsa25wQ",
+          "publishedOn": "2024-03-20T10:00:42.000Z",
+          "wordCount": null,
+          "title": "An incompressible Euler shear flow on the sphere - 2D representation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uhPHMMaHHYc",
           "author": null,
@@ -1330,16 +1330,6 @@
           "wordCount": null,
           "title": "Side by side comparison of two optical fibers (4K, crf 18)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N6MmrODcBsI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N6MmrODcBsI",
-          "publishedOn": "2023-12-22T10:00:22.000Z",
-          "wordCount": null,
-          "title": "Molecular caterpillars (4K, crf 28)",
-          "imageUrl": null
         }
       ]
     },
@@ -1873,16 +1863,6 @@
           "wordCount": null,
           "title": "JuliaCon Local Eindhoven 2023 Aftermovie",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O-2F8fBuRRg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O-2F8fBuRRg",
-          "publishedOn": "2023-12-21T17:27:33.000Z",
-          "wordCount": null,
-          "title": "Chris Rackauckas - NonlinearSolve.jl : Efficient rootfinding and algebraic equations in Julia",
-          "imageUrl": null
         }
       ]
     },
@@ -2291,6 +2271,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eaFyTIsowqY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eaFyTIsowqY",
+          "publishedOn": "2024-03-20T19:39:26.000Z",
+          "wordCount": null,
+          "title": "SpaceX’s Starship Reached Space. What Now?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ngfGcyS-MTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ngfGcyS-MTM",
+          "publishedOn": "2024-03-20T15:00:47.000Z",
+          "wordCount": null,
+          "title": "The F-16s Gun Sounds Amazing",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WMlZPHRImf0",
           "author": null,
