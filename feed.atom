@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-21T00:04:45.528Z</updated>
+    <updated>2024-03-22T00:04:33.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YOU Own the Moon. And Mars. And Venus. #kurzgesagt #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=cUD8Nt0JDlw</id>
+        <link href="https://www.youtube.com/watch?v=cUD8Nt0JDlw"/>
+        <updated>2024-03-21T15:00:27.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes A Good Sleep Mechanic?]]></title>
+        <id>https://www.youtube.com/watch?v=7Zk4uJCMMTo</id>
+        <link href="https://www.youtube.com/watch?v=7Zk4uJCMMTo"/>
+        <updated>2024-03-21T15:00:06.000Z</updated>
+        <author>
+            <name>Design Doc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D rendering of the average energy in a Ritchey-Chrétien telescope]]></title>
+        <id>https://www.youtube.com/watch?v=778rjfkw0r4</id>
+        <link href="https://www.youtube.com/watch?v=778rjfkw0r4"/>
+        <updated>2024-03-21T10:00:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX’s Starship Reached Space. What Now?]]></title>
         <id>https://www.youtube.com/watch?v=eaFyTIsowqY</id>
@@ -2407,87 +2434,6 @@
         <updated>2023-12-23T17:00:39.000Z</updated>
         <author>
             <name>CodeAesthetic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Side by side comparison of two optical fibers (4K, crf 28)]]></title>
-        <id>https://www.youtube.com/watch?v=_NnnM_5UIjI</id>
-        <link href="https://www.youtube.com/watch?v=_NnnM_5UIjI"/>
-        <updated>2023-12-23T10:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Side by side comparison of two optical fibers (4K, crf 18)]]></title>
-        <id>https://www.youtube.com/watch?v=abgyhV0I4VA</id>
-        <link href="https://www.youtube.com/watch?v=abgyhV0I4VA"/>
-        <updated>2023-12-23T10:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math - 2023's Biggest Breakthroughs]]></title>
-        <id>https://www.youtube.com/watch?v=4HHUGnHcDQw</id>
-        <link href="https://www.youtube.com/watch?v=4HHUGnHcDQw"/>
-        <updated>2023-12-23T01:41:41.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The limit of limiting arguments]]></title>
-        <id>https://www.youtube.com/watch?v=tjIOqIr80ns</id>
-        <link href="https://www.youtube.com/watch?v=tjIOqIr80ns"/>
-        <updated>2023-12-23T00:00:26.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was the Big Bang the Beginning? Reimagining Time in a Cyclic Universe]]></title>
-        <id>https://www.youtube.com/watch?v=MO3w2D3uDTw</id>
-        <link href="https://www.youtube.com/watch?v=MO3w2D3uDTw"/>
-        <updated>2023-12-22T21:00:07.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arousal as a universal embedding for spatiotemporal brain dynamics]]></title>
-        <id>https://www.youtube.com/watch?v=IoCK8d75R9g</id>
-        <link href="https://www.youtube.com/watch?v=IoCK8d75R9g"/>
-        <updated>2023-12-22T18:05:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Compute sin, cos, and e^x Shouldn't Work At All | Smooth vs. Analytic Functions]]></title>
-        <id>https://www.youtube.com/watch?v=0HaBNdmUWXY</id>
-        <link href="https://www.youtube.com/watch?v=0HaBNdmUWXY"/>
-        <updated>2023-12-22T17:58:46.000Z</updated>
-        <author>
-            <name>Morphocular</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Jusant Makes Rock-Climbing More Immersive]]></title>
-        <id>https://www.youtube.com/watch?v=GtYDhcVTNxo</id>
-        <link href="https://www.youtube.com/watch?v=GtYDhcVTNxo"/>
-        <updated>2023-12-22T16:09:09.000Z</updated>
-        <author>
-            <name>Game Maker's Toolkit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Insane Engineering of Orbit]]></title>
-        <id>https://www.youtube.com/watch?v=INIpzE20d3Y</id>
-        <link href="https://www.youtube.com/watch?v=INIpzE20d3Y"/>
-        <updated>2023-12-22T15:00:11.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>

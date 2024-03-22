@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "How to Spot the Math Hiding in Plain Sight",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4HHUGnHcDQw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4HHUGnHcDQw",
-          "publishedOn": "2023-12-23T01:41:41.000Z",
-          "wordCount": null,
-          "title": "Math - 2023's Biggest Breakthroughs",
-          "imageUrl": null
         }
       ]
     },
@@ -303,16 +293,6 @@
           "wordCount": null,
           "title": "How to derive a formula for π",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tjIOqIr80ns",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tjIOqIr80ns",
-          "publishedOn": "2023-12-23T00:00:26.000Z",
-          "wordCount": null,
-          "title": "The limit of limiting arguments",
-          "imageUrl": null
         }
       ]
     },
@@ -411,6 +391,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=778rjfkw0r4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=778rjfkw0r4",
+          "publishedOn": "2024-03-21T10:00:06.000Z",
+          "wordCount": null,
+          "title": "3D rendering of the average energy in a Ritchey-Chrétien telescope",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=o7VxWsa25wQ",
           "author": null,
@@ -1310,26 +1300,6 @@
           "wordCount": null,
           "title": "Let it snow! (short version, 4K, crf 28)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_NnnM_5UIjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_NnnM_5UIjI",
-          "publishedOn": "2023-12-23T10:00:32.000Z",
-          "wordCount": null,
-          "title": "Side by side comparison of two optical fibers (4K, crf 28)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=abgyhV0I4VA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=abgyhV0I4VA",
-          "publishedOn": "2023-12-23T10:00:03.000Z",
-          "wordCount": null,
-          "title": "Side by side comparison of two optical fibers (4K, crf 18)",
-          "imageUrl": null
         }
       ]
     },
@@ -1395,6 +1365,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cUD8Nt0JDlw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cUD8Nt0JDlw",
+          "publishedOn": "2024-03-21T15:00:27.000Z",
+          "wordCount": null,
+          "title": "YOU Own the Moon. And Mars. And Venus. #kurzgesagt #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8ILQMRr1-8M",
           "author": null,
@@ -1621,16 +1601,6 @@
           "wordCount": null,
           "title": "A Machine Learning Primer: How to Build an ML Model",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IoCK8d75R9g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IoCK8d75R9g",
-          "publishedOn": "2023-12-22T18:05:00.000Z",
-          "wordCount": null,
-          "title": "Arousal as a universal embedding for spatiotemporal brain dynamics",
-          "imageUrl": null
         }
       ]
     },
@@ -1776,16 +1746,6 @@
           "publishedOn": "2024-01-05T21:00:07.000Z",
           "wordCount": null,
           "title": "Unifying Nature’s Laws: The State of String Theory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MO3w2D3uDTw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MO3w2D3uDTw",
-          "publishedOn": "2023-12-22T21:00:07.000Z",
-          "wordCount": null,
-          "title": "Was the Big Bang the Beginning? Reimagining Time in a Cyclic Universe",
           "imageUrl": null
         }
       ]
@@ -2490,16 +2450,6 @@
           "wordCount": null,
           "title": "How Nebula Works",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=INIpzE20d3Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=INIpzE20d3Y",
-          "publishedOn": "2023-12-22T15:00:11.000Z",
-          "wordCount": null,
-          "title": "The Insane Engineering of Orbit",
-          "imageUrl": null
         }
       ]
     },
@@ -2531,6 +2481,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNOVwMpD-5A1xzcQGbIHNeA",
       "siteUrl": "https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7Zk4uJCMMTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Zk4uJCMMTo",
+          "publishedOn": "2024-03-21T15:00:06.000Z",
+          "wordCount": null,
+          "title": "What Makes A Good Sleep Mechanic?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=B_pfFVXBvic",
           "author": null,
@@ -2602,16 +2562,6 @@
           "publishedOn": "2024-01-19T17:34:37.000Z",
           "wordCount": null,
           "title": "Super Mario's Invisible Difficulty Settings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GtYDhcVTNxo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GtYDhcVTNxo",
-          "publishedOn": "2023-12-22T16:09:09.000Z",
-          "wordCount": null,
-          "title": "How Jusant Makes Rock-Climbing More Immersive",
           "imageUrl": null
         }
       ]
@@ -2994,18 +2944,7 @@
       "title": "Morphocular",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7Zwf4X_OQ-TEnou0zdyRA",
       "siteUrl": "https://www.youtube.com/channel/UCu7Zwf4X_OQ-TEnou0zdyRA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=0HaBNdmUWXY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0HaBNdmUWXY",
-          "publishedOn": "2023-12-22T17:58:46.000Z",
-          "wordCount": null,
-          "title": "How We Compute sin, cos, and e^x Shouldn't Work At All | Smooth vs. Analytic Functions",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Low Byte Productions",
