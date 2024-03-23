@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-22T00:04:33.921Z</updated>
+    <updated>2024-03-23T00:04:21.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dragon's Dogma 2 is better than its Steam page]]></title>
+        <id>https://www.youtube.com/watch?v=p3jdExUU_nU</id>
+        <link href="https://www.youtube.com/watch?v=p3jdExUU_nU"/>
+        <updated>2024-03-22T17:42:39.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sid Sriram | Pioneer Sessions]]></title>
+        <id>https://www.youtube.com/watch?v=rnLMzALrFXs</id>
+        <link href="https://www.youtube.com/watch?v=rnLMzALrFXs"/>
+        <updated>2024-03-22T12:44:28.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aggregation of "water" molecules]]></title>
+        <id>https://www.youtube.com/watch?v=Cxd49NCUiC4</id>
+        <link href="https://www.youtube.com/watch?v=Cxd49NCUiC4"/>
+        <updated>2024-03-22T10:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI/ML+Physics Part 4: Crafting a Loss Function [Physics Informed Machine Learning]]]></title>
+        <id>https://www.youtube.com/watch?v=3SNkQ8jhKXc</id>
+        <link href="https://www.youtube.com/watch?v=3SNkQ8jhKXc"/>
+        <updated>2024-03-22T10:00:03.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOU Own the Moon. And Mars. And Venus. #kurzgesagt #shorts]]></title>
         <id>https://www.youtube.com/watch?v=cUD8Nt0JDlw</id>
@@ -2398,42 +2434,6 @@
         <updated>2023-12-24T16:01:01.000Z</updated>
         <author>
             <name>doggo dot jl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let it snow! (4K, crf 28)]]></title>
-        <id>https://www.youtube.com/watch?v=1KT5ZJeQSPk</id>
-        <link href="https://www.youtube.com/watch?v=1KT5ZJeQSPk"/>
-        <updated>2023-12-24T10:00:03.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let it snow! (short version, 4K, crf 28)]]></title>
-        <id>https://www.youtube.com/watch?v=mmDpJ2V-tC8</id>
-        <link href="https://www.youtube.com/watch?v=mmDpJ2V-tC8"/>
-        <updated>2023-12-24T09:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unreasonable Effectiveness of Linux Workstations]]></title>
-        <id>https://www.youtube.com/watch?v=bq9O99TgFv4</id>
-        <link href="https://www.youtube.com/watch?v=bq9O99TgFv4"/>
-        <updated>2023-12-23T17:44:46.000Z</updated>
-        <author>
-            <name>No Boilerplate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear Functional Bros]]></title>
-        <id>https://www.youtube.com/watch?v=nuML9SmdbJ4</id>
-        <link href="https://www.youtube.com/watch?v=nuML9SmdbJ4"/>
-        <updated>2023-12-23T17:00:39.000Z</updated>
-        <author>
-            <name>CodeAesthetic</name>
         </author>
     </entry>
 </feed>

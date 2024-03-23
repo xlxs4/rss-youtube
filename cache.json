@@ -392,6 +392,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Cxd49NCUiC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cxd49NCUiC4",
+          "publishedOn": "2024-03-22T10:00:09.000Z",
+          "wordCount": null,
+          "title": "Aggregation of \"water\" molecules",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=778rjfkw0r4",
           "author": null,
           "description": "",
@@ -1280,26 +1290,6 @@
           "wordCount": null,
           "title": "A Christmas wave guide (short version, 4K, crf 28)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1KT5ZJeQSPk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1KT5ZJeQSPk",
-          "publishedOn": "2023-12-24T10:00:03.000Z",
-          "wordCount": null,
-          "title": "Let it snow! (4K, crf 28)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mmDpJ2V-tC8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mmDpJ2V-tC8",
-          "publishedOn": "2023-12-24T09:00:35.000Z",
-          "wordCount": null,
-          "title": "Let it snow! (short version, 4K, crf 28)",
-          "imageUrl": null
         }
       ]
     },
@@ -1523,6 +1513,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3SNkQ8jhKXc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3SNkQ8jhKXc",
+          "publishedOn": "2024-03-22T10:00:03.000Z",
+          "wordCount": null,
+          "title": "AI/ML+Physics Part 4: Crafting a Loss Function [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fiX8c-4K0-Q",
           "author": null,
           "description": "",
@@ -1621,6 +1621,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rnLMzALrFXs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rnLMzALrFXs",
+          "publishedOn": "2024-03-22T12:44:28.000Z",
+          "wordCount": null,
+          "title": "Sid Sriram | Pioneer Sessions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Xcg2iCRv5Kc",
           "author": null,
@@ -1766,18 +1776,7 @@
       "title": "CodeAesthetic",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaSCt8s_4nfkRglWCvNSDrg",
       "siteUrl": "https://www.youtube.com/channel/UCaSCt8s_4nfkRglWCvNSDrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=nuML9SmdbJ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nuML9SmdbJ4",
-          "publishedOn": "2023-12-23T17:00:39.000Z",
-          "wordCount": null,
-          "title": "Dear Functional Bros",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Julia Programming Language",
@@ -2662,6 +2661,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=p3jdExUU_nU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p3jdExUU_nU",
+          "publishedOn": "2024-03-22T17:42:39.000Z",
+          "wordCount": null,
+          "title": "Dragon's Dogma 2 is better than its Steam page",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EQawNe10ZHQ",
           "author": null,
           "description": "",
@@ -2896,16 +2905,6 @@
           "publishedOn": "2024-01-19T15:00:11.000Z",
           "wordCount": null,
           "title": "Rust's Secret Purity System",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bq9O99TgFv4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bq9O99TgFv4",
-          "publishedOn": "2023-12-23T17:44:46.000Z",
-          "wordCount": null,
-          "title": "The Unreasonable Effectiveness of Linux Workstations",
           "imageUrl": null
         }
       ]
