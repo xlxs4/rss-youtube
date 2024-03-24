@@ -392,6 +392,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oOBbNBlOZKE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oOBbNBlOZKE",
+          "publishedOn": "2024-03-23T10:00:40.000Z",
+          "wordCount": null,
+          "title": "A shear flow with 7 layers on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Cxd49NCUiC4",
           "author": null,
           "description": "",
@@ -1269,26 +1279,6 @@
           "publishedOn": "2023-12-26T10:00:24.000Z",
           "wordCount": null,
           "title": "Return of the water molecules",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bldTUhPZFO8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bldTUhPZFO8",
-          "publishedOn": "2023-12-25T10:00:24.000Z",
-          "wordCount": null,
-          "title": "A Christmas wave guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EJMux9197H4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EJMux9197H4",
-          "publishedOn": "2023-12-25T09:00:07.000Z",
-          "wordCount": null,
-          "title": "A Christmas wave guide (short version, 4K, crf 28)",
           "imageUrl": null
         }
       ]
@@ -2189,18 +2179,7 @@
       "title": "doggo dot jl",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwQVlIkbalDzmMnr-0tRhw",
       "siteUrl": "https://www.youtube.com/channel/UCQwQVlIkbalDzmMnr-0tRhw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=KlorfxsdWDw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KlorfxsdWDw",
-          "publishedOn": "2023-12-24T16:01:01.000Z",
-          "wordCount": null,
-          "title": "Learn Julia in 4 hours in 4K | Full Course | Julia for Absolute Beginners",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "braintruffle",
@@ -2570,6 +2549,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jHVn2AP8QWo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jHVn2AP8QWo",
+          "publishedOn": "2024-03-23T16:10:53.000Z",
+          "wordCount": null,
+          "title": "Steve Jobs' Wet Dream",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gh2ZlY7r0VM",
           "author": null,
@@ -2988,16 +2977,6 @@
           "publishedOn": "2023-12-30T06:37:14.000Z",
           "wordCount": null,
           "title": "Bare Metal Bit Banging: WS2812B Driver",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ieCA4NWk-Do",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ieCA4NWk-Do",
-          "publishedOn": "2023-12-24T17:17:36.000Z",
-          "wordCount": null,
-          "title": "Spinning Persistence of Vision",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-23T00:04:21.349Z</updated>
+    <updated>2024-03-24T00:05:39.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steve Jobs' Wet Dream]]></title>
+        <id>https://www.youtube.com/watch?v=jHVn2AP8QWo</id>
+        <link href="https://www.youtube.com/watch?v=jHVn2AP8QWo"/>
+        <updated>2024-03-23T16:10:53.000Z</updated>
+        <author>
+            <name>Programmers are also human</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A shear flow with 7 layers on the sphere]]></title>
+        <id>https://www.youtube.com/watch?v=oOBbNBlOZKE</id>
+        <link href="https://www.youtube.com/watch?v=oOBbNBlOZKE"/>
+        <updated>2024-03-23T10:00:40.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragon's Dogma 2 is better than its Steam page]]></title>
         <id>https://www.youtube.com/watch?v=p3jdExUU_nU</id>
@@ -2398,42 +2416,6 @@
         <updated>2023-12-25T19:00:15.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Christmas wave guide]]></title>
-        <id>https://www.youtube.com/watch?v=bldTUhPZFO8</id>
-        <link href="https://www.youtube.com/watch?v=bldTUhPZFO8"/>
-        <updated>2023-12-25T10:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Christmas wave guide (short version, 4K, crf 28)]]></title>
-        <id>https://www.youtube.com/watch?v=EJMux9197H4</id>
-        <link href="https://www.youtube.com/watch?v=EJMux9197H4"/>
-        <updated>2023-12-25T09:00:07.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spinning Persistence of Vision]]></title>
-        <id>https://www.youtube.com/watch?v=ieCA4NWk-Do</id>
-        <link href="https://www.youtube.com/watch?v=ieCA4NWk-Do"/>
-        <updated>2023-12-24T17:17:36.000Z</updated>
-        <author>
-            <name>Low Byte Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Julia in 4 hours in 4K | Full Course | Julia for Absolute Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=KlorfxsdWDw</id>
-        <link href="https://www.youtube.com/watch?v=KlorfxsdWDw"/>
-        <updated>2023-12-24T16:01:01.000Z</updated>
-        <author>
-            <name>doggo dot jl</name>
         </author>
     </entry>
 </feed>
