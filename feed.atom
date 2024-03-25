@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-24T00:05:39.146Z</updated>
+    <updated>2024-03-25T00:05:07.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Structuring Travel in RPGs]]></title>
+        <id>https://www.youtube.com/watch?v=x2GdkrKVYOo</id>
+        <link href="https://www.youtube.com/watch?v=x2GdkrKVYOo"/>
+        <updated>2024-03-24T18:31:43.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A planar wave arriving at an angle in a Ritchey-Chrétien telescope]]></title>
+        <id>https://www.youtube.com/watch?v=z8lOkYdo9JQ</id>
+        <link href="https://www.youtube.com/watch?v=z8lOkYdo9JQ"/>
+        <updated>2024-03-24T10:00:44.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collimator 2.0 and Quanser!!!]]></title>
+        <id>https://www.youtube.com/watch?v=UtBP5po_k4A</id>
+        <link href="https://www.youtube.com/watch?v=UtBP5po_k4A"/>
+        <updated>2024-03-24T00:15:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steve Jobs' Wet Dream]]></title>
         <id>https://www.youtube.com/watch?v=jHVn2AP8QWo</id>
@@ -2398,24 +2425,6 @@
         <updated>2023-12-27T10:00:28.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return of the water molecules]]></title>
-        <id>https://www.youtube.com/watch?v=ePlrrtZK7UA</id>
-        <link href="https://www.youtube.com/watch?v=ePlrrtZK7UA"/>
-        <updated>2023-12-26T10:00:24.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to derive a formula for π]]></title>
-        <id>https://www.youtube.com/watch?v=R1e7aHBKLnM</id>
-        <link href="https://www.youtube.com/watch?v=R1e7aHBKLnM"/>
-        <updated>2023-12-25T19:00:15.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>

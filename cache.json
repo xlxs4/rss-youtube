@@ -283,16 +283,6 @@
           "wordCount": null,
           "title": "What is a group?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=R1e7aHBKLnM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=R1e7aHBKLnM",
-          "publishedOn": "2023-12-25T19:00:15.000Z",
-          "wordCount": null,
-          "title": "How to derive a formula for π",
-          "imageUrl": null
         }
       ]
     },
@@ -391,6 +381,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=z8lOkYdo9JQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z8lOkYdo9JQ",
+          "publishedOn": "2024-03-24T10:00:44.000Z",
+          "wordCount": null,
+          "title": "A planar wave arriving at an angle in a Ritchey-Chrétien telescope",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oOBbNBlOZKE",
           "author": null,
@@ -1270,16 +1270,6 @@
           "wordCount": null,
           "title": "What if 14 active volcanoes erupted at the same time?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ePlrrtZK7UA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ePlrrtZK7UA",
-          "publishedOn": "2023-12-26T10:00:24.000Z",
-          "wordCount": null,
-          "title": "Return of the water molecules",
-          "imageUrl": null
         }
       ]
     },
@@ -1502,6 +1492,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UtBP5po_k4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UtBP5po_k4A",
+          "publishedOn": "2024-03-24T00:15:00.000Z",
+          "wordCount": null,
+          "title": "Collimator 2.0 and Quanser!!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3SNkQ8jhKXc",
           "author": null,
@@ -2649,6 +2649,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=x2GdkrKVYOo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x2GdkrKVYOo",
+          "publishedOn": "2024-03-24T18:31:43.000Z",
+          "wordCount": null,
+          "title": "Structuring Travel in RPGs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=p3jdExUU_nU",
           "author": null,
