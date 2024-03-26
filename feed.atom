@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-25T00:05:07.104Z</updated>
+    <updated>2024-03-26T00:04:38.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Battery Quality: Strategies for Battery Defect Mitigation using JuliaSim]]></title>
+        <id>https://www.youtube.com/watch?v=E8cWXX5UONM</id>
+        <link href="https://www.youtube.com/watch?v=E8cWXX5UONM"/>
+        <updated>2024-03-25T12:38:23.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Data-Centric Web Applications in Julia with Genie Builder]]></title>
+        <id>https://www.youtube.com/watch?v=4ypKzNagGXk</id>
+        <link href="https://www.youtube.com/watch?v=4ypKzNagGXk"/>
+        <updated>2024-03-25T12:35:32.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next-Gen Battery Simulation: Solving 1,000 Cell Electrochemical Battery Packs with JuliaSim]]></title>
+        <id>https://www.youtube.com/watch?v=tqeT23u5Vyg</id>
+        <link href="https://www.youtube.com/watch?v=tqeT23u5Vyg"/>
+        <updated>2024-03-25T12:35:29.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semgrep and Julia]]></title>
+        <id>https://www.youtube.com/watch?v=RhYJ51jcf8Y</id>
+        <link href="https://www.youtube.com/watch?v=RhYJ51jcf8Y"/>
+        <updated>2024-03-25T12:35:27.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to form a foam by aggregating "quadripod" molecules]]></title>
+        <id>https://www.youtube.com/watch?v=tKSRm8IVF6c</id>
+        <link href="https://www.youtube.com/watch?v=tKSRm8IVF6c"/>
+        <updated>2024-03-25T10:00:45.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dragon's Dogma 2 Clip]]></title>
+        <id>https://www.youtube.com/watch?v=dSfQiZ4x0I8</id>
+        <link href="https://www.youtube.com/watch?v=dSfQiZ4x0I8"/>
+        <updated>2024-03-25T03:05:03.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Structuring Travel in RPGs]]></title>
         <id>https://www.youtube.com/watch?v=x2GdkrKVYOo</id>
@@ -2416,15 +2470,6 @@
         <updated>2023-12-27T19:00:01.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if 14 active volcanoes erupted at the same time?]]></title>
-        <id>https://www.youtube.com/watch?v=nBIrj_ORdKk</id>
-        <link href="https://www.youtube.com/watch?v=nBIrj_ORdKk"/>
-        <updated>2023-12-27T10:00:28.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
 </feed>

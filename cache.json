@@ -382,6 +382,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tKSRm8IVF6c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tKSRm8IVF6c",
+          "publishedOn": "2024-03-25T10:00:45.000Z",
+          "wordCount": null,
+          "title": "Trying to form a foam by aggregating \"quadripod\" molecules",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=z8lOkYdo9JQ",
           "author": null,
           "description": "",
@@ -1260,16 +1270,6 @@
           "wordCount": null,
           "title": "Terminal Frost: Trying to grow some snowflakes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nBIrj_ORdKk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nBIrj_ORdKk",
-          "publishedOn": "2023-12-27T10:00:28.000Z",
-          "wordCount": null,
-          "title": "What if 14 active volcanoes erupted at the same time?",
-          "imageUrl": null
         }
       ]
     },
@@ -1857,6 +1857,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=E8cWXX5UONM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E8cWXX5UONM",
+          "publishedOn": "2024-03-25T12:38:23.000Z",
+          "wordCount": null,
+          "title": "Revolutionizing Battery Quality: Strategies for Battery Defect Mitigation using JuliaSim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4ypKzNagGXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4ypKzNagGXk",
+          "publishedOn": "2024-03-25T12:35:32.000Z",
+          "wordCount": null,
+          "title": "Build Data-Centric Web Applications in Julia with Genie Builder",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tqeT23u5Vyg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tqeT23u5Vyg",
+          "publishedOn": "2024-03-25T12:35:29.000Z",
+          "wordCount": null,
+          "title": "Next-Gen Battery Simulation: Solving 1,000 Cell Electrochemical Battery Packs with JuliaSim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RhYJ51jcf8Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RhYJ51jcf8Y",
+          "publishedOn": "2024-03-25T12:35:27.000Z",
+          "wordCount": null,
+          "title": "Semgrep and Julia",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zTLKenphuJs",
           "author": null,
@@ -2649,6 +2689,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dSfQiZ4x0I8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dSfQiZ4x0I8",
+          "publishedOn": "2024-03-25T03:05:03.000Z",
+          "wordCount": null,
+          "title": "Dragon's Dogma 2 Clip",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=x2GdkrKVYOo",
           "author": null,
