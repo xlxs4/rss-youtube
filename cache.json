@@ -273,16 +273,6 @@
           "wordCount": null,
           "title": "The Newton art puzzle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3KbiJ-z0j44",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3KbiJ-z0j44",
-          "publishedOn": "2023-12-27T19:00:01.000Z",
-          "wordCount": null,
-          "title": "What is a group?",
-          "imageUrl": null
         }
       ]
     },
@@ -381,6 +371,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3_wK2pOM-5g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3_wK2pOM-5g",
+          "publishedOn": "2024-03-26T10:00:06.000Z",
+          "wordCount": null,
+          "title": "A shear flow on the sphere",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tKSRm8IVF6c",
           "author": null,
@@ -1260,16 +1260,6 @@
           "wordCount": null,
           "title": "Evanescent coupling of two optical fibers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HL1FWgLEDdw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HL1FWgLEDdw",
-          "publishedOn": "2023-12-28T10:00:12.000Z",
-          "wordCount": null,
-          "title": "Terminal Frost: Trying to grow some snowflakes",
-          "imageUrl": null
         }
       ]
     },
@@ -1335,6 +1325,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pjoQdz0nxf4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pjoQdz0nxf4",
+          "publishedOn": "2024-03-26T14:59:10.000Z",
+          "wordCount": null,
+          "title": "How The Dinosaurs Actually Died",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cUD8Nt0JDlw",
           "author": null,
@@ -1857,6 +1857,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BX-3lH630CE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BX-3lH630CE",
+          "publishedOn": "2024-03-26T19:47:41.000Z",
+          "wordCount": null,
+          "title": "Introduction to JuliaSim Batteries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u6PXN4nNtm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u6PXN4nNtm4",
+          "publishedOn": "2024-03-26T18:43:35.000Z",
+          "wordCount": null,
+          "title": "Mastering Interactive Dash Apps with Dash.jl: A Flight Traffic Visualization Journey on JuliaHub",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=E8cWXX5UONM",
           "author": null,
@@ -2826,6 +2846,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Dy_eJV_e_jY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dy_eJV_e_jY",
+          "publishedOn": "2024-03-26T17:57:52.000Z",
+          "wordCount": null,
+          "title": "World, Lion and Dragon Turtles Are Awesome",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5ZsnvofLMm4",
           "author": null,
