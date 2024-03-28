@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-27T00:04:28.289Z</updated>
+    <updated>2024-03-28T00:05:01.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Cryptography With These Five Worlds]]></title>
+        <id>https://www.youtube.com/watch?v=RjzSFa03i2U</id>
+        <link href="https://www.youtube.com/watch?v=RjzSFa03i2U"/>
+        <updated>2024-03-27T14:52:03.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Flash warning] A gradient index lens]]></title>
+        <id>https://www.youtube.com/watch?v=CdpTq3dSrXA</id>
+        <link href="https://www.youtube.com/watch?v=CdpTq3dSrXA"/>
+        <updated>2024-03-27T10:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to JuliaSim Batteries]]></title>
         <id>https://www.youtube.com/watch?v=BX-3lH630CE</id>
@@ -2470,33 +2488,6 @@
         <updated>2023-12-29T16:54:15.000Z</updated>
         <author>
             <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evanescent coupling of two optical fibers]]></title>
-        <id>https://www.youtube.com/watch?v=4O-1CJx4s4w</id>
-        <link href="https://www.youtube.com/watch?v=4O-1CJx4s4w"/>
-        <updated>2023-12-29T10:00:06.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Nebula Works]]></title>
-        <id>https://www.youtube.com/watch?v=0K1pITq4mSk</id>
-        <link href="https://www.youtube.com/watch?v=0K1pITq4mSk"/>
-        <updated>2023-12-28T15:01:22.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooking a Chicken in a Particle Accelerator #kurzgesagt #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=qP65siuTLFc</id>
-        <link href="https://www.youtube.com/watch?v=qP65siuTLFc"/>
-        <updated>2023-12-28T15:00:39.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
