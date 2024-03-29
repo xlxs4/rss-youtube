@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-03-28T00:05:01.684Z</updated>
+    <updated>2024-03-29T00:04:52.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aggregating pentagonal and triangular molecules in an electric field]]></title>
+        <id>https://www.youtube.com/watch?v=ZFdOdh-8mkY</id>
+        <link href="https://www.youtube.com/watch?v=ZFdOdh-8mkY"/>
+        <updated>2024-03-28T10:00:35.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Cryptography With These Five Worlds]]></title>
         <id>https://www.youtube.com/watch?v=RjzSFa03i2U</id>
@@ -2443,51 +2452,6 @@
         <updated>2023-12-30T21:15:02.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trying to grow some snowflakes with periodic boundary conditions]]></title>
-        <id>https://www.youtube.com/watch?v=dvp6Xx96Zeg</id>
-        <link href="https://www.youtube.com/watch?v=dvp6Xx96Zeg"/>
-        <updated>2023-12-30T10:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bare Metal Bit Banging: WS2812B Driver]]></title>
-        <id>https://www.youtube.com/watch?v=KUklOA91nk0</id>
-        <link href="https://www.youtube.com/watch?v=KUklOA91nk0"/>
-        <updated>2023-12-30T06:37:14.000Z</updated>
-        <author>
-            <name>Low Byte Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Newton art puzzle]]></title>
-        <id>https://www.youtube.com/watch?v=kpG7I2MOcnI</id>
-        <link href="https://www.youtube.com/watch?v=kpG7I2MOcnI"/>
-        <updated>2023-12-29T19:00:32.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Machine Learning Primer: How to Build an ML Model]]></title>
-        <id>https://www.youtube.com/watch?v=Vx2DpMgplEM</id>
-        <link href="https://www.youtube.com/watch?v=Vx2DpMgplEM"/>
-        <updated>2023-12-29T17:50:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Heck is Composition?]]></title>
-        <id>https://www.youtube.com/watch?v=vF8yxxR7be0</id>
-        <link href="https://www.youtube.com/watch?v=vF8yxxR7be0"/>
-        <updated>2023-12-29T16:54:15.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
         </author>
     </entry>
 </feed>
