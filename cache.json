@@ -372,6 +372,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=igIhR6Tbba4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=igIhR6Tbba4",
+          "publishedOn": "2024-03-29T10:00:40.000Z",
+          "wordCount": null,
+          "title": "Eight interacting vortices on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZFdOdh-8mkY",
           "author": null,
           "description": "",
@@ -1250,16 +1260,6 @@
           "wordCount": null,
           "title": "Sending a message through an optical fiber",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XEikKI5sK5A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XEikKI5sK5A",
-          "publishedOn": "2023-12-31T10:00:18.000Z",
-          "wordCount": null,
-          "title": "Compressing molecular caterpillars",
-          "imageUrl": null
         }
       ]
     },
@@ -1561,16 +1561,6 @@
           "wordCount": null,
           "title": "A Neural Network Primer",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wvODQqb3D_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wvODQqb3D_8",
-          "publishedOn": "2023-12-30T21:15:02.000Z",
-          "wordCount": null,
-          "title": "Supervised & Unsupervised Machine Learning",
-          "imageUrl": null
         }
       ]
     },
@@ -1591,6 +1581,86 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nsp7i2Sr1ZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nsp7i2Sr1ZA",
+          "publishedOn": "2024-03-29T14:55:37.000Z",
+          "wordCount": null,
+          "title": "Jonathan Nolan and Janna Levin on Interstellar’s Prescience on Black Holes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=B4u74DxRqac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B4u74DxRqac",
+          "publishedOn": "2024-03-29T14:55:33.000Z",
+          "wordCount": null,
+          "title": "Jonathan Nolan on Panopticons, Control and Surveillance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6EbR7bRTgsw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6EbR7bRTgsw",
+          "publishedOn": "2024-03-29T14:55:28.000Z",
+          "wordCount": null,
+          "title": "Jonathan Nolan and Janna Levin on Turing’s Principle: “If You Can’t Tell, Does It Matter?”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FZWh8mroFbw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FZWh8mroFbw",
+          "publishedOn": "2024-03-29T14:55:22.000Z",
+          "wordCount": null,
+          "title": "Jonathan Nolan on Westworld, AI, and the Suspect Qualities of the Self",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ni7a-_esOD4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ni7a-_esOD4",
+          "publishedOn": "2024-03-29T14:55:18.000Z",
+          "wordCount": null,
+          "title": "Jonathan Nolan on the Disease of Tribalism in Hollywood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=G6DhMK6cfCk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G6DhMK6cfCk",
+          "publishedOn": "2024-03-29T14:55:10.000Z",
+          "wordCount": null,
+          "title": "Jonathan Nolan on What’s Really Behind Generational Ire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=agUQ3D3ej34",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=agUQ3D3ej34",
+          "publishedOn": "2024-03-29T14:55:07.000Z",
+          "wordCount": null,
+          "title": "Jonathan Nolan and Janna Levin on What It’s Like to Fall into a Black Hole",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oS0MhG98jE4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oS0MhG98jE4",
+          "publishedOn": "2024-03-29T14:35:56.000Z",
+          "wordCount": null,
+          "title": "Science vs. Fiction: Jonathan Nolan on the Promise and Perils of AI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rnLMzALrFXs",
           "author": null,
@@ -2213,7 +2283,18 @@
       "title": "NanoRooms",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbHJVeS0ZIco7FTTqhvDg6g",
       "siteUrl": "https://www.youtube.com/channel/UCbHJVeS0ZIco7FTTqhvDg6g",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ncC-GMzF9RY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ncC-GMzF9RY",
+          "publishedOn": "2024-03-29T01:12:58.000Z",
+          "wordCount": null,
+          "title": "Bringing Biology’s Molecules to Life Using Physics",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "doggo dot jl",
@@ -2662,6 +2743,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwBhBDsqiQflTMLy2epbQVw",
       "siteUrl": "https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Xd5PLYl4Q5Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xd5PLYl4Q5Q",
+          "publishedOn": "2024-03-29T15:00:17.000Z",
+          "wordCount": null,
+          "title": "AI Building Stuff in Minecraft",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NTHWMk5pcYs",
           "author": null,
