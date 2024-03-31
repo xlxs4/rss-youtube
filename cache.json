@@ -290,16 +290,6 @@
           "wordCount": null,
           "title": "Visualising trace of a matrix | Lie groups, algebras, brackets #5",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9CBS5CAynBE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9CBS5CAynBE",
-          "publishedOn": "2023-12-31T21:31:36.000Z",
-          "wordCount": null,
-          "title": "Can we exponentiate vectors? d/dx? Vector fields? What is exp?",
-          "imageUrl": null
         }
       ]
     },
@@ -371,6 +361,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vmw2tzS5xt8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vmw2tzS5xt8",
+          "publishedOn": "2024-03-30T10:00:44.000Z",
+          "wordCount": null,
+          "title": "Two planar waves interfering in a Ritchey-Chrétien telescope",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=igIhR6Tbba4",
           "author": null,
@@ -1249,16 +1249,6 @@
           "publishedOn": "2024-01-02T10:00:15.000Z",
           "wordCount": null,
           "title": "Water molecules in an increasing electric field",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nxhrIs7TGOc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nxhrIs7TGOc",
-          "publishedOn": "2024-01-01T10:00:26.000Z",
-          "wordCount": null,
-          "title": "Sending a message through an optical fiber",
           "imageUrl": null
         }
       ]
@@ -2330,6 +2320,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BKm45Az02YE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BKm45Az02YE",
+          "publishedOn": "2024-03-30T14:00:09.000Z",
+          "wordCount": null,
+          "title": "The Insane Engineering of the Gameboy",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eaFyTIsowqY",
           "author": null,
