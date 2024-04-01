@@ -263,16 +263,6 @@
           "wordCount": null,
           "title": "A beautiful international math olympiad problem",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BTryyW7gqg4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BTryyW7gqg4",
-          "publishedOn": "2024-01-02T00:00:09.000Z",
-          "wordCount": null,
-          "title": "Definition of a \"bit\", in information theory",
-          "imageUrl": null
         }
       ]
     },
@@ -289,6 +279,16 @@
           "publishedOn": "2024-01-07T15:00:08.000Z",
           "wordCount": null,
           "title": "Visualising trace of a matrix | Lie groups, algebras, brackets #5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9CBS5CAynBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9CBS5CAynBE",
+          "publishedOn": "2024-01-02T15:00:09.000Z",
+          "wordCount": null,
+          "title": "Can we exponentiate d/dx? Vector (fields)? What is exp? | Lie groups, algebras, brackets #4",
           "imageUrl": null
         }
       ]
@@ -361,6 +361,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OTw5y7waxFQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OTw5y7waxFQ",
+          "publishedOn": "2024-03-31T09:00:28.000Z",
+          "wordCount": null,
+          "title": "Do aggregating pentagons form a quasicrystal?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vmw2tzS5xt8",
           "author": null,
@@ -1240,16 +1250,6 @@
           "wordCount": null,
           "title": "A simplistic model for tides - instantaneous forcing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UlSnnMhrfgw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UlSnnMhrfgw",
-          "publishedOn": "2024-01-02T10:00:15.000Z",
-          "wordCount": null,
-          "title": "Water molecules in an increasing electric field",
-          "imageUrl": null
         }
       ]
     },
@@ -1472,6 +1472,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oz6hIcWmAWU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oz6hIcWmAWU",
+          "publishedOn": "2024-03-31T12:00:41.000Z",
+          "wordCount": null,
+          "title": "The Future of Model Based Engineering: Collimator 2.0",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UtBP5po_k4A",
           "author": null,
