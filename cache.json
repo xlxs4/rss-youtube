@@ -145,6 +145,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+          "publishedOn": "2024-04-01T19:13:57.000Z",
+          "wordCount": null,
+          "title": "But what is a GPT?  Visual intro to Transformers | Deep learning, chapter 5",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=81QNyDnYtg0",
           "author": null,
           "description": "",
@@ -253,16 +263,6 @@
           "wordCount": null,
           "title": "Why do we call them \"scalars\"?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=teYL0Er4c3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=teYL0Er4c3g",
-          "publishedOn": "2024-01-03T07:00:30.000Z",
-          "wordCount": null,
-          "title": "A beautiful international math olympiad problem",
-          "imageUrl": null
         }
       ]
     },
@@ -279,16 +279,6 @@
           "publishedOn": "2024-01-07T15:00:08.000Z",
           "wordCount": null,
           "title": "Visualising trace of a matrix | Lie groups, algebras, brackets #5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9CBS5CAynBE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9CBS5CAynBE",
-          "publishedOn": "2024-01-02T15:00:09.000Z",
-          "wordCount": null,
-          "title": "Can we exponentiate d/dx? Vector (fields)? What is exp? | Lie groups, algebras, brackets #4",
           "imageUrl": null
         }
       ]
@@ -361,6 +351,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_84Yv9dLcX4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_84Yv9dLcX4",
+          "publishedOn": "2024-04-01T09:00:24.000Z",
+          "wordCount": null,
+          "title": "CERN scientists discover new particle, with \"imaginary\" charge",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OTw5y7waxFQ",
           "author": null,
@@ -1240,16 +1240,6 @@
           "wordCount": null,
           "title": "Growing snowflakes in a radial gravity field",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XH7tvGb42s4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XH7tvGb42s4",
-          "publishedOn": "2024-01-03T10:00:18.000Z",
-          "wordCount": null,
-          "title": "A simplistic model for tides - instantaneous forcing",
-          "imageUrl": null
         }
       ]
     },
@@ -1804,7 +1794,18 @@
       "title": "Artem Kirsanov",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SmZmBKc7Lrs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SmZmBKc7Lrs",
+          "publishedOn": "2024-04-01T03:23:54.000Z",
+          "wordCount": null,
+          "title": "The Most Important Algorithm in Machine Learning",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Freya Holmér",
@@ -2330,6 +2331,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EXag4nsWYoU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EXag4nsWYoU",
+          "publishedOn": "2024-04-01T15:00:20.000Z",
+          "wordCount": null,
+          "title": "F-35 vertical take off is incredible",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BKm45Az02YE",
           "author": null,
