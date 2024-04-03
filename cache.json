@@ -352,6 +352,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=myahHb5W64Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=myahHb5W64Y",
+          "publishedOn": "2024-04-02T09:00:38.000Z",
+          "wordCount": null,
+          "title": "Pairwise attracting vortices on the sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_84Yv9dLcX4",
           "author": null,
           "description": "",
@@ -1229,16 +1239,6 @@
           "publishedOn": "2024-01-05T10:00:35.000Z",
           "wordCount": null,
           "title": "Evanescent coupling of two optical fibers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XauRkfqL5aY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XauRkfqL5aY",
-          "publishedOn": "2024-01-04T10:00:32.000Z",
-          "wordCount": null,
-          "title": "Growing snowflakes in a radial gravity field",
           "imageUrl": null
         }
       ]
@@ -2332,6 +2332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=j1nJ-A0coHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j1nJ-A0coHI",
+          "publishedOn": "2024-04-02T15:00:38.000Z",
+          "wordCount": null,
+          "title": "This is why the F-35 excels in battle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EXag4nsWYoU",
           "author": null,
           "description": "",
@@ -2635,6 +2645,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zk3S3o1qOHo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zk3S3o1qOHo",
+          "publishedOn": "2024-04-02T18:01:02.000Z",
+          "wordCount": null,
+          "title": "Balatro's 'Cursed' Design Problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UlzgvZqig40",
           "author": null,
           "description": "",
@@ -2918,6 +2938,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kCwdT4vkQAo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kCwdT4vkQAo",
+          "publishedOn": "2024-04-02T16:00:06.000Z",
+          "wordCount": null,
+          "title": "The Origin of D&D's Greatest Monsters",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Dy_eJV_e_jY",
           "author": null,
