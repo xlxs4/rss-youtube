@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-05T00:04:49.074Z</updated>
+    <updated>2024-04-06T00:04:31.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI and Quantum Computing: Glimpsing the Near Future]]></title>
+        <id>https://www.youtube.com/watch?v=gZZan4JMwk4</id>
+        <link href="https://www.youtube.com/watch?v=gZZan4JMwk4"/>
+        <updated>2024-04-05T20:00:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predicting Eclipses: The Three-Body Problem]]></title>
+        <id>https://www.youtube.com/watch?v=Gjbee3Bx_xs</id>
+        <link href="https://www.youtube.com/watch?v=Gjbee3Bx_xs"/>
+        <updated>2024-04-05T15:07:22.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The F-35s Stealthy Radar is the key to its success]]></title>
+        <id>https://www.youtube.com/watch?v=Dr-HlIR481I</id>
+        <link href="https://www.youtube.com/watch?v=Dr-HlIR481I"/>
+        <updated>2024-04-05T15:00:18.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI/ML+Physics Part 5: Employing an Optimization Algorithm [Physics Informed Machine Learning]]]></title>
+        <id>https://www.youtube.com/watch?v=T4iJ10TAIMg</id>
+        <link href="https://www.youtube.com/watch?v=T4iJ10TAIMg"/>
+        <updated>2024-04-05T12:00:25.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vortices on a sphere like octahedral symmetry]]></title>
+        <id>https://www.youtube.com/watch?v=mSctWP3HToI</id>
+        <link href="https://www.youtube.com/watch?v=mSctWP3HToI"/>
+        <updated>2024-04-05T09:00:42.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The F-35s Secret Weapon is Incredible]]></title>
         <id>https://www.youtube.com/watch?v=WXfU18JizZM</id>
@@ -2425,24 +2470,6 @@
         <updated>2024-01-07T15:00:08.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sending a message through an improved fiber]]></title>
-        <id>https://www.youtube.com/watch?v=7jOpLqNcj4o</id>
-        <link href="https://www.youtube.com/watch?v=7jOpLqNcj4o"/>
-        <updated>2024-01-07T10:00:04.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The A-10s massive gun halves forward thrust]]></title>
-        <id>https://www.youtube.com/watch?v=iRupCpvLqTk</id>
-        <link href="https://www.youtube.com/watch?v=iRupCpvLqTk"/>
-        <updated>2024-01-06T19:18:25.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>

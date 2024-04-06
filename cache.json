@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Gjbee3Bx_xs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gjbee3Bx_xs",
+          "publishedOn": "2024-04-05T15:07:22.000Z",
+          "wordCount": null,
+          "title": "Predicting Eclipses: The Three-Body Problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RjzSFa03i2U",
           "author": null,
           "description": "",
@@ -341,6 +351,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mSctWP3HToI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mSctWP3HToI",
+          "publishedOn": "2024-04-05T09:00:42.000Z",
+          "wordCount": null,
+          "title": "Vortices on a sphere like octahedral symmetry",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3I6a7WEdPVo",
           "author": null,
@@ -1220,16 +1240,6 @@
           "wordCount": null,
           "title": "Bloopers13: This is not dry ice",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7jOpLqNcj4o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7jOpLqNcj4o",
-          "publishedOn": "2024-01-07T10:00:04.000Z",
-          "wordCount": null,
-          "title": "Sending a message through an improved fiber",
-          "imageUrl": null
         }
       ]
     },
@@ -1452,6 +1462,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=T4iJ10TAIMg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T4iJ10TAIMg",
+          "publishedOn": "2024-04-05T12:00:25.000Z",
+          "wordCount": null,
+          "title": "AI/ML+Physics Part 5: Employing an Optimization Algorithm [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oz6hIcWmAWU",
           "author": null,
@@ -1718,6 +1738,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gZZan4JMwk4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gZZan4JMwk4",
+          "publishedOn": "2024-04-05T20:00:06.000Z",
+          "wordCount": null,
+          "title": "AI and Quantum Computing: Glimpsing the Near Future",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WuaSoTyqrTA",
           "author": null,
@@ -2152,6 +2182,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Dr-HlIR481I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dr-HlIR481I",
+          "publishedOn": "2024-04-05T15:00:18.000Z",
+          "wordCount": null,
+          "title": "The F-35s Stealthy Radar is the key to its success",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WXfU18JizZM",
           "author": null,
           "description": "",
@@ -2399,16 +2439,6 @@
           "publishedOn": "2024-01-11T15:00:18.000Z",
           "wordCount": null,
           "title": "How the SR-71's Engine Worked",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iRupCpvLqTk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iRupCpvLqTk",
-          "publishedOn": "2024-01-06T19:18:25.000Z",
-          "wordCount": null,
-          "title": "The A-10s massive gun halves forward thrust",
           "imageUrl": null
         }
       ]
