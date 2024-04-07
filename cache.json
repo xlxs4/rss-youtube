@@ -253,16 +253,6 @@
           "wordCount": null,
           "title": "The cube shadow puzzle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XIW-2ykgVPI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XIW-2ykgVPI",
-          "publishedOn": "2024-01-08T07:00:19.000Z",
-          "wordCount": null,
-          "title": "What does it mean that light \"slows down\" in glass?",
-          "imageUrl": null
         }
       ]
     },
@@ -270,18 +260,7 @@
       "title": "Mathemaniac",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=B2PJh2K-jdU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B2PJh2K-jdU",
-          "publishedOn": "2024-01-07T15:00:08.000Z",
-          "wordCount": null,
-          "title": "Visualising trace of a matrix | Lie groups, algebras, brackets #5",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "JuliaDynamics",
@@ -351,6 +330,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aYvsBgyJgIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aYvsBgyJgIE",
+          "publishedOn": "2024-04-06T09:00:01.000Z",
+          "wordCount": null,
+          "title": "[Flash warning] Two planar waves crossing a gradient index lens",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mSctWP3HToI",
           "author": null,
@@ -1229,16 +1218,6 @@
           "publishedOn": "2024-01-09T10:00:27.000Z",
           "wordCount": null,
           "title": "A simplistic model for tides - periodic forcing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BdsrjzclbbE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BdsrjzclbbE",
-          "publishedOn": "2024-01-08T10:00:15.000Z",
-          "wordCount": null,
-          "title": "Bloopers13: This is not dry ice",
           "imageUrl": null
         }
       ]
