@@ -253,16 +253,6 @@
           "wordCount": null,
           "title": "Why does light slowing imply a bend? (Beyond the tank/car analogy)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U3O1nzSojnc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U3O1nzSojnc",
-          "publishedOn": "2024-01-09T17:15:05.000Z",
-          "wordCount": null,
-          "title": "The cube shadow puzzle",
-          "imageUrl": null
         }
       ]
     },
@@ -340,6 +330,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Fi3bAPb_GZM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fi3bAPb_GZM",
+          "publishedOn": "2024-04-08T09:00:09.000Z",
+          "wordCount": null,
+          "title": "Vortices on a sphere",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=AWKJoWO0w2A",
           "author": null,
@@ -1218,16 +1218,6 @@
           "publishedOn": "2024-01-11T10:00:03.000Z",
           "wordCount": null,
           "title": "Eavesdropping on an optical fiber using evanescent coupling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3I8LmeWEXi8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3I8LmeWEXi8",
-          "publishedOn": "2024-01-10T10:00:04.000Z",
-          "wordCount": null,
-          "title": "Growing snowflakes in increasing radial gravity",
           "imageUrl": null
         }
       ]
@@ -2885,16 +2875,6 @@
           "publishedOn": "2024-01-17T00:10:29.000Z",
           "wordCount": null,
           "title": "The Daycare Stuck in a Standstill War",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QuZPw_RqtAI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QuZPw_RqtAI",
-          "publishedOn": "2024-01-09T23:14:46.000Z",
-          "wordCount": null,
-          "title": "D&D's Buff Furry Angels",
           "imageUrl": null
         }
       ]
