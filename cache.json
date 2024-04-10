@@ -243,16 +243,6 @@
           "wordCount": null,
           "title": "Positioned as the hardest question on a Putnam exam  (#6, 1992)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DWnb2UUlqd0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DWnb2UUlqd0",
-          "publishedOn": "2024-01-11T00:00:11.000Z",
-          "wordCount": null,
-          "title": "Why does light slowing imply a bend? (Beyond the tank/car analogy)",
-          "imageUrl": null
         }
       ]
     },
@@ -260,7 +250,18 @@
       "title": "Mathemaniac",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gj4kvpy1eCE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gj4kvpy1eCE",
+          "publishedOn": "2024-04-09T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Visualising Lie algebras (and why tr(AB) = tr(BA)?) | Lie groups, algebras, brackets #6",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "JuliaDynamics",
@@ -330,6 +331,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KB_Roqs38F8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KB_Roqs38F8",
+          "publishedOn": "2024-04-09T09:00:22.000Z",
+          "wordCount": null,
+          "title": "Viewing two light sources through a gradient index lens",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Fi3bAPb_GZM",
           "author": null,
@@ -1208,16 +1219,6 @@
           "publishedOn": "2024-01-12T10:00:24.000Z",
           "wordCount": null,
           "title": "Molecular circle dance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aHkAPXTYaAs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aHkAPXTYaAs",
-          "publishedOn": "2024-01-11T10:00:03.000Z",
-          "wordCount": null,
-          "title": "Eavesdropping on an optical fiber using evanescent coupling",
           "imageUrl": null
         }
       ]
@@ -2797,6 +2798,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Jy3vpZwqxgw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jy3vpZwqxgw",
+          "publishedOn": "2024-04-09T14:00:25.000Z",
+          "wordCount": null,
+          "title": "Jars in DnD Horrify Me",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kCwdT4vkQAo",
           "author": null,
