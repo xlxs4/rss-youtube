@@ -233,16 +233,6 @@
           "wordCount": null,
           "title": "The medical test paradox (well \"paradox\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IstyL9vnybg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IstyL9vnybg",
-          "publishedOn": "2024-01-12T07:00:13.000Z",
-          "wordCount": null,
-          "title": "Positioned as the hardest question on a Putnam exam  (#6, 1992)",
-          "imageUrl": null
         }
       ]
     },
@@ -331,6 +321,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F2geWV68CFE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F2geWV68CFE",
+          "publishedOn": "2024-04-10T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Bloopers 16: DNA or TIE fighters?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KB_Roqs38F8",
           "author": null,
@@ -1210,16 +1210,6 @@
           "wordCount": null,
           "title": "Making movies: How a lens creates images of a time-dependent scene",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZyG-vf_sFQM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZyG-vf_sFQM",
-          "publishedOn": "2024-01-12T10:00:24.000Z",
-          "wordCount": null,
-          "title": "Molecular circle dance",
-          "imageUrl": null
         }
       ]
     },
@@ -1424,16 +1414,6 @@
           "wordCount": null,
           "title": "Map Projections – Why Do We Have Different Maps of the Earth? #kurzgesagt #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6AWYgNArZZw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6AWYgNArZZw",
-          "publishedOn": "2024-01-11T15:00:09.000Z",
-          "wordCount": null,
-          "title": "Let’s Shrink Earth to Half Its Size #kurzgesagt #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -1551,6 +1531,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WUdXCs0RvZE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WUdXCs0RvZE",
+          "publishedOn": "2024-04-10T12:18:42.000Z",
+          "wordCount": null,
+          "title": "Werner Herzog finds Joaquin Phoenix Upside Down in a Wrecked Car and advises: “Man, Relax”",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=nsp7i2Sr1ZA",
           "author": null,
@@ -1832,16 +1822,6 @@
           "publishedOn": "2024-01-17T16:39:17.000Z",
           "wordCount": null,
           "title": "ML Community Call (2024-01-12)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9YfRd6sdI4Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9YfRd6sdI4Q",
-          "publishedOn": "2024-01-12T10:30:33.000Z",
-          "wordCount": null,
-          "title": "JuliaCon Local Eindhoven 2023 Aftermovie",
           "imageUrl": null
         }
       ]
@@ -2409,16 +2389,6 @@
           "publishedOn": "2024-01-16T15:00:35.000Z",
           "wordCount": null,
           "title": "The Chonkiest WW2 Fighter Plane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q93GstSJApQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q93GstSJApQ",
-          "publishedOn": "2024-01-11T15:00:18.000Z",
-          "wordCount": null,
-          "title": "How the SR-71's Engine Worked",
           "imageUrl": null
         }
       ]
