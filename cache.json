@@ -114,26 +114,6 @@
           "wordCount": null,
           "title": "Decoding Math's Most Famous Fractal: The Mandelbrot Set",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FLY7kWbDQfo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FLY7kWbDQfo",
-          "publishedOn": "2024-01-12T20:08:53.000Z",
-          "wordCount": null,
-          "title": "The Hidden Math Inside Music",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BHbeED51h6s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BHbeED51h6s",
-          "publishedOn": "2024-01-12T15:37:17.000Z",
-          "wordCount": null,
-          "title": "How to Spot the Math Hiding in Plain Sight",
-          "imageUrl": null
         }
       ]
     },
@@ -154,6 +134,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FJtFZwbvkI4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FJtFZwbvkI4",
+          "publishedOn": "2024-04-11T16:23:26.000Z",
+          "wordCount": null,
+          "title": "How word vectors encode meaning",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eMlx5fFNoYc",
           "author": null,
@@ -321,6 +311,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=__b55UnCDRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=__b55UnCDRI",
+          "publishedOn": "2024-04-11T09:00:23.000Z",
+          "wordCount": null,
+          "title": "Vortices in the compressible Euler equation on the sphere with Coriolis force",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=F2geWV68CFE",
           "author": null,
@@ -1200,16 +1200,6 @@
           "wordCount": null,
           "title": "Dissociation/recombination of water molecules in an electric field",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=huJadMowcb8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=huJadMowcb8",
-          "publishedOn": "2024-01-13T10:00:25.000Z",
-          "wordCount": null,
-          "title": "Making movies: How a lens creates images of a time-dependent scene",
-          "imageUrl": null
         }
       ]
     },
@@ -1275,6 +1265,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LFfFlYQfXh0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LFfFlYQfXh0",
+          "publishedOn": "2024-04-11T14:00:23.000Z",
+          "wordCount": null,
+          "title": "Let's Cook a Galaxy #kurzgesagt #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DRjmRNsPl1M",
           "author": null,
