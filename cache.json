@@ -312,6 +312,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=idB6qn802lM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=idB6qn802lM",
+          "publishedOn": "2024-04-12T09:00:28.000Z",
+          "wordCount": null,
+          "title": "Filming a moving source with a gradient index lens",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=__b55UnCDRI",
           "author": null,
           "description": "",
@@ -1190,16 +1200,6 @@
           "wordCount": null,
           "title": "Making movies with two lenses",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XgjeHNANuDI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XgjeHNANuDI",
-          "publishedOn": "2024-01-14T10:00:21.000Z",
-          "wordCount": null,
-          "title": "Dissociation/recombination of water molecules in an electric field",
-          "imageUrl": null
         }
       ]
     },
@@ -1208,6 +1208,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
       "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BULUvQBUufc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BULUvQBUufc",
+          "publishedOn": "2024-04-12T19:24:55.000Z",
+          "wordCount": null,
+          "title": "AMR First General Members meeting - 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zfprPRMw5fs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zfprPRMw5fs",
+          "publishedOn": "2024-04-12T18:05:48.000Z",
+          "wordCount": null,
+          "title": "AMR-RMA Lecture, Anton Zorich   \"Random square-tiled surfaces and random multicurves in large genus\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Jn2GsJ05Xq8",
           "author": null,
@@ -1422,6 +1442,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wHg72Tnp1Ek",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wHg72Tnp1Ek",
+          "publishedOn": "2024-04-12T12:00:53.000Z",
+          "wordCount": null,
+          "title": "Using sparse trajectory data to find Lagrangian Coherent Structures (LCS) in fluid flows",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=T4iJ10TAIMg",
           "author": null,
@@ -2954,7 +2984,18 @@
       "title": "Morphocular",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7Zwf4X_OQ-TEnou0zdyRA",
       "siteUrl": "https://www.youtube.com/channel/UCu7Zwf4X_OQ-TEnou0zdyRA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hYK3vwIDSZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hYK3vwIDSZA",
+          "publishedOn": "2024-04-12T16:21:14.000Z",
+          "wordCount": null,
+          "title": "I Get Interrogated For Reaching 100,000 Subscribers",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Low Byte Productions",

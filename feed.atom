@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-12T00:04:45.023Z</updated>
+    <updated>2024-04-13T00:04:30.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMR First General Members meeting - 2024]]></title>
+        <id>https://www.youtube.com/watch?v=BULUvQBUufc</id>
+        <link href="https://www.youtube.com/watch?v=BULUvQBUufc"/>
+        <updated>2024-04-12T19:24:55.000Z</updated>
+        <author>
+            <name>Association for Mathematical Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMR-RMA Lecture, Anton Zorich   "Random square-tiled surfaces and random multicurves in large genus"]]></title>
+        <id>https://www.youtube.com/watch?v=zfprPRMw5fs</id>
+        <link href="https://www.youtube.com/watch?v=zfprPRMw5fs"/>
+        <updated>2024-04-12T18:05:48.000Z</updated>
+        <author>
+            <name>Association for Mathematical Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Get Interrogated For Reaching 100,000 Subscribers]]></title>
+        <id>https://www.youtube.com/watch?v=hYK3vwIDSZA</id>
+        <link href="https://www.youtube.com/watch?v=hYK3vwIDSZA"/>
+        <updated>2024-04-12T16:21:14.000Z</updated>
+        <author>
+            <name>Morphocular</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using sparse trajectory data to find Lagrangian Coherent Structures (LCS) in fluid flows]]></title>
+        <id>https://www.youtube.com/watch?v=wHg72Tnp1Ek</id>
+        <link href="https://www.youtube.com/watch?v=wHg72Tnp1Ek"/>
+        <updated>2024-04-12T12:00:53.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filming a moving source with a gradient index lens]]></title>
+        <id>https://www.youtube.com/watch?v=idB6qn802lM</id>
+        <link href="https://www.youtube.com/watch?v=idB6qn802lM"/>
+        <updated>2024-04-12T09:00:28.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How word vectors encode meaning]]></title>
         <id>https://www.youtube.com/watch?v=FJtFZwbvkI4</id>
@@ -2416,15 +2461,6 @@
         <updated>2024-01-14T19:17:57.000Z</updated>
         <author>
             <name>Low Byte Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissociation/recombination of water molecules in an electric field]]></title>
-        <id>https://www.youtube.com/watch?v=XgjeHNANuDI</id>
-        <link href="https://www.youtube.com/watch?v=XgjeHNANuDI"/>
-        <updated>2024-01-14T10:00:21.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
 </feed>
