@@ -302,6 +302,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IFZiRrdmF-E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IFZiRrdmF-E",
+          "publishedOn": "2024-04-14T09:00:13.000Z",
+          "wordCount": null,
+          "title": "Vortex dynamics on the sphere in a strong Coriolis force",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PP9G34HyoxE",
           "author": null,
           "description": "",
@@ -1179,16 +1189,6 @@
           "publishedOn": "2024-01-17T10:00:31.000Z",
           "wordCount": null,
           "title": "What if the Earth suddenly stopped spinning? A simulation attempt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BZKsU4-PLNE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BZKsU4-PLNE",
-          "publishedOn": "2024-01-16T10:00:05.000Z",
-          "wordCount": null,
-          "title": "Dissociation/recombination of water molecules in an increasing electric field",
           "imageUrl": null
         }
       ]
@@ -2162,6 +2162,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=y9U8CyBD1wQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y9U8CyBD1wQ",
+          "publishedOn": "2024-04-13T19:13:20.000Z",
+          "wordCount": null,
+          "title": "The Spitfire is an Icon",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U0u_QyurfXA",
           "author": null,
           "description": "",
@@ -2561,6 +2571,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aWfYxg-Ypm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aWfYxg-Ypm4",
+          "publishedOn": "2024-04-14T13:46:25.000Z",
+          "wordCount": null,
+          "title": "Interview with Senior JS Developer 2024 [NEW]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jHVn2AP8QWo",
           "author": null,

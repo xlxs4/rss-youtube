@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-14T00:09:13.983Z</updated>
+    <updated>2024-04-15T01:09:21.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Interview with Senior JS Developer 2024 [NEW]]]></title>
+        <id>https://www.youtube.com/watch?v=aWfYxg-Ypm4</id>
+        <link href="https://www.youtube.com/watch?v=aWfYxg-Ypm4"/>
+        <updated>2024-04-14T13:46:25.000Z</updated>
+        <author>
+            <name>Programmers are also human</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vortex dynamics on the sphere in a strong Coriolis force]]></title>
+        <id>https://www.youtube.com/watch?v=IFZiRrdmF-E</id>
+        <link href="https://www.youtube.com/watch?v=IFZiRrdmF-E"/>
+        <updated>2024-04-14T09:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Find the Partner Gear For Any Shaped Given Gear]]></title>
         <id>https://www.youtube.com/watch?v=eG-z-791_ak</id>
@@ -13,6 +31,15 @@
         <updated>2024-04-13T23:54:45.000Z</updated>
         <author>
             <name>Morphocular</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Spitfire is an Icon]]></title>
+        <id>https://www.youtube.com/watch?v=y9U8CyBD1wQ</id>
+        <link href="https://www.youtube.com/watch?v=y9U8CyBD1wQ"/>
+        <updated>2024-04-13T19:13:20.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2461,15 +2488,6 @@
         <updated>2024-01-16T15:00:35.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissociation/recombination of water molecules in an increasing electric field]]></title>
-        <id>https://www.youtube.com/watch?v=BZKsU4-PLNE</id>
-        <link href="https://www.youtube.com/watch?v=BZKsU4-PLNE"/>
-        <updated>2024-01-16T10:00:05.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
 </feed>
