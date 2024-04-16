@@ -203,16 +203,6 @@
           "wordCount": null,
           "title": "Ellipses have multiple definitions, how are these the same?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w-CXIqIjfRI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w-CXIqIjfRI",
-          "publishedOn": "2024-01-17T07:00:31.000Z",
-          "wordCount": null,
-          "title": "Three levels of understanding Bayes' theorem",
-          "imageUrl": null
         }
       ]
     },
@@ -301,6 +291,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Sc6JSJH9sSc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Sc6JSJH9sSc",
+          "publishedOn": "2024-04-15T09:00:30.000Z",
+          "wordCount": null,
+          "title": "3D representation of a gradient index lens",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IFZiRrdmF-E",
           "author": null,
@@ -1180,16 +1180,6 @@
           "wordCount": null,
           "title": "Dissociation/recombination of water molecules in an increasing magnetic field",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VLfacybDWPs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VLfacybDWPs",
-          "publishedOn": "2024-01-17T10:00:31.000Z",
-          "wordCount": null,
-          "title": "What if the Earth suddenly stopped spinning? A simulation attempt",
-          "imageUrl": null
         }
       ]
     },
@@ -1551,6 +1541,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OGml9XFKU8w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OGml9XFKU8w",
+          "publishedOn": "2024-04-15T14:29:39.000Z",
+          "wordCount": null,
+          "title": "S4AD: Ten Years Of Poetic Computation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fOvoAQGoFSk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fOvoAQGoFSk",
+          "publishedOn": "2024-04-15T14:29:30.000Z",
+          "wordCount": null,
+          "title": "S4AD: Philosophies Of Teaching",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0la14CV3wnk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0la14CV3wnk",
+          "publishedOn": "2024-04-15T14:29:12.000Z",
+          "wordCount": null,
+          "title": "S4AD: What Does It Mean To Make A School",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yeqYkNZhZUI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yeqYkNZhZUI",
+          "publishedOn": "2024-04-15T14:27:41.000Z",
+          "wordCount": null,
+          "title": "S4AD: Instruments Of The Black Gooey Universe",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WUdXCs0RvZE",
           "author": null,
@@ -2162,6 +2192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mFS70HPB7Ac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mFS70HPB7Ac",
+          "publishedOn": "2024-04-15T15:00:40.000Z",
+          "wordCount": null,
+          "title": "Why the Spitfire had an Elliptical Wing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=y9U8CyBD1wQ",
           "author": null,
           "description": "",
@@ -2419,16 +2459,6 @@
           "publishedOn": "2024-01-17T15:01:01.000Z",
           "wordCount": null,
           "title": "How the P-47s Turbocharger Worked",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ceT5npyXeNs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ceT5npyXeNs",
-          "publishedOn": "2024-01-16T15:00:35.000Z",
-          "wordCount": null,
-          "title": "The Chonkiest WW2 Fighter Plane",
           "imageUrl": null
         }
       ]
@@ -2906,16 +2936,6 @@
           "publishedOn": "2024-01-28T00:27:09.000Z",
           "wordCount": null,
           "title": "My party stole a sheep from a big frog",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Aw_cvC0ee40",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Aw_cvC0ee40",
-          "publishedOn": "2024-01-17T00:10:29.000Z",
-          "wordCount": null,
-          "title": "The Daycare Stuck in a Standstill War",
           "imageUrl": null
         }
       ]
