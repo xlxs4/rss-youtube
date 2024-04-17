@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z-VFby8rWZE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z-VFby8rWZE",
+          "publishedOn": "2024-04-16T17:27:38.000Z",
+          "wordCount": null,
+          "title": "What Makes for ‘Good’ Math? | JOW Podcast",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Gjbee3Bx_xs",
           "author": null,
           "description": "",
@@ -291,6 +301,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=o_E5AHa0VH0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o_E5AHa0VH0",
+          "publishedOn": "2024-04-16T09:00:38.000Z",
+          "wordCount": null,
+          "title": "Longer simulation of DNA-like molecules",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Sc6JSJH9sSc",
           "author": null,
@@ -1170,16 +1190,6 @@
           "wordCount": null,
           "title": "Badly spliced optical fibers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XCYQFD_jhUE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XCYQFD_jhUE",
-          "publishedOn": "2024-01-18T10:00:22.000Z",
-          "wordCount": null,
-          "title": "Dissociation/recombination of water molecules in an increasing magnetic field",
-          "imageUrl": null
         }
       ]
     },
@@ -1265,6 +1275,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=L_JQOH1tEEA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L_JQOH1tEEA",
+          "publishedOn": "2024-04-16T14:00:03.000Z",
+          "wordCount": null,
+          "title": "There Are Thousands of Alien Empires in The Milky Way",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LFfFlYQfXh0",
           "author": null,
@@ -1863,16 +1883,6 @@
           "wordCount": null,
           "title": "JuliaHealth Meeting (Americas/Europe/Africa) – February 29th, 2024",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8HOeSQSjSMc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8HOeSQSjSMc",
-          "publishedOn": "2024-01-17T16:39:17.000Z",
-          "wordCount": null,
-          "title": "ML Community Call (2024-01-12)",
-          "imageUrl": null
         }
       ]
     },
@@ -2192,6 +2202,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R-qtEh-KluE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R-qtEh-KluE",
+          "publishedOn": "2024-04-16T15:00:20.000Z",
+          "wordCount": null,
+          "title": "Spitfire vs. BF-109",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mFS70HPB7Ac",
           "author": null,
           "description": "",
@@ -2449,16 +2469,6 @@
           "publishedOn": "2024-01-18T15:00:46.000Z",
           "wordCount": null,
           "title": "How Water Injection Increases Horsepower",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3rRwyQaawcs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3rRwyQaawcs",
-          "publishedOn": "2024-01-17T15:01:01.000Z",
-          "wordCount": null,
-          "title": "How the P-47s Turbocharger Worked",
           "imageUrl": null
         }
       ]
