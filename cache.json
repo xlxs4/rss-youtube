@@ -302,6 +302,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ys35A8Uzy4s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ys35A8Uzy4s",
+          "publishedOn": "2024-04-17T09:00:33.000Z",
+          "wordCount": null,
+          "title": "Vortex dynamics on the sphere with weaker Coriolis force",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=o_E5AHa0VH0",
           "author": null,
           "description": "",
@@ -1180,16 +1190,6 @@
           "wordCount": null,
           "title": "Taking hydronium into account in water dissociation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fHTPnWXuVAg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fHTPnWXuVAg",
-          "publishedOn": "2024-01-19T10:00:33.000Z",
-          "wordCount": null,
-          "title": "Badly spliced optical fibers",
-          "imageUrl": null
         }
       ]
     },
@@ -1424,16 +1424,6 @@
           "wordCount": null,
           "title": "What If Our Sun Disappeared? #kurzgesagt #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8_cAY_rQpzM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8_cAY_rQpzM",
-          "publishedOn": "2024-01-18T15:00:10.000Z",
-          "wordCount": null,
-          "title": "Map Projections – Why Do We Have Different Maps of the Earth? #kurzgesagt #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -1561,6 +1551,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OJ5Ydt78smI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OJ5Ydt78smI",
+          "publishedOn": "2024-04-17T14:07:58.000Z",
+          "wordCount": null,
+          "title": "Pioneer Live: Nu Jazz Sense of Rejection",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OGml9XFKU8w",
           "author": null,
@@ -1759,16 +1759,6 @@
           "publishedOn": "2024-01-25T22:01:32.000Z",
           "wordCount": null,
           "title": "SUNN O)))'s Shoshin (初心) Duo Live at Pioneer Works (Full Set)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G31wnCj0iY4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G31wnCj0iY4",
-          "publishedOn": "2024-01-18T19:07:00.000Z",
-          "wordCount": null,
-          "title": "Gelsey Bell | Pioneer Sessions",
           "imageUrl": null
         }
       ]
@@ -2202,6 +2192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tdVa_o_a270",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tdVa_o_a270",
+          "publishedOn": "2024-04-17T15:00:47.000Z",
+          "wordCount": null,
+          "title": "The Spitfire Guns Packed Some Serious Power",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=R-qtEh-KluE",
           "author": null,
           "description": "",
@@ -2460,16 +2460,6 @@
           "wordCount": null,
           "title": "Fixing the P-47s Climb Rate",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sBBDfgwUeqo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sBBDfgwUeqo",
-          "publishedOn": "2024-01-18T15:00:46.000Z",
-          "wordCount": null,
-          "title": "How Water Injection Increases Horsepower",
-          "imageUrl": null
         }
       ]
     },
@@ -2547,7 +2537,18 @@
       "title": "Ewoud",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyvj4gSHxaJlZGISiqtwJ7A",
       "siteUrl": "https://www.youtube.com/channel/UCyvj4gSHxaJlZGISiqtwJ7A",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YHSWlEFJYs8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YHSWlEFJYs8",
+          "publishedOn": "2024-04-17T14:31:53.000Z",
+          "wordCount": null,
+          "title": "SCHiM - Release Date Trailer",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Game Maker's Toolkit",

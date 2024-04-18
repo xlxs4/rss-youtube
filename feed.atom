@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-17T00:04:55.709Z</updated>
+    <updated>2024-04-18T00:04:59.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Spitfire Guns Packed Some Serious Power]]></title>
+        <id>https://www.youtube.com/watch?v=tdVa_o_a270</id>
+        <link href="https://www.youtube.com/watch?v=tdVa_o_a270"/>
+        <updated>2024-04-17T15:00:47.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCHiM - Release Date Trailer]]></title>
+        <id>https://www.youtube.com/watch?v=YHSWlEFJYs8</id>
+        <link href="https://www.youtube.com/watch?v=YHSWlEFJYs8"/>
+        <updated>2024-04-17T14:31:53.000Z</updated>
+        <author>
+            <name>Ewoud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pioneer Live: Nu Jazz Sense of Rejection]]></title>
+        <id>https://www.youtube.com/watch?v=OJ5Ydt78smI</id>
+        <link href="https://www.youtube.com/watch?v=OJ5Ydt78smI"/>
+        <updated>2024-04-17T14:07:58.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vortex dynamics on the sphere with weaker Coriolis force]]></title>
+        <id>https://www.youtube.com/watch?v=Ys35A8Uzy4s</id>
+        <link href="https://www.youtube.com/watch?v=Ys35A8Uzy4s"/>
+        <updated>2024-04-17T09:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Makes for ‘Good’ Math? | JOW Podcast]]></title>
         <id>https://www.youtube.com/watch?v=z-VFby8rWZE</id>
@@ -2479,42 +2515,6 @@
         <updated>2024-01-19T15:00:11.000Z</updated>
         <author>
             <name>No Boilerplate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Badly spliced optical fibers]]></title>
-        <id>https://www.youtube.com/watch?v=fHTPnWXuVAg</id>
-        <link href="https://www.youtube.com/watch?v=fHTPnWXuVAg"/>
-        <updated>2024-01-19T10:00:33.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gelsey Bell | Pioneer Sessions]]></title>
-        <id>https://www.youtube.com/watch?v=G31wnCj0iY4</id>
-        <link href="https://www.youtube.com/watch?v=G31wnCj0iY4"/>
-        <updated>2024-01-18T19:07:00.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Water Injection Increases Horsepower]]></title>
-        <id>https://www.youtube.com/watch?v=sBBDfgwUeqo</id>
-        <link href="https://www.youtube.com/watch?v=sBBDfgwUeqo"/>
-        <updated>2024-01-18T15:00:46.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Map Projections – Why Do We Have Different Maps of the Earth? #kurzgesagt #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=8_cAY_rQpzM</id>
-        <link href="https://www.youtube.com/watch?v=8_cAY_rQpzM"/>
-        <updated>2024-01-18T15:00:10.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
