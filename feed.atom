@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-18T00:04:59.379Z</updated>
+    <updated>2024-04-19T00:04:44.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Let’s Go on a Fantastical Journey #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=S-gRXjKUnVs</id>
+        <link href="https://www.youtube.com/watch?v=S-gRXjKUnVs"/>
+        <updated>2024-04-18T14:00:30.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A gradient index lens with quadratic refractive index exposed to two light sources]]></title>
+        <id>https://www.youtube.com/watch?v=idqg-zchKGE</id>
+        <link href="https://www.youtube.com/watch?v=idqg-zchKGE"/>
+        <updated>2024-04-18T09:00:29.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Spitfire Guns Packed Some Serious Power]]></title>
         <id>https://www.youtube.com/watch?v=tdVa_o_a270</id>
@@ -2470,51 +2488,6 @@
         <updated>2024-01-20T15:00:07.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking hydronium into account in water dissociation]]></title>
-        <id>https://www.youtube.com/watch?v=nnbe_msq1dQ</id>
-        <link href="https://www.youtube.com/watch?v=nnbe_msq1dQ"/>
-        <updated>2024-01-20T10:00:38.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellipses have multiple definitions, how are these the same?]]></title>
-        <id>https://www.youtube.com/watch?v=-3jPW_TGATI</id>
-        <link href="https://www.youtube.com/watch?v=-3jPW_TGATI"/>
-        <updated>2024-01-19T19:00:00.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Mario's Invisible Difficulty Settings]]></title>
-        <id>https://www.youtube.com/watch?v=gkvyYTSKTQY</id>
-        <link href="https://www.youtube.com/watch?v=gkvyYTSKTQY"/>
-        <updated>2024-01-19T17:34:37.000Z</updated>
-        <author>
-            <name>Game Maker's Toolkit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Player-Generated Content in MMOs]]></title>
-        <id>https://www.youtube.com/watch?v=LbCL3canWWo</id>
-        <link href="https://www.youtube.com/watch?v=LbCL3canWWo"/>
-        <updated>2024-01-19T15:59:51.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust's Secret Purity System]]></title>
-        <id>https://www.youtube.com/watch?v=voRBS0r4EyI</id>
-        <link href="https://www.youtube.com/watch?v=voRBS0r4EyI"/>
-        <updated>2024-01-19T15:00:11.000Z</updated>
-        <author>
-            <name>No Boilerplate</name>
         </author>
     </entry>
 </feed>

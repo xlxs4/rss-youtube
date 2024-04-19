@@ -203,16 +203,6 @@
           "wordCount": null,
           "title": "A challenging puzzle about subset sums",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-3jPW_TGATI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-3jPW_TGATI",
-          "publishedOn": "2024-01-19T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Ellipses have multiple definitions, how are these the same?",
-          "imageUrl": null
         }
       ]
     },
@@ -301,6 +291,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=idqg-zchKGE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=idqg-zchKGE",
+          "publishedOn": "2024-04-18T09:00:29.000Z",
+          "wordCount": null,
+          "title": "A gradient index lens with quadratic refractive index exposed to two light sources",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ys35A8Uzy4s",
           "author": null,
@@ -1180,16 +1180,6 @@
           "wordCount": null,
           "title": "Making movies with two lenses: shorter wavelength",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nnbe_msq1dQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nnbe_msq1dQ",
-          "publishedOn": "2024-01-20T10:00:38.000Z",
-          "wordCount": null,
-          "title": "Taking hydronium into account in water dissociation",
-          "imageUrl": null
         }
       ]
     },
@@ -1275,6 +1265,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=S-gRXjKUnVs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S-gRXjKUnVs",
+          "publishedOn": "2024-04-18T14:00:30.000Z",
+          "wordCount": null,
+          "title": "Let’s Go on a Fantastical Journey #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=L_JQOH1tEEA",
           "author": null,
@@ -2594,16 +2594,6 @@
           "wordCount": null,
           "title": "Why Spec Ops: The Line Mattered",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gkvyYTSKTQY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gkvyYTSKTQY",
-          "publishedOn": "2024-01-19T17:34:37.000Z",
-          "wordCount": null,
-          "title": "Super Mario's Invisible Difficulty Settings",
-          "imageUrl": null
         }
       ]
     },
@@ -2851,16 +2841,6 @@
           "wordCount": null,
           "title": "What are Gerstner Waves?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LbCL3canWWo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LbCL3canWWo",
-          "publishedOn": "2024-01-19T15:59:51.000Z",
-          "wordCount": null,
-          "title": "Player-Generated Content in MMOs",
-          "imageUrl": null
         }
       ]
     },
@@ -2997,16 +2977,6 @@
           "publishedOn": "2024-02-25T15:47:18.000Z",
           "wordCount": null,
           "title": "NixOS: Everything Everywhere All At Once",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=voRBS0r4EyI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=voRBS0r4EyI",
-          "publishedOn": "2024-01-19T15:00:11.000Z",
-          "wordCount": null,
-          "title": "Rust's Secret Purity System",
           "imageUrl": null
         }
       ]
