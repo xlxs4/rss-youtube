@@ -292,6 +292,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4Dz5mWokHvY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4Dz5mWokHvY",
+          "publishedOn": "2024-04-19T09:00:04.000Z",
+          "wordCount": null,
+          "title": "DNA-like molecules with random dissociation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=idqg-zchKGE",
           "author": null,
           "description": "",
@@ -1170,16 +1180,6 @@
           "wordCount": null,
           "title": "A water-hydroxyde-hydronium-H⁺ mixture in an increasing electric field",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=om1GysGCvRo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=om1GysGCvRo",
-          "publishedOn": "2024-01-21T10:00:27.000Z",
-          "wordCount": null,
-          "title": "Making movies with two lenses: shorter wavelength",
-          "imageUrl": null
         }
       ]
     },
@@ -1769,6 +1769,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KcbTbTxPMLc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KcbTbTxPMLc",
+          "publishedOn": "2024-04-19T20:00:06.000Z",
+          "wordCount": null,
+          "title": "Why a Forefather of AI Fears the Future",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gZZan4JMwk4",
           "author": null,
           "description": "",
@@ -1918,6 +1928,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oS8Dok5kuN0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oS8Dok5kuN0",
+          "publishedOn": "2024-04-19T13:15:59.000Z",
+          "wordCount": null,
+          "title": "Comparative Analysis of Cell Chemistries with JuliaSim Batteries",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BX-3lH630CE",
           "author": null,
@@ -2450,16 +2470,6 @@
           "wordCount": null,
           "title": "The Questionable Engineering of the 737 Max",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9MxT16L9abY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9MxT16L9abY",
-          "publishedOn": "2024-01-20T15:00:07.000Z",
-          "wordCount": null,
-          "title": "Fixing the P-47s Climb Rate",
-          "imageUrl": null
         }
       ]
     },
@@ -2519,16 +2529,6 @@
           "publishedOn": "2024-02-23T15:00:10.000Z",
           "wordCount": null,
           "title": "What Makes A Great In-Game Shop?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fzHD4FLHIIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fzHD4FLHIIo",
-          "publishedOn": "2024-01-20T16:00:23.000Z",
-          "wordCount": null,
-          "title": "How Can You Spice Up A Healing System?",
           "imageUrl": null
         }
       ]
