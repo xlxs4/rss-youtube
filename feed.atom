@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-20T00:04:22.868Z</updated>
+    <updated>2024-04-21T00:05:04.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Speed and vorticity of a fluid on a rotating sphere]]></title>
+        <id>https://www.youtube.com/watch?v=TFNfNTsuWgc</id>
+        <link href="https://www.youtube.com/watch?v=TFNfNTsuWgc"/>
+        <updated>2024-04-20T09:00:18.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why a Forefather of AI Fears the Future]]></title>
         <id>https://www.youtube.com/watch?v=KcbTbTxPMLc</id>
@@ -2470,24 +2479,6 @@
         <updated>2024-01-22T15:00:36.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A water-hydroxyde-hydronium-H⁺ mixture in an increasing electric field]]></title>
-        <id>https://www.youtube.com/watch?v=c46yyZyPNbQ</id>
-        <link href="https://www.youtube.com/watch?v=c46yyZyPNbQ"/>
-        <updated>2024-01-22T10:00:33.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A challenging puzzle about subset sums]]></title>
-        <id>https://www.youtube.com/watch?v=-ikRg-OfFHc</id>
-        <link href="https://www.youtube.com/watch?v=-ikRg-OfFHc"/>
-        <updated>2024-01-22T06:00:00.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
