@@ -282,6 +282,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kMGOJ56p12k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kMGOJ56p12k",
+          "publishedOn": "2024-04-21T09:00:26.000Z",
+          "wordCount": null,
+          "title": "3D representation of a gradient index lens with quadratic refractive index",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TFNfNTsuWgc",
           "author": null,
           "description": "",
@@ -1159,16 +1169,6 @@
           "publishedOn": "2024-01-24T10:00:10.000Z",
           "wordCount": null,
           "title": "Soap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XL7N0tdZoKA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XL7N0tdZoKA",
-          "publishedOn": "2024-01-23T10:00:22.000Z",
-          "wordCount": null,
-          "title": "What would tides on a flooded Moon look like?",
           "imageUrl": null
         }
       ]
@@ -2449,16 +2449,6 @@
           "publishedOn": "2024-01-26T10:30:11.000Z",
           "wordCount": null,
           "title": "Massive Abandoned Towers in Austria",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hhT4M0UjJcg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hhT4M0UjJcg",
-          "publishedOn": "2024-01-22T15:00:36.000Z",
-          "wordCount": null,
-          "title": "The Questionable Engineering of the 737 Max",
           "imageUrl": null
         }
       ]

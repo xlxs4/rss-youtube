@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-21T00:05:04.829Z</updated>
+    <updated>2024-04-22T00:05:17.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3D representation of a gradient index lens with quadratic refractive index]]></title>
+        <id>https://www.youtube.com/watch?v=kMGOJ56p12k</id>
+        <link href="https://www.youtube.com/watch?v=kMGOJ56p12k"/>
+        <updated>2024-04-21T09:00:26.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Speed and vorticity of a fluid on a rotating sphere]]></title>
         <id>https://www.youtube.com/watch?v=TFNfNTsuWgc</id>
@@ -2461,24 +2470,6 @@
         <updated>2024-01-24T03:08:51.000Z</updated>
         <author>
             <name>Association for Mathematical Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What would tides on a flooded Moon look like?]]></title>
-        <id>https://www.youtube.com/watch?v=XL7N0tdZoKA</id>
-        <link href="https://www.youtube.com/watch?v=XL7N0tdZoKA"/>
-        <updated>2024-01-23T10:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Questionable Engineering of the 737 Max]]></title>
-        <id>https://www.youtube.com/watch?v=hhT4M0UjJcg</id>
-        <link href="https://www.youtube.com/watch?v=hhT4M0UjJcg"/>
-        <updated>2024-01-22T15:00:36.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
