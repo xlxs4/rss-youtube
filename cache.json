@@ -183,16 +183,6 @@
           "wordCount": null,
           "title": "Simulating the electric field and a moving charge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xJwkj25fFK4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xJwkj25fFK4",
-          "publishedOn": "2024-01-24T06:00:26.000Z",
-          "wordCount": null,
-          "title": "How the Mandelbrot set is defined",
-          "imageUrl": null
         }
       ]
     },
@@ -281,6 +271,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aqSc9j_FxfI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aqSc9j_FxfI",
+          "publishedOn": "2024-04-22T09:00:01.000Z",
+          "wordCount": null,
+          "title": "DNA-like molecules with dissociation of non-matching base pairs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kMGOJ56p12k",
           "author": null,
@@ -1160,16 +1160,6 @@
           "wordCount": null,
           "title": "[Epilepsy warning] Filming a moving source",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EObkIbclmNM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EObkIbclmNM",
-          "publishedOn": "2024-01-24T10:00:10.000Z",
-          "wordCount": null,
-          "title": "Soap",
-          "imageUrl": null
         }
       ]
     },
@@ -1236,16 +1226,6 @@
           "publishedOn": "2024-02-28T02:32:05.000Z",
           "wordCount": null,
           "title": "AMR - The Association for Mathematical Research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9eOHNVxK-tw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9eOHNVxK-tw",
-          "publishedOn": "2024-01-24T03:08:51.000Z",
-          "wordCount": null,
-          "title": "Vinberg  Lecture by Victor Kac",
           "imageUrl": null
         }
       ]
@@ -2201,6 +2181,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=72yYvLLryus",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=72yYvLLryus",
+          "publishedOn": "2024-04-22T20:32:26.000Z",
+          "wordCount": null,
+          "title": "The World’s First Intercity Maglev Train",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tdVa_o_a270",
           "author": null,
