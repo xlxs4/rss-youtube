@@ -272,6 +272,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MTADUAkOBcc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MTADUAkOBcc",
+          "publishedOn": "2024-04-23T09:00:27.000Z",
+          "wordCount": null,
+          "title": "Four vortices on a rotating sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aqSc9j_FxfI",
           "author": null,
           "description": "",
@@ -1150,16 +1160,6 @@
           "wordCount": null,
           "title": "Soap with longer polymers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ud0O4k_mbvw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ud0O4k_mbvw",
-          "publishedOn": "2024-01-25T10:00:20.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] Filming a moving source",
-          "imageUrl": null
         }
       ]
     },
@@ -1490,16 +1490,6 @@
           "publishedOn": "2024-02-16T11:00:27.000Z",
           "wordCount": null,
           "title": "Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ddomrz1cz_U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ddomrz1cz_U",
-          "publishedOn": "2024-01-25T11:00:34.000Z",
-          "wordCount": null,
-          "title": "Can we make commercial aircraft faster?  Mitigating transonic buffet with porous trailing edges",
           "imageUrl": null
         }
       ]
@@ -2182,6 +2172,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nyG8XAmtYeQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nyG8XAmtYeQ",
+          "publishedOn": "2024-04-23T15:00:42.000Z",
+          "wordCount": null,
+          "title": "Why Airport Security Suddenly Got Better",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=72yYvLLryus",
           "author": null,
           "description": "",
@@ -2819,6 +2819,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZaMVwA9RuYA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZaMVwA9RuYA",
+          "publishedOn": "2024-04-23T13:00:36.000Z",
+          "wordCount": null,
+          "title": "You can play a bard by just lying all the time",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Jy3vpZwqxgw",
           "author": null,

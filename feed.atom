@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-23T00:05:35.556Z</updated>
+    <updated>2024-04-24T00:35:57.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Airport Security Suddenly Got Better]]></title>
+        <id>https://www.youtube.com/watch?v=nyG8XAmtYeQ</id>
+        <link href="https://www.youtube.com/watch?v=nyG8XAmtYeQ"/>
+        <updated>2024-04-23T15:00:42.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can play a bard by just lying all the time]]></title>
+        <id>https://www.youtube.com/watch?v=ZaMVwA9RuYA</id>
+        <link href="https://www.youtube.com/watch?v=ZaMVwA9RuYA"/>
+        <updated>2024-04-23T13:00:36.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four vortices on a rotating sphere]]></title>
+        <id>https://www.youtube.com/watch?v=MTADUAkOBcc</id>
+        <link href="https://www.youtube.com/watch?v=MTADUAkOBcc"/>
+        <updated>2024-04-23T09:00:27.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The World’s First Intercity Maglev Train]]></title>
         <id>https://www.youtube.com/watch?v=72yYvLLryus</id>
@@ -2443,24 +2470,6 @@
         <updated>2024-01-25T14:42:52.000Z</updated>
         <author>
             <name>braintruffle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can we make commercial aircraft faster?  Mitigating transonic buffet with porous trailing edges]]></title>
-        <id>https://www.youtube.com/watch?v=ddomrz1cz_U</id>
-        <link href="https://www.youtube.com/watch?v=ddomrz1cz_U"/>
-        <updated>2024-01-25T11:00:34.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Epilepsy warning] Filming a moving source]]></title>
-        <id>https://www.youtube.com/watch?v=Ud0O4k_mbvw</id>
-        <link href="https://www.youtube.com/watch?v=Ud0O4k_mbvw"/>
-        <updated>2024-01-25T10:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
 </feed>
