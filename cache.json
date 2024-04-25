@@ -173,16 +173,6 @@
           "wordCount": null,
           "title": "But what is a GPT?  Visual intro to Transformers | Deep learning, chapter 5",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=81QNyDnYtg0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=81QNyDnYtg0",
-          "publishedOn": "2024-01-26T06:00:04.000Z",
-          "wordCount": null,
-          "title": "Simulating the electric field and a moving charge",
-          "imageUrl": null
         }
       ]
     },
@@ -271,6 +261,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BJYR0G7TYU0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BJYR0G7TYU0",
+          "publishedOn": "2024-04-24T09:00:16.000Z",
+          "wordCount": null,
+          "title": "What would a superluminal light source look like in a non-relativistic universe?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=MTADUAkOBcc",
           "author": null,
@@ -1150,16 +1150,6 @@
           "wordCount": null,
           "title": "Classics revisited: Multiple reflections of light in a raindrop",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Uv-DGLClbU0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Uv-DGLClbU0",
-          "publishedOn": "2024-01-26T10:00:21.000Z",
-          "wordCount": null,
-          "title": "Soap with longer polymers",
-          "imageUrl": null
         }
       ]
     },
@@ -1383,16 +1373,6 @@
           "publishedOn": "2024-01-30T15:00:03.000Z",
           "wordCount": null,
           "title": "Did The Future Already Happen? - The Paradox of Time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ld4K5nw9gsk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ld4K5nw9gsk",
-          "publishedOn": "2024-01-25T15:00:41.000Z",
-          "wordCount": null,
-          "title": "What If Our Sun Disappeared? #kurzgesagt #shorts",
           "imageUrl": null
         }
       ]
@@ -1709,16 +1689,6 @@
           "publishedOn": "2024-02-01T14:57:03.000Z",
           "wordCount": null,
           "title": "Werner Herzog's Philosophy of Nature",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kLZ1BXzABuc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kLZ1BXzABuc",
-          "publishedOn": "2024-01-25T22:01:32.000Z",
-          "wordCount": null,
-          "title": "SUNN O)))'s Shoshin (初心) Duo Live at Pioneer Works (Full Set)",
           "imageUrl": null
         }
       ]
@@ -2147,18 +2117,7 @@
       "title": "braintruffle",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV4Rx1m-9HmtqHET7GjnVOA",
       "siteUrl": "https://www.youtube.com/channel/UCV4Rx1m-9HmtqHET7GjnVOA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=dhYqflvJMXc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dhYqflvJMXc",
-          "publishedOn": "2024-01-25T14:42:52.000Z",
-          "wordCount": null,
-          "title": "A Simple Answer to the Complexity of Spaceflight",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jump Trajectory",
@@ -2429,16 +2388,6 @@
           "publishedOn": "2024-02-01T13:00:43.000Z",
           "wordCount": null,
           "title": "The Insane Engineering of Re-Entry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qtOlzyc4v8Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qtOlzyc4v8Q",
-          "publishedOn": "2024-01-26T10:30:11.000Z",
-          "wordCount": null,
-          "title": "Massive Abandoned Towers in Austria",
           "imageUrl": null
         }
       ]
