@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "Meet the Mandelbrot Set",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u9GAnW8xFJY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u9GAnW8xFJY",
-          "publishedOn": "2024-01-27T03:48:01.000Z",
-          "wordCount": null,
-          "title": "Decoding Math's Most Famous Fractal: The Mandelbrot Set",
-          "imageUrl": null
         }
       ]
     },
@@ -261,6 +251,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nw4Zlsm1Mks",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nw4Zlsm1Mks",
+          "publishedOn": "2024-04-25T09:00:39.000Z",
+          "wordCount": null,
+          "title": "DNA-like molecules with Coulomb interactions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BJYR0G7TYU0",
           "author": null,
@@ -1140,16 +1140,6 @@
           "wordCount": null,
           "title": "Soap with flexible polymers in an increasing electric field",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qw8aoJ1nOdI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qw8aoJ1nOdI",
-          "publishedOn": "2024-01-27T10:00:38.000Z",
-          "wordCount": null,
-          "title": "Classics revisited: Multiple reflections of light in a raindrop",
-          "imageUrl": null
         }
       ]
     },
@@ -1225,6 +1215,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BNAgDOZCydY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BNAgDOZCydY",
+          "publishedOn": "2024-04-25T14:00:13.000Z",
+          "wordCount": null,
+          "title": "How You Can Live Forever... Maybe. #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=S-gRXjKUnVs",
           "author": null,
