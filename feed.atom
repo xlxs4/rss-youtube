@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-26T00:36:03.544Z</updated>
+    <updated>2024-04-27T00:35:42.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Justice for Gemini #minecraft #gemini]]></title>
+        <id>https://www.youtube.com/watch?v=DZoGhEqY-tE</id>
+        <link href="https://www.youtube.com/watch?v=DZoGhEqY-tE"/>
+        <updated>2024-04-26T23:38:26.000Z</updated>
+        <author>
+            <name>Emergent Garden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI/ML+Physics: Recap and Summary [Physics Informed Machine Learning]]]></title>
+        <id>https://www.youtube.com/watch?v=GCz6afDVy5Y</id>
+        <link href="https://www.youtube.com/watch?v=GCz6afDVy5Y"/>
+        <updated>2024-04-26T12:00:13.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Allen-Cahn equation on the sphere, with improved behavior at the poles]]></title>
+        <id>https://www.youtube.com/watch?v=fAJrBuGeo84</id>
+        <link href="https://www.youtube.com/watch?v=fAJrBuGeo84"/>
+        <updated>2024-04-26T09:00:29.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How You Can Live Forever... Maybe. #shorts]]></title>
         <id>https://www.youtube.com/watch?v=BNAgDOZCydY</id>
@@ -2407,24 +2434,6 @@
         <updated>2024-01-28T13:55:00.000Z</updated>
         <author>
             <name>Programmers are also human</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soap with flexible polymers in an increasing electric field]]></title>
-        <id>https://www.youtube.com/watch?v=qpEypyIcGRk</id>
-        <link href="https://www.youtube.com/watch?v=qpEypyIcGRk"/>
-        <updated>2024-01-28T10:00:37.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My party stole a sheep from a big frog]]></title>
-        <id>https://www.youtube.com/watch?v=mSzEua2U6uk</id>
-        <link href="https://www.youtube.com/watch?v=mSzEua2U6uk"/>
-        <updated>2024-01-28T00:27:09.000Z</updated>
-        <author>
-            <name>Runesmith</name>
         </author>
     </entry>
 </feed>

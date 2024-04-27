@@ -252,6 +252,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fAJrBuGeo84",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fAJrBuGeo84",
+          "publishedOn": "2024-04-26T09:00:29.000Z",
+          "wordCount": null,
+          "title": "The Allen-Cahn equation on the sphere, with improved behavior at the poles",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nw4Zlsm1Mks",
           "author": null,
           "description": "",
@@ -1130,16 +1140,6 @@
           "wordCount": null,
           "title": "[Epilepsy warning] Filming a moving source with two lenses",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qpEypyIcGRk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qpEypyIcGRk",
-          "publishedOn": "2024-01-28T10:00:37.000Z",
-          "wordCount": null,
-          "title": "Soap with flexible polymers in an increasing electric field",
-          "imageUrl": null
         }
       ]
     },
@@ -1382,6 +1382,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GCz6afDVy5Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GCz6afDVy5Y",
+          "publishedOn": "2024-04-26T12:00:13.000Z",
+          "wordCount": null,
+          "title": "AI/ML+Physics: Recap and Summary [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wHg72Tnp1Ek",
           "author": null,
@@ -2615,6 +2625,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DZoGhEqY-tE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DZoGhEqY-tE",
+          "publishedOn": "2024-04-26T23:38:26.000Z",
+          "wordCount": null,
+          "title": "Justice for Gemini #minecraft #gemini",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Xd5PLYl4Q5Q",
           "author": null,
           "description": "",
@@ -2846,16 +2866,6 @@
           "publishedOn": "2024-02-06T15:00:23.000Z",
           "wordCount": null,
           "title": "The Ultimate Authority",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mSzEua2U6uk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mSzEua2U6uk",
-          "publishedOn": "2024-01-28T00:27:09.000Z",
-          "wordCount": null,
-          "title": "My party stole a sheep from a big frog",
           "imageUrl": null
         }
       ]
