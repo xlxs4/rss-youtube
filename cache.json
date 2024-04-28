@@ -252,6 +252,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=I-EHItQk5tc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I-EHItQk5tc",
+          "publishedOn": "2024-04-27T09:00:11.000Z",
+          "wordCount": null,
+          "title": "The double peak disappears when the source filmed with a gradient index lens is slower",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fAJrBuGeo84",
           "author": null,
           "description": "",
@@ -1129,16 +1139,6 @@
           "publishedOn": "2024-01-30T10:00:08.000Z",
           "wordCount": null,
           "title": "Soap and water",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sbVDhLUEVug",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sbVDhLUEVug",
-          "publishedOn": "2024-01-29T10:00:39.000Z",
-          "wordCount": null,
-          "title": "[Epilepsy warning] Filming a moving source with two lenses",
           "imageUrl": null
         }
       ]
@@ -2599,16 +2599,6 @@
           "publishedOn": "2024-02-04T15:18:44.000Z",
           "wordCount": null,
           "title": "I visit Startup.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S7aHFwAPMww",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S7aHFwAPMww",
-          "publishedOn": "2024-01-28T13:55:00.000Z",
-          "wordCount": null,
-          "title": "Interview with Venture Capitalist in 2024",
           "imageUrl": null
         }
       ]
