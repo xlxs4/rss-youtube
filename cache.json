@@ -135,6 +135,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XsLK3tPy9SI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XsLK3tPy9SI",
+          "publishedOn": "2024-04-28T15:22:38.000Z",
+          "wordCount": null,
+          "title": "Temperature in LLMs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FJtFZwbvkI4",
           "author": null,
           "description": "",
@@ -251,6 +261,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EHx54yYnT7Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EHx54yYnT7Y",
+          "publishedOn": "2024-04-28T09:00:18.000Z",
+          "wordCount": null,
+          "title": "DNA-like molecules in higher temperature and flying ice cubes",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=I-EHItQk5tc",
           "author": null,
@@ -1129,16 +1149,6 @@
           "publishedOn": "2024-01-31T10:00:14.000Z",
           "wordCount": null,
           "title": "Classics revisited: There's someone in my prism and it's not me",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AaQxKFFhXJU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AaQxKFFhXJU",
-          "publishedOn": "2024-01-30T10:00:08.000Z",
-          "wordCount": null,
-          "title": "Soap and water",
           "imageUrl": null
         }
       ]
@@ -2531,6 +2541,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=k4OdxGrI36w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k4OdxGrI36w",
+          "publishedOn": "2024-04-28T13:57:08.000Z",
+          "wordCount": null,
+          "title": "Interview with Metaverse Founder 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aWfYxg-Ypm4",
           "author": null,
