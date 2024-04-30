@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6iO8TtCs_Cw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6iO8TtCs_Cw",
+          "publishedOn": "2024-04-29T17:08:37.000Z",
+          "wordCount": null,
+          "title": "Can Large Language Models Understand ‘Meaning’?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=z-VFby8rWZE",
           "author": null,
           "description": "",
@@ -103,16 +113,6 @@
           "publishedOn": "2024-02-01T19:37:11.000Z",
           "wordCount": null,
           "title": "History of the Mandelbrot Set",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S0gwtGLuQEM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S0gwtGLuQEM",
-          "publishedOn": "2024-01-30T19:34:36.000Z",
-          "wordCount": null,
-          "title": "Meet the Mandelbrot Set",
           "imageUrl": null
         }
       ]
@@ -261,6 +261,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vAOuy21n4tc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vAOuy21n4tc",
+          "publishedOn": "2024-04-29T09:00:43.000Z",
+          "wordCount": null,
+          "title": "The Rock-Paper-Scissors equation on the sphere, with improved behavior at the poles",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EHx54yYnT7Y",
           "author": null,
@@ -1140,16 +1150,6 @@
           "wordCount": null,
           "title": "Soap and water in an increasing electric field",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EEz736F1Vj4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EEz736F1Vj4",
-          "publishedOn": "2024-01-31T10:00:14.000Z",
-          "wordCount": null,
-          "title": "Classics revisited: There's someone in my prism and it's not me",
-          "imageUrl": null
         }
       ]
     },
@@ -1373,16 +1373,6 @@
           "publishedOn": "2024-02-08T15:00:34.000Z",
           "wordCount": null,
           "title": "Can You Escape a Black Hole? #kurzgesagt #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wwSzpaTHyS8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wwSzpaTHyS8",
-          "publishedOn": "2024-01-30T15:00:03.000Z",
-          "wordCount": null,
-          "title": "Did The Future Already Happen? - The Paradox of Time",
           "imageUrl": null
         }
       ]
@@ -1718,6 +1708,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=twY2q1F-ciI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=twY2q1F-ciI",
+          "publishedOn": "2024-04-29T20:00:07.000Z",
+          "wordCount": null,
+          "title": "Can Particles be Quantum Entangled Across Time?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KcbTbTxPMLc",
           "author": null,
@@ -2779,16 +2779,6 @@
           "publishedOn": "2024-02-01T16:43:45.000Z",
           "wordCount": null,
           "title": "Unreal Water Plugin: Wave Height Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e7nRcC-9-dc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e7nRcC-9-dc",
-          "publishedOn": "2024-01-30T22:47:59.000Z",
-          "wordCount": null,
-          "title": "What are Gerstner Waves?",
           "imageUrl": null
         }
       ]

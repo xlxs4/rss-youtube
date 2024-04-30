@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-04-29T00:36:50.002Z</updated>
+    <updated>2024-04-30T00:35:05.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can Particles be Quantum Entangled Across Time?]]></title>
+        <id>https://www.youtube.com/watch?v=twY2q1F-ciI</id>
+        <link href="https://www.youtube.com/watch?v=twY2q1F-ciI"/>
+        <updated>2024-04-29T20:00:07.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Large Language Models Understand ‘Meaning’?]]></title>
+        <id>https://www.youtube.com/watch?v=6iO8TtCs_Cw</id>
+        <link href="https://www.youtube.com/watch?v=6iO8TtCs_Cw"/>
+        <updated>2024-04-29T17:08:37.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rock-Paper-Scissors equation on the sphere, with improved behavior at the poles]]></title>
+        <id>https://www.youtube.com/watch?v=vAOuy21n4tc</id>
+        <link href="https://www.youtube.com/watch?v=vAOuy21n4tc"/>
+        <updated>2024-04-29T09:00:43.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Temperature in LLMs]]></title>
         <id>https://www.youtube.com/watch?v=XsLK3tPy9SI</id>
@@ -2407,42 +2434,6 @@
         <updated>2024-02-01T10:00:37.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classics revisited: There's someone in my prism and it's not me]]></title>
-        <id>https://www.youtube.com/watch?v=EEz736F1Vj4</id>
-        <link href="https://www.youtube.com/watch?v=EEz736F1Vj4"/>
-        <updated>2024-01-31T10:00:14.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Gerstner Waves?]]></title>
-        <id>https://www.youtube.com/watch?v=e7nRcC-9-dc</id>
-        <link href="https://www.youtube.com/watch?v=e7nRcC-9-dc"/>
-        <updated>2024-01-30T22:47:59.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Mandelbrot Set]]></title>
-        <id>https://www.youtube.com/watch?v=S0gwtGLuQEM</id>
-        <link href="https://www.youtube.com/watch?v=S0gwtGLuQEM"/>
-        <updated>2024-01-30T19:34:36.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did The Future Already Happen? - The Paradox of Time]]></title>
-        <id>https://www.youtube.com/watch?v=wwSzpaTHyS8</id>
-        <link href="https://www.youtube.com/watch?v=wwSzpaTHyS8"/>
-        <updated>2024-01-30T15:00:03.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
