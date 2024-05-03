@@ -94,16 +94,6 @@
           "wordCount": null,
           "title": "Mandelbrot's Mysterious Fractal Edge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZAduYAa7iQQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZAduYAa7iQQ",
-          "publishedOn": "2024-02-02T22:21:16.000Z",
-          "wordCount": null,
-          "title": "Podcast Trailer: The Joy of Why Season 3",
-          "imageUrl": null
         }
       ]
     },
@@ -251,6 +241,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XFJw1wZhk7o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XFJw1wZhk7o",
+          "publishedOn": "2024-05-02T09:00:22.000Z",
+          "wordCount": null,
+          "title": "The rock-paper-scissors-lizard-Spock equation on the sphere, with improved behavior at the poles",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lueXagqCo4M",
           "author": null,
@@ -1130,16 +1130,6 @@
           "wordCount": null,
           "title": "Standing waves in a beam splitter",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4yY9n0AMCZQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4yY9n0AMCZQ",
-          "publishedOn": "2024-02-02T23:00:08.000Z",
-          "wordCount": null,
-          "title": "Polymers with charged extremities",
-          "imageUrl": null
         }
       ]
     },
@@ -1215,6 +1205,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=W6-BGkuA2Gc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W6-BGkuA2Gc",
+          "publishedOn": "2024-05-02T14:00:15.000Z",
+          "wordCount": null,
+          "title": "Why You Need a Space Elevator And How You Can Build One #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OvKr6loCciE",
           "author": null,
@@ -1878,6 +1878,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mzsCZsi-Cjo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mzsCZsi-Cjo",
+          "publishedOn": "2024-05-02T11:49:47.000Z",
+          "wordCount": null,
+          "title": "Hands-On Parallelizing Simulations and Parameter Estimation with JuliaSim",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oS8Dok5kuN0",
           "author": null,
@@ -2739,16 +2749,6 @@
           "publishedOn": "2024-02-27T02:31:18.000Z",
           "wordCount": null,
           "title": "Stretching Character Animations in Unreal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iBcQjam2X_k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iBcQjam2X_k",
-          "publishedOn": "2024-02-02T20:00:18.000Z",
-          "wordCount": null,
-          "title": "Writing Visual Novels",
           "imageUrl": null
         }
       ]
