@@ -223,16 +223,6 @@
           "wordCount": null,
           "title": "Photographing a trillion-star galaxy (quick-and-dirty \"how-to\")",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fm9-UiprBAQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Fm9-UiprBAQ",
-          "publishedOn": "2024-02-05T20:49:25.000Z",
-          "wordCount": null,
-          "title": "(Super)ellipse billiard",
-          "imageUrl": null
         }
       ]
     },
@@ -241,6 +231,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=q7o2_EbVopY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q7o2_EbVopY",
+          "publishedOn": "2024-05-05T09:00:39.000Z",
+          "wordCount": null,
+          "title": "Transition from symmetric to asymmetric rock-paper-scissors-lizard-Spock equation on the sphere",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=x9L5ZGbbPi8",
           "author": null,
@@ -1119,16 +1119,6 @@
           "publishedOn": "2024-02-07T10:00:00.000Z",
           "wordCount": null,
           "title": "Bloopers14: Melting ice, with an explosive ending",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GtiN-Cn6uTs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GtiN-Cn6uTs",
-          "publishedOn": "2024-02-06T10:00:16.000Z",
-          "wordCount": null,
-          "title": "Using a beam splitter to filter out high frequencies",
           "imageUrl": null
         }
       ]
