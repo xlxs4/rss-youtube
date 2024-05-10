@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7Png4-WSv4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Png4-WSv4I",
+          "publishedOn": "2024-05-09T09:00:04.000Z",
+          "wordCount": null,
+          "title": "Replicants are like any other machine: Trying to model DNA replication",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iEuK10BpHZ0",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "Melting a block of ice on a shelf",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W9dEzePvu2U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W9dEzePvu2U",
-          "publishedOn": "2024-02-10T10:00:30.000Z",
-          "wordCount": null,
-          "title": "Filming a moving source - Averaged energy",
-          "imageUrl": null
         }
       ]
     },
@@ -1767,16 +1767,6 @@
           "wordCount": null,
           "title": "Beyond Einstein: Part One - Gravitational Rainbows",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=caepEUi2IZ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=caepEUi2IZ4",
-          "publishedOn": "2024-02-09T21:00:07.000Z",
-          "wordCount": null,
-          "title": "Intelligent Thinking About Artificial Intelligence",
-          "imageUrl": null
         }
       ]
     },
@@ -1878,6 +1868,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=b47FIsAb8zw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b47FIsAb8zw",
+          "publishedOn": "2024-05-09T16:34:27.000Z",
+          "wordCount": null,
+          "title": "Advancements in Acausal Modeling with ModelingToolkit v9",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mzsCZsi-Cjo",
           "author": null,
