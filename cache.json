@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SRDWUG0vAx0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SRDWUG0vAx0",
+          "publishedOn": "2024-05-10T09:00:23.000Z",
+          "wordCount": null,
+          "title": "Waves of two different frequencies crossing a biconvex lens",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7Png4-WSv4I",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "[Flash warning] A Michelson interferometer",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2Ye02xMyaro",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2Ye02xMyaro",
-          "publishedOn": "2024-02-11T10:00:03.000Z",
-          "wordCount": null,
-          "title": "Melting a block of ice on a shelf",
-          "imageUrl": null
         }
       ]
     },
@@ -1688,6 +1688,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vvRkq_nzjzI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vvRkq_nzjzI",
+          "publishedOn": "2024-05-10T20:00:06.000Z",
+          "wordCount": null,
+          "title": "Is Dark Energy Decaying?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=olT7um1vcxU",
           "author": null,
