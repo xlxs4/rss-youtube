@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mSCI7UmYZ7E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mSCI7UmYZ7E",
+          "publishedOn": "2024-05-11T09:00:37.000Z",
+          "wordCount": null,
+          "title": "More stable vortices in Euler's equations on a rotating sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SRDWUG0vAx0",
           "author": null,
           "description": "",
@@ -1109,16 +1119,6 @@
           "publishedOn": "2024-02-13T10:00:30.000Z",
           "wordCount": null,
           "title": "Melting a block of ice on a shelf - Orientation and initial position",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CcT3OQS_HJ0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CcT3OQS_HJ0",
-          "publishedOn": "2024-02-12T10:00:06.000Z",
-          "wordCount": null,
-          "title": "[Flash warning] A Michelson interferometer",
           "imageUrl": null
         }
       ]
