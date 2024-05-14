@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z_KZnXUNyus",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z_KZnXUNyus",
+          "publishedOn": "2024-05-13T09:00:49.000Z",
+          "wordCount": null,
+          "title": "Cherenkov radiation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E-gKHLX0mUA",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "Increasing the force constant for interacting water molecules, featuring music by State Azure",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VXV3WxQNF_Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VXV3WxQNF_Y",
-          "publishedOn": "2024-02-14T10:00:30.000Z",
-          "wordCount": null,
-          "title": "[Flash warning] Classics revisited: A rotated Sierpinski wave protection",
-          "imageUrl": null
         }
       ]
     },
@@ -1840,38 +1840,7 @@
       "title": "Chris Rackauckas",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCugBGdUbn6PeH03iPZtr-JQ",
       "siteUrl": "https://www.youtube.com/channel/UCugBGdUbn6PeH03iPZtr-JQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Y8SvNHKNY4s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y8SvNHKNY4s",
-          "publishedOn": "2024-02-13T20:29:12.000Z",
-          "wordCount": null,
-          "title": "Automatic differentiation | New derivations of nonlinear solve and ODE adjoints",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MqZpK455RNM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MqZpK455RNM",
-          "publishedOn": "2024-02-13T18:00:12.000Z",
-          "wordCount": null,
-          "title": "What is (scientific) machine learning? An introduction through Julia's Lux.jl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ixAYZAYudAM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ixAYZAYudAM",
-          "publishedOn": "2024-02-13T17:06:03.000Z",
-          "wordCount": null,
-          "title": "What is machine learning and how can it be connected to prior scientific knowledge (SciML)?",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "JuliaHub",
@@ -2532,16 +2501,6 @@
           "publishedOn": "2024-03-11T14:32:32.000Z",
           "wordCount": null,
           "title": "I just changed my entire game",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=71MzN_vYEgo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=71MzN_vYEgo",
-          "publishedOn": "2024-02-13T14:48:31.000Z",
-          "wordCount": null,
-          "title": "Wishlist Mind Over Magnet on Steam!",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-13T00:04:43.909Z</updated>
+    <updated>2024-05-14T00:04:59.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cherenkov radiation]]></title>
+        <id>https://www.youtube.com/watch?v=z_KZnXUNyus</id>
+        <link href="https://www.youtube.com/watch?v=z_KZnXUNyus"/>
+        <updated>2024-05-13T09:00:49.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phase space moose]]></title>
         <id>https://www.youtube.com/watch?v=AZTBSTmCNQw</id>
@@ -2371,51 +2380,6 @@
         <updated>2024-02-15T10:00:28.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Flash warning] Classics revisited: A rotated Sierpinski wave protection]]></title>
-        <id>https://www.youtube.com/watch?v=VXV3WxQNF_Y</id>
-        <link href="https://www.youtube.com/watch?v=VXV3WxQNF_Y"/>
-        <updated>2024-02-14T10:00:30.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic differentiation | New derivations of nonlinear solve and ODE adjoints]]></title>
-        <id>https://www.youtube.com/watch?v=Y8SvNHKNY4s</id>
-        <link href="https://www.youtube.com/watch?v=Y8SvNHKNY4s"/>
-        <updated>2024-02-13T20:29:12.000Z</updated>
-        <author>
-            <name>Chris Rackauckas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is (scientific) machine learning? An introduction through Julia's Lux.jl]]></title>
-        <id>https://www.youtube.com/watch?v=MqZpK455RNM</id>
-        <link href="https://www.youtube.com/watch?v=MqZpK455RNM"/>
-        <updated>2024-02-13T18:00:12.000Z</updated>
-        <author>
-            <name>Chris Rackauckas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is machine learning and how can it be connected to prior scientific knowledge (SciML)?]]></title>
-        <id>https://www.youtube.com/watch?v=ixAYZAYudAM</id>
-        <link href="https://www.youtube.com/watch?v=ixAYZAYudAM"/>
-        <updated>2024-02-13T17:06:03.000Z</updated>
-        <author>
-            <name>Chris Rackauckas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wishlist Mind Over Magnet on Steam!]]></title>
-        <id>https://www.youtube.com/watch?v=71MzN_vYEgo</id>
-        <link href="https://www.youtube.com/watch?v=71MzN_vYEgo"/>
-        <updated>2024-02-13T14:48:31.000Z</updated>
-        <author>
-            <name>Game Maker's Toolkit</name>
         </author>
     </entry>
 </feed>
