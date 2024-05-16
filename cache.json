@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=I_EFG1dOv2A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I_EFG1dOv2A",
+          "publishedOn": "2024-05-15T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Within cells interlinked: Replicated DNA curling up in a box",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Pf0Qg_PgJ-k",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "Filming a moving source with two lenses - Averaged energy",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cPvAIkgnDbc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cPvAIkgnDbc",
-          "publishedOn": "2024-02-16T10:00:33.000Z",
-          "wordCount": null,
-          "title": "Video #1100: Allen-Cahn equation on the sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -1354,16 +1354,6 @@
           "wordCount": null,
           "title": "...To Survive a Nuclear War",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pj20omaP7WI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pj20omaP7WI",
-          "publishedOn": "2024-02-15T15:00:16.000Z",
-          "wordCount": null,
-          "title": "Something in Your Kitchen Emits Antimatter #kurzgesagt #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -1470,16 +1460,6 @@
           "publishedOn": "2024-02-23T20:15:00.000Z",
           "wordCount": null,
           "title": "AI/ML+Physics Part 1: Choosing what to model [Physics Informed Machine Learning]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JoFW2uSd3Uo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JoFW2uSd3Uo",
-          "publishedOn": "2024-02-16T11:00:27.000Z",
-          "wordCount": null,
-          "title": "Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering",
           "imageUrl": null
         }
       ]
