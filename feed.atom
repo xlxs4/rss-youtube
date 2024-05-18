@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-17T00:04:57.764Z</updated>
+    <updated>2024-05-18T00:05:04.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Quantum Teleportation? | Podcast: Joy of Why]]></title>
+        <id>https://www.youtube.com/watch?v=m_UeIh9TCGk</id>
+        <link href="https://www.youtube.com/watch?v=m_UeIh9TCGk"/>
+        <updated>2024-05-17T23:12:02.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Density, speed and vorticity of unstable vortices on the sphere, featuring music by State Azure]]></title>
+        <id>https://www.youtube.com/watch?v=J629iH1M3U4</id>
+        <link href="https://www.youtube.com/watch?v=J629iH1M3U4"/>
+        <updated>2024-05-17T09:00:23.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 100 Games That Taught Me Game Design]]></title>
         <id>https://www.youtube.com/watch?v=gWNXGfXOrro</id>
@@ -2218,33 +2236,6 @@
         <updated>2024-02-18T13:00:08.000Z</updated>
         <author>
             <name>Programmers are also human</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Molecular popcorn]]></title>
-        <id>https://www.youtube.com/watch?v=vFh9acSGAdI</id>
-        <link href="https://www.youtube.com/watch?v=vFh9acSGAdI"/>
-        <updated>2024-02-18T10:00:37.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing Minecraft with ChatGPT]]></title>
-        <id>https://www.youtube.com/watch?v=NTHWMk5pcYs</id>
-        <link href="https://www.youtube.com/watch?v=NTHWMk5pcYs"/>
-        <updated>2024-02-17T14:00:14.000Z</updated>
-        <author>
-            <name>Emergent Garden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging With Light?]]></title>
-        <id>https://www.youtube.com/watch?v=1Y91DioUufA</id>
-        <link href="https://www.youtube.com/watch?v=1Y91DioUufA"/>
-        <updated>2024-02-17T13:48:11.000Z</updated>
-        <author>
-            <name>Low Byte Productions</name>
         </author>
     </entry>
 </feed>

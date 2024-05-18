@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m_UeIh9TCGk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m_UeIh9TCGk",
+          "publishedOn": "2024-05-17T23:12:02.000Z",
+          "wordCount": null,
+          "title": "What Is Quantum Teleportation? | Podcast: Joy of Why",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j8kOZZHS3YE",
           "author": null,
           "description": "",
@@ -221,6 +231,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=J629iH1M3U4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J629iH1M3U4",
+          "publishedOn": "2024-05-17T09:00:23.000Z",
+          "wordCount": null,
+          "title": "Density, speed and vorticity of unstable vortices on the sphere, featuring music by State Azure",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BpkKYLuwRlc",
           "author": null,
@@ -1099,16 +1119,6 @@
           "publishedOn": "2024-02-19T10:00:22.000Z",
           "wordCount": null,
           "title": "Spirals in the rock-paper-scissors equation on the sphere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vFh9acSGAdI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vFh9acSGAdI",
-          "publishedOn": "2024-02-18T10:00:37.000Z",
-          "wordCount": null,
-          "title": "Molecular popcorn",
           "imageUrl": null
         }
       ]
@@ -2462,16 +2472,6 @@
           "wordCount": null,
           "title": "AI Building Stuff in Minecraft",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NTHWMk5pcYs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NTHWMk5pcYs",
-          "publishedOn": "2024-02-17T14:00:14.000Z",
-          "wordCount": null,
-          "title": "Playing Minecraft with ChatGPT",
-          "imageUrl": null
         }
       ]
     },
@@ -2779,16 +2779,6 @@
           "publishedOn": "2024-03-08T15:48:58.000Z",
           "wordCount": null,
           "title": "Rendering 3D Graphics On An Oscilloscope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1Y91DioUufA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1Y91DioUufA",
-          "publishedOn": "2024-02-17T13:48:11.000Z",
-          "wordCount": null,
-          "title": "Debugging With Light?",
           "imageUrl": null
         }
       ]
