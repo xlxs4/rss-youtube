@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-18T00:05:04.174Z</updated>
+    <updated>2024-05-19T00:05:24.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What "Follow Your Dreams" Misses | Harvey Mudd Commencement Speech 2024]]></title>
+        <id>https://www.youtube.com/watch?v=W3I3kAg2J7w</id>
+        <link href="https://www.youtube.com/watch?v=W3I3kAg2J7w"/>
+        <updated>2024-05-18T14:50:47.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance 57-19: DNA replication (long version)]]></title>
+        <id>https://www.youtube.com/watch?v=vYfMEr0182g</id>
+        <link href="https://www.youtube.com/watch?v=vYfMEr0182g"/>
+        <updated>2024-05-18T09:00:49.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance 34 to 46: DNA replication (short version)]]></title>
+        <id>https://www.youtube.com/watch?v=SM9VlOINcrQ</id>
+        <link href="https://www.youtube.com/watch?v=SM9VlOINcrQ"/>
+        <updated>2024-05-18T09:00:17.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Quantum Teleportation? | Podcast: Joy of Why]]></title>
         <id>https://www.youtube.com/watch?v=m_UeIh9TCGk</id>
@@ -2209,33 +2236,6 @@
         <updated>2024-02-19T15:00:47.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spirals in the rock-paper-scissors equation on the sphere]]></title>
-        <id>https://www.youtube.com/watch?v=YaoqL0d573w</id>
-        <link href="https://www.youtube.com/watch?v=YaoqL0d573w"/>
-        <updated>2024-02-19T10:00:22.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ingesting and Deploying Functional Mockup Units in JuliaSim]]></title>
-        <id>https://www.youtube.com/watch?v=zTLKenphuJs</id>
-        <link href="https://www.youtube.com/watch?v=zTLKenphuJs"/>
-        <updated>2024-02-19T05:00:11.000Z</updated>
-        <author>
-            <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview with Misled Core Developer 2024]]></title>
-        <id>https://www.youtube.com/watch?v=A_iyxlB3-Iw</id>
-        <link href="https://www.youtube.com/watch?v=A_iyxlB3-Iw"/>
-        <updated>2024-02-18T13:00:08.000Z</updated>
-        <author>
-            <name>Programmers are also human</name>
         </author>
     </entry>
 </feed>

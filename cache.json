@@ -105,6 +105,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=W3I3kAg2J7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W3I3kAg2J7w",
+          "publishedOn": "2024-05-18T14:50:47.000Z",
+          "wordCount": null,
+          "title": "What \"Follow Your Dreams\" Misses | Harvey Mudd Commencement Speech 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XsLK3tPy9SI",
           "author": null,
           "description": "",
@@ -231,6 +241,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vYfMEr0182g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vYfMEr0182g",
+          "publishedOn": "2024-05-18T09:00:49.000Z",
+          "wordCount": null,
+          "title": "Enhance 57-19: DNA replication (long version)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SM9VlOINcrQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SM9VlOINcrQ",
+          "publishedOn": "2024-05-18T09:00:17.000Z",
+          "wordCount": null,
+          "title": "Enhance 34 to 46: DNA replication (short version)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=J629iH1M3U4",
           "author": null,
@@ -1110,16 +1140,6 @@
           "wordCount": null,
           "title": "[Flash warning] Moving one mirror in a Michelson interferometer",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YaoqL0d573w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YaoqL0d573w",
-          "publishedOn": "2024-02-19T10:00:22.000Z",
-          "wordCount": null,
-          "title": "Spirals in the rock-paper-scissors equation on the sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -1936,16 +1956,6 @@
           "wordCount": null,
           "title": "Semgrep and Julia",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zTLKenphuJs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zTLKenphuJs",
-          "publishedOn": "2024-02-19T05:00:11.000Z",
-          "wordCount": null,
-          "title": "Ingesting and Deploying Functional Mockup Units in JuliaSim",
-          "imageUrl": null
         }
       ]
     },
@@ -2428,16 +2438,6 @@
           "publishedOn": "2024-02-24T13:15:02.000Z",
           "wordCount": null,
           "title": "Interview with Artificialist Intelligence (A.I.) Founder 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A_iyxlB3-Iw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A_iyxlB3-Iw",
-          "publishedOn": "2024-02-18T13:00:08.000Z",
-          "wordCount": null,
-          "title": "Interview with Misled Core Developer 2024",
           "imageUrl": null
         }
       ]
