@@ -242,6 +242,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zCWwBysMM_w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zCWwBysMM_w",
+          "publishedOn": "2024-05-19T09:00:50.000Z",
+          "wordCount": null,
+          "title": "Cherenkov radiation of an even faster particle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vYfMEr0182g",
           "author": null,
           "description": "",
@@ -1129,16 +1139,6 @@
           "publishedOn": "2024-02-21T10:00:29.000Z",
           "wordCount": null,
           "title": "My ice cream is melting!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eFPpgCD6iao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eFPpgCD6iao",
-          "publishedOn": "2024-02-20T10:00:26.000Z",
-          "wordCount": null,
-          "title": "[Flash warning] Moving one mirror in a Michelson interferometer",
           "imageUrl": null
         }
       ]
@@ -2237,16 +2237,6 @@
           "publishedOn": "2024-02-20T15:00:34.000Z",
           "wordCount": null,
           "title": "How the M1 Turbine Engine Works",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sk6f0JTAQWY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sk6f0JTAQWY",
-          "publishedOn": "2024-02-19T15:00:47.000Z",
-          "wordCount": null,
-          "title": "The M1 Abrams Sounds Crazy",
           "imageUrl": null
         }
       ]
