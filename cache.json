@@ -242,6 +242,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=79wwQUcpU88",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=79wwQUcpU88",
+          "publishedOn": "2024-05-20T09:00:06.000Z",
+          "wordCount": null,
+          "title": "Density and direction of speed of more stable vortices on a rotating sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zCWwBysMM_w",
           "author": null,
           "description": "",
@@ -1130,16 +1140,6 @@
           "wordCount": null,
           "title": "Vorticity of spirals in the rock-paper-scissors equation on the sphere",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OBGIriSydI8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OBGIriSydI8",
-          "publishedOn": "2024-02-21T10:00:29.000Z",
-          "wordCount": null,
-          "title": "My ice cream is melting!",
-          "imageUrl": null
         }
       ]
     },
@@ -1373,16 +1373,6 @@
           "publishedOn": "2024-02-27T15:00:02.000Z",
           "wordCount": null,
           "title": "The Paradox of an Infinite Universe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LrIRuqr_Ozg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LrIRuqr_Ozg",
-          "publishedOn": "2024-02-20T15:00:02.000Z",
-          "wordCount": null,
-          "title": "...To Survive a Nuclear War",
           "imageUrl": null
         }
       ]
@@ -2228,16 +2218,6 @@
           "wordCount": null,
           "title": "How this tank makes a smoke screen",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z3x8Z7cOY6w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z3x8Z7cOY6w",
-          "publishedOn": "2024-02-20T15:00:34.000Z",
-          "wordCount": null,
-          "title": "How the M1 Turbine Engine Works",
-          "imageUrl": null
         }
       ]
     },
@@ -2568,6 +2548,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5kY8hspSrJo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5kY8hspSrJo",
+          "publishedOn": "2024-05-20T04:33:14.000Z",
+          "wordCount": null,
+          "title": "Invincible Trolls",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JWctzXhaxzQ",
           "author": null,
           "description": "",
@@ -2653,18 +2643,7 @@
       "title": "Department of Biosystems Science, ETH Zurich",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpL1A9fSlFjItQ1br_5tzpg",
       "siteUrl": "https://www.youtube.com/channel/UCpL1A9fSlFjItQ1br_5tzpg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=HJsIOfliV5s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HJsIOfliV5s",
-          "publishedOn": "2024-02-20T12:11:22.000Z",
-          "wordCount": null,
-          "title": "2023 in Review",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "SynBio Oxford",
