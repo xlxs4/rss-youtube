@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-21T00:04:53.666Z</updated>
+    <updated>2024-05-22T00:04:52.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This Black Hole Could be Bigger Than The Universe]]></title>
+        <id>https://www.youtube.com/watch?v=71eUes30gwc</id>
+        <link href="https://www.youtube.com/watch?v=71eUes30gwc"/>
+        <updated>2024-05-21T14:00:02.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A and C and T and G. The alphabet of you: Almost complete DNA replication]]></title>
+        <id>https://www.youtube.com/watch?v=qc_qzBwaiBA</id>
+        <link href="https://www.youtube.com/watch?v=qc_qzBwaiBA"/>
+        <updated>2024-05-21T09:00:48.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Density and direction of speed of more stable vortices on a rotating sphere]]></title>
         <id>https://www.youtube.com/watch?v=79wwQUcpU88</id>
@@ -2191,24 +2209,6 @@
         <updated>2024-02-22T15:05:09.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vorticity of spirals in the rock-paper-scissors equation on the sphere]]></title>
-        <id>https://www.youtube.com/watch?v=05CflnMj938</id>
-        <link href="https://www.youtube.com/watch?v=05CflnMj938"/>
-        <updated>2024-02-22T10:00:00.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How this tank makes a smoke screen]]></title>
-        <id>https://www.youtube.com/watch?v=JirS1i7GoaE</id>
-        <link href="https://www.youtube.com/watch?v=JirS1i7GoaE"/>
-        <updated>2024-02-21T15:00:13.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
