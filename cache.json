@@ -105,6 +105,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rjVY7HXN6qA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rjVY7HXN6qA",
+          "publishedOn": "2024-05-22T17:56:07.000Z",
+          "wordCount": null,
+          "title": "In the vector space of all advice...",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=W3I3kAg2J7w",
           "author": null,
           "description": "",
@@ -241,6 +251,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DbikgFefxEs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DbikgFefxEs",
+          "publishedOn": "2024-05-22T09:00:10.000Z",
+          "wordCount": null,
+          "title": "Cherenkov radiation, with corrected refractive index",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=qc_qzBwaiBA",
           "author": null,
@@ -1130,16 +1150,6 @@
           "wordCount": null,
           "title": "Four-armed \"hydra\" molecules in an increasing electric field",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GOO7IZvMj0I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GOO7IZvMj0I",
-          "publishedOn": "2024-02-23T10:00:20.000Z",
-          "wordCount": null,
-          "title": "[Flash warning] A refracting rotated Sierpinski wave protection",
-          "imageUrl": null
         }
       ]
     },
@@ -1689,16 +1699,6 @@
           "publishedOn": "2024-03-08T15:14:29.000Z",
           "wordCount": null,
           "title": "Climate Futurism | Science and Society",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YjdhEh5mlXc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YjdhEh5mlXc",
-          "publishedOn": "2024-02-22T15:05:09.000Z",
-          "wordCount": null,
-          "title": "LEYA (Live at Pioneer Works)",
           "imageUrl": null
         }
       ]

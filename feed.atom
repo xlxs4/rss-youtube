@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-22T00:04:52.921Z</updated>
+    <updated>2024-05-23T00:04:54.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In the vector space of all advice...]]></title>
+        <id>https://www.youtube.com/watch?v=rjVY7HXN6qA</id>
+        <link href="https://www.youtube.com/watch?v=rjVY7HXN6qA"/>
+        <updated>2024-05-22T17:56:07.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cherenkov radiation, with corrected refractive index]]></title>
+        <id>https://www.youtube.com/watch?v=DbikgFefxEs</id>
+        <link href="https://www.youtube.com/watch?v=DbikgFefxEs"/>
+        <updated>2024-05-22T09:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Black Hole Could be Bigger Than The Universe]]></title>
         <id>https://www.youtube.com/watch?v=71eUes30gwc</id>
@@ -2191,24 +2209,6 @@
         <updated>2024-02-23T15:00:10.000Z</updated>
         <author>
             <name>Design Doc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Flash warning] A refracting rotated Sierpinski wave protection]]></title>
-        <id>https://www.youtube.com/watch?v=GOO7IZvMj0I</id>
-        <link href="https://www.youtube.com/watch?v=GOO7IZvMj0I"/>
-        <updated>2024-02-23T10:00:20.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEYA (Live at Pioneer Works)]]></title>
-        <id>https://www.youtube.com/watch?v=YjdhEh5mlXc</id>
-        <link href="https://www.youtube.com/watch?v=YjdhEh5mlXc"/>
-        <updated>2024-02-22T15:05:09.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
