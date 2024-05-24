@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-23T00:04:54.751Z</updated>
+    <updated>2024-05-24T00:05:46.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why This Japanese Train is Revolutionary]]></title>
+        <id>https://www.youtube.com/watch?v=XtUQo-tN3Ps</id>
+        <link href="https://www.youtube.com/watch?v=XtUQo-tN3Ps"/>
+        <updated>2024-05-23T17:07:45.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Scientific Exploration: Building Dynamic System Simulations with Genie Builder]]></title>
+        <id>https://www.youtube.com/watch?v=wZpgL6D8tuE</id>
+        <link href="https://www.youtube.com/watch?v=wZpgL6D8tuE"/>
+        <updated>2024-05-23T11:54:07.000Z</updated>
+        <author>
+            <name>JuliaHub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four interacting pressure systems on a rotating sphere]]></title>
+        <id>https://www.youtube.com/watch?v=1515PfULWCc</id>
+        <link href="https://www.youtube.com/watch?v=1515PfULWCc"/>
+        <updated>2024-05-23T09:00:02.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In the vector space of all advice...]]></title>
         <id>https://www.youtube.com/watch?v=rjVY7HXN6qA</id>
@@ -2182,33 +2209,6 @@
         <updated>2024-02-24T13:15:02.000Z</updated>
         <author>
             <name>Programmers are also human</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four-armed "hydra" molecules in an increasing electric field]]></title>
-        <id>https://www.youtube.com/watch?v=rMsMF9S6byA</id>
-        <link href="https://www.youtube.com/watch?v=rMsMF9S6byA"/>
-        <updated>2024-02-24T10:00:40.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI/ML+Physics Part 1: Choosing what to model [Physics Informed Machine Learning]]]></title>
-        <id>https://www.youtube.com/watch?v=ARMk955pGbg</id>
-        <link href="https://www.youtube.com/watch?v=ARMk955pGbg"/>
-        <updated>2024-02-23T20:15:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes A Great In-Game Shop?]]></title>
-        <id>https://www.youtube.com/watch?v=B_pfFVXBvic</id>
-        <link href="https://www.youtube.com/watch?v=B_pfFVXBvic"/>
-        <updated>2024-02-23T15:00:10.000Z</updated>
-        <author>
-            <name>Design Doc</name>
         </author>
     </entry>
 </feed>

@@ -252,6 +252,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1515PfULWCc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1515PfULWCc",
+          "publishedOn": "2024-05-23T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Four interacting pressure systems on a rotating sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DbikgFefxEs",
           "author": null,
           "description": "",
@@ -1140,16 +1150,6 @@
           "wordCount": null,
           "title": "Spirals in the rock-paper-scissors equation on the sphere: Phase and gradient of phase",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rMsMF9S6byA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rMsMF9S6byA",
-          "publishedOn": "2024-02-24T10:00:40.000Z",
-          "wordCount": null,
-          "title": "Four-armed \"hydra\" molecules in an increasing electric field",
-          "imageUrl": null
         }
       ]
     },
@@ -1500,16 +1500,6 @@
           "publishedOn": "2024-03-01T11:00:41.000Z",
           "wordCount": null,
           "title": "AI/ML+Physics Part 2: Curating Training Data [Physics Informed Machine Learning]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ARMk955pGbg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ARMk955pGbg",
-          "publishedOn": "2024-02-23T20:15:00.000Z",
-          "wordCount": null,
-          "title": "AI/ML+Physics Part 1: Choosing what to model [Physics Informed Machine Learning]",
           "imageUrl": null
         }
       ]
@@ -1868,6 +1858,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wZpgL6D8tuE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wZpgL6D8tuE",
+          "publishedOn": "2024-05-23T11:54:07.000Z",
+          "wordCount": null,
+          "title": "Empowering Scientific Exploration: Building Dynamic System Simulations with Genie Builder",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=b47FIsAb8zw",
           "author": null,
           "description": "",
@@ -1999,6 +1999,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XtUQo-tN3Ps",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XtUQo-tN3Ps",
+          "publishedOn": "2024-05-23T17:07:45.000Z",
+          "wordCount": null,
+          "title": "Why This Japanese Train is Revolutionary",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=I1ixCSAc3bc",
           "author": null,
@@ -2277,16 +2287,6 @@
           "publishedOn": "2024-03-21T15:00:06.000Z",
           "wordCount": null,
           "title": "What Makes A Good Sleep Mechanic?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B_pfFVXBvic",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B_pfFVXBvic",
-          "publishedOn": "2024-02-23T15:00:10.000Z",
-          "wordCount": null,
-          "title": "What Makes A Great In-Game Shop?",
           "imageUrl": null
         }
       ]
