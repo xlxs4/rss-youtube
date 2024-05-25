@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-24T00:05:46.094Z</updated>
+    <updated>2024-05-25T00:04:41.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why This Maglev Train is Unstable]]></title>
+        <id>https://www.youtube.com/watch?v=TyUUm7PjTKs</id>
+        <link href="https://www.youtube.com/watch?v=TyUUm7PjTKs"/>
+        <updated>2024-05-24T15:00:34.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloopers 17: You look lonely. I can fix that. Replicated DNS getting pinned]]></title>
+        <id>https://www.youtube.com/watch?v=1ZwVO2LUshI</id>
+        <link href="https://www.youtube.com/watch?v=1ZwVO2LUshI"/>
+        <updated>2024-05-24T09:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why This Japanese Train is Revolutionary]]></title>
         <id>https://www.youtube.com/watch?v=XtUQo-tN3Ps</id>
@@ -2191,24 +2209,6 @@
         <updated>2024-02-25T15:47:18.000Z</updated>
         <author>
             <name>No Boilerplate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spirals in the rock-paper-scissors equation on the sphere: Phase and gradient of phase]]></title>
-        <id>https://www.youtube.com/watch?v=Us9-ed9WP3M</id>
-        <link href="https://www.youtube.com/watch?v=Us9-ed9WP3M"/>
-        <updated>2024-02-25T10:00:28.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview with Artificialist Intelligence (A.I.) Founder 2024]]></title>
-        <id>https://www.youtube.com/watch?v=SLosyUI5puk</id>
-        <link href="https://www.youtube.com/watch?v=SLosyUI5puk"/>
-        <updated>2024-02-24T13:15:02.000Z</updated>
-        <author>
-            <name>Programmers are also human</name>
         </author>
     </entry>
 </feed>
