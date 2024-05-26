@@ -233,16 +233,6 @@
           "wordCount": null,
           "title": "Gravitational collapse of a moose",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tUH86cnk5hM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tUH86cnk5hM",
-          "publishedOn": "2024-02-25T21:12:23.000Z",
-          "wordCount": null,
-          "title": "Photographing a trillion-star galaxy (quick-and-dirty \"how-to\")",
-          "imageUrl": null
         }
       ]
     },
@@ -251,6 +241,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kPsCquKggeU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kPsCquKggeU",
+          "publishedOn": "2024-05-25T09:00:29.000Z",
+          "wordCount": null,
+          "title": "Waves of two different frequencies crossing a diffraction grating",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1ZwVO2LUshI",
           "author": null,
@@ -1140,16 +1140,6 @@
           "wordCount": null,
           "title": "Self-assembling \"Lego\" molecules in an increasing electric field",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x5PR-3S8vHk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x5PR-3S8vHk",
-          "publishedOn": "2024-02-26T10:00:39.000Z",
-          "wordCount": null,
-          "title": "Moving one mirror in a Michelson interferometer - averaged energy",
-          "imageUrl": null
         }
       ]
     },
@@ -2000,6 +1990,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=orLpzaqjr6o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=orLpzaqjr6o",
+          "publishedOn": "2024-05-25T15:00:41.000Z",
+          "wordCount": null,
+          "title": "Japanese Trains Have Always Been One Step Ahead",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TyUUm7PjTKs",
           "author": null,
           "description": "",
@@ -2626,16 +2626,6 @@
           "wordCount": null,
           "title": "Does Your Campaign SUCK, or is it Just Your Players?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aujQIR9d3dk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aujQIR9d3dk",
-          "publishedOn": "2024-02-25T22:24:27.000Z",
-          "wordCount": null,
-          "title": "The Most Interesting City I've Ever Read About",
-          "imageUrl": null
         }
       ]
     },
@@ -2664,16 +2654,6 @@
           "publishedOn": "2024-03-19T15:12:39.000Z",
           "wordCount": null,
           "title": "The Autism Constellation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CwfKlX3rA6E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CwfKlX3rA6E",
-          "publishedOn": "2024-02-25T15:47:18.000Z",
-          "wordCount": null,
-          "title": "NixOS: Everything Everywhere All At Once",
           "imageUrl": null
         }
       ]
