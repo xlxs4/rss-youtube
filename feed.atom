@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-26T00:05:23.403Z</updated>
+    <updated>2024-05-27T00:05:11.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do Maglev Trains Make Sense in America?]]></title>
+        <id>https://www.youtube.com/watch?v=raCo7LpqKWc</id>
+        <link href="https://www.youtube.com/watch?v=raCo7LpqKWc"/>
+        <updated>2024-05-26T15:00:45.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Building in Creative Mode]]></title>
+        <id>https://www.youtube.com/watch?v=VXQ-AnQ6N6A</id>
+        <link href="https://www.youtube.com/watch?v=VXQ-AnQ6N6A"/>
+        <updated>2024-05-26T13:00:32.000Z</updated>
+        <author>
+            <name>Emergent Garden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video #1200: Weather on the Earth]]></title>
+        <id>https://www.youtube.com/watch?v=CDuMPM0jRKM</id>
+        <link href="https://www.youtube.com/watch?v=CDuMPM0jRKM"/>
+        <updated>2024-05-26T09:00:08.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japanese Trains Have Always Been One Step Ahead]]></title>
         <id>https://www.youtube.com/watch?v=orLpzaqjr6o</id>
@@ -2173,24 +2200,6 @@
         <updated>2024-02-27T15:00:02.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-assembling "Lego" molecules in an increasing electric field]]></title>
-        <id>https://www.youtube.com/watch?v=pw3y2AgfjzI</id>
-        <link href="https://www.youtube.com/watch?v=pw3y2AgfjzI"/>
-        <updated>2024-02-27T10:00:39.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stretching Character Animations in Unreal]]></title>
-        <id>https://www.youtube.com/watch?v=LD3drW_zETQ</id>
-        <link href="https://www.youtube.com/watch?v=LD3drW_zETQ"/>
-        <updated>2024-02-27T02:31:18.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
         </author>
     </entry>
 </feed>
