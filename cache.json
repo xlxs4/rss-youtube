@@ -242,6 +242,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IIEgnt-phJc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IIEgnt-phJc",
+          "publishedOn": "2024-05-27T09:00:10.000Z",
+          "wordCount": null,
+          "title": "Have you ever questioned the nature of your reality? First successful DNA replication in silico",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CDuMPM0jRKM",
           "author": null,
           "description": "",
@@ -1130,16 +1140,6 @@
           "wordCount": null,
           "title": "[Flash warning] How well does a Sierpinski carpet separate wavelengths?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wY5-JFl7XI0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wY5-JFl7XI0",
-          "publishedOn": "2024-02-28T10:00:44.000Z",
-          "wordCount": null,
-          "title": "The rock-paper-scissors-lizzard-Spock reaction-diffusion equation on the sphere.",
-          "imageUrl": null
         }
       ]
     },
@@ -1196,16 +1196,6 @@
           "publishedOn": "2024-02-29T05:22:54.000Z",
           "wordCount": null,
           "title": "Richard Borcherds, \"Vinberg’s Algorithm and Kac-Moody algebras\",  VDL, Feb 26, 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-ObSn6DGgyw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-ObSn6DGgyw",
-          "publishedOn": "2024-02-28T02:32:05.000Z",
-          "wordCount": null,
-          "title": "AMR - The Association for Mathematical Research",
           "imageUrl": null
         }
       ]
@@ -1373,16 +1363,6 @@
           "publishedOn": "2024-02-29T15:00:02.000Z",
           "wordCount": null,
           "title": "24 Hours Remaining...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=isdLel273rQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=isdLel273rQ",
-          "publishedOn": "2024-02-27T15:00:02.000Z",
-          "wordCount": null,
-          "title": "The Paradox of an Infinite Universe",
           "imageUrl": null
         }
       ]

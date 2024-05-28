@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-27T00:05:11.465Z</updated>
+    <updated>2024-05-28T00:04:54.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Have you ever questioned the nature of your reality? First successful DNA replication in silico]]></title>
+        <id>https://www.youtube.com/watch?v=IIEgnt-phJc</id>
+        <link href="https://www.youtube.com/watch?v=IIEgnt-phJc"/>
+        <updated>2024-05-27T09:00:10.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do Maglev Trains Make Sense in America?]]></title>
         <id>https://www.youtube.com/watch?v=raCo7LpqKWc</id>
@@ -2173,33 +2182,6 @@
         <updated>2024-02-28T19:43:57.000Z</updated>
         <author>
             <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rock-paper-scissors-lizzard-Spock reaction-diffusion equation on the sphere.]]></title>
-        <id>https://www.youtube.com/watch?v=wY5-JFl7XI0</id>
-        <link href="https://www.youtube.com/watch?v=wY5-JFl7XI0"/>
-        <updated>2024-02-28T10:00:44.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMR - The Association for Mathematical Research]]></title>
-        <id>https://www.youtube.com/watch?v=-ObSn6DGgyw</id>
-        <link href="https://www.youtube.com/watch?v=-ObSn6DGgyw"/>
-        <updated>2024-02-28T02:32:05.000Z</updated>
-        <author>
-            <name>Association for Mathematical Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Paradox of an Infinite Universe]]></title>
-        <id>https://www.youtube.com/watch?v=isdLel273rQ</id>
-        <link href="https://www.youtube.com/watch?v=isdLel273rQ"/>
-        <updated>2024-02-27T15:00:02.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
