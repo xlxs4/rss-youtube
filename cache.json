@@ -242,6 +242,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=G9We_mjjzGI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G9We_mjjzGI",
+          "publishedOn": "2024-05-28T09:00:11.000Z",
+          "wordCount": null,
+          "title": "Cherenkov radiation for increasing wave speed",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IIEgnt-phJc",
           "author": null,
           "description": "",
@@ -1130,16 +1140,6 @@
           "wordCount": null,
           "title": "Rigid interacting tripod molecules",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SXhmZ0Bqni8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SXhmZ0Bqni8",
-          "publishedOn": "2024-02-29T10:00:21.000Z",
-          "wordCount": null,
-          "title": "[Flash warning] How well does a Sierpinski carpet separate wavelengths?",
-          "imageUrl": null
         }
       ]
     },
@@ -1187,16 +1187,6 @@
           "wordCount": null,
           "title": "VDL - Richard Borcherds, \"Vinberg's Algorithm and Kac-Moody algebras\"",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TKQ_P-mk2Jg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TKQ_P-mk2Jg",
-          "publishedOn": "2024-02-29T05:22:54.000Z",
-          "wordCount": null,
-          "title": "Richard Borcherds, \"Vinberg’s Algorithm and Kac-Moody algebras\",  VDL, Feb 26, 2024",
-          "imageUrl": null
         }
       ]
     },
@@ -1205,6 +1195,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=itBBsQRv0EU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=itBBsQRv0EU",
+          "publishedOn": "2024-05-28T14:00:01.000Z",
+          "wordCount": null,
+          "title": "Your Hidden Superpower",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=71eUes30gwc",
           "author": null,
@@ -2518,16 +2518,6 @@
           "publishedOn": "2024-03-03T17:09:18.000Z",
           "wordCount": null,
           "title": "Multiplayer Sync in Unreal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IhaTSGKbwhU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IhaTSGKbwhU",
-          "publishedOn": "2024-02-28T19:43:57.000Z",
-          "wordCount": null,
-          "title": "Unreal Multiplayer Quick Explainer",
           "imageUrl": null
         }
       ]
