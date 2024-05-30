@@ -242,6 +242,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=S9CZtxO59QI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S9CZtxO59QI",
+          "publishedOn": "2024-05-29T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Weather on the Earth, with 17 pressure systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G9We_mjjzGI",
           "author": null,
           "description": "",
@@ -1130,16 +1140,6 @@
           "wordCount": null,
           "title": "From 3-armed to 5-armed spirals in the rock-paper-scissors-lizard-Spock equation on the sphere",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B7DrvKpDS10",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B7DrvKpDS10",
-          "publishedOn": "2024-03-01T10:00:13.000Z",
-          "wordCount": null,
-          "title": "Rigid interacting tripod molecules",
-          "imageUrl": null
         }
       ]
     },
@@ -1176,16 +1176,6 @@
           "publishedOn": "2024-03-02T05:07:45.000Z",
           "wordCount": null,
           "title": "VDL -  Richard Borcherds, \"Vinberg's Algorithm and Kac-Moody algebras\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fIJYzqDMWnA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fIJYzqDMWnA",
-          "publishedOn": "2024-03-01T03:42:17.000Z",
-          "wordCount": null,
-          "title": "VDL - Richard Borcherds, \"Vinberg's Algorithm and Kac-Moody algebras\"",
           "imageUrl": null
         }
       ]
@@ -1344,26 +1334,6 @@
           "wordCount": null,
           "title": "Will Europe Freeze over When the Gulf Stream Stops? #kurzgesagt #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oj_OwYR9jGQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Oj_OwYR9jGQ",
-          "publishedOn": "2024-02-29T15:00:31.000Z",
-          "wordCount": null,
-          "title": "What Does the Moon Smell Like? #kurzgesagt #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LS6lecUl3M0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LS6lecUl3M0",
-          "publishedOn": "2024-02-29T15:00:02.000Z",
-          "wordCount": null,
-          "title": "24 Hours Remaining...",
-          "imageUrl": null
         }
       ]
     },
@@ -1372,6 +1342,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-zrY7P2dVC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-zrY7P2dVC4",
+          "publishedOn": "2024-05-29T13:00:01.000Z",
+          "wordCount": null,
+          "title": "Physics Informed Neural Networks (PINNs) [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=7Q8oNNsZGcA",
           "author": null,
@@ -1460,16 +1440,6 @@
           "publishedOn": "2024-03-08T11:00:39.000Z",
           "wordCount": null,
           "title": "AI/ML+Physics Part 3: Designing an Architecture [Physics Informed Machine Learning]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g-S0m2zcKUg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g-S0m2zcKUg",
-          "publishedOn": "2024-03-01T11:00:41.000Z",
-          "wordCount": null,
-          "title": "AI/ML+Physics Part 2: Curating Training Data [Physics Informed Machine Learning]",
           "imageUrl": null
         }
       ]
@@ -1781,7 +1751,18 @@
       "title": "Freya Holmér",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA",
       "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LSNQuFEDOyQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LSNQuFEDOyQ",
+          "publishedOn": "2024-05-29T19:00:07.000Z",
+          "wordCount": null,
+          "title": "Lerp smoothing is broken - a journey of decay and delta time",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "CodeAesthetic",
@@ -2218,16 +2199,6 @@
           "wordCount": null,
           "title": "I'm Happy Hermeus Let Me Upload This",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UyKtxsdI0z8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UyKtxsdI0z8",
-          "publishedOn": "2024-02-29T19:00:25.000Z",
-          "wordCount": null,
-          "title": "Could This Be The Next Air Force One? - Hermeus",
-          "imageUrl": null
         }
       ]
     },
@@ -2313,6 +2284,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw",
       "siteUrl": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vaL2AKw2crw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vaL2AKw2crw",
+          "publishedOn": "2024-05-29T12:25:02.000Z",
+          "wordCount": null,
+          "title": "The GMTK Game Jam is super-sized for 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gWNXGfXOrro",
           "author": null,
