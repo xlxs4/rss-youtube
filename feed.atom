@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-30T00:05:43.437Z</updated>
+    <updated>2024-05-31T00:04:42.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JuliaHealth Meeting (Americas/Europe/Africa) – May 30th, 2024]]></title>
+        <id>https://www.youtube.com/watch?v=mOxNccQHKdU</id>
+        <link href="https://www.youtube.com/watch?v=mOxNccQHKdU"/>
+        <updated>2024-05-30T22:43:22.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satyrs are a problem]]></title>
+        <id>https://www.youtube.com/watch?v=nDp2YCzHsR4</id>
+        <link href="https://www.youtube.com/watch?v=nDp2YCzHsR4"/>
+        <updated>2024-05-30T18:58:13.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Old Can You Get? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=BLW4hCFwSXE</id>
+        <link href="https://www.youtube.com/watch?v=BLW4hCFwSXE"/>
+        <updated>2024-05-30T14:00:07.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trauma Experts Bessel van der Kolk and Rachel Yehuda on EMDR]]></title>
+        <id>https://www.youtube.com/watch?v=wxI7F7eSbk0</id>
+        <link href="https://www.youtube.com/watch?v=wxI7F7eSbk0"/>
+        <updated>2024-05-30T13:23:28.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ketamine Revolution: Trauma Experts Bessel van der Kolk and Rachel Yehuda In Conversation]]></title>
+        <id>https://www.youtube.com/watch?v=5iGUiGQcXeg</id>
+        <link href="https://www.youtube.com/watch?v=5iGUiGQcXeg"/>
+        <updated>2024-05-30T13:18:31.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An excellent block-pushing puzzler on an open ocean]]></title>
+        <id>https://www.youtube.com/watch?v=VD9TX9qGQOo</id>
+        <link href="https://www.youtube.com/watch?v=VD9TX9qGQOo"/>
+        <updated>2024-05-30T12:09:44.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neutral soap and water with increasing force constant]]></title>
+        <id>https://www.youtube.com/watch?v=ACsRlSB0QzQ</id>
+        <link href="https://www.youtube.com/watch?v=ACsRlSB0QzQ"/>
+        <updated>2024-05-30T09:00:07.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCHiM DEMO OUT NOW! - Steam Next Fest Trailer]]></title>
+        <id>https://www.youtube.com/watch?v=fv0kjLgkYe0</id>
+        <link href="https://www.youtube.com/watch?v=fv0kjLgkYe0"/>
+        <updated>2024-05-30T07:01:50.000Z</updated>
+        <author>
+            <name>Ewoud</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lerp smoothing is broken - a journey of decay and delta time]]></title>
         <id>https://www.youtube.com/watch?v=LSNQuFEDOyQ</id>
@@ -2137,24 +2209,6 @@
         <updated>2024-03-03T10:00:35.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From 3-armed to 5-armed spirals in the rock-paper-scissors-lizard-Spock equation on the sphere]]></title>
-        <id>https://www.youtube.com/watch?v=INTnNNjIEYw</id>
-        <link href="https://www.youtube.com/watch?v=INTnNNjIEYw"/>
-        <updated>2024-03-02T10:00:10.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VDL -  Richard Borcherds, "Vinberg's Algorithm and Kac-Moody algebras"]]></title>
-        <id>https://www.youtube.com/watch?v=Jn2GsJ05Xq8</id>
-        <link href="https://www.youtube.com/watch?v=Jn2GsJ05Xq8"/>
-        <updated>2024-03-02T05:07:45.000Z</updated>
-        <author>
-            <name>Association for Mathematical Research</name>
         </author>
     </entry>
 </feed>
