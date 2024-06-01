@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-05-31T00:04:42.528Z</updated>
+    <updated>2024-06-01T00:05:05.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What's Up With These Sketchy Tutorials?]]></title>
+        <id>https://www.youtube.com/watch?v=78x1gZnavFg</id>
+        <link href="https://www.youtube.com/watch?v=78x1gZnavFg"/>
+        <updated>2024-05-31T15:00:05.000Z</updated>
+        <author>
+            <name>Design Doc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searching for Dark Matter with a Tabletop 'Quantum Compass']]></title>
+        <id>https://www.youtube.com/watch?v=H-_CGnTkuL0</id>
+        <link href="https://www.youtube.com/watch?v=H-_CGnTkuL0"/>
+        <updated>2024-05-31T14:07:08.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy flux of waves of two different frequencies crossing a diffraction grating]]></title>
+        <id>https://www.youtube.com/watch?v=XO11UZEkXe8</id>
+        <link href="https://www.youtube.com/watch?v=XO11UZEkXe8"/>
+        <updated>2024-05-31T09:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your understanding of evolution is incomplete. Here's why]]></title>
+        <id>https://www.youtube.com/watch?v=kR7--yt3PRo</id>
+        <link href="https://www.youtube.com/watch?v=kR7--yt3PRo"/>
+        <updated>2024-05-31T02:50:30.000Z</updated>
+        <author>
+            <name>NanoRooms</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JuliaHealth Meeting (Americas/Europe/Africa) – May 30th, 2024]]></title>
         <id>https://www.youtube.com/watch?v=mOxNccQHKdU</id>
@@ -2200,15 +2236,6 @@
         <updated>2024-03-03T17:09:18.000Z</updated>
         <author>
             <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving one mirror in a Michelson interferometer - time lapse of averaged energy]]></title>
-        <id>https://www.youtube.com/watch?v=mSn2u5rAPks</id>
-        <link href="https://www.youtube.com/watch?v=mSn2u5rAPks"/>
-        <updated>2024-03-03T10:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
 </feed>
