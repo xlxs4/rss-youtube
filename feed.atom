@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-01T00:05:05.115Z</updated>
+    <updated>2024-06-02T00:05:27.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More stable weather with 16 pressure systems, westerlies and trade winds]]></title>
+        <id>https://www.youtube.com/watch?v=LFHwja0sms4</id>
+        <link href="https://www.youtube.com/watch?v=LFHwja0sms4"/>
+        <updated>2024-06-01T09:00:27.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's Up With These Sketchy Tutorials?]]></title>
         <id>https://www.youtube.com/watch?v=78x1gZnavFg</id>
@@ -2218,24 +2227,6 @@
         <updated>2024-03-05T10:00:41.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interacting tripod molecules in an increasing electric field]]></title>
-        <id>https://www.youtube.com/watch?v=CoeEGhALkMU</id>
-        <link href="https://www.youtube.com/watch?v=CoeEGhALkMU"/>
-        <updated>2024-03-04T10:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiplayer Sync in Unreal]]></title>
-        <id>https://www.youtube.com/watch?v=ngnGke2Suug</id>
-        <link href="https://www.youtube.com/watch?v=ngnGke2Suug"/>
-        <updated>2024-03-03T17:09:18.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
         </author>
     </entry>
 </feed>
