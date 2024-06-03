@@ -252,6 +252,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ssvYb562odo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ssvYb562odo",
+          "publishedOn": "2024-06-02T09:00:44.000Z",
+          "wordCount": null,
+          "title": "Neutral soap and water at decreasing temperature",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LFHwja0sms4",
           "author": null,
           "description": "",
@@ -1140,16 +1150,6 @@
           "wordCount": null,
           "title": "A Michelson interferometer",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=waVWBUVFK0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=waVWBUVFK0A",
-          "publishedOn": "2024-03-05T10:00:41.000Z",
-          "wordCount": null,
-          "title": "Two quantum wave packets colliding on a sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -2000,6 +2000,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EOJzpZ__9s8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EOJzpZ__9s8",
+          "publishedOn": "2024-06-02T18:38:45.000Z",
+          "wordCount": null,
+          "title": "Why the GameBoy won",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=raCo7LpqKWc",
           "author": null,

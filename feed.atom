@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-02T00:05:27.376Z</updated>
+    <updated>2024-06-03T00:05:05.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why the GameBoy won]]></title>
+        <id>https://www.youtube.com/watch?v=EOJzpZ__9s8</id>
+        <link href="https://www.youtube.com/watch?v=EOJzpZ__9s8"/>
+        <updated>2024-06-02T18:38:45.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neutral soap and water at decreasing temperature]]></title>
+        <id>https://www.youtube.com/watch?v=ssvYb562odo</id>
+        <link href="https://www.youtube.com/watch?v=ssvYb562odo"/>
+        <updated>2024-06-02T09:00:44.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More stable weather with 16 pressure systems, westerlies and trade winds]]></title>
         <id>https://www.youtube.com/watch?v=LFHwja0sms4</id>
@@ -2218,15 +2236,6 @@
         <updated>2024-03-05T14:36:21.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two quantum wave packets colliding on a sphere]]></title>
-        <id>https://www.youtube.com/watch?v=waVWBUVFK0A</id>
-        <link href="https://www.youtube.com/watch?v=waVWBUVFK0A"/>
-        <updated>2024-03-05T10:00:41.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
         </author>
     </entry>
 </feed>
