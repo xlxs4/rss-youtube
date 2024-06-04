@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-03T00:05:05.614Z</updated>
+    <updated>2024-06-04T00:05:04.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Who's Afraid of Gender? Judith Butler and Jack Halberstam in Conversation]]></title>
+        <id>https://www.youtube.com/watch?v=iOS5K4S4GlE</id>
+        <link href="https://www.youtube.com/watch?v=iOS5K4S4GlE"/>
+        <updated>2024-06-03T14:52:58.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cherenkov radiation of two particles moving in opposite directions]]></title>
+        <id>https://www.youtube.com/watch?v=gWztz_IUT1E</id>
+        <link href="https://www.youtube.com/watch?v=gWztz_IUT1E"/>
+        <updated>2024-06-03T09:00:36.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why the GameBoy won]]></title>
         <id>https://www.youtube.com/watch?v=EOJzpZ__9s8</id>
@@ -2200,42 +2218,6 @@
         <updated>2024-03-06T17:12:42.000Z</updated>
         <author>
             <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Michelson interferometer]]></title>
-        <id>https://www.youtube.com/watch?v=Xa8EzXexDM0</id>
-        <link href="https://www.youtube.com/watch?v=Xa8EzXexDM0"/>
-        <updated>2024-03-06T10:00:32.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Your Campaign SUCK, or is it Just Your Players?]]></title>
-        <id>https://www.youtube.com/watch?v=WDlYDzCZhSM</id>
-        <link href="https://www.youtube.com/watch?v=WDlYDzCZhSM"/>
-        <updated>2024-03-06T02:00:18.000Z</updated>
-        <author>
-            <name>Runesmith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syncing Waves Across Multiplayer Clients in Unreal]]></title>
-        <id>https://www.youtube.com/watch?v=-PCQzMkVwfA</id>
-        <link href="https://www.youtube.com/watch?v=-PCQzMkVwfA"/>
-        <updated>2024-03-05T22:23:35.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gravitational collapse of a moose]]></title>
-        <id>https://www.youtube.com/watch?v=Ot0ayBPZURk</id>
-        <link href="https://www.youtube.com/watch?v=Ot0ayBPZURk"/>
-        <updated>2024-03-05T14:36:21.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>

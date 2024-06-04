@@ -233,16 +233,6 @@
           "wordCount": null,
           "title": "Moose dropped on a simple mathematical function (plus annoying bugs)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ot0ayBPZURk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ot0ayBPZURk",
-          "publishedOn": "2024-03-05T14:36:21.000Z",
-          "wordCount": null,
-          "title": "Gravitational collapse of a moose",
-          "imageUrl": null
         }
       ]
     },
@@ -251,6 +241,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gWztz_IUT1E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gWztz_IUT1E",
+          "publishedOn": "2024-06-03T09:00:36.000Z",
+          "wordCount": null,
+          "title": "Cherenkov radiation of two particles moving in opposite directions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ssvYb562odo",
           "author": null,
@@ -1140,16 +1140,6 @@
           "wordCount": null,
           "title": "A molecular foam made of cooled tripods",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xa8EzXexDM0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xa8EzXexDM0",
-          "publishedOn": "2024-03-06T10:00:32.000Z",
-          "wordCount": null,
-          "title": "A Michelson interferometer",
-          "imageUrl": null
         }
       ]
     },
@@ -1471,6 +1461,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iOS5K4S4GlE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iOS5K4S4GlE",
+          "publishedOn": "2024-06-03T14:52:58.000Z",
+          "wordCount": null,
+          "title": "Who's Afraid of Gender? Judith Butler and Jack Halberstam in Conversation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wxI7F7eSbk0",
           "author": null,
@@ -2570,16 +2570,6 @@
           "wordCount": null,
           "title": "Hide the Foreground! Advanced Masking Techniques in Unreal",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-PCQzMkVwfA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-PCQzMkVwfA",
-          "publishedOn": "2024-03-05T22:23:35.000Z",
-          "wordCount": null,
-          "title": "Syncing Waves Across Multiplayer Clients in Unreal",
-          "imageUrl": null
         }
       ]
     },
@@ -2666,16 +2656,6 @@
           "publishedOn": "2024-03-14T21:33:43.000Z",
           "wordCount": null,
           "title": "Slot Machines of War",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WDlYDzCZhSM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WDlYDzCZhSM",
-          "publishedOn": "2024-03-06T02:00:18.000Z",
-          "wordCount": null,
-          "title": "Does Your Campaign SUCK, or is it Just Your Players?",
           "imageUrl": null
         }
       ]
