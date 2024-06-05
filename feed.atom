@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-04T00:05:04.952Z</updated>
+    <updated>2024-06-05T00:05:08.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Who's Afraid of Gender? Judith Butler and Jack Halberstam in Conversation]]></title>
+        <id>https://www.youtube.com/watch?v=ChLv2wK0Eqs</id>
+        <link href="https://www.youtube.com/watch?v=ChLv2wK0Eqs"/>
+        <updated>2024-06-04T12:30:06.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More stable weather with 16 pressure systems - vorticity and wind direction]]></title>
+        <id>https://www.youtube.com/watch?v=O2p3rtwE5wM</id>
+        <link href="https://www.youtube.com/watch?v=O2p3rtwE5wM"/>
+        <updated>2024-06-04T09:00:28.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who's Afraid of Gender? Judith Butler and Jack Halberstam in Conversation]]></title>
         <id>https://www.youtube.com/watch?v=iOS5K4S4GlE</id>
@@ -2200,24 +2218,6 @@
         <updated>2024-03-07T15:00:38.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A molecular foam made of cooled tripods]]></title>
-        <id>https://www.youtube.com/watch?v=9CroM4KJFJI</id>
-        <link href="https://www.youtube.com/watch?v=9CroM4KJFJI"/>
-        <updated>2024-03-07T10:00:04.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hide the Foreground! Advanced Masking Techniques in Unreal]]></title>
-        <id>https://www.youtube.com/watch?v=EQawNe10ZHQ</id>
-        <link href="https://www.youtube.com/watch?v=EQawNe10ZHQ"/>
-        <updated>2024-03-06T17:12:42.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
         </author>
     </entry>
 </feed>

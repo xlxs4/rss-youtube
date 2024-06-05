@@ -242,6 +242,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O2p3rtwE5wM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O2p3rtwE5wM",
+          "publishedOn": "2024-06-04T09:00:28.000Z",
+          "wordCount": null,
+          "title": "More stable weather with 16 pressure systems - vorticity and wind direction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gWztz_IUT1E",
           "author": null,
           "description": "",
@@ -1130,16 +1140,6 @@
           "wordCount": null,
           "title": "Two quantum wave packets colliding on a sphere - 2D representation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9CroM4KJFJI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9CroM4KJFJI",
-          "publishedOn": "2024-03-07T10:00:04.000Z",
-          "wordCount": null,
-          "title": "A molecular foam made of cooled tripods",
-          "imageUrl": null
         }
       ]
     },
@@ -1461,6 +1461,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ChLv2wK0Eqs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ChLv2wK0Eqs",
+          "publishedOn": "2024-06-04T12:30:06.000Z",
+          "wordCount": null,
+          "title": "Who's Afraid of Gender? Judith Butler and Jack Halberstam in Conversation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iOS5K4S4GlE",
           "author": null,
@@ -2559,16 +2569,6 @@
           "publishedOn": "2024-03-22T17:42:39.000Z",
           "wordCount": null,
           "title": "Dragon's Dogma 2 is better than its Steam page",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EQawNe10ZHQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EQawNe10ZHQ",
-          "publishedOn": "2024-03-06T17:12:42.000Z",
-          "wordCount": null,
-          "title": "Hide the Foreground! Advanced Masking Techniques in Unreal",
           "imageUrl": null
         }
       ]
