@@ -242,6 +242,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tStmVm3QI50",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tStmVm3QI50",
+          "publishedOn": "2024-06-05T09:00:49.000Z",
+          "wordCount": null,
+          "title": "Fatty polymers and water, with and without soap",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O2p3rtwE5wM",
           "author": null,
           "description": "",
@@ -1130,16 +1140,6 @@
           "wordCount": null,
           "title": "[Flash warning] A Ritchey-Chrétien telescope",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J18-1ojilSk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J18-1ojilSk",
-          "publishedOn": "2024-03-08T10:00:13.000Z",
-          "wordCount": null,
-          "title": "Two quantum wave packets colliding on a sphere - 2D representation",
-          "imageUrl": null
         }
       ]
     },
@@ -1324,16 +1324,6 @@
           "wordCount": null,
           "title": "AI Can Literally Lend You a Hand #kurzgesagt #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i981tDgvhPg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i981tDgvhPg",
-          "publishedOn": "2024-03-07T15:00:38.000Z",
-          "wordCount": null,
-          "title": "Will Europe Freeze over When the Gulf Stream Stops? #kurzgesagt #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -1430,16 +1420,6 @@
           "publishedOn": "2024-03-22T10:00:03.000Z",
           "wordCount": null,
           "title": "AI/ML+Physics Part 4: Crafting a Loss Function [Physics Informed Machine Learning]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fiX8c-4K0-Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fiX8c-4K0-Q",
-          "publishedOn": "2024-03-08T11:00:39.000Z",
-          "wordCount": null,
-          "title": "AI/ML+Physics Part 3: Designing an Architecture [Physics Informed Machine Learning]",
           "imageUrl": null
         }
       ]
@@ -2010,6 +1990,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=v8-bFqw9hFo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v8-bFqw9hFo",
+          "publishedOn": "2024-06-05T15:01:05.000Z",
+          "wordCount": null,
+          "title": "NASA has plans to build an even bigger space telescope",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EOJzpZ__9s8",
           "author": null,

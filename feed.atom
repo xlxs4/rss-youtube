@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-05T00:05:08.032Z</updated>
+    <updated>2024-06-06T00:05:17.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NASA has plans to build an even bigger space telescope]]></title>
+        <id>https://www.youtube.com/watch?v=v8-bFqw9hFo</id>
+        <link href="https://www.youtube.com/watch?v=v8-bFqw9hFo"/>
+        <updated>2024-06-05T15:01:05.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fatty polymers and water, with and without soap]]></title>
+        <id>https://www.youtube.com/watch?v=tStmVm3QI50</id>
+        <link href="https://www.youtube.com/watch?v=tStmVm3QI50"/>
+        <updated>2024-06-05T09:00:49.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who's Afraid of Gender? Judith Butler and Jack Halberstam in Conversation]]></title>
         <id>https://www.youtube.com/watch?v=ChLv2wK0Eqs</id>
@@ -2191,33 +2209,6 @@
         <updated>2024-03-08T15:14:29.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI/ML+Physics Part 3: Designing an Architecture [Physics Informed Machine Learning]]]></title>
-        <id>https://www.youtube.com/watch?v=fiX8c-4K0-Q</id>
-        <link href="https://www.youtube.com/watch?v=fiX8c-4K0-Q"/>
-        <updated>2024-03-08T11:00:39.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two quantum wave packets colliding on a sphere - 2D representation]]></title>
-        <id>https://www.youtube.com/watch?v=J18-1ojilSk</id>
-        <link href="https://www.youtube.com/watch?v=J18-1ojilSk"/>
-        <updated>2024-03-08T10:00:13.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Europe Freeze over When the Gulf Stream Stops? #kurzgesagt #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=i981tDgvhPg</id>
-        <link href="https://www.youtube.com/watch?v=i981tDgvhPg"/>
-        <updated>2024-03-07T15:00:38.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
