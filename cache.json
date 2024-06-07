@@ -84,16 +84,6 @@
           "wordCount": null,
           "title": "Solving The Reachability Problem",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
-          "publishedOn": "2024-03-08T23:14:44.000Z",
-          "wordCount": null,
-          "title": "Why Is This Basic Computer Science Problem So Hard?",
-          "imageUrl": null
         }
       ]
     },
@@ -241,6 +231,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-c5Q43RecHM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-c5Q43RecHM",
+          "publishedOn": "2024-06-06T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Waves of two different frequencies crossing a diffraction grating with two layers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tStmVm3QI50",
           "author": null,
@@ -1130,16 +1130,6 @@
           "wordCount": null,
           "title": "Coagulating molecules",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0L-FRxhha4c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0L-FRxhha4c",
-          "publishedOn": "2024-03-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "[Flash warning] A Ritchey-Chrétien telescope",
-          "imageUrl": null
         }
       ]
     },
@@ -1175,6 +1165,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=J8imlz6Lki8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J8imlz6Lki8",
+          "publishedOn": "2024-06-06T14:00:19.000Z",
+          "wordCount": null,
+          "title": "Something Travels Faster than Light #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BLW4hCFwSXE",
           "author": null,
@@ -1332,6 +1332,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nJphsM4obOk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nJphsM4obOk",
+          "publishedOn": "2024-06-06T14:00:42.000Z",
+          "wordCount": null,
+          "title": "Neural ODEs (NODEs) [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-zrY7P2dVC4",
           "author": null,
@@ -1640,16 +1650,6 @@
           "wordCount": null,
           "title": "Pioneer Live: Caterina Barbieri",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bCEQgArn1K0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bCEQgArn1K0",
-          "publishedOn": "2024-03-08T15:14:29.000Z",
-          "wordCount": null,
-          "title": "Climate Futurism | Science and Society",
-          "imageUrl": null
         }
       ]
     },
@@ -1717,36 +1717,6 @@
           "wordCount": null,
           "title": "AI and Quantum Computing: Glimpsing the Near Future",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WuaSoTyqrTA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WuaSoTyqrTA",
-          "publishedOn": "2024-03-08T23:00:07.000Z",
-          "wordCount": null,
-          "title": "Beyond Einstein: Part Three - Gravitational Geysers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=srVTqRdsAXg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=srVTqRdsAXg",
-          "publishedOn": "2024-03-08T22:00:07.000Z",
-          "wordCount": null,
-          "title": "Beyond Einstein: Part Two - Gravitational Echoes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P8pC_yehPH0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P8pC_yehPH0",
-          "publishedOn": "2024-03-08T21:00:06.000Z",
-          "wordCount": null,
-          "title": "Beyond Einstein: Part One - Gravitational Rainbows",
-          "imageUrl": null
         }
       ]
     },
@@ -1813,16 +1783,6 @@
           "publishedOn": "2024-03-17T22:55:50.000Z",
           "wordCount": null,
           "title": "ML Community Call | 2024-01-26",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3dO77hT3VwM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3dO77hT3VwM",
-          "publishedOn": "2024-03-08T18:27:13.000Z",
-          "wordCount": null,
-          "title": "JuliaHealth Meeting (Americas/Europe/Africa) – February 29th, 2024",
           "imageUrl": null
         }
       ]
@@ -2740,18 +2700,7 @@
       "title": "Low Byte Productions",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC56l7uZA209tlPTVOJiJ8Tw",
       "siteUrl": "https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=TAfWea21ooM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TAfWea21ooM",
-          "publishedOn": "2024-03-08T15:48:58.000Z",
-          "wordCount": null,
-          "title": "Rendering 3D Graphics On An Oscilloscope",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "andy fillebrown",
