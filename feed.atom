@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-07T00:05:00.209Z</updated>
+    <updated>2024-06-08T00:05:32.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What could the weather on terraformed Mars look like?]]></title>
+        <id>https://www.youtube.com/watch?v=qLKyAXo5q5E</id>
+        <link href="https://www.youtube.com/watch?v=qLKyAXo5q5E"/>
+        <updated>2024-06-07T09:00:55.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neural ODEs (NODEs) [Physics Informed Machine Learning]]]></title>
         <id>https://www.youtube.com/watch?v=nJphsM4obOk</id>
@@ -2146,24 +2155,6 @@
         <updated>2024-03-10T21:26:42.000Z</updated>
         <author>
             <name>Alexander Gustafsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coagulating molecules]]></title>
-        <id>https://www.youtube.com/watch?v=PPcPPt8Uxzk</id>
-        <link href="https://www.youtube.com/watch?v=PPcPPt8Uxzk"/>
-        <updated>2024-03-10T10:00:30.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview with GenZ in Tech]]></title>
-        <id>https://www.youtube.com/watch?v=Pw1UokzMQ6k</id>
-        <link href="https://www.youtube.com/watch?v=Pw1UokzMQ6k"/>
-        <updated>2024-03-09T14:30:08.000Z</updated>
-        <author>
-            <name>Programmers are also human</name>
         </author>
     </entry>
 </feed>
