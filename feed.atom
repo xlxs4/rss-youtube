@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-08T00:05:32.150Z</updated>
+    <updated>2024-06-09T00:06:03.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Insane Engineering of the F-117 Nighthawk]]></title>
+        <id>https://www.youtube.com/watch?v=1zjcnnx7igc</id>
+        <link href="https://www.youtube.com/watch?v=1zjcnnx7igc"/>
+        <updated>2024-06-08T15:00:02.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foam bath: Coagulating pentagonal molecules]]></title>
+        <id>https://www.youtube.com/watch?v=dBAsV35br_8</id>
+        <link href="https://www.youtube.com/watch?v=dBAsV35br_8"/>
+        <updated>2024-06-08T09:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What could the weather on terraformed Mars look like?]]></title>
         <id>https://www.youtube.com/watch?v=qLKyAXo5q5E</id>
@@ -2137,24 +2155,6 @@
         <updated>2024-03-11T14:32:32.000Z</updated>
         <author>
             <name>Game Maker's Toolkit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asymmetric rock-paper-scissors-lizard-Spock equation on the sphere]]></title>
-        <id>https://www.youtube.com/watch?v=CmFJzQ1WyHY</id>
-        <link href="https://www.youtube.com/watch?v=CmFJzQ1WyHY"/>
-        <updated>2024-03-10T23:00:12.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moose dropped on a simple mathematical function (plus annoying bugs)]]></title>
-        <id>https://www.youtube.com/watch?v=PpnJUqFhgpw</id>
-        <link href="https://www.youtube.com/watch?v=PpnJUqFhgpw"/>
-        <updated>2024-03-10T21:26:42.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>

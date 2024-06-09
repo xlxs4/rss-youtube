@@ -213,16 +213,6 @@
           "wordCount": null,
           "title": "Moose dropped on a parabola",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PpnJUqFhgpw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PpnJUqFhgpw",
-          "publishedOn": "2024-03-10T21:26:42.000Z",
-          "wordCount": null,
-          "title": "Moose dropped on a simple mathematical function (plus annoying bugs)",
-          "imageUrl": null
         }
       ]
     },
@@ -231,6 +221,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dBAsV35br_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dBAsV35br_8",
+          "publishedOn": "2024-06-08T09:00:33.000Z",
+          "wordCount": null,
+          "title": "Foam bath: Coagulating pentagonal molecules",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=qLKyAXo5q5E",
           "author": null,
@@ -1120,16 +1120,6 @@
           "wordCount": null,
           "title": "Energy flow through a Sierpinski carpet, in 3D - log scale",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CmFJzQ1WyHY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CmFJzQ1WyHY",
-          "publishedOn": "2024-03-10T23:00:12.000Z",
-          "wordCount": null,
-          "title": "Asymmetric rock-paper-scissors-lizard-Spock equation on the sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -1950,6 +1940,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1zjcnnx7igc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1zjcnnx7igc",
+          "publishedOn": "2024-06-08T15:00:02.000Z",
+          "wordCount": null,
+          "title": "The Insane Engineering of the F-117 Nighthawk",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=v8-bFqw9hFo",
           "author": null,
