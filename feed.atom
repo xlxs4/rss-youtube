@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-09T00:06:03.645Z</updated>
+    <updated>2024-06-10T00:05:10.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We Are Making a VIDEO GAME]]></title>
+        <id>https://www.youtube.com/watch?v=3DFE8gZe9bA</id>
+        <link href="https://www.youtube.com/watch?v=3DFE8gZe9bA"/>
+        <updated>2024-06-09T20:08:11.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A diffraction grating with 6 layers, shown with enhanced contrast]]></title>
+        <id>https://www.youtube.com/watch?v=-ijTzqJ2SgM</id>
+        <link href="https://www.youtube.com/watch?v=-ijTzqJ2SgM"/>
+        <updated>2024-06-09T09:00:00.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Insane Engineering of the F-117 Nighthawk]]></title>
         <id>https://www.youtube.com/watch?v=1zjcnnx7igc</id>
@@ -2137,24 +2155,6 @@
         <updated>2024-03-12T15:00:51.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy flow through a Sierpinski carpet, in 3D - log scale]]></title>
-        <id>https://www.youtube.com/watch?v=PgGL74Dk6Xc</id>
-        <link href="https://www.youtube.com/watch?v=PgGL74Dk6Xc"/>
-        <updated>2024-03-12T10:00:16.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I just changed my entire game]]></title>
-        <id>https://www.youtube.com/watch?v=UlzgvZqig40</id>
-        <link href="https://www.youtube.com/watch?v=UlzgvZqig40"/>
-        <updated>2024-03-11T14:32:32.000Z</updated>
-        <author>
-            <name>Game Maker's Toolkit</name>
         </author>
     </entry>
 </feed>

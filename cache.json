@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-ijTzqJ2SgM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-ijTzqJ2SgM",
+          "publishedOn": "2024-06-09T09:00:00.000Z",
+          "wordCount": null,
+          "title": "A diffraction grating with 6 layers, shown with enhanced contrast",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dBAsV35br_8",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "Coagulating molecules, with stronger interaction and cluster coloring",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PgGL74Dk6Xc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PgGL74Dk6Xc",
-          "publishedOn": "2024-03-12T10:00:16.000Z",
-          "wordCount": null,
-          "title": "Energy flow through a Sierpinski carpet, in 3D - log scale",
-          "imageUrl": null
         }
       ]
     },
@@ -1155,6 +1155,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3DFE8gZe9bA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3DFE8gZe9bA",
+          "publishedOn": "2024-06-09T20:08:11.000Z",
+          "wordCount": null,
+          "title": "We Are Making a VIDEO GAME",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=J8imlz6Lki8",
           "author": null,
@@ -2362,16 +2372,6 @@
           "publishedOn": "2024-04-02T18:01:02.000Z",
           "wordCount": null,
           "title": "Balatro's 'Cursed' Design Problem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UlzgvZqig40",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UlzgvZqig40",
-          "publishedOn": "2024-03-11T14:32:32.000Z",
-          "wordCount": null,
-          "title": "I just changed my entire game",
           "imageUrl": null
         }
       ]
