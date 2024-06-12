@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-11T00:04:49.823Z</updated>
+    <updated>2024-06-12T00:04:59.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Stinkiest Monsters in D&D]]></title>
+        <id>https://www.youtube.com/watch?v=oR-tuXAAHTc</id>
+        <link href="https://www.youtube.com/watch?v=oR-tuXAAHTc"/>
+        <updated>2024-06-11T22:27:48.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solid Rocket Boosters Were A Bold Choice]]></title>
+        <id>https://www.youtube.com/watch?v=69MgN2j7Jwc</id>
+        <link href="https://www.youtube.com/watch?v=69MgN2j7Jwc"/>
+        <updated>2024-06-11T15:00:05.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are You an NPC?]]></title>
+        <id>https://www.youtube.com/watch?v=UebSfjmQNvs</id>
+        <link href="https://www.youtube.com/watch?v=UebSfjmQNvs"/>
+        <updated>2024-06-11T14:00:01.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mind Over Magnet demo is now available!]]></title>
+        <id>https://www.youtube.com/watch?v=B-Zdm5wa83M</id>
+        <link href="https://www.youtube.com/watch?v=B-Zdm5wa83M"/>
+        <updated>2024-06-11T09:41:57.000Z</updated>
+        <author>
+            <name>Game Maker's Toolkit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foam bath - Kinetic energy and orientation]]></title>
+        <id>https://www.youtube.com/watch?v=LbCn1dIs6FA</id>
+        <link href="https://www.youtube.com/watch?v=LbCn1dIs6FA"/>
+        <updated>2024-06-11T09:00:15.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Triceratops softbody]]></title>
+        <id>https://www.youtube.com/watch?v=QTw8QUUs4Jc</id>
+        <link href="https://www.youtube.com/watch?v=QTw8QUUs4Jc"/>
+        <updated>2024-06-11T06:22:57.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The final moments before launch]]></title>
         <id>https://www.youtube.com/watch?v=SLdoQr2egkU</id>
@@ -2128,33 +2182,6 @@
         <updated>2024-03-14T15:00:10.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four quantum wave packets interacting on a sphere]]></title>
-        <id>https://www.youtube.com/watch?v=h89dv5voeX4</id>
-        <link href="https://www.youtube.com/watch?v=h89dv5voeX4"/>
-        <updated>2024-03-14T10:00:36.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Review of the Rabbit R1 & Playdate Design]]></title>
-        <id>https://www.youtube.com/watch?v=gh2ZlY7r0VM</id>
-        <link href="https://www.youtube.com/watch?v=gh2ZlY7r0VM"/>
-        <updated>2024-03-13T15:45:40.000Z</updated>
-        <author>
-            <name>Programmers are also human</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moose dropped on a parabola]]></title>
-        <id>https://www.youtube.com/watch?v=pjnFsk5b8XM</id>
-        <link href="https://www.youtube.com/watch?v=pjnFsk5b8XM"/>
-        <updated>2024-03-13T13:10:37.000Z</updated>
-        <author>
-            <name>Alexander Gustafsson</name>
         </author>
     </entry>
 </feed>
