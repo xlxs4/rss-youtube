@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-12T00:04:59.367Z</updated>
+    <updated>2024-06-13T00:05:17.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Residency: Jaimie Warren]]></title>
+        <id>https://www.youtube.com/watch?v=-_emf9VgxuY</id>
+        <link href="https://www.youtube.com/watch?v=-_emf9VgxuY"/>
+        <updated>2024-06-12T16:14:42.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Residency: Baseera Khan]]></title>
+        <id>https://www.youtube.com/watch?v=0zBv1EkoZ-g</id>
+        <link href="https://www.youtube.com/watch?v=0zBv1EkoZ-g"/>
+        <updated>2024-06-12T16:11:38.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Residency: Nicholas Oh]]></title>
+        <id>https://www.youtube.com/watch?v=6KvQ_my6kJI</id>
+        <link href="https://www.youtube.com/watch?v=6KvQ_my6kJI"/>
+        <updated>2024-06-12T16:11:02.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Space Shuttle Astronaut Describes the Sound of Launch]]></title>
+        <id>https://www.youtube.com/watch?v=rfcQDh9C5qM</id>
+        <link href="https://www.youtube.com/watch?v=rfcQDh9C5qM"/>
+        <updated>2024-06-12T15:00:54.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves of two different frequencies crossing a hexagonal lattice]]></title>
+        <id>https://www.youtube.com/watch?v=Y9Zn8T8dYgg</id>
+        <link href="https://www.youtube.com/watch?v=Y9Zn8T8dYgg"/>
+        <updated>2024-06-12T09:00:25.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Stinkiest Monsters in D&D]]></title>
         <id>https://www.youtube.com/watch?v=oR-tuXAAHTc</id>
@@ -2155,33 +2200,6 @@
         <updated>2024-03-15T14:07:03.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Ritchey-Chrétien telescope with better focus]]></title>
-        <id>https://www.youtube.com/watch?v=pO0qGHIGBeI</id>
-        <link href="https://www.youtube.com/watch?v=pO0qGHIGBeI"/>
-        <updated>2024-03-15T10:00:47.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slot Machines of War]]></title>
-        <id>https://www.youtube.com/watch?v=5ZsnvofLMm4</id>
-        <link href="https://www.youtube.com/watch?v=5ZsnvofLMm4"/>
-        <updated>2024-03-14T21:33:43.000Z</updated>
-        <author>
-            <name>Runesmith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Can Literally Lend You a Hand #kurzgesagt #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=8ILQMRr1-8M</id>
-        <link href="https://www.youtube.com/watch?v=8ILQMRr1-8M"/>
-        <updated>2024-03-14T15:00:10.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
