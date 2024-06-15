@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bXr_90UjfDA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bXr_90UjfDA",
+          "publishedOn": "2024-06-14T09:00:38.000Z",
+          "wordCount": null,
+          "title": "A pentagonal foam bath in a box",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X6Ja2PhJyMo",
           "author": null,
           "description": "",
@@ -1099,16 +1109,6 @@
           "publishedOn": "2024-03-18T10:00:02.000Z",
           "wordCount": null,
           "title": "Energy flow through a Sierpinski carpet, in 3D - linear scale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fO9yZjWpFxo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fO9yZjWpFxo",
-          "publishedOn": "2024-03-17T10:00:34.000Z",
-          "wordCount": null,
-          "title": "An incompressible Euler shear flow on the sphere",
           "imageUrl": null
         }
       ]
@@ -2269,16 +2269,6 @@
           "wordCount": null,
           "title": "What’s the bulge in tank guns for?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xdnyFG7V79Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xdnyFG7V79Q",
-          "publishedOn": "2024-03-16T15:00:59.000Z",
-          "wordCount": null,
-          "title": "How Ceramic Tank Armor Works",
-          "imageUrl": null
         }
       ]
     },
@@ -2484,6 +2474,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwBhBDsqiQflTMLy2epbQVw",
       "siteUrl": "https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kbf9QJJn-UQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kbf9QJJn-UQ",
+          "publishedOn": "2024-06-14T13:00:48.000Z",
+          "wordCount": null,
+          "title": "AI Builds Instantly in Minecraft",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VXQ-AnQ6N6A",
           "author": null,

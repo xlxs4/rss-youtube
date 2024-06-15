@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-14T00:04:58.624Z</updated>
+    <updated>2024-06-15T00:04:55.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Builds Instantly in Minecraft]]></title>
+        <id>https://www.youtube.com/watch?v=kbf9QJJn-UQ</id>
+        <link href="https://www.youtube.com/watch?v=kbf9QJJn-UQ"/>
+        <updated>2024-06-14T13:00:48.000Z</updated>
+        <author>
+            <name>Emergent Garden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A pentagonal foam bath in a box]]></title>
+        <id>https://www.youtube.com/watch?v=bXr_90UjfDA</id>
+        <link href="https://www.youtube.com/watch?v=bXr_90UjfDA"/>
+        <updated>2024-06-14T09:00:38.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24 Hours Remaining]]></title>
         <id>https://www.youtube.com/watch?v=sw5eFYUv630</id>
@@ -2180,24 +2198,6 @@
         <id>https://www.youtube.com/watch?v=3Ef6BGqgvv4</id>
         <link href="https://www.youtube.com/watch?v=3Ef6BGqgvv4"/>
         <updated>2024-03-17T15:00:02.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An incompressible Euler shear flow on the sphere]]></title>
-        <id>https://www.youtube.com/watch?v=fO9yZjWpFxo</id>
-        <link href="https://www.youtube.com/watch?v=fO9yZjWpFxo"/>
-        <updated>2024-03-17T10:00:34.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Ceramic Tank Armor Works]]></title>
-        <id>https://www.youtube.com/watch?v=xdnyFG7V79Q</id>
-        <link href="https://www.youtube.com/watch?v=xdnyFG7V79Q"/>
-        <updated>2024-03-16T15:00:59.000Z</updated>
         <author>
             <name>Real Engineering</name>
         </author>
