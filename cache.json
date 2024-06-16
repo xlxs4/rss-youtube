@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3zTrbqK5jc4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3zTrbqK5jc4",
+          "publishedOn": "2024-06-15T09:00:05.000Z",
+          "wordCount": null,
+          "title": "Waves of two different frequencies crossing a Poisson disc lattice",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bXr_90UjfDA",
           "author": null,
           "description": "",
@@ -1100,16 +1110,6 @@
           "wordCount": null,
           "title": "Aggregation of neutral particles",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4uwk9gwiHTs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4uwk9gwiHTs",
-          "publishedOn": "2024-03-18T10:00:02.000Z",
-          "wordCount": null,
-          "title": "Energy flow through a Sierpinski carpet, in 3D - linear scale",
-          "imageUrl": null
         }
       ]
     },
@@ -1804,16 +1804,6 @@
           "wordCount": null,
           "title": "JuliaHealth Meeting (Americas/Europe/Africa) – May 30th, 2024",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dUwvbl5x1oI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dUwvbl5x1oI",
-          "publishedOn": "2024-03-17T22:55:50.000Z",
-          "wordCount": null,
-          "title": "ML Community Call | 2024-01-26",
-          "imageUrl": null
         }
       ]
     },
@@ -2258,16 +2248,6 @@
           "publishedOn": "2024-03-18T15:00:29.000Z",
           "wordCount": null,
           "title": "How the F-16 flies at extreme AOA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3Ef6BGqgvv4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3Ef6BGqgvv4",
-          "publishedOn": "2024-03-17T15:00:02.000Z",
-          "wordCount": null,
-          "title": "What’s the bulge in tank guns for?",
           "imageUrl": null
         }
       ]
