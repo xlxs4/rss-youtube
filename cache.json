@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wtFSczmOxkE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wtFSczmOxkE",
+          "publishedOn": "2024-06-17T09:00:48.000Z",
+          "wordCount": null,
+          "title": "Pentagonal foam with gravity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-wP4im0EXLg",
           "author": null,
           "description": "",
@@ -1100,16 +1110,6 @@
           "wordCount": null,
           "title": "3D rendering of the average energy in a Ritchey-Chrétien telescope",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o7VxWsa25wQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o7VxWsa25wQ",
-          "publishedOn": "2024-03-20T10:00:42.000Z",
-          "wordCount": null,
-          "title": "An incompressible Euler shear flow on the sphere - 2D representation",
-          "imageUrl": null
         }
       ]
     },
@@ -1806,6 +1806,46 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PbDwi2e_els",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PbDwi2e_els",
+          "publishedOn": "2024-06-17T15:26:10.000Z",
+          "wordCount": null,
+          "title": "Surrogate Models of Acausal Systems in Julia | Ranjan Anantharaman | Digiwell AMOC Seminar 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VTov2Xf860s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VTov2Xf860s",
+          "publishedOn": "2024-06-17T15:24:55.000Z",
+          "wordCount": null,
+          "title": "Battery Simulation in Julia | Xavier Raynaud | Digiwell AMOC Julia Seminar 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DiRP8LthWR8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DiRP8LthWR8",
+          "publishedOn": "2024-06-17T15:18:43.000Z",
+          "wordCount": null,
+          "title": "Composing Thermal Fluid and Process Models with SciML | Avinash Subramanian | Digiwell AMOC Seminar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=c-bZ2v1uF14",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c-bZ2v1uF14",
+          "publishedOn": "2024-06-17T15:16:33.000Z",
+          "wordCount": null,
+          "title": "Scaling Equation-based Modeling to Large Systems | Yingbo Ma | DigiWell AMOC Julia Seminar 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mOxNccQHKdU",
           "author": null,
           "description": "",
@@ -1828,6 +1868,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZxpJZ6_4j63ZWCbxdFzdA",
       "siteUrl": "https://www.youtube.com/channel/UCvZxpJZ6_4j63ZWCbxdFzdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iP87KF6lvQk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iP87KF6lvQk",
+          "publishedOn": "2024-06-17T16:18:09.000Z",
+          "wordCount": null,
+          "title": "JuliaHub Air: JuliaHub for secure computing environments",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wZpgL6D8tuE",
           "author": null,
@@ -2239,16 +2289,6 @@
           "wordCount": null,
           "title": "The F-16s Gun Sounds Amazing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WMlZPHRImf0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WMlZPHRImf0",
-          "publishedOn": "2024-03-19T15:00:33.000Z",
-          "wordCount": null,
-          "title": "How the F-16s Leading Edge Flap Works",
-          "imageUrl": null
         }
       ]
     },
@@ -2262,18 +2302,7 @@
       "title": "The Science Elf",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCrnCItH17W-64FDzjwOi5w",
       "siteUrl": "https://www.youtube.com/channel/UCCrnCItH17W-64FDzjwOi5w",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=SPTzzSuBFlc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SPTzzSuBFlc",
-          "publishedOn": "2024-03-19T12:33:40.000Z",
-          "wordCount": null,
-          "title": "Building a Relay-Powered Pi Machine",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Design Doc",
@@ -2665,16 +2694,6 @@
           "publishedOn": "2024-06-16T13:43:23.000Z",
           "wordCount": null,
           "title": "Compiler-Driven Development in Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DhY3fu-YgHU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DhY3fu-YgHU",
-          "publishedOn": "2024-03-19T15:12:39.000Z",
-          "wordCount": null,
-          "title": "The Autism Constellation",
           "imageUrl": null
         }
       ]
