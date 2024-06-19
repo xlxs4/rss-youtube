@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-18T00:05:19.803Z</updated>
+    <updated>2024-06-19T00:04:58.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Waves of two different frequencies crossing a "sunflower" lattice]]></title>
+        <id>https://www.youtube.com/watch?v=Z30VQI4nuDY</id>
+        <link href="https://www.youtube.com/watch?v=Z30VQI4nuDY"/>
+        <updated>2024-06-18T09:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JuliaHub Air: JuliaHub for secure computing environments]]></title>
         <id>https://www.youtube.com/watch?v=iP87KF6lvQk</id>
@@ -2191,33 +2200,6 @@
         <updated>2024-03-21T15:00:06.000Z</updated>
         <author>
             <name>Design Doc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D rendering of the average energy in a Ritchey-Chrétien telescope]]></title>
-        <id>https://www.youtube.com/watch?v=778rjfkw0r4</id>
-        <link href="https://www.youtube.com/watch?v=778rjfkw0r4"/>
-        <updated>2024-03-21T10:00:06.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX’s Starship Reached Space. What Now?]]></title>
-        <id>https://www.youtube.com/watch?v=eaFyTIsowqY</id>
-        <link href="https://www.youtube.com/watch?v=eaFyTIsowqY"/>
-        <updated>2024-03-20T19:39:26.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The F-16s Gun Sounds Amazing]]></title>
-        <id>https://www.youtube.com/watch?v=ngfGcyS-MTM</id>
-        <link href="https://www.youtube.com/watch?v=ngfGcyS-MTM"/>
-        <updated>2024-03-20T15:00:47.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>

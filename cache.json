@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Z30VQI4nuDY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z30VQI4nuDY",
+          "publishedOn": "2024-06-18T09:00:32.000Z",
+          "wordCount": null,
+          "title": "Waves of two different frequencies crossing a \"sunflower\" lattice",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wtFSczmOxkE",
           "author": null,
           "description": "",
@@ -1099,16 +1109,6 @@
           "publishedOn": "2024-03-22T10:00:09.000Z",
           "wordCount": null,
           "title": "Aggregation of \"water\" molecules",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=778rjfkw0r4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=778rjfkw0r4",
-          "publishedOn": "2024-03-21T10:00:06.000Z",
-          "wordCount": null,
-          "title": "3D rendering of the average energy in a Ritchey-Chrétien telescope",
           "imageUrl": null
         }
       ]
@@ -2268,26 +2268,6 @@
           "publishedOn": "2024-03-30T14:00:09.000Z",
           "wordCount": null,
           "title": "The Insane Engineering of the Gameboy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eaFyTIsowqY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eaFyTIsowqY",
-          "publishedOn": "2024-03-20T19:39:26.000Z",
-          "wordCount": null,
-          "title": "SpaceX’s Starship Reached Space. What Now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ngfGcyS-MTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ngfGcyS-MTM",
-          "publishedOn": "2024-03-20T15:00:47.000Z",
-          "wordCount": null,
-          "title": "The F-16s Gun Sounds Amazing",
           "imageUrl": null
         }
       ]
