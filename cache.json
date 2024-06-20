@@ -185,6 +185,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qakB998grrc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qakB998grrc",
+          "publishedOn": "2024-06-19T14:24:38.000Z",
+          "wordCount": null,
+          "title": "How cats actually land (slo-mo softbody)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QTw8QUUs4Jc",
           "author": null,
           "description": "",
@@ -211,6 +221,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=N0K4rKJ0O-I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N0K4rKJ0O-I",
+          "publishedOn": "2024-06-19T09:00:31.000Z",
+          "wordCount": null,
+          "title": "Venusian weather - vorticity and wind direction",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Z30VQI4nuDY",
           "author": null,
@@ -1100,16 +1120,6 @@
           "wordCount": null,
           "title": "A shear flow with 7 layers on the sphere",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cxd49NCUiC4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cxd49NCUiC4",
-          "publishedOn": "2024-03-22T10:00:09.000Z",
-          "wordCount": null,
-          "title": "Aggregation of \"water\" molecules",
-          "imageUrl": null
         }
       ]
     },
@@ -1324,16 +1334,6 @@
           "wordCount": null,
           "title": "How The Dinosaurs Actually Died",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cUD8Nt0JDlw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cUD8Nt0JDlw",
-          "publishedOn": "2024-03-21T15:00:27.000Z",
-          "wordCount": null,
-          "title": "YOU Own the Moon. And Mars. And Venus. #kurzgesagt #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -1440,16 +1440,6 @@
           "publishedOn": "2024-03-24T00:15:00.000Z",
           "wordCount": null,
           "title": "Collimator 2.0 and Quanser!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3SNkQ8jhKXc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3SNkQ8jhKXc",
-          "publishedOn": "2024-03-22T10:00:03.000Z",
-          "wordCount": null,
-          "title": "AI/ML+Physics Part 4: Crafting a Loss Function [Physics Informed Machine Learning]",
           "imageUrl": null
         }
       ]
@@ -2317,16 +2307,6 @@
           "publishedOn": "2024-04-13T15:00:22.000Z",
           "wordCount": null,
           "title": "How Can Games Make Invincibility Fun?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7Zk4uJCMMTo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7Zk4uJCMMTo",
-          "publishedOn": "2024-03-21T15:00:06.000Z",
-          "wordCount": null,
-          "title": "What Makes A Good Sleep Mechanic?",
           "imageUrl": null
         }
       ]

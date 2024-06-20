@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-19T00:04:58.989Z</updated>
+    <updated>2024-06-20T00:04:58.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How cats actually land (slo-mo softbody)]]></title>
+        <id>https://www.youtube.com/watch?v=qakB998grrc</id>
+        <link href="https://www.youtube.com/watch?v=qakB998grrc"/>
+        <updated>2024-06-19T14:24:38.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venusian weather - vorticity and wind direction]]></title>
+        <id>https://www.youtube.com/watch?v=N0K4rKJ0O-I</id>
+        <link href="https://www.youtube.com/watch?v=N0K4rKJ0O-I"/>
+        <updated>2024-06-19T09:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waves of two different frequencies crossing a "sunflower" lattice]]></title>
         <id>https://www.youtube.com/watch?v=Z30VQI4nuDY</id>
@@ -2164,42 +2182,6 @@
         <updated>2024-03-22T12:44:28.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aggregation of "water" molecules]]></title>
-        <id>https://www.youtube.com/watch?v=Cxd49NCUiC4</id>
-        <link href="https://www.youtube.com/watch?v=Cxd49NCUiC4"/>
-        <updated>2024-03-22T10:00:09.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI/ML+Physics Part 4: Crafting a Loss Function [Physics Informed Machine Learning]]]></title>
-        <id>https://www.youtube.com/watch?v=3SNkQ8jhKXc</id>
-        <link href="https://www.youtube.com/watch?v=3SNkQ8jhKXc"/>
-        <updated>2024-03-22T10:00:03.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOU Own the Moon. And Mars. And Venus. #kurzgesagt #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=cUD8Nt0JDlw</id>
-        <link href="https://www.youtube.com/watch?v=cUD8Nt0JDlw"/>
-        <updated>2024-03-21T15:00:27.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes A Good Sleep Mechanic?]]></title>
-        <id>https://www.youtube.com/watch?v=7Zk4uJCMMTo</id>
-        <link href="https://www.youtube.com/watch?v=7Zk4uJCMMTo"/>
-        <updated>2024-03-21T15:00:06.000Z</updated>
-        <author>
-            <name>Design Doc</name>
         </author>
     </entry>
 </feed>
