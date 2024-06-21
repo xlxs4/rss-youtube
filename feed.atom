@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-20T00:04:58.141Z</updated>
+    <updated>2024-06-21T00:04:51.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Our Brains Are Not Special. But Why Are We? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=_z7DkeP5WNg</id>
+        <link href="https://www.youtube.com/watch?v=_z7DkeP5WNg"/>
+        <updated>2024-06-20T14:00:29.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More rigid falling pentagons]]></title>
+        <id>https://www.youtube.com/watch?v=5_xw3fIPmak</id>
+        <link href="https://www.youtube.com/watch?v=5_xw3fIPmak"/>
+        <updated>2024-06-20T09:00:03.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How cats actually land (slo-mo softbody)]]></title>
         <id>https://www.youtube.com/watch?v=qakB998grrc</id>
@@ -2155,33 +2173,6 @@
         <updated>2024-03-23T16:10:53.000Z</updated>
         <author>
             <name>Programmers are also human</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A shear flow with 7 layers on the sphere]]></title>
-        <id>https://www.youtube.com/watch?v=oOBbNBlOZKE</id>
-        <link href="https://www.youtube.com/watch?v=oOBbNBlOZKE"/>
-        <updated>2024-03-23T10:00:40.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon's Dogma 2 is better than its Steam page]]></title>
-        <id>https://www.youtube.com/watch?v=p3jdExUU_nU</id>
-        <link href="https://www.youtube.com/watch?v=p3jdExUU_nU"/>
-        <updated>2024-03-22T17:42:39.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sid Sriram | Pioneer Sessions]]></title>
-        <id>https://www.youtube.com/watch?v=rnLMzALrFXs</id>
-        <link href="https://www.youtube.com/watch?v=rnLMzALrFXs"/>
-        <updated>2024-03-22T12:44:28.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>

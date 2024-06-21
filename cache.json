@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5_xw3fIPmak",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5_xw3fIPmak",
+          "publishedOn": "2024-06-20T09:00:03.000Z",
+          "wordCount": null,
+          "title": "More rigid falling pentagons",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=N0K4rKJ0O-I",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "A planar wave arriving at an angle in a Ritchey-Chrétien telescope",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oOBbNBlOZKE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oOBbNBlOZKE",
-          "publishedOn": "2024-03-23T10:00:40.000Z",
-          "wordCount": null,
-          "title": "A shear flow with 7 layers on the sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -1155,6 +1155,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_z7DkeP5WNg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_z7DkeP5WNg",
+          "publishedOn": "2024-06-20T14:00:29.000Z",
+          "wordCount": null,
+          "title": "Our Brains Are Not Special. But Why Are We? #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sw5eFYUv630",
           "author": null,
@@ -1669,16 +1679,6 @@
           "publishedOn": "2024-03-29T14:35:56.000Z",
           "wordCount": null,
           "title": "Science vs. Fiction: Jonathan Nolan on the Promise and Perils of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rnLMzALrFXs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rnLMzALrFXs",
-          "publishedOn": "2024-03-22T12:44:28.000Z",
-          "wordCount": null,
-          "title": "Sid Sriram | Pioneer Sessions",
           "imageUrl": null
         }
       ]
@@ -2528,16 +2528,6 @@
           "publishedOn": "2024-03-24T18:31:43.000Z",
           "wordCount": null,
           "title": "Structuring Travel in RPGs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p3jdExUU_nU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p3jdExUU_nU",
-          "publishedOn": "2024-03-22T17:42:39.000Z",
-          "wordCount": null,
-          "title": "Dragon's Dogma 2 is better than its Steam page",
           "imageUrl": null
         }
       ]
