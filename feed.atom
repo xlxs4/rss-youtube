@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-21T00:04:51.961Z</updated>
+    <updated>2024-06-22T00:05:10.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Insane Ackermann Function]]></title>
+        <id>https://www.youtube.com/watch?v=QctflSpmEjc</id>
+        <link href="https://www.youtube.com/watch?v=QctflSpmEjc"/>
+        <updated>2024-06-21T15:56:18.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves of two different frequencies crossing a regular square lattice]]></title>
+        <id>https://www.youtube.com/watch?v=pObtx2xmZDA</id>
+        <link href="https://www.youtube.com/watch?v=pObtx2xmZDA"/>
+        <updated>2024-06-21T09:00:48.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Brains Are Not Special. But Why Are We? #shorts]]></title>
         <id>https://www.youtube.com/watch?v=_z7DkeP5WNg</id>
@@ -2146,33 +2164,6 @@
         <updated>2024-03-24T18:31:43.000Z</updated>
         <author>
             <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A planar wave arriving at an angle in a Ritchey-Chrétien telescope]]></title>
-        <id>https://www.youtube.com/watch?v=z8lOkYdo9JQ</id>
-        <link href="https://www.youtube.com/watch?v=z8lOkYdo9JQ"/>
-        <updated>2024-03-24T10:00:44.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collimator 2.0 and Quanser!!!]]></title>
-        <id>https://www.youtube.com/watch?v=UtBP5po_k4A</id>
-        <link href="https://www.youtube.com/watch?v=UtBP5po_k4A"/>
-        <updated>2024-03-24T00:15:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Jobs' Wet Dream]]></title>
-        <id>https://www.youtube.com/watch?v=jHVn2AP8QWo</id>
-        <link href="https://www.youtube.com/watch?v=jHVn2AP8QWo"/>
-        <updated>2024-03-23T16:10:53.000Z</updated>
-        <author>
-            <name>Programmers are also human</name>
         </author>
     </entry>
 </feed>
