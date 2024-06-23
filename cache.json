@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AxXX-sekxAM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AxXX-sekxAM",
+          "publishedOn": "2024-06-22T09:00:05.000Z",
+          "wordCount": null,
+          "title": "Weather on the Earth with a random initial state",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pObtx2xmZDA",
           "author": null,
           "description": "",
@@ -1119,16 +1129,6 @@
           "publishedOn": "2024-03-26T10:00:06.000Z",
           "wordCount": null,
           "title": "A shear flow on the sphere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tKSRm8IVF6c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tKSRm8IVF6c",
-          "publishedOn": "2024-03-25T10:00:45.000Z",
-          "wordCount": null,
-          "title": "Trying to form a foam by aggregating \"quadripod\" molecules",
           "imageUrl": null
         }
       ]
@@ -2499,26 +2499,6 @@
           "wordCount": null,
           "title": "Perception of Progression",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dSfQiZ4x0I8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dSfQiZ4x0I8",
-          "publishedOn": "2024-03-25T03:05:03.000Z",
-          "wordCount": null,
-          "title": "Dragon's Dogma 2 Clip",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x2GdkrKVYOo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x2GdkrKVYOo",
-          "publishedOn": "2024-03-24T18:31:43.000Z",
-          "wordCount": null,
-          "title": "Structuring Travel in RPGs",
-          "imageUrl": null
         }
       ]
     },
@@ -2527,6 +2507,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweFJojRAFuxyYxe4KHL8vw",
       "siteUrl": "https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0oqvMU7rofg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0oqvMU7rofg",
+          "publishedOn": "2024-06-22T18:51:56.000Z",
+          "wordCount": null,
+          "title": "Basically Unicorns",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oR-tuXAAHTc",
           "author": null,
@@ -2699,7 +2689,18 @@
       "title": "Low Byte Productions",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC56l7uZA209tlPTVOJiJ8Tw",
       "siteUrl": "https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=i1phJl-0v54",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i1phJl-0v54",
+          "publishedOn": "2024-06-22T07:22:04.000Z",
+          "wordCount": null,
+          "title": "Fixed-point math is better than floating point (sometimes)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "andy fillebrown",

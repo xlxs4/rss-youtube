@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-22T00:05:10.154Z</updated>
+    <updated>2024-06-23T00:05:34.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Basically Unicorns]]></title>
+        <id>https://www.youtube.com/watch?v=0oqvMU7rofg</id>
+        <link href="https://www.youtube.com/watch?v=0oqvMU7rofg"/>
+        <updated>2024-06-22T18:51:56.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weather on the Earth with a random initial state]]></title>
+        <id>https://www.youtube.com/watch?v=AxXX-sekxAM</id>
+        <link href="https://www.youtube.com/watch?v=AxXX-sekxAM"/>
+        <updated>2024-06-22T09:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed-point math is better than floating point (sometimes)]]></title>
+        <id>https://www.youtube.com/watch?v=i1phJl-0v54</id>
+        <link href="https://www.youtube.com/watch?v=i1phJl-0v54"/>
+        <updated>2024-06-22T07:22:04.000Z</updated>
+        <author>
+            <name>Low Byte Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Insane Ackermann Function]]></title>
         <id>https://www.youtube.com/watch?v=QctflSpmEjc</id>
@@ -2137,33 +2164,6 @@
         <updated>2024-03-25T12:35:27.000Z</updated>
         <author>
             <name>JuliaHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trying to form a foam by aggregating "quadripod" molecules]]></title>
-        <id>https://www.youtube.com/watch?v=tKSRm8IVF6c</id>
-        <link href="https://www.youtube.com/watch?v=tKSRm8IVF6c"/>
-        <updated>2024-03-25T10:00:45.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon's Dogma 2 Clip]]></title>
-        <id>https://www.youtube.com/watch?v=dSfQiZ4x0I8</id>
-        <link href="https://www.youtube.com/watch?v=dSfQiZ4x0I8"/>
-        <updated>2024-03-25T03:05:03.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structuring Travel in RPGs]]></title>
-        <id>https://www.youtube.com/watch?v=x2GdkrKVYOo</id>
-        <link href="https://www.youtube.com/watch?v=x2GdkrKVYOo"/>
-        <updated>2024-03-24T18:31:43.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
         </author>
     </entry>
 </feed>
