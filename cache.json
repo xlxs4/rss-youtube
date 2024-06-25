@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SrP66NOMVCI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SrP66NOMVCI",
+          "publishedOn": "2024-06-24T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Waves of two different frequencies crossing a randomized square lattice",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dXhvqN15xik",
           "author": null,
           "description": "",
@@ -1120,16 +1130,6 @@
           "wordCount": null,
           "title": "Aggregating pentagonal and triangular molecules in an electric field",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CdpTq3dSrXA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CdpTq3dSrXA",
-          "publishedOn": "2024-03-27T10:00:13.000Z",
-          "wordCount": null,
-          "title": "[Flash warning] A gradient index lens",
-          "imageUrl": null
         }
       ]
     },
@@ -1343,16 +1343,6 @@
           "publishedOn": "2024-04-04T14:00:09.000Z",
           "wordCount": null,
           "title": "ONE Gene Determines How Many Fingers You Have #kurzgesagt #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pjoQdz0nxf4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pjoQdz0nxf4",
-          "publishedOn": "2024-03-26T14:59:10.000Z",
-          "wordCount": null,
-          "title": "How The Dinosaurs Actually Died",
           "imageUrl": null
         }
       ]
@@ -1906,26 +1896,6 @@
           "publishedOn": "2024-04-19T13:15:59.000Z",
           "wordCount": null,
           "title": "Comparative Analysis of Cell Chemistries with JuliaSim Batteries",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BX-3lH630CE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BX-3lH630CE",
-          "publishedOn": "2024-03-26T19:47:41.000Z",
-          "wordCount": null,
-          "title": "Introduction to JuliaSim Batteries",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u6PXN4nNtm4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u6PXN4nNtm4",
-          "publishedOn": "2024-03-26T18:43:35.000Z",
-          "wordCount": null,
-          "title": "Mastering Interactive Dash Apps with Dash.jl: A Flight Traffic Visualization Journey on JuliaHub",
           "imageUrl": null
         }
       ]
@@ -2565,16 +2535,6 @@
           "publishedOn": "2024-04-02T16:00:06.000Z",
           "wordCount": null,
           "title": "The Origin of D&D's Greatest Monsters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dy_eJV_e_jY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dy_eJV_e_jY",
-          "publishedOn": "2024-03-26T17:57:52.000Z",
-          "wordCount": null,
-          "title": "World, Lion and Dragon Turtles Are Awesome",
           "imageUrl": null
         }
       ]
