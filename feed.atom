@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-25T00:04:55.665Z</updated>
+    <updated>2024-06-26T00:05:15.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This Disease is Deadlier Than The Plague]]></title>
+        <id>https://www.youtube.com/watch?v=GFLb5h2O2Ww</id>
+        <link href="https://www.youtube.com/watch?v=GFLb5h2O2Ww"/>
+        <updated>2024-06-25T14:00:01.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weather on the Earth with a random initial state - Velocity and wind direction]]></title>
+        <id>https://www.youtube.com/watch?v=HaDUeldj1-U</id>
+        <link href="https://www.youtube.com/watch?v=HaDUeldj1-U"/>
+        <updated>2024-06-25T09:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waves of two different frequencies crossing a randomized square lattice]]></title>
         <id>https://www.youtube.com/watch?v=SrP66NOMVCI</id>
@@ -2092,24 +2110,6 @@
         <updated>2024-03-29T01:12:58.000Z</updated>
         <author>
             <name>NanoRooms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aggregating pentagonal and triangular molecules in an electric field]]></title>
-        <id>https://www.youtube.com/watch?v=ZFdOdh-8mkY</id>
-        <link href="https://www.youtube.com/watch?v=ZFdOdh-8mkY"/>
-        <updated>2024-03-28T10:00:35.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Cryptography With These Five Worlds]]></title>
-        <id>https://www.youtube.com/watch?v=RjzSFa03i2U</id>
-        <link href="https://www.youtube.com/watch?v=RjzSFa03i2U"/>
-        <updated>2024-03-27T14:52:03.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
