@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-26T00:05:15.794Z</updated>
+    <updated>2024-06-27T00:05:14.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Writing by Choice]]></title>
+        <id>https://www.youtube.com/watch?v=8zh48nHoqvQ</id>
+        <link href="https://www.youtube.com/watch?v=8zh48nHoqvQ"/>
+        <updated>2024-06-26T14:58:31.000Z</updated>
+        <author>
+            <name>Craig Perko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for quasicrystals: Interacting kites-and-darts-type molecules]]></title>
+        <id>https://www.youtube.com/watch?v=nWtahtDITYE</id>
+        <link href="https://www.youtube.com/watch?v=nWtahtDITYE"/>
+        <updated>2024-06-26T09:00:45.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Disease is Deadlier Than The Plague]]></title>
         <id>https://www.youtube.com/watch?v=GFLb5h2O2Ww</id>
@@ -2092,24 +2110,6 @@
         <updated>2024-03-29T14:35:56.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eight interacting vortices on the sphere]]></title>
-        <id>https://www.youtube.com/watch?v=igIhR6Tbba4</id>
-        <link href="https://www.youtube.com/watch?v=igIhR6Tbba4"/>
-        <updated>2024-03-29T10:00:40.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing Biology’s Molecules to Life Using Physics]]></title>
-        <id>https://www.youtube.com/watch?v=ncC-GMzF9RY</id>
-        <link href="https://www.youtube.com/watch?v=ncC-GMzF9RY"/>
-        <updated>2024-03-29T01:12:58.000Z</updated>
-        <author>
-            <name>NanoRooms</name>
         </author>
     </entry>
 </feed>

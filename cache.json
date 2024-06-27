@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nWtahtDITYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nWtahtDITYE",
+          "publishedOn": "2024-06-26T09:00:45.000Z",
+          "wordCount": null,
+          "title": "Looking for quasicrystals: Interacting kites-and-darts-type molecules",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HaDUeldj1-U",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "Two planar waves interfering in a Ritchey-Chrétien telescope",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=igIhR6Tbba4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=igIhR6Tbba4",
-          "publishedOn": "2024-03-29T10:00:40.000Z",
-          "wordCount": null,
-          "title": "Eight interacting vortices on the sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -1914,16 +1914,6 @@
           "wordCount": null,
           "title": "Your understanding of evolution is incomplete. Here's why",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ncC-GMzF9RY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ncC-GMzF9RY",
-          "publishedOn": "2024-03-29T01:12:58.000Z",
-          "wordCount": null,
-          "title": "Bringing Biology’s Molecules to Life Using Physics",
-          "imageUrl": null
         }
       ]
     },
@@ -2440,6 +2430,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFL6-QAPmuin1iXUY1MEe0g",
       "siteUrl": "https://www.youtube.com/channel/UCFL6-QAPmuin1iXUY1MEe0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8zh48nHoqvQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8zh48nHoqvQ",
+          "publishedOn": "2024-06-26T14:58:31.000Z",
+          "wordCount": null,
+          "title": "Writing by Choice",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=f9hoPTOSByU",
           "author": null,
