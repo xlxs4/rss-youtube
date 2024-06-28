@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ucjE8kTOpnY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ucjE8kTOpnY",
+          "publishedOn": "2024-06-27T09:00:49.000Z",
+          "wordCount": null,
+          "title": "Classics revisited: Parabolic reflectors in high resolution",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nWtahtDITYE",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "Do aggregating pentagons form a quasicrystal?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vmw2tzS5xt8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vmw2tzS5xt8",
-          "publishedOn": "2024-03-30T10:00:44.000Z",
-          "wordCount": null,
-          "title": "Two planar waves interfering in a Ritchey-Chrétien telescope",
-          "imageUrl": null
         }
       ]
     },
@@ -1462,6 +1462,156 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UXDFuQSB1AY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UXDFuQSB1AY",
+          "publishedOn": "2024-06-27T22:40:06.000Z",
+          "wordCount": null,
+          "title": "Celebrating John McLaughlin & Mahavishnu | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xaFzIIfSvyM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xaFzIIfSvyM",
+          "publishedOn": "2024-06-27T22:37:24.000Z",
+          "wordCount": null,
+          "title": "Amirtha Kidambi, Qasim Naqvi & Rafiq Bhatia Trio | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eKIQuFEyYlo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eKIQuFEyYlo",
+          "publishedOn": "2024-06-27T22:36:17.000Z",
+          "wordCount": null,
+          "title": "Vicky Chow, David Cossin & Mark Stewart | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lMlJUBZpKPc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lMlJUBZpKPc",
+          "publishedOn": "2024-06-27T22:35:08.000Z",
+          "wordCount": null,
+          "title": "Gaurav Mazumdar & Umesh Banerjee | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XwDtmeve0fA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XwDtmeve0fA",
+          "publishedOn": "2024-06-27T22:34:14.000Z",
+          "wordCount": null,
+          "title": "Mind Maintenance - Joshua Abrams & Chad Taylor | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eoU61DLvPMI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eoU61DLvPMI",
+          "publishedOn": "2024-06-27T22:32:57.000Z",
+          "wordCount": null,
+          "title": "Suphala | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OA4FYkub4AY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OA4FYkub4AY",
+          "publishedOn": "2024-06-27T22:31:49.000Z",
+          "wordCount": null,
+          "title": "Mitali Banerjee Bhawmik | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nYRqi5LCme8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nYRqi5LCme8",
+          "publishedOn": "2024-06-27T22:31:00.000Z",
+          "wordCount": null,
+          "title": "Hindole Majumdar & Ayushman Majumdar | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QHuufmQVo4M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QHuufmQVo4M",
+          "publishedOn": "2024-06-27T22:29:14.000Z",
+          "wordCount": null,
+          "title": "Quadrature | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=45puSQYW9GY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=45puSQYW9GY",
+          "publishedOn": "2024-06-27T15:33:40.000Z",
+          "wordCount": null,
+          "title": "Kunal Gunjal & Suhail Yusuf Khan with Vikas Yendluri | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9HtdXXOTWlQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9HtdXXOTWlQ",
+          "publishedOn": "2024-06-27T15:33:33.000Z",
+          "wordCount": null,
+          "title": "Supruli | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sJEWQ_IWBp4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sJEWQ_IWBp4",
+          "publishedOn": "2024-06-27T15:33:28.000Z",
+          "wordCount": null,
+          "title": "Ramakrishnan Murthy | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bZnT4LPQ5o0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bZnT4LPQ5o0",
+          "publishedOn": "2024-06-27T15:33:23.000Z",
+          "wordCount": null,
+          "title": "Amir ElSaffar in E half-flat | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wfCvUL6z8Lc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wfCvUL6z8Lc",
+          "publishedOn": "2024-06-27T15:33:19.000Z",
+          "wordCount": null,
+          "title": "Akkarai Sisters | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2pDzKJ2dtLY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2pDzKJ2dtLY",
+          "publishedOn": "2024-06-27T15:33:11.000Z",
+          "wordCount": null,
+          "title": "Jay Gandhi, Abhik Mukherjee & Samarth Nagarkar with Shankh Lahiri | Ragas Live Festival 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-_emf9VgxuY",
           "author": null,
           "description": "",
@@ -1590,86 +1740,6 @@
           "wordCount": null,
           "title": "Werner Herzog finds Joaquin Phoenix Upside Down in a Wrecked Car and advises: “Man, Relax”",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nsp7i2Sr1ZA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nsp7i2Sr1ZA",
-          "publishedOn": "2024-03-29T14:55:37.000Z",
-          "wordCount": null,
-          "title": "Jonathan Nolan and Janna Levin on Interstellar’s Prescience on Black Holes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B4u74DxRqac",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B4u74DxRqac",
-          "publishedOn": "2024-03-29T14:55:33.000Z",
-          "wordCount": null,
-          "title": "Jonathan Nolan on Panopticons, Control and Surveillance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6EbR7bRTgsw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6EbR7bRTgsw",
-          "publishedOn": "2024-03-29T14:55:28.000Z",
-          "wordCount": null,
-          "title": "Jonathan Nolan and Janna Levin on Turing’s Principle: “If You Can’t Tell, Does It Matter?”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FZWh8mroFbw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FZWh8mroFbw",
-          "publishedOn": "2024-03-29T14:55:22.000Z",
-          "wordCount": null,
-          "title": "Jonathan Nolan on Westworld, AI, and the Suspect Qualities of the Self",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ni7a-_esOD4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ni7a-_esOD4",
-          "publishedOn": "2024-03-29T14:55:18.000Z",
-          "wordCount": null,
-          "title": "Jonathan Nolan on the Disease of Tribalism in Hollywood",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G6DhMK6cfCk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G6DhMK6cfCk",
-          "publishedOn": "2024-03-29T14:55:10.000Z",
-          "wordCount": null,
-          "title": "Jonathan Nolan on What’s Really Behind Generational Ire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=agUQ3D3ej34",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=agUQ3D3ej34",
-          "publishedOn": "2024-03-29T14:55:07.000Z",
-          "wordCount": null,
-          "title": "Jonathan Nolan and Janna Levin on What It’s Like to Fall into a Black Hole",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oS0MhG98jE4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oS0MhG98jE4",
-          "publishedOn": "2024-03-29T14:35:56.000Z",
-          "wordCount": null,
-          "title": "Science vs. Fiction: Jonathan Nolan on the Promise and Perils of AI",
-          "imageUrl": null
         }
       ]
     },
@@ -1785,6 +1855,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ct0m6nPh2Xo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ct0m6nPh2Xo",
+          "publishedOn": "2024-06-27T17:48:33.000Z",
+          "wordCount": null,
+          "title": "JuliaHealth Meeting (Americas/Europe/Africa) – June 27th, 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PbDwi2e_els",
           "author": null,
@@ -2200,6 +2280,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Z47fljJVy6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z47fljJVy6M",
+          "publishedOn": "2024-06-27T14:00:23.000Z",
+          "wordCount": null,
+          "title": "What Makes A Great RPG Battle Arena?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=78x1gZnavFg",
           "author": null,
           "description": "",
@@ -2411,16 +2501,6 @@
           "publishedOn": "2024-04-26T23:38:26.000Z",
           "wordCount": null,
           "title": "Justice for Gemini #minecraft #gemini",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xd5PLYl4Q5Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xd5PLYl4Q5Q",
-          "publishedOn": "2024-03-29T15:00:17.000Z",
-          "wordCount": null,
-          "title": "AI Building Stuff in Minecraft",
           "imageUrl": null
         }
       ]
