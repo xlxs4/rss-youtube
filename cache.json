@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XH9GFp6jDq8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XH9GFp6jDq8",
+          "publishedOn": "2024-06-28T09:00:26.000Z",
+          "wordCount": null,
+          "title": "Smaller interacting kites-and-darts-type molecules",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ucjE8kTOpnY",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "CERN scientists discover new particle, with \"imaginary\" charge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OTw5y7waxFQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OTw5y7waxFQ",
-          "publishedOn": "2024-03-31T09:00:28.000Z",
-          "wordCount": null,
-          "title": "Do aggregating pentagons form a quasicrystal?",
-          "imageUrl": null
         }
       ]
     },
@@ -1353,6 +1353,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uHFFRoalkc8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uHFFRoalkc8",
+          "publishedOn": "2024-06-28T19:15:02.000Z",
+          "wordCount": null,
+          "title": "Neural Network Control in Collimator 2.0 & New Educational Videos!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=w1UsKanMatM",
           "author": null,
           "description": "",
@@ -1430,16 +1440,6 @@
           "publishedOn": "2024-04-05T12:00:25.000Z",
           "wordCount": null,
           "title": "AI/ML+Physics Part 5: Employing an Optimization Algorithm [Physics Informed Machine Learning]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oz6hIcWmAWU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oz6hIcWmAWU",
-          "publishedOn": "2024-03-31T12:00:41.000Z",
-          "wordCount": null,
-          "title": "The Future of Model Based Engineering: Collimator 2.0",
           "imageUrl": null
         }
       ]
@@ -1748,6 +1748,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=G3Zh-F6cqmg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G3Zh-F6cqmg",
+          "publishedOn": "2024-06-28T20:00:06.000Z",
+          "wordCount": null,
+          "title": "Epic Expansion: The Case for Inflationary Cosmology",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vvRkq_nzjzI",
           "author": null,
@@ -2248,16 +2258,6 @@
           "publishedOn": "2024-04-01T15:00:20.000Z",
           "wordCount": null,
           "title": "F-35 vertical take off is incredible",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BKm45Az02YE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BKm45Az02YE",
-          "publishedOn": "2024-03-30T14:00:09.000Z",
-          "wordCount": null,
-          "title": "The Insane Engineering of the Gameboy",
           "imageUrl": null
         }
       ]

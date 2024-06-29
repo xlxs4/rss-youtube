@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-06-28T00:05:05.661Z</updated>
+    <updated>2024-06-29T00:04:48.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Epic Expansion: The Case for Inflationary Cosmology]]></title>
+        <id>https://www.youtube.com/watch?v=G3Zh-F6cqmg</id>
+        <link href="https://www.youtube.com/watch?v=G3Zh-F6cqmg"/>
+        <updated>2024-06-28T20:00:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Network Control in Collimator 2.0 & New Educational Videos!!!]]></title>
+        <id>https://www.youtube.com/watch?v=uHFFRoalkc8</id>
+        <link href="https://www.youtube.com/watch?v=uHFFRoalkc8"/>
+        <updated>2024-06-28T19:15:02.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smaller interacting kites-and-darts-type molecules]]></title>
+        <id>https://www.youtube.com/watch?v=XH9GFp6jDq8</id>
+        <link href="https://www.youtube.com/watch?v=XH9GFp6jDq8"/>
+        <updated>2024-06-28T09:00:26.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrating John McLaughlin & Mahavishnu | Ragas Live Festival 2023]]></title>
         <id>https://www.youtube.com/watch?v=UXDFuQSB1AY</id>
@@ -2155,33 +2182,6 @@
         <updated>2024-04-01T03:23:54.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Model Based Engineering: Collimator 2.0]]></title>
-        <id>https://www.youtube.com/watch?v=oz6hIcWmAWU</id>
-        <link href="https://www.youtube.com/watch?v=oz6hIcWmAWU"/>
-        <updated>2024-03-31T12:00:41.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do aggregating pentagons form a quasicrystal?]]></title>
-        <id>https://www.youtube.com/watch?v=OTw5y7waxFQ</id>
-        <link href="https://www.youtube.com/watch?v=OTw5y7waxFQ"/>
-        <updated>2024-03-31T09:00:28.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Insane Engineering of the Gameboy]]></title>
-        <id>https://www.youtube.com/watch?v=BKm45Az02YE</id>
-        <link href="https://www.youtube.com/watch?v=BKm45Az02YE"/>
-        <updated>2024-03-30T14:00:09.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
