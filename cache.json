@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=15fpsopRyn8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=15fpsopRyn8",
+          "publishedOn": "2024-06-29T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Waves of two different frequencies crossing a larger regular square lattice",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XH9GFp6jDq8",
           "author": null,
           "description": "",
@@ -1110,16 +1120,6 @@
           "wordCount": null,
           "title": "Pairwise attracting vortices on the sphere",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_84Yv9dLcX4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_84Yv9dLcX4",
-          "publishedOn": "2024-04-01T09:00:24.000Z",
-          "wordCount": null,
-          "title": "CERN scientists discover new particle, with \"imaginary\" charge",
-          "imageUrl": null
         }
       ]
     },
@@ -1824,18 +1824,7 @@
       "title": "Artem Kirsanov",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=SmZmBKc7Lrs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SmZmBKc7Lrs",
-          "publishedOn": "2024-04-01T03:23:54.000Z",
-          "wordCount": null,
-          "title": "The Most Important Algorithm in Machine Learning",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Freya Holmér",
@@ -2030,6 +2019,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LklUVkMPl8g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LklUVkMPl8g",
+          "publishedOn": "2024-06-29T15:00:18.000Z",
+          "wordCount": null,
+          "title": "The Problem with Wind Energy",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rfcQDh9C5qM",
           "author": null,
