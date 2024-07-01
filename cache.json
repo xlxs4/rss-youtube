@@ -143,16 +143,6 @@
           "wordCount": null,
           "title": "Visualizing Attention, a Transformer's Heart | Chapter 6, Deep Learning",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wjZofJX0v4M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wjZofJX0v4M",
-          "publishedOn": "2024-04-01T19:13:57.000Z",
-          "wordCount": null,
-          "title": "But what is a GPT?  Visual intro to Transformers | Deep learning, chapter 5",
-          "imageUrl": null
         }
       ]
     },
@@ -221,6 +211,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BmLfzkOkJ6o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BmLfzkOkJ6o",
+          "publishedOn": "2024-06-30T09:00:15.000Z",
+          "wordCount": null,
+          "title": "Falling sticks",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=15fpsopRyn8",
           "author": null,
@@ -1110,16 +1110,6 @@
           "wordCount": null,
           "title": "[Flash warning] A planar wave crossing a gradient index lens at an angle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=myahHb5W64Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=myahHb5W64Y",
-          "publishedOn": "2024-04-02T09:00:38.000Z",
-          "wordCount": null,
-          "title": "Pairwise attracting vortices on the sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -1985,6 +1975,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCbHJVeS0ZIco7FTTqhvDg6g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NiR3j0WNTI0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NiR3j0WNTI0",
+          "publishedOn": "2024-06-30T21:00:21.000Z",
+          "wordCount": null,
+          "title": "How Our Cells (nearly) Perfected Making Nanobots",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kR7--yt3PRo",
           "author": null,
           "description": "",
@@ -2248,16 +2248,6 @@
           "wordCount": null,
           "title": "This is why the F-35 excels in battle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EXag4nsWYoU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EXag4nsWYoU",
-          "publishedOn": "2024-04-01T15:00:20.000Z",
-          "wordCount": null,
-          "title": "F-35 vertical take off is incredible",
-          "imageUrl": null
         }
       ]
     },
@@ -2409,6 +2399,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kKAue9DiHc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kKAue9DiHc0",
+          "publishedOn": "2024-06-30T12:00:43.000Z",
+          "wordCount": null,
+          "title": "*Next-door 10x Software Engineer* [FULL]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SQYNa7ZjuDQ",
           "author": null,
