@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-07-01T00:05:48.993Z</updated>
+    <updated>2024-07-02T00:05:11.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Let's Get Kraken! (With Pointy Hat & DnDShorts)]]></title>
+        <id>https://www.youtube.com/watch?v=qwf4290Kq00</id>
+        <link href="https://www.youtube.com/watch?v=qwf4290Kq00"/>
+        <updated>2024-07-01T17:00:07.000Z</updated>
+        <author>
+            <name>Runesmith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When waves crossing a square lattice have a larger phase than group velocity]]></title>
+        <id>https://www.youtube.com/watch?v=nAZZjju4ejY</id>
+        <link href="https://www.youtube.com/watch?v=nAZZjju4ejY"/>
+        <updated>2024-07-01T09:00:40.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Our Cells (nearly) Perfected Making Nanobots]]></title>
         <id>https://www.youtube.com/watch?v=NiR3j0WNTI0</id>
@@ -2144,42 +2162,6 @@
         <id>https://www.youtube.com/watch?v=4bvMkkDw5Wg</id>
         <link href="https://www.youtube.com/watch?v=4bvMkkDw5Wg"/>
         <updated>2024-04-03T15:00:04.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Flash warning] A planar wave crossing a gradient index lens at an angle]]></title>
-        <id>https://www.youtube.com/watch?v=vZ_pKzjFXvo</id>
-        <link href="https://www.youtube.com/watch?v=vZ_pKzjFXvo"/>
-        <updated>2024-04-03T09:00:42.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balatro's 'Cursed' Design Problem]]></title>
-        <id>https://www.youtube.com/watch?v=zk3S3o1qOHo</id>
-        <link href="https://www.youtube.com/watch?v=zk3S3o1qOHo"/>
-        <updated>2024-04-02T18:01:02.000Z</updated>
-        <author>
-            <name>Game Maker's Toolkit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Origin of D&D's Greatest Monsters]]></title>
-        <id>https://www.youtube.com/watch?v=kCwdT4vkQAo</id>
-        <link href="https://www.youtube.com/watch?v=kCwdT4vkQAo"/>
-        <updated>2024-04-02T16:00:06.000Z</updated>
-        <author>
-            <name>Runesmith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is why the F-35 excels in battle]]></title>
-        <id>https://www.youtube.com/watch?v=j1nJ-A0coHI</id>
-        <link href="https://www.youtube.com/watch?v=j1nJ-A0coHI"/>
-        <updated>2024-04-02T15:00:38.000Z</updated>
         <author>
             <name>Real Engineering</name>
         </author>
