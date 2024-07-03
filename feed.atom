@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-07-02T00:05:11.875Z</updated>
+    <updated>2024-07-03T00:05:09.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Falling triangles]]></title>
+        <id>https://www.youtube.com/watch?v=iNsrX_VVb7c</id>
+        <link href="https://www.youtube.com/watch?v=iNsrX_VVb7c"/>
+        <updated>2024-07-02T09:00:38.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let's Get Kraken! (With Pointy Hat & DnDShorts)]]></title>
         <id>https://www.youtube.com/watch?v=qwf4290Kq00</id>
@@ -2137,33 +2146,6 @@
         <updated>2024-04-04T14:00:09.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charged interacting pentagons]]></title>
-        <id>https://www.youtube.com/watch?v=3I6a7WEdPVo</id>
-        <link href="https://www.youtube.com/watch?v=3I6a7WEdPVo"/>
-        <updated>2024-04-04T09:00:05.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perception of Progression]]></title>
-        <id>https://www.youtube.com/watch?v=f9hoPTOSByU</id>
-        <link href="https://www.youtube.com/watch?v=f9hoPTOSByU"/>
-        <updated>2024-04-03T16:47:33.000Z</updated>
-        <author>
-            <name>Craig Perko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the F-35’s engine is better than the F-22’s]]></title>
-        <id>https://www.youtube.com/watch?v=4bvMkkDw5Wg</id>
-        <link href="https://www.youtube.com/watch?v=4bvMkkDw5Wg"/>
-        <updated>2024-04-03T15:00:04.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>

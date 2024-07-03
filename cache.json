@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iNsrX_VVb7c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iNsrX_VVb7c",
+          "publishedOn": "2024-07-02T09:00:38.000Z",
+          "wordCount": null,
+          "title": "Falling triangles",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nAZZjju4ejY",
           "author": null,
           "description": "",
@@ -1099,16 +1109,6 @@
           "publishedOn": "2024-04-05T09:00:42.000Z",
           "wordCount": null,
           "title": "Vortices on a sphere like octahedral symmetry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3I6a7WEdPVo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3I6a7WEdPVo",
-          "publishedOn": "2024-04-04T09:00:05.000Z",
-          "wordCount": null,
-          "title": "Charged interacting pentagons",
           "imageUrl": null
         }
       ]
@@ -2228,16 +2228,6 @@
           "wordCount": null,
           "title": "The F-35s Secret Weapon is Incredible",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4bvMkkDw5Wg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4bvMkkDw5Wg",
-          "publishedOn": "2024-04-03T15:00:04.000Z",
-          "wordCount": null,
-          "title": "How the F-35’s engine is better than the F-22’s",
-          "imageUrl": null
         }
       ]
     },
@@ -2497,16 +2487,6 @@
           "publishedOn": "2024-06-26T14:58:31.000Z",
           "wordCount": null,
           "title": "Writing by Choice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f9hoPTOSByU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f9hoPTOSByU",
-          "publishedOn": "2024-04-03T16:47:33.000Z",
-          "wordCount": null,
-          "title": "Perception of Progression",
           "imageUrl": null
         }
       ]
