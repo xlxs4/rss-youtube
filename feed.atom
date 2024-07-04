@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-07-03T00:05:09.965Z</updated>
+    <updated>2024-07-04T00:04:52.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is the Nature of Consciousness? | Podcast: The Joy of Why]]></title>
+        <id>https://www.youtube.com/watch?v=Jd0b3Mf5580</id>
+        <link href="https://www.youtube.com/watch?v=Jd0b3Mf5580"/>
+        <updated>2024-07-03T22:58:57.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The F-117’s weirdest feature]]></title>
+        <id>https://www.youtube.com/watch?v=Jb9Jx0KkJl8</id>
+        <link href="https://www.youtube.com/watch?v=Jb9Jx0KkJl8"/>
+        <updated>2024-07-03T15:00:27.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves from a point source crossing a percolation-style arrangement of obstacles]]></title>
+        <id>https://www.youtube.com/watch?v=alN6VPaUmx8</id>
+        <link href="https://www.youtube.com/watch?v=alN6VPaUmx8"/>
+        <updated>2024-07-03T09:00:02.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Physics Of Associative Memory]]></title>
+        <id>https://www.youtube.com/watch?v=1WPJdAW-sFo</id>
+        <link href="https://www.youtube.com/watch?v=1WPJdAW-sFo"/>
+        <updated>2024-07-03T04:44:07.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Falling triangles]]></title>
         <id>https://www.youtube.com/watch?v=iNsrX_VVb7c</id>
@@ -2110,42 +2146,6 @@
         <updated>2024-04-05T15:00:18.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI/ML+Physics Part 5: Employing an Optimization Algorithm [Physics Informed Machine Learning]]]></title>
-        <id>https://www.youtube.com/watch?v=T4iJ10TAIMg</id>
-        <link href="https://www.youtube.com/watch?v=T4iJ10TAIMg"/>
-        <updated>2024-04-05T12:00:25.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vortices on a sphere like octahedral symmetry]]></title>
-        <id>https://www.youtube.com/watch?v=mSctWP3HToI</id>
-        <link href="https://www.youtube.com/watch?v=mSctWP3HToI"/>
-        <updated>2024-04-05T09:00:42.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The F-35s Secret Weapon is Incredible]]></title>
-        <id>https://www.youtube.com/watch?v=WXfU18JizZM</id>
-        <link href="https://www.youtube.com/watch?v=WXfU18JizZM"/>
-        <updated>2024-04-04T15:00:26.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE Gene Determines How Many Fingers You Have #kurzgesagt #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=DRjmRNsPl1M</id>
-        <link href="https://www.youtube.com/watch?v=DRjmRNsPl1M"/>
-        <updated>2024-04-04T14:00:09.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>

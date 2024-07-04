@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Jd0b3Mf5580",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jd0b3Mf5580",
+          "publishedOn": "2024-07-03T22:58:57.000Z",
+          "wordCount": null,
+          "title": "What Is the Nature of Consciousness? | Podcast: The Joy of Why",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QctflSpmEjc",
           "author": null,
           "description": "",
@@ -211,6 +221,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=alN6VPaUmx8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=alN6VPaUmx8",
+          "publishedOn": "2024-07-03T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Waves from a point source crossing a percolation-style arrangement of obstacles",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iNsrX_VVb7c",
           "author": null,
@@ -1100,16 +1120,6 @@
           "wordCount": null,
           "title": "[Flash warning] Two planar waves crossing a gradient index lens",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mSctWP3HToI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mSctWP3HToI",
-          "publishedOn": "2024-04-05T09:00:42.000Z",
-          "wordCount": null,
-          "title": "Vortices on a sphere like octahedral symmetry",
-          "imageUrl": null
         }
       ]
     },
@@ -1324,16 +1334,6 @@
           "wordCount": null,
           "title": "Let's Cook a Galaxy #kurzgesagt #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DRjmRNsPl1M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DRjmRNsPl1M",
-          "publishedOn": "2024-04-04T14:00:09.000Z",
-          "wordCount": null,
-          "title": "ONE Gene Determines How Many Fingers You Have #kurzgesagt #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -1420,16 +1420,6 @@
           "publishedOn": "2024-04-12T12:00:53.000Z",
           "wordCount": null,
           "title": "Using sparse trajectory data to find Lagrangian Coherent Structures (LCS) in fluid flows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T4iJ10TAIMg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T4iJ10TAIMg",
-          "publishedOn": "2024-04-05T12:00:25.000Z",
-          "wordCount": null,
-          "title": "AI/ML+Physics Part 5: Employing an Optimization Algorithm [Physics Informed Machine Learning]",
           "imageUrl": null
         }
       ]
@@ -1814,7 +1804,18 @@
       "title": "Artem Kirsanov",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1WPJdAW-sFo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1WPJdAW-sFo",
+          "publishedOn": "2024-07-03T04:44:07.000Z",
+          "wordCount": null,
+          "title": "The Physics Of Associative Memory",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Freya Holmér",
@@ -2020,6 +2021,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Jb9Jx0KkJl8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jb9Jx0KkJl8",
+          "publishedOn": "2024-07-03T15:00:27.000Z",
+          "wordCount": null,
+          "title": "The F-117’s weirdest feature",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LklUVkMPl8g",
           "author": null,
           "description": "",
@@ -2217,16 +2228,6 @@
           "publishedOn": "2024-04-05T15:00:18.000Z",
           "wordCount": null,
           "title": "The F-35s Stealthy Radar is the key to its success",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WXfU18JizZM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WXfU18JizZM",
-          "publishedOn": "2024-04-04T15:00:26.000Z",
-          "wordCount": null,
-          "title": "The F-35s Secret Weapon is Incredible",
           "imageUrl": null
         }
       ]
