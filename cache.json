@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "What Makes for ‘Good’ Math? | JOW Podcast",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Gjbee3Bx_xs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Gjbee3Bx_xs",
-          "publishedOn": "2024-04-05T15:07:22.000Z",
-          "wordCount": null,
-          "title": "Predicting Eclipses: The Three-Body Problem",
-          "imageUrl": null
         }
       ]
     },
@@ -221,6 +211,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nmFZc5W3rbM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nmFZc5W3rbM",
+          "publishedOn": "2024-07-04T09:00:46.000Z",
+          "wordCount": null,
+          "title": "Falling squares",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=alN6VPaUmx8",
           "author": null,
@@ -1110,16 +1110,6 @@
           "wordCount": null,
           "title": "Bloopers15: This is not DNA",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aYvsBgyJgIE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aYvsBgyJgIE",
-          "publishedOn": "2024-04-06T09:00:01.000Z",
-          "wordCount": null,
-          "title": "[Flash warning] Two planar waves crossing a gradient index lens",
-          "imageUrl": null
         }
       ]
     },
@@ -1155,6 +1145,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=n2sn4kkkGQM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n2sn4kkkGQM",
+          "publishedOn": "2024-07-04T14:00:42.000Z",
+          "wordCount": null,
+          "title": "The Deadly Power of a Coin-Sized Black Hole #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GFLb5h2O2Ww",
           "author": null,
@@ -1787,16 +1787,6 @@
           "wordCount": null,
           "title": "Why a Forefather of AI Fears the Future",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gZZan4JMwk4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gZZan4JMwk4",
-          "publishedOn": "2024-04-05T20:00:06.000Z",
-          "wordCount": null,
-          "title": "AI and Quantum Computing: Glimpsing the Near Future",
-          "imageUrl": null
         }
       ]
     },
@@ -2021,6 +2011,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IjJXHGZ2yTA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IjJXHGZ2yTA",
+          "publishedOn": "2024-07-04T15:00:15.000Z",
+          "wordCount": null,
+          "title": "Why the F-117’s has Weird Exhausts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Jb9Jx0KkJl8",
           "author": null,
           "description": "",
@@ -2218,16 +2218,6 @@
           "publishedOn": "2024-04-13T18:45:31.000Z",
           "wordCount": null,
           "title": "How the Battle of Britain was Won",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dr-HlIR481I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dr-HlIR481I",
-          "publishedOn": "2024-04-05T15:00:18.000Z",
-          "wordCount": null,
-          "title": "The F-35s Stealthy Radar is the key to its success",
           "imageUrl": null
         }
       ]

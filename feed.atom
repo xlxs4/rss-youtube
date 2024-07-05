@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-07-04T00:04:52.089Z</updated>
+    <updated>2024-07-05T00:05:01.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why the F-117’s has Weird Exhausts]]></title>
+        <id>https://www.youtube.com/watch?v=IjJXHGZ2yTA</id>
+        <link href="https://www.youtube.com/watch?v=IjJXHGZ2yTA"/>
+        <updated>2024-07-04T15:00:15.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Deadly Power of a Coin-Sized Black Hole #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=n2sn4kkkGQM</id>
+        <link href="https://www.youtube.com/watch?v=n2sn4kkkGQM"/>
+        <updated>2024-07-04T14:00:42.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falling squares]]></title>
+        <id>https://www.youtube.com/watch?v=nmFZc5W3rbM</id>
+        <link href="https://www.youtube.com/watch?v=nmFZc5W3rbM"/>
+        <updated>2024-07-04T09:00:46.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is the Nature of Consciousness? | Podcast: The Joy of Why]]></title>
         <id>https://www.youtube.com/watch?v=Jd0b3Mf5580</id>
@@ -2110,42 +2137,6 @@
         <updated>2024-04-07T09:00:04.000Z</updated>
         <author>
             <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Flash warning] Two planar waves crossing a gradient index lens]]></title>
-        <id>https://www.youtube.com/watch?v=aYvsBgyJgIE</id>
-        <link href="https://www.youtube.com/watch?v=aYvsBgyJgIE"/>
-        <updated>2024-04-06T09:00:01.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI and Quantum Computing: Glimpsing the Near Future]]></title>
-        <id>https://www.youtube.com/watch?v=gZZan4JMwk4</id>
-        <link href="https://www.youtube.com/watch?v=gZZan4JMwk4"/>
-        <updated>2024-04-05T20:00:06.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predicting Eclipses: The Three-Body Problem]]></title>
-        <id>https://www.youtube.com/watch?v=Gjbee3Bx_xs</id>
-        <link href="https://www.youtube.com/watch?v=Gjbee3Bx_xs"/>
-        <updated>2024-04-05T15:07:22.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The F-35s Stealthy Radar is the key to its success]]></title>
-        <id>https://www.youtube.com/watch?v=Dr-HlIR481I</id>
-        <link href="https://www.youtube.com/watch?v=Dr-HlIR481I"/>
-        <updated>2024-04-05T15:00:18.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
