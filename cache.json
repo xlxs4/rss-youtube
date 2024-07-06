@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QhRmQ_ZX31Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QhRmQ_ZX31Y",
+          "publishedOn": "2024-07-05T09:00:32.000Z",
+          "wordCount": null,
+          "title": "Waves crossing a less dense percolation-style arrangement of obstacles",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nmFZc5W3rbM",
           "author": null,
           "description": "",
@@ -1099,16 +1109,6 @@
           "publishedOn": "2024-04-08T09:00:09.000Z",
           "wordCount": null,
           "title": "Vortices on a sphere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AWKJoWO0w2A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AWKJoWO0w2A",
-          "publishedOn": "2024-04-07T09:00:04.000Z",
-          "wordCount": null,
-          "title": "Bloopers15: This is not DNA",
           "imageUrl": null
         }
       ]
@@ -2010,6 +2010,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KB4mH03feN4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KB4mH03feN4",
+          "publishedOn": "2024-07-05T15:00:17.000Z",
+          "wordCount": null,
+          "title": "How the F-117s Weapons Work",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IjJXHGZ2yTA",
           "author": null,
