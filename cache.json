@@ -133,16 +133,6 @@
           "wordCount": null,
           "title": "How word vectors encode meaning",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eMlx5fFNoYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eMlx5fFNoYc",
-          "publishedOn": "2024-04-07T12:53:54.000Z",
-          "wordCount": null,
-          "title": "Visualizing Attention, a Transformer's Heart | Chapter 6, Deep Learning",
-          "imageUrl": null
         }
       ]
     },
@@ -211,6 +201,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Wb5BKCpZxKc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Wb5BKCpZxKc",
+          "publishedOn": "2024-07-06T09:00:21.000Z",
+          "wordCount": null,
+          "title": "Falling pentagons pretending to be bestagons",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QhRmQ_ZX31Y",
           "author": null,
@@ -1099,16 +1099,6 @@
           "publishedOn": "2024-04-09T09:00:22.000Z",
           "wordCount": null,
           "title": "Viewing two light sources through a gradient index lens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fi3bAPb_GZM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Fi3bAPb_GZM",
-          "publishedOn": "2024-04-08T09:00:09.000Z",
-          "wordCount": null,
-          "title": "Vortices on a sphere",
           "imageUrl": null
         }
       ]
@@ -2010,6 +2000,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=G5uX1H3lyyI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G5uX1H3lyyI",
+          "publishedOn": "2024-07-06T15:00:13.000Z",
+          "wordCount": null,
+          "title": "How the F-117 was shot down",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KB4mH03feN4",
           "author": null,
