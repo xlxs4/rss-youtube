@@ -202,6 +202,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mFk17wpUSsQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mFk17wpUSsQ",
+          "publishedOn": "2024-07-07T09:00:40.000Z",
+          "wordCount": null,
+          "title": "Almost a branched flow: Waves crossing a finer percolation-style arrangement",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Wb5BKCpZxKc",
           "author": null,
           "description": "",
@@ -1089,16 +1099,6 @@
           "publishedOn": "2024-04-10T09:00:08.000Z",
           "wordCount": null,
           "title": "Bloopers 16: DNA or TIE fighters?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KB_Roqs38F8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KB_Roqs38F8",
-          "publishedOn": "2024-04-09T09:00:22.000Z",
-          "wordCount": null,
-          "title": "Viewing two light sources through a gradient index lens",
           "imageUrl": null
         }
       ]
@@ -2370,6 +2370,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "siteUrl": "https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SXM728bzYTE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SXM728bzYTE",
+          "publishedOn": "2024-07-07T15:00:32.000Z",
+          "wordCount": null,
+          "title": "Interview with Product Manager in 2024 [Corporate]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kKAue9DiHc0",
           "author": null,
