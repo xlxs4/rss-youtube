@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-07-09T00:04:56.347Z</updated>
+    <updated>2024-07-10T00:05:35.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Triple pendulum chaos]]></title>
+        <id>https://www.youtube.com/watch?v=-36yQRXGGh0</id>
+        <link href="https://www.youtube.com/watch?v=-36yQRXGGh0"/>
+        <updated>2024-07-09T22:35:09.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Human Made Mark]]></title>
+        <id>https://www.youtube.com/watch?v=qjPAWy_2FL0</id>
+        <link href="https://www.youtube.com/watch?v=qjPAWy_2FL0"/>
+        <updated>2024-07-09T10:40:54.000Z</updated>
+        <author>
+            <name>No Boilerplate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves branching through Poisson disc obstacles]]></title>
+        <id>https://www.youtube.com/watch?v=JGOgaCcGhTY</id>
+        <link href="https://www.youtube.com/watch?v=JGOgaCcGhTY"/>
+        <updated>2024-07-09T09:00:14.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[*Every Product Manager in a Corporate*]]></title>
         <id>https://www.youtube.com/watch?v=8pD8BmvWAVg</id>
@@ -2146,24 +2173,6 @@
         <updated>2024-04-11T14:00:23.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vortices in the compressible Euler equation on the sphere with Coriolis force]]></title>
-        <id>https://www.youtube.com/watch?v=__b55UnCDRI</id>
-        <link href="https://www.youtube.com/watch?v=__b55UnCDRI"/>
-        <updated>2024-04-11T09:00:23.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Werner Herzog finds Joaquin Phoenix Upside Down in a Wrecked Car and advises: “Man, Relax”]]></title>
-        <id>https://www.youtube.com/watch?v=WUdXCs0RvZE</id>
-        <link href="https://www.youtube.com/watch?v=WUdXCs0RvZE"/>
-        <updated>2024-04-10T12:18:42.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>

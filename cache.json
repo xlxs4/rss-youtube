@@ -154,6 +154,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-36yQRXGGh0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-36yQRXGGh0",
+          "publishedOn": "2024-07-09T22:35:09.000Z",
+          "wordCount": null,
+          "title": "Triple pendulum chaos",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qakB998grrc",
           "author": null,
           "description": "",
@@ -190,6 +200,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JGOgaCcGhTY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JGOgaCcGhTY",
+          "publishedOn": "2024-07-09T09:00:14.000Z",
+          "wordCount": null,
+          "title": "Waves branching through Poisson disc obstacles",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=stcfh5g5kEQ",
           "author": null,
@@ -1079,16 +1099,6 @@
           "wordCount": null,
           "title": "Filming a moving source with a gradient index lens",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=__b55UnCDRI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=__b55UnCDRI",
-          "publishedOn": "2024-04-11T09:00:23.000Z",
-          "wordCount": null,
-          "title": "Vortices in the compressible Euler equation on the sphere with Coriolis force",
-          "imageUrl": null
         }
       ]
     },
@@ -1698,16 +1708,6 @@
           "publishedOn": "2024-04-15T14:27:41.000Z",
           "wordCount": null,
           "title": "S4AD: Instruments Of The Black Gooey Universe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WUdXCs0RvZE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WUdXCs0RvZE",
-          "publishedOn": "2024-04-10T12:18:42.000Z",
-          "wordCount": null,
-          "title": "Werner Herzog finds Joaquin Phoenix Upside Down in a Wrecked Car and advises: “Man, Relax”",
           "imageUrl": null
         }
       ]
@@ -2615,6 +2615,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA",
       "siteUrl": "https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qjPAWy_2FL0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qjPAWy_2FL0",
+          "publishedOn": "2024-07-09T10:40:54.000Z",
+          "wordCount": null,
+          "title": "The Human Made Mark",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Kdpfhj3VM04",
           "author": null,
