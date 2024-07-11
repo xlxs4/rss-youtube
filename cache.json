@@ -123,16 +123,6 @@
           "wordCount": null,
           "title": "Temperature in LLMs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FJtFZwbvkI4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FJtFZwbvkI4",
-          "publishedOn": "2024-04-11T16:23:26.000Z",
-          "wordCount": null,
-          "title": "How word vectors encode meaning",
-          "imageUrl": null
         }
       ]
     },
@@ -200,6 +190,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UfSW2LOqbaI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UfSW2LOqbaI",
+          "publishedOn": "2024-07-10T09:00:33.000Z",
+          "wordCount": null,
+          "title": "Coagulating falling squares",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JGOgaCcGhTY",
           "author": null,
@@ -1089,16 +1089,6 @@
           "wordCount": null,
           "title": "Welcome to Gattaca: This starts looking more like DNA",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=idB6qn802lM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=idB6qn802lM",
-          "publishedOn": "2024-04-12T09:00:28.000Z",
-          "wordCount": null,
-          "title": "Filming a moving source with a gradient index lens",
-          "imageUrl": null
         }
       ]
     },
@@ -1313,16 +1303,6 @@
           "wordCount": null,
           "title": "There Are Thousands of Alien Empires in The Milky Way",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LFfFlYQfXh0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LFfFlYQfXh0",
-          "publishedOn": "2024-04-11T14:00:23.000Z",
-          "wordCount": null,
-          "title": "Let's Cook a Galaxy #kurzgesagt #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -1409,16 +1389,6 @@
           "publishedOn": "2024-04-26T12:00:13.000Z",
           "wordCount": null,
           "title": "AI/ML+Physics: Recap and Summary [Physics Informed Machine Learning]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wHg72Tnp1Ek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wHg72Tnp1Ek",
-          "publishedOn": "2024-04-12T12:00:53.000Z",
-          "wordCount": null,
-          "title": "Using sparse trajectory data to find Lagrangian Coherent Structures (LCS) in fluid flows",
           "imageUrl": null
         }
       ]
@@ -1825,6 +1795,86 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OQnHyHgs0Qo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OQnHyHgs0Qo",
+          "publishedOn": "2024-07-10T17:15:15.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | REPL Main Stage | Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-2OkeCpRB-Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-2OkeCpRB-Y",
+          "publishedOn": "2024-07-10T16:15:33.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | While Loop Room | Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HCSdOMnzcnY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HCSdOMnzcnY",
+          "publishedOn": "2024-07-10T16:12:37.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | For Loop Room | Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6ES-yZke5DQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6ES-yZke5DQ",
+          "publishedOn": "2024-07-10T16:12:32.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | If Room | Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1c4TTosBzzY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1c4TTosBzzY",
+          "publishedOn": "2024-07-10T16:11:47.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | Method Room | Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=V7FWl4YumcA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V7FWl4YumcA",
+          "publishedOn": "2024-07-10T16:11:38.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | Function Room | Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LNfSeco0q04",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LNfSeco0q04",
+          "publishedOn": "2024-07-10T16:10:37.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | Else Room | Day 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Bo3k4oD1Avg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bo3k4oD1Avg",
+          "publishedOn": "2024-07-03T06:06:18.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | REPL Main Stage | Day 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ct0m6nPh2Xo",
           "author": null,
           "description": "",
@@ -1999,6 +2049,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EWtrzytNOTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EWtrzytNOTk",
+          "publishedOn": "2024-07-10T19:47:55.000Z",
+          "wordCount": null,
+          "title": "This Clock Helped Win the Battle of Britain",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=G5uX1H3lyyI",
           "author": null,

@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlxs4.github.io/rss-youtube/index.html</id>
     <title>A curated list of longer ramblings</title>
-    <updated>2024-07-10T00:05:35.040Z</updated>
+    <updated>2024-07-11T00:05:38.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://xlxs4.github.io/rss-youtube/index.html"/>
     <link rel="self" href="https://xlxs4.github.io/rss-youtube/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This Clock Helped Win the Battle of Britain]]></title>
+        <id>https://www.youtube.com/watch?v=EWtrzytNOTk</id>
+        <link href="https://www.youtube.com/watch?v=EWtrzytNOTk"/>
+        <updated>2024-07-10T19:47:55.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2024 | REPL Main Stage | Day 1]]></title>
+        <id>https://www.youtube.com/watch?v=OQnHyHgs0Qo</id>
+        <link href="https://www.youtube.com/watch?v=OQnHyHgs0Qo"/>
+        <updated>2024-07-10T17:15:15.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2024 | While Loop Room | Day 1]]></title>
+        <id>https://www.youtube.com/watch?v=-2OkeCpRB-Y</id>
+        <link href="https://www.youtube.com/watch?v=-2OkeCpRB-Y"/>
+        <updated>2024-07-10T16:15:33.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2024 | For Loop Room | Day 1]]></title>
+        <id>https://www.youtube.com/watch?v=HCSdOMnzcnY</id>
+        <link href="https://www.youtube.com/watch?v=HCSdOMnzcnY"/>
+        <updated>2024-07-10T16:12:37.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2024 | If Room | Day 1]]></title>
+        <id>https://www.youtube.com/watch?v=6ES-yZke5DQ</id>
+        <link href="https://www.youtube.com/watch?v=6ES-yZke5DQ"/>
+        <updated>2024-07-10T16:12:32.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2024 | Method Room | Day 1]]></title>
+        <id>https://www.youtube.com/watch?v=1c4TTosBzzY</id>
+        <link href="https://www.youtube.com/watch?v=1c4TTosBzzY"/>
+        <updated>2024-07-10T16:11:47.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2024 | Function Room | Day 1]]></title>
+        <id>https://www.youtube.com/watch?v=V7FWl4YumcA</id>
+        <link href="https://www.youtube.com/watch?v=V7FWl4YumcA"/>
+        <updated>2024-07-10T16:11:38.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2024 | Else Room | Day 1]]></title>
+        <id>https://www.youtube.com/watch?v=LNfSeco0q04</id>
+        <link href="https://www.youtube.com/watch?v=LNfSeco0q04"/>
+        <updated>2024-07-10T16:10:37.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coagulating falling squares]]></title>
+        <id>https://www.youtube.com/watch?v=UfSW2LOqbaI</id>
+        <link href="https://www.youtube.com/watch?v=UfSW2LOqbaI"/>
+        <updated>2024-07-10T09:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Triple pendulum chaos]]></title>
         <id>https://www.youtube.com/watch?v=-36yQRXGGh0</id>
@@ -175,6 +256,15 @@
         <updated>2024-07-03T09:00:02.000Z</updated>
         <author>
             <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuliaCon 2024 | REPL Main Stage | Day 2]]></title>
+        <id>https://www.youtube.com/watch?v=Bo3k4oD1Avg</id>
+        <link href="https://www.youtube.com/watch?v=Bo3k4oD1Avg"/>
+        <updated>2024-07-03T06:06:18.000Z</updated>
+        <author>
+            <name>The Julia Programming Language</name>
         </author>
     </entry>
     <entry>
@@ -2137,42 +2227,6 @@
         <updated>2024-04-12T16:21:14.000Z</updated>
         <author>
             <name>Morphocular</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using sparse trajectory data to find Lagrangian Coherent Structures (LCS) in fluid flows]]></title>
-        <id>https://www.youtube.com/watch?v=wHg72Tnp1Ek</id>
-        <link href="https://www.youtube.com/watch?v=wHg72Tnp1Ek"/>
-        <updated>2024-04-12T12:00:53.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filming a moving source with a gradient index lens]]></title>
-        <id>https://www.youtube.com/watch?v=idB6qn802lM</id>
-        <link href="https://www.youtube.com/watch?v=idB6qn802lM"/>
-        <updated>2024-04-12T09:00:28.000Z</updated>
-        <author>
-            <name>Nils Berglund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How word vectors encode meaning]]></title>
-        <id>https://www.youtube.com/watch?v=FJtFZwbvkI4</id>
-        <link href="https://www.youtube.com/watch?v=FJtFZwbvkI4"/>
-        <updated>2024-04-11T16:23:26.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Cook a Galaxy #kurzgesagt #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=LFfFlYQfXh0</id>
-        <link href="https://www.youtube.com/watch?v=LFfFlYQfXh0"/>
-        <updated>2024-04-11T14:00:23.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
