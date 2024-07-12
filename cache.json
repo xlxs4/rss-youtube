@@ -191,6 +191,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CcyOASVJh5Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CcyOASVJh5Y",
+          "publishedOn": "2024-07-11T09:00:09.000Z",
+          "wordCount": null,
+          "title": "Waves escaping a ring of obstacles: Hex grid",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UfSW2LOqbaI",
           "author": null,
           "description": "",
@@ -1079,16 +1089,6 @@
           "wordCount": null,
           "title": "Vortex dynamics on the sphere in a strong Coriolis force",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PP9G34HyoxE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PP9G34HyoxE",
-          "publishedOn": "2024-04-13T09:00:26.000Z",
-          "wordCount": null,
-          "title": "Welcome to Gattaca: This starts looking more like DNA",
-          "imageUrl": null
         }
       ]
     },
@@ -1096,34 +1096,23 @@
       "title": "Association for Mathematical Research",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
       "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=BULUvQBUufc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BULUvQBUufc",
-          "publishedOn": "2024-04-12T19:24:55.000Z",
-          "wordCount": null,
-          "title": "AMR First General Members meeting - 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zfprPRMw5fs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zfprPRMw5fs",
-          "publishedOn": "2024-04-12T18:05:48.000Z",
-          "wordCount": null,
-          "title": "AMR-RMA Lecture, Anton Zorich   \"Random square-tiled surfaces and random multicurves in large genus\"",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kurzgesagt – In a Nutshell",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=92Y7SCDgCLg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=92Y7SCDgCLg",
+          "publishedOn": "2024-07-11T14:00:13.000Z",
+          "wordCount": null,
+          "title": "Can We Stop the Extinction? #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=n2sn4kkkGQM",
           "author": null,
@@ -1795,6 +1784,46 @@
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZKt0tiG5ajw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZKt0tiG5ajw",
+          "publishedOn": "2024-07-11T15:49:17.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | For Loop Room | Day 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PzgFzorRtoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PzgFzorRtoo",
+          "publishedOn": "2024-07-11T15:47:55.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | While Loop Room | Day 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=v0RPD4eSzVE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v0RPD4eSzVE",
+          "publishedOn": "2024-07-11T15:46:38.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | Function Room | Day 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gbtTJQFVijM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gbtTJQFVijM",
+          "publishedOn": "2024-07-11T15:45:15.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | Method Room | Day 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OQnHyHgs0Qo",
           "author": null,
           "description": "",
@@ -2356,6 +2385,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCyvj4gSHxaJlZGISiqtwJ7A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0EbUwXx7Kxg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0EbUwXx7Kxg",
+          "publishedOn": "2024-07-11T16:03:29.000Z",
+          "wordCount": null,
+          "title": "SCHiM - Physical Edition Announcement | Pre-Order Now!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fv0kjLgkYe0",
           "author": null,
           "description": "",
@@ -2740,16 +2779,6 @@
           "publishedOn": "2024-04-13T23:54:45.000Z",
           "wordCount": null,
           "title": "How to Find the Partner Gear For Any Shaped Given Gear",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hYK3vwIDSZA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hYK3vwIDSZA",
-          "publishedOn": "2024-04-12T16:21:14.000Z",
-          "wordCount": null,
-          "title": "I Get Interrogated For Reaching 100,000 Subscribers",
           "imageUrl": null
         }
       ]
