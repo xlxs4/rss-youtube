@@ -191,6 +191,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gi--jaS6FzU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gi--jaS6FzU",
+          "publishedOn": "2024-07-12T09:00:40.000Z",
+          "wordCount": null,
+          "title": "Coagulating falling hexagons",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CcyOASVJh5Y",
           "author": null,
           "description": "",
@@ -1079,16 +1089,6 @@
           "wordCount": null,
           "title": "3D representation of a gradient index lens",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IFZiRrdmF-E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IFZiRrdmF-E",
-          "publishedOn": "2024-04-14T09:00:13.000Z",
-          "wordCount": null,
-          "title": "Vortex dynamics on the sphere in a strong Coriolis force",
-          "imageUrl": null
         }
       ]
     },
@@ -1677,6 +1677,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CQ-4-MWa7Xw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CQ-4-MWa7Xw",
+          "publishedOn": "2024-07-12T20:00:06.000Z",
+          "wordCount": null,
+          "title": "Cosmology in Crisis? Confronting the Hubble Tension",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G3Zh-F6cqmg",
           "author": null,
           "description": "",
@@ -1783,6 +1793,76 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9IuUwwE2xdjQUT_LMLONoA",
       "siteUrl": "https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=t6st0vo0hh4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t6st0vo0hh4",
+          "publishedOn": "2024-07-12T17:11:34.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | REPL Main Stage | Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Zd33ePxEavc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zd33ePxEavc",
+          "publishedOn": "2024-07-12T15:52:21.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | If Room | Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qru5G5Yp77E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qru5G5Yp77E",
+          "publishedOn": "2024-07-12T15:50:01.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | Function Room | Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IgFF9JNU9cM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IgFF9JNU9cM",
+          "publishedOn": "2024-07-12T15:49:26.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | While Loop Room | Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wqkAz45AdXI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wqkAz45AdXI",
+          "publishedOn": "2024-07-12T15:48:53.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | Else Room | Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6Te9rThZaa4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6Te9rThZaa4",
+          "publishedOn": "2024-07-12T15:48:10.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | Method Room | Day 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=f7CLxthbZes",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f7CLxthbZes",
+          "publishedOn": "2024-07-12T15:46:08.000Z",
+          "wordCount": null,
+          "title": "JuliaCon 2024 | For Loop Room | Day 3",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZKt0tiG5ajw",
           "author": null,
@@ -2297,26 +2377,6 @@
           "wordCount": null,
           "title": "Why the Spitfire had an Elliptical Wing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y9U8CyBD1wQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y9U8CyBD1wQ",
-          "publishedOn": "2024-04-13T19:13:20.000Z",
-          "wordCount": null,
-          "title": "The Spitfire is an Icon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U0u_QyurfXA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U0u_QyurfXA",
-          "publishedOn": "2024-04-13T18:45:31.000Z",
-          "wordCount": null,
-          "title": "How the Battle of Britain was Won",
-          "imageUrl": null
         }
       ]
     },
@@ -2365,16 +2425,6 @@
           "publishedOn": "2024-05-01T00:00:16.000Z",
           "wordCount": null,
           "title": "Why Do Boss Fights Have Phases?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F1RUOphHig4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F1RUOphHig4",
-          "publishedOn": "2024-04-13T15:00:22.000Z",
-          "wordCount": null,
-          "title": "How Can Games Make Invincibility Fun?",
           "imageUrl": null
         }
       ]
@@ -2770,18 +2820,7 @@
       "title": "Morphocular",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7Zwf4X_OQ-TEnou0zdyRA",
       "siteUrl": "https://www.youtube.com/channel/UCu7Zwf4X_OQ-TEnou0zdyRA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=eG-z-791_ak",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eG-z-791_ak",
-          "publishedOn": "2024-04-13T23:54:45.000Z",
-          "wordCount": null,
-          "title": "How to Find the Partner Gear For Any Shaped Given Gear",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Low Byte Productions",
